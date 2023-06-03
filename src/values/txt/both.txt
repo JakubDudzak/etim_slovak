@@ -1,0 +1,3975 @@
+Thread holding___Držanie vlákna
+Desoldering iron___Odspájkovacia žehlička
+Cartridge with dispense needle___Kazeta s dávkovacou ihlou
+Dial___Číselník
+RJ45 8(8)___RJ45 8(8)
+RJ45 8(4)___RJ45 8(4)
+RJ11 6(4)___RJ11 6(4)
+Continuous___Kontinuálne
+4-5___4-5
+F3000___F3000
+With rail___S koľajnicou
+Universal___Univerzálny
+Inner lying___Vnútorné ležiace
+Spanned___Rozpätie
+Cover one-sided bevelled___Kryt jednostranne skosený
+Cover double-sided bevelled___Kryt obojstranne skosený
+Angular___Uhlový
+Moulded hood___Tvarovaný kryt
+Structured___Štruktúrovaný
+Centronics___Centronics
+NH00___NH00
+1-pole___1-pólový
+3___3
+4___4
+Surface mounting___Povrchová montáž
+Aluminium___Hliník
+Asymmetric___Asymetrický
+B___B
+B15d___B15d
+B22d___B22d
+Basic element___Základný prvok
+Concrete___Betón
+Blue___Modrá
+Blind___Slepé
+Bronze___Bronzový
+Brown___Hnedá
+C___C
+Capacitive___Kapacitný
+Complete___Kompletné
+D01___D01
+D02___D02
+D03___D03
+Direct___Priamy
+Turn button___Tlačidlo otočenia
+3-fold___3-násobné
+E10___E10
+E14___E14
+E27___E27
+E40___E40
+Electronic___Elektronické
+1-fold___1-násobný
+Fa4___Fa4
+Flange___Príruba
+Flood___Zaplavenie
+G12___G12
+G4___G4
+G53___G53
+Galvanized, yellow chromium plated___Pozinkované, žltochrómované
+Anodised___Eloxované
+Lacquered___Lakované
+Screwed___Skrutkované
+Closed___Uzavreté
+Cast iron___Liatina
+Plain___Hladké
+Gold___Zlatá
+Green/yellow___Zelená/žltá
+GU5.3___GU5.3
+GX16d___GX16d
+GX5.3___GX5.3
+GY6.35___GY6.35
+GZ4___GZ4
+Clear___Priehľadné
+Hollow wall___Dutá stena
+Horizontal and vertical___Horizontálne a vertikálne
+Wood___Drevo
+I-profile___I-profil
+Iron___Železo
+Built-in___Zabudované
+Inductive___Indukčné
+Cable___Kábel
+Clamp___Svorka
+Copper___Meď
+Plastic___Plastové
+Plastic-coated___Potiahnuté plastom
+L___L
+Lamella___Lamely
+Light___Svetlo
+Lead___Olovo
+Normally open contact___Normálne otvorený kontakt
+Matt___Matt
+Mechanical___Mechanický
+Multiple___Viacnásobný
+Brass___Mosadz
+Open___Otvorené
+Ceiling bracket___Stropná konzola
+Other___Iné
+Parallel___Paralelné
+Polyethylene (PE)___Polyetylén (PE)
+Pin___Kolík
+PG12___PG12
+Steel plate___Oceľový plech
+Countersunk head___Zápustná hlava
+Porcelain___Porcelán
+Polyvinyl chloride (PVC)___Polyvinylchlorid (PVC)
+Straight___Priamy
+Ring___Krúžok
+Stainless steel___Nerezová oceľ
+Round___Okrúhly
+R7s___R7s
+Rubber___Guma
+RX7s___RX7s
+RX7s-24___RX7s-24
+Switch___Prepínač
+Screw___Skrutka
+Light signalling unit___Svetelná signalizačná jednotka
+Key___Kľúč
+Fast (F)___Rýchla (F)
+Mirror___Zrkadlo
+Spot___Bodové
+Steel___Oceľ
+Symmetric___Symetrické
+Telephone___Telefón
+Time-lag___Časový posun
+Transparent___Transparentné
+Two-part___Dvojdielna
+2-fold___Dvojnásobný
+Rigid___Pevný
+Breaker contact___Kontakt prerušovača
+Chromium-plated___Chrómovaný
+Control light___Kontrolné svetlo
+Nickel-plated___Poniklované
+Galvanized___Pozinkované
+Countersunk___Zápustná hlavica
+Quadrangular___Štvorhranný
+4-fold___Štvornásobný
+Fork___Vidlica
+Wall console___Nástenná konzola
+Duct installation___Inštalácia kanála
+Rocker___Rocker
+Change-over contact___Prepínací kontakt
+White___Biela
+Hexagon___Šesťhran
+Wall bracket___Nástenná konzola
+Silver___Strieborný
+Black___Čierna
+Colour___Farba
+Ethernet___Ethernet
+DIN___DIN
+Fixed___Pevný
+IEC___IEC
+Twinax___Twinax
+Centre___Stred
+Cross (X)___Kríž (X)
+Ceiling___Strop
+Coupler___Spojka
+Plug___Zástrčka
+Bus___Zbernica
+Glass___Sklo
+Rectangular___Obdĺžniková
+Chain___Reťaz
+Single-sided___Jednostranná
+Double-sided___Obojstranný
+DII___DII
+DIII___DIII
+DIV___DIV
+DV___DV
+Curved___Zakrivené
+NDZ___NDZ
+Loose___Voľné
+With film hinge___S filmovým závesom
+Slotted___Štrbinové
+Red___Červená
+Yellow___Žltá
+Green___Zelená
+Orange___Oranžová
+Clip___Klip
+Wall socket___Nástenná zásuvka
+Pull cord___Ťahacia šnúra
+Incandescent lamp___Žiarovka
+Modular___Modulárna
+DIN rail___DIN lišta
+Manual___Manuálne
+Automatic___Automatický
+Contact less___Menej kontaktov
+Spring-rod___Pružinová tyč
+K___K
+Bimetal___Bimetal
+Lengthwise___Pozdĺžne
+Turn/push button___Otočné/stlačené tlačidlo
+Potential equalization socket___Zásuvka na vyrovnávanie potenciálu
+Sendzimir galvanized___Sendzimir pozinkovaný
+Hot dip galvanized___Žiarovo pozinkované
+Natural colour___Prírodná farba
+Pink___Ružová
+Red-brown___Červeno-hnedá
+Sliding knob___Posuvný gombík
+ADo___ADo
+ST___ST
+BNC___BNC
+GU4___GU4
+GY4___GY4
+BA15d___BA15d
+Grey___Sivá
+Light grey___Svetlosivá
+Drop___Drop
+Reflector___Reflektor
+Beige___Béžová
+Mushroom___Hríbový
+Ellipsoid___Elipsoid
+Continuously galvanized___Priebežne pozinkovaný
+Platinum___Platinový
+Chrome___Chróm
+Stainless steel___Nerezová oceľ
+Titanium___Titán
+Medium time-lag___Stredné časové oneskorenie
+Acrylic glass___Akrylové sklo
+Gilt___Pozlátené
+Anthracite___Antracit
+Single rocker___Jednoduchá kolíska
+Single push button___Jedno tlačidlo
+Infrared receiver___Infračervený prijímač
+Central cover plate___Centrálna krycia doska
+Aluminium die-cast___Hliníkový tlakový odliatok
+Opal___Opál
+Electronic ballast standard___Štandardný elektronický predradník
+F___F
+Angle___Uholník
+GX24d-2___GX24d-2
+GX24d-3___GX24d-3
+G23___G23
+2G11___2G11
+2G10___2G10
+2G7___2G7
+Case___Puzdro
+G24d-1___G24d-1
+G24d-2___G24d-2
+G24d-3___G24d-3
+External___Externý
+Crystal___Kryštál
+Tubular shape___Rúrkovitý tvar
+PG12-2___PG12-2
+BA9s___BA9s
+P13.5s___P13.5s
+S14s___S14s
+S14d___S14d
+Blind cap___Slepý uzáver
+Loudspeaker connection___Pripojenie reproduktora
+TAE___TAE
+D-Sub 25-pole___D-Sub 25-pólový
+BNC/TNC___BNC/TNC
+Socket outlet___Zásuvka
+Square___Štvorhranná
+Flush mounted (plaster)___Montáž pod omietku (na omietku)
+Surface mounted (plaster)___Povrchová montáž (omietka)
+Alternating current___Striedavý prúd
+Direct/alternating current___Jednosmerný/striedavý prúd
+Light metal___Ľahký kov
+Battery___Batéria
+Electromechanical___Elektromechanické
+Aluminium/plastic___Hliník/plast
+Red cast iron___Červená liatina
+Oval___Oválny
+Off switch___Vypínač
+Reverser___Spätný chod
+Acoustic___Akustický
+3P+N+E___3P+N+E
+Polyamide (PA)___Polyamid (PA)
+Thermoplastic___Termoplast
+Bottom mounting___Spodná montáž
+Push button___Tlačidlo
+Cable screw gland___Skrutkovacia vývodka kábla
+Angled___Šikmý
+Device plug___Zástrčka zariadenia
+Switch/push button___Spínač/tlačidlo
+Indication plate___Indikačná doska
+D___D
+Plug-in connection___Zásuvné pripojenie
+Screw connection___Skrutkové pripojenie
+Earth leakage switch___Spínač úniku do zeme
+Plug-in lamp holder___Zásuvný držiak svietidla
+Toggle___Prepínač
+Infrared___Infračervené svetlo
+Single___Jednoduchý
+Phillips___Phillips
+Optic___Optika
+Pointed___Špicatý
+LED___LED
+LCD___LCD
+Sheet metal___Kovový plech
+Bag___Vrecko
+Toothed___Ozubené
+Sliding joint___Posuvný kĺb
+Installation tube___Inštalačná rúrka
+Sub-floor duct___Podlahový kanál
+Hydraulic___Hydraulický
+Accu___Accu
+Sleeve___Objímka
+Natural stone___Prírodný kameň
+Zinc die-cast___Zinkový tlakový odliatok
+Empty___Prázdny
+LSA Plus___LSA Plus
+230 V___230 V
+AC___AC
+DC___DC
+1 make contact (NO)___1 kontakt (NO)
+2 make contacts (NO)___2 zapínacie kontakty (NO)
+1 change-over contact___1 prepínací kontakt
+2 change-over contacts___2 prepínacie kontakty
+Built-in light sensor___Zabudovaný svetelný senzor
+Separate light sensor___Samostatný svetelný senzor
+Separate light sensor/cable___Samostatný svetelný senzor/kábel
+Socket outlet for wall duct, 2-fold___Zásuvka pre nástenný kanál, 2-násobná
+Socket outlet for wall duct, 3-fold___Zásuvka pre stenový kanál, 3-násobná
+Built-in device with framework___Zabudované zariadenie s rámom
+Devices with central plate___Zariadenia s centrálnou doskou
+60x60 mm___60x60 mm
+4 make contacts (NO)___4 kontakty (NO)
+2 breaker contacts (NC)___2 rozpojovacie kontakty (NC)
+Motor protective circuit-breaker___Ochranný istič motora
+Day___Deň
+Week___Týždeň
+Day/week___Deň/týždeň
+Quartz___Kremeň
+1 breaker contact (NC)___1 kontakt ističa (NC)
+Without cable___Bez kábla
+None___Žiadny
+CEE devices 60 mm mounting distance___Zariadenia CEE Montážna vzdialenosť 60 mm
+1-pole switch___1-pólový spínač
+2-pole switch___2-pólový spínač
+1-pole push button___1-pólové tlačidlo
+2-pole push button___2-pólové tlačidlo
+RAM___RAM
+EPROM___EPROM
+EEPROM___EEPROM
+AC/DC___AC/DC
+PNP___PNP
+Relay___Relé
+Cylindrical___Valcový
+Fixing clamp___Upevňovacia svorka
+Eye hook___Háčik s okom
+Double hook___Dvojitý hák
+Distributor board mounting___Montáž rozdeľovača
+Plunger___Piest
+Roller cam___Valčeková vačka
+Roller lever___Páka valčeka
+Rotary lever___Otočná páka
+Actuating rod___Ovládacia tyč
+Quick-break switch___Rýchloupínací spínač
+Square roller lever___Štvorhranná valčeková páka
+Flash light___Zábleskové svetlo
+Blinker light___Svetlo blikača
+Continuous light___Nepretržité svetlo
+RC-suppressor___RC-supresor
+Diode-suppressor___Diódový tlmič
+Varistor (voltage-sensitive resistor)___Varistor (rezistor citlivý na napätie)
+Top mounting___Horná montáž
+Contacts___Kontakty
+Printed circuit boards___Dosky s plošnými spojmi
+Plastic surfaces___Plastové povrchy
+Electrical systems___Elektrické systémy
+Precision mechanics___Presná mechanika
+Corrosion protection___Ochrana proti korózii
+Mechanical locking___Mechanické blokovanie
+Continuously variable___Plynulá regulácia
+Push button___Tlačidlo
+"Symbol "" I """___"Symbol "" I """
+"Symbol ""0"""___"Symbol ""0"""
+Left/right___Vľavo/vpravo
+T-shape___V tvare T
+Metal/plastic___Kov/plast
+STOP___STOP
+Ceiling installation___Stropná inštalácia
+Intermediate mounting___Medziľahlá montáž
+Suspension cable___Závesný kábel
+D-system___D-systém
+D0-system___Systém D0
+NH___NH
+Ceramics___Keramika
+Swivelling___Otočné
+I___I
+II___II
+Polycarbonate___Polykarbonát
+PG12-1___PG12-1
+Radio control___Rádiové ovládanie
+Continuous tone___Nepretržitý tón
+Slider with 2 inlets___Posuvník s 2 vstupmi
+1___1
+2___2
+0___0
+"Symbol "" II """___"Symbol "" II """
+Wall build in___Zabudovanie do steny
+Aeration___Vzduchovanie
+De-aeration___Odvzdušňovanie
+Roof shape___Tvar strechy
+Plain ends___Hladké konce
+With hang-in___So zavesením
+Rotating current___Rotačný prúd
+Self-acting___Samočinný
+Mounting plate___Montážna doska
+Thermostat___Termostat
+Candle___Sviečka
+With clamps___So svorkami
+With bus bar___S prípojnicou
+1-story___1 poschodie
+2-story___2-podlažná
+Narrow___Úzke
+W2x4.6d___W2x4,6d
+Busbar___Prípojnica
+Pictogram___Piktogram
+For 1-story support plates___Pre 1-podlažné nosné dosky
+For 2-story support plates___Pre 2-podlažné nosné dosky
+1-rows___1-riadkové
+2-rows___2-radové
+3-rows___3-riadkové
+2- and 4-rows___2- a 4-riadkové
+3xbrown / 1xblue___3xhnedá / 1xmodrá
+3xbrown / 1xgreen/yellow___3xhnedá / 1xzelená/žltá
+3xbrown / 1xblue / 1xgreen/yellow___3xhnedá / 1xmodrá / 1xzelená/žltá
+Above___Nad
+Below___Nižšie
+Miniature circuit breaker (MCB)___Miniatúrny istič (MCB)
+E___E
+Two-way switch___Dvojcestný spínač
+With bus bar 3-pole___S prípojnicou 3-pólový
+With bus bar 2x3-pole___S prípojnicou 2x3-pólovou
+GX4___GX4
+UV filter___UV filter
+High-gloss___Vysoko lesklý
+G13___G13
+Semi round___Polokruhový
+Corner connector___Rohový konektor
+T-connector___T-konektor
+Cross connector___Krížový konektor
+Toroidal core transformer___Transformátor s toroidným jadrom
+Electronic transformer___Elektronický transformátor
+Distance piece___Vzdialený kus
+G11___G11
+Variable___Variabilný
+5x2.5 mm²___5x2,5 mm²
+End cap___Koncový uzáver
+Knot chain___Uzolová reťaz
+Mains___Sieť
+Fabric___Tkanina
+Metal/wood___Kov/drevo
+Two-sided___Obojstranný
+Black and white___Čierna a biela
+Makrolon___Makrolon
+Marble___Mramor
+Screw mounting___Skrutková montáž
+Without cover___Bez krytu
+Floor___Podlaha
+Ground spike___Zemný hrot
+Supporting bracket___Nosná konzola
+Mounting bracket___Montážna konzola
+N-Connector___N-konektor
+RJ45___RJ45
+RJ12 6(6)___RJ12 6(6)
+D-Sub 9-pole___D-Sub 9-pólový
+D-Sub 15-pole___D-Sub 15-pólový
+Centronics 35-pole___Centronics 35-pólový
+Diode, 5-pole___Dióda, 5-pólová
+Mini DIN 6 pole___Mini DIN 6-pólový
+IBM data plug___Dátový konektor IBM
+SC___SC
+Cable eye___Káblové oko
+LED/LCD___LED/LCD
+Ivory___Slonová kosť
+FDDI___FDDI
+D-Sub bus 9-pole___D-Sub zbernica 9-pólová
+D-Sub bus 15-pole___D-Sub zbernica 15-pólová
+D-Sub bus 25-pole___D-Sub zbernica 25-pólová
+D-Sub plug 25-pole___D-Sub zástrčka 25-pólová
+F-Connector___F-konektor
+Solder___Spájka
+Crimping___Krimpovanie
+Screwing___Skrutkovanie
+Elbow plug___Kolenová zástrčka
+21-pole Scart___21-pólový rozbočovač
+HD-D-Sub 15-pole___HD-D-Sub 15-pólový
+DIN 5-pole___DIN 5-pólová
+Rear panel___Zadný panel
+Roof___Strecha
+482.6 mm (19 inch) mounting___Montáž 482,6 mm (19 palcov)
+DIN A4___DIN A4
+DIN A5___DIN A5
+Rail base___Základňa koľajnice
+Mounting rail___Montážna lišta
+Fibre optic cable guide___Vedenie optického kábla
+Cable bracket___Držiak kábla
+Dehumidification___Odvlhčovanie
+G5___G5
+AS4___AS4
+Banana plug___Banánová zástrčka
+Polyester___Polyester
+Protective tube reflector___Ochranný rúrkový reflektor
+Copper braiding___Medené opletenie
+Sub-clock___Sub-hodiny
+Analogue, arabic figures___Analógové, arabské číslice
+Analogue, bars___Analógové, tyče
+Gutter/roof___Žľab/strieška
+Pipe heating___Vykurovanie potrubia
+Heat shrinking technique___Technika tepelného zmršťovania
+Dry adhesive technology___Technológia suchého lepidla
+Heating cable/connection cable___Vykurovací kábel/spojovací kábel
+Heating cable/heating cable___Vykurovací kábel/vykurovací kábel
+Heating cable end piece___Koncovka vykurovacieho kábla
+T-branch___T-odbočka
+Heating strip/housing___Vyhrievacia lišta/kryt
+Equipped with closing___Vybavený uzáverom
+Provided with 3 connection sets___Vybavené 3 pripojovacími súpravami
+Without accessories___Bez príslušenstva
+Value coin___Hodnotová minca
+Time-dependant___Časovo závislé
+Consumption dependent___Závislá od spotreby
+Microprocessor___Mikroprocesor
+3 digit display___3-miestny displej
+230/400 V___230/400 V
+Adhesive magnet___Lepiaci magnet
+Screw-on plate___Skrutkovacia doska
+Table clamp___Stolová svorka
+Grey cast iron___Sivá liatina
+G2___G2
+Diode___Dióda
+Outdoor station___Vonkajšia stanica
+Wall mounting___Montáž na stenu
+Wall model___Model na stenu
+Free standing model___Voľne stojaci model
+Alkali manganese___Alkalický mangán
+Zinc/coal___Zinok/uhlie
+Mono___Mono
+Baby___Baby
+Mignon___Mignon
+Micro___Micro
+Flat___Ploché
+Duplex___Duplex
+Flat-Pack___Ploché balenie
+Halogen lamp___Halogénová lampa
+Alkali manganese/zinc___Alkalický mangán/zinok
+Lithium/manganese dioxide___Lítium/dioxid manganičitý
+Mercury oxide/zinc___Oxid ortuťnatý/zinok
+Pocket calculator___Vrecková kalkulačka
+Mounting bracket___Montážny držiak
+SC duplex___SC duplex
+Connection terminal___Pripojovacia svorka
+A___A
+With thread tap___So závitovým kohútom
+With ceiling hooks___So stropnými hákmi
+Bare___Holý
+Large head___Veľká hlava
+Rounded head___Zaoblená hlava
+Video___Video
+Sealing flange___Tesniaca príruba
+Conduit inlet___Prívod potrubia
+Standard door opener___Štandardný otvárač dverí
+Escape door opener___Únikový otvárač dverí
+Door code opener___Kódový otvárač dverí
+Silver oxide/zinc___Oxid strieborný/zinok
+Metal___Kov
+Without indication___Bez indikácie
+Manual testing device___Ručné testovacie zariadenie
+Cat-5 testing device___Testovacie zariadenie Cat-5
+Attenuation measuring device___Zariadenie na meranie útlmu
+Reflection meter___Merač odrazu
+PC-cable tester___Tester PC káblov
+LAN Function testing device___Zariadenie na testovanie funkcií LAN
+Inner corner___Vnútorný roh
+Outer corner___Vonkajší roh
+T-piece___T-kus
+Polystyrene___Polystyrén
+Separating partition___Oddeľovacia priečka
+Inside___Vnútri
+Interface testing device___Zariadenie na testovanie rozhrania
+DIN rail (top hat rail)___DIN lišta (horná klobúková lišta)
+Series switch___Sériový spínač
+Dimmer___Stmievač
+Surface mounting___Povrchová montáž
+Connection strip___Pripojovacia lišta
+Earthing strip___Uzemňovacia lišta
+Separating strip___Oddeľovacia lišta
+Solder/solder___Spájka/pájka
+Screw/solder___Skrutka/pájka
+Screw/screw___Skrutka/skrutka
+Screw/solder - screw/solder___Skrutka/pájka - skrutka/pájka
+Earthing rail___Uzemňovacia lišta
+Audio module___Zvukový modul
+Charge module___Nabíjací modul
+Automatic change over switch___Automatický prepínač
+Tariff time switch___Časový prepínač tarify
+Tele control head-set___Telecontrol head-set
+Locking device___Blokovacie zariadenie
+Power-current switch___Prepínač výkonu a prúdu
+Telephone ringer side-unit___Bočná jednotka telefónneho zvonenia
+96 mm___96 mm
+170 mm___170 mm
+96/170 mm___96/170 mm
+Pay phone___Telefónny automat
+Wall___Nástenný
+Buzzer___Bzučiak
+Manual/automatic___Manuálny/automatický
+Angular bus___Uhlová zbernica
+Single push button___Jedno tlačidlo
+D-Sub/Centronics 25-pole___D-Sub/Centronics 25-pólový
+Surface mounted plug___Povrchová zástrčka
+Cabling panel___Panel s kabelážou
+Analogue/digital___Analógová/digitálna
+Flexible___Flexibilný
+Built-in installation box___Zabudovaná inštalačná krabica
+Optic/acoustic___Optická/akustická
+Screwed terminal___Skrutkovacia svorka
+ISDN___ISDN
+Plastic, metallized___Plastový, metalizovaný
+Cover___Kryt
+Corner joint___Rohový spoj
+Plug/plug___Zástrčka/zástrčka
+Plug/bus___Zástrčka/zbernica
+Bus/bus___Zbernica/zbernica
+IIC___IIC
+Switch module___Spínací modul
+High-speed heater___Vysokorýchlostný ohrievač
+Screwable heating element___Skrutkovacie vykurovacie teleso
+Heating flange___Vykurovacia príruba
+1/N/PE/230 V___1/N/PE/230 V
+2/N/PE~400 V___2/N/PE~400 V
+3/N/PE/400 V___3/N/PE/400 V
+3 handles___3 rukoväte
+Plastic-covered___S plastovým krytom
+Wall storage tank___Nástenná nádrž
+Vertical storage tank___Vertikálna skladovacia nádrž
+Built-under___Vstavaná pod
+Over sink___Nad drezom
+Single circuit___Jeden okruh
+2 steps___2 stupne
+3 steps___3 stupne
+4 steps___4 stupne
+Bare wire___Holý vodič
+Tube heating element___Rúrkové vykurovacie teleso
+Thermal___Tepelný
+Thermostatic tap___Termostatický kohútik
+Washbasin___Umývadlo
+Standard accumulator___Štandardný akumulátor
+Flat storage___Plochý zásobník
+Baseboard storage heating___Akumulačný ohrev základnej dosky
+High storage___Vysoký zásobník
+Kitchen accumulator___Kuchynský akumulátor
+1/N/PE~230 V, 3/N/PE~400 V___1/N/PE~230 V, 3/N/PE~400 V
+Sledge hammer___Kladivo na sane
+Telephone cable shears___Nožnice na telefónne káble
+Electrician's shears___Elektrikárske nožnice
+Clamping console___Upínacia konzola
+Over sink/under sink___Nad drezom/pod drezom
+Steel, galvanized___Oceľ, pozinkovaná
+Clamp piece___Upínací kus
+Silicone___Silikón
+Label removal___Odstránenie štítku
+Tight___Tesný
+Foamed PE___Penový PE
+Socket outlet with protective contact, straight___Zásuvka s ochranným kontaktom, priama
+Cable end sleeve___Koncová objímka kábla
+Polyolefin___Polyolefín
+Fc2___Fc2
+Metal halide lamp___Kovová halogenidová výbojka
+High pressure sodium-vapour lamp___Vysokotlaková sodíková výbojka
+Metal halide/sodium lamp___Kovová halogenidová/sódiová výbojka
+M13 x 1___M13 x 1
+M10 x 1___M10 x 1
+End piece___Koncovka
+Edison lamp holder___Objímka pre Edisonovu žiarovku
+Reduction lamp holder___Objímka redukčnej žiarovky
+Hanging lamp holder___Držiak závesnej lampy
+Ceiling lamp holder___Držiak stropnej lampy
+Illumination lamp holder___Držiak osvetľovacej lampy
+Solar vertical storage tank___Solárny vertikálny zásobník
+Floor sensor___Podlahový snímač
+Nickel cadmium___Nikel-kadmium
+Serial___Sériový
+Forward control___Ovládanie dopredu
+Backward controller___Spätný regulátor
+Forward-/backward control___Ovládanie vpred/vzad
+Time control device___Časové riadiace zariadenie
+Group controller___Skupinový ovládač
+G4/GX5.3/G6.35___G4/GX5.3/G6.35
+Drilling template___Vŕtacia šablóna
+FM___FM
+UHF___UHF
+VHF___VHF
+Receiver diplexer___Diplexer prijímača
+F-bus___F-bus
+Splitter___Rozdeľovač
+Distributor___Rozdeľovač
+Repeater amplifier___Zosilňovač opakovača
+Feed-in amplifier___Vstupný zosilňovač
+Amplifier substation___Zosilňovačová rozvodňa
+In-house distribution amplifier___Vnútorný distribučný zosilňovač
+Distribution amplifier___Distribučný zosilňovač
+Line amplifier___Sieťový zosilňovač
+Return path amplifier___Zosilňovač spätnej cesty
+DiSEqC___DiSEqC
+Single LNB___Jeden LNB
+Twin LNB___Dvojitý LNB
+Quatro LNB___Quatro LNB
+Dark brown___Tmavohnedá
+Heat pump___Tepelné čerpadlo
+Single cable system___Jednoduchý káblový systém
+Active___Aktívne
+Passive___Pasívny
+0/22 kHz___0/22 kHz
+Multi-band amplifier___Viacpásmový zosilňovač
+Active/passive___Aktívny/pasívny
+Above floor shaft___Nad podlahovou šachtou
+Sub floor shaft___Podlahová šachta
+Active return path module___Modul aktívnej spätnej cesty
+ESB___ESB
+Double flange plug___Dvojitá prírubová zátka
+Plastic/aluminium___Plast/hliník
+Telescopic mast___Teleskopický stožiar
+Plug-in mast___Zásuvný stožiar
+Mast pipe___Rúra stožiara
+Stand pipe holder___Držiak stojanovej rúry
+Wall mount___Nástenný držiak
+Rotational speed controller___Regulátor otáčok
+Wall-/conduit mounting___Montáž na stenu/vodič
+Coaxial (IEC)___Koaxiálny (IEC)
+Remote sensor___Vzdialený snímač
+Sideways___Bočný
+Bus insert___Zbernicová vložka
+Pin insert___Kolíková vložka
+Electric white___Elektrická biela
+Loop-through socket___Priechodná zásuvka
+Temperature controller___Regulátor teploty
+Basic device for multi switch system___Základné zariadenie pre systém viacerých spínačov
+FM amplifier___FM zosilňovač
+Light sensor___Snímač svetla
+Presence sensor___Snímač prítomnosti
+Test point adapter___Adaptér testovacieho bodu
+Surface mounted/recessed mounted___Povrchová montáž/zápustná montáž
+Push button, normally open___Tlačidlo, normálne otvorené
+2x1-pole___2x1-pólový
+Soldering connection___Pripojenie spájkovaním
+Rocker lever___Kolísková páka
+Insert socket outlet protection___Ochrana zásuvky zásuvky
+Self adhesive socket outlet protection___Samolepiaca ochrana zásuvky
+End switch___Koncový spínač
+Dark grey___Tmavosivá farba
+D-Sub 36-pole___D-Sub 36-pólový
+Data processing technique___Technika spracovania údajov
+Stick and screw___Lepenie a skrutkovanie
+Coaxial cable testing device___Zariadenie na testovanie koaxiálneho kábla
+Patch cable tester___Tester patch káblov
+Thermal release___Tepelné uvoľňovanie
+Thermal/magnetic release___Tepelné/magnetické uvoľnenie
+Push button switch___Tlačidlový spínač
+Rotary toggle___Otočný prepínač
+Mounting set___Montážna súprava
+Bushing___Puzdro
+Partially isolated___Čiastočne izolované
+Fully isolated___Úplne izolované
+Connector (male)___Konektor (samec)
+Distribution terminal block___Distribučná svorkovnica
+Hot-dip galvanized___Žiarovo pozinkovaný
+Cable duct___Káblový kanál
+Vertical___Vertikálny
+Full rubber___Celogumový
+Duroplast___Duroplast
+Pressed material___Lisovaný materiál
+Insulation displacement connector___Izolačný posunovací konektor
+Vertically sideways___Vertikálne do strán
+Link chain___Spojovacia reťaz
+Hanger for trapezoidal ceiling (for chain suspension)___Záves pre trapézový strop (pre zavesenie reťaze)
+Hanger for trapezoidal ceiling (trapezoidal shape)___Záves pre trapézový strop (trapézový tvar)
+F-plug___F-zásuvka
+Mast base___Základňa stožiara
+VHF/UHF___VHF/UHF
+Double profile___Dvojitý profil
+Back perforated___Zadná perforovaná časť
+3 sides punched___3 strany dierované
+Exit___Výstup
+Push button___Tlačidlo
+Smoke detector___Detektor dymu
+Manual T-Switch/X-Switch___Manuálny T-vypínač/X-vypínač
+Manual X-Switch___Manuálny spínač X
+Manual T-Switch___Manuálny T-spínač
+Automatic/manual T-Switch___Automatický/ručný T-spínač
+Automatic T-Switch___Automatický T-spínač
+Flat coupler___Plochá spojka
+Interior coupler___Vnútorná spojka
+D-Sub, serial 25-pole___D-Sub, sériový 25-pólový
+Monitor/keyboard T-switch___T-prepínač monitor/klávesnica
+Test receiver___Testovací prijímač
+Level tester___Tester úrovne
+LCD/monitor___LCD displej/monitor
+LED/LCD/analogue___LED/LCD/analógový
+Chromated___Chrómované
+Quick-lock___Rýchly zámok
+Cable entry distribution cabinet___Rozvodná skriňa s káblovým vstupom
+End distribution enclosure___Koncová rozvodná skriňa
+For cast-in-place concrete___Pre betónové odliatky
+For slab ceiling___Pre stropné dosky
+Surface mounted lamp holder___Povrchový držiak svietidla
+Through-feed lamp holder___Priechodný držiak svietidla
+Covering cap___Krycia čiapka
+Mounting kit___Montážna súprava
+Universal anchor plug___Univerzálna kotviaca zástrčka
+G3/8 A___G3/8 A
+Cylinder___Valec
+N___N
+Trolley___Vozík
+Round/flat conductor___Okrúhly/plochý vodič
+Impact head___Nárazová hlavica
+Impact pin___Nárazový čap
+Malleable cast iron___Kujná liatina
+Earthing lug___Uzemňovacia koncovka
+Equipped with connection lug___Vybavené pripojovacím okom
+With steel strip___S oceľovou lištou
+With tappet/bore hole___S otvorom pre kohútik/otvor
+GU10___GU10
+D-Sub, parallel 25-pole___D-Sub, paralelný 25-pólový
+Earth rod___Uzemňovacia tyč
+HP open View/Unix___HP otvorený Pohľad/Unix
+Crimp technology___Krimpovacia technológia
+In line power supply___Napájanie v sieti
+Handle___Rukoväť
+Telephone/fax/modem switch___Prepínač telefónu/faxu/modemu
+Front ring___Predný krúžok
+Tinned___Cínovaný
+Petrolatum___Petrolátka
+Self-adhesive___Samolepiaci
+Sandwich cable guide___Sendvičové vedenie kábla
+Temperature sensor___Teplotný snímač
+Card telephone___Telefónna karta
+G10q___G10q
+2G13___2G13
+W4.3___W4.3
+Fa6___Fa6
+With grip clamp___So svorkou na uchopenie
+With screw clamp___So skrutkovacou svorkou
+Flat roof___Plochá strecha
+Round conductor___Okrúhly vodič
+T-/cross-/parallel connector___T-/krížový/paralelný konektor
+Parallel connector___Paralelný konektor
+Sleeve connection___Pripojenie s dutinkou
+Clamp screw___Objímková skrutka
+Hexagon screw___Šesťhranná skrutka
+Flat round screw___Plochá kruhová skrutka
+Transistor___Tranzistor
+LCD/acoustic___LCD/akustický
+With snap clamp___So zacvakávacou svorkou
+Yellow/black___Žltá/čierna
+G5.3-4.8___G5.3-4.8
+GX6.35___GX6.35
+Integrated___Integrovaný
+Extendable___Rozšíriteľný
+RS-232___RS-232
+ISA___ISA
+PCI___PCI
+PCMCIA___PCMCIA
+Turquoise___Tyrkysová
+Equipped with closing and clamps___Vybavený uzáverom a svorkami
+GZ6.35___GZ6.35
+Socket outlet with protective contact___Zásuvka s ochranným kontaktom
+Freestanding-/wall model___Voľne stojaci/stenový model
+Convector frame___Rám konvektora
+Assembly aid___Montážna pomôcka
+Measuring instruments___Meracie prístroje
+Electrical modules___Elektrické moduly
+Electronics/mechanics___Elektronika/mechanika
+0/14/18 V___0/14/18 V
+Carton___Kartón
+MSV4___MSV4
+SAT IF amplifier___SAT IF zosilňovač
+Plasterboard plug___Sádrokartónová zástrčka
+Fireproof partition box___Ohňovzdorná prepážka
+CEE devices 70 mm mounting distance___Zariadenia CEE Montážna vzdialenosť 70 mm
+7___7
+Long-slot___Dlhá drážka
+Polypropylene___Polypropylén
+IR sensor___IR snímač
+Multi-sensor___Multi-senzor
+Free standing ventilator___Voľne stojaci ventilátor
+Table fan___Stolový ventilátor
+Flat conductor___Plochý vodič
+Clamp connector___Svorkový konektor
+Double clamp screw___Dvojitá upínacia skrutka
+Signal amplifier___Zosilňovač signálu
+Signal converter___Prevodník signálu
+Mini constant___Mini konštanta
+Control unit___Riadiaca jednotka
+Tracer dimmer/IR-controller___Sledovací stmievač/IR-kontrolér
+Coupling plug___Spojovacia zástrčka
+Wall radiator___Nástenný radiátor
+Free standing radiator___Voľne stojaci radiátor
+Lamp holder for in-wall installation cable___Držiak svietidla pre nástenný inštalačný kábel
+Small lamp holder___Malý držiak lampy
+Ceiling-/wall emitter___Stropný/stenový žiarič
+GR10___GR10
+GR8___GR8
+Z-element___Z-element
+Blood pressure measurement___Meranie krvného tlaku
+Blood pressure/pulse measurement___Meranie krvného tlaku/pulzov
+Upper arm___Horná časť ramena
+Wrist___Zápästie
+Foot massage bath___Masážny kúpeľ nôh
+Steam iron___Parná žehlička
+Stick vacuum cleaner___Tyčový vysávač
+Canister-cylinder cleaner___Čistič s kanistrovým valcom
+Solar operation___Solárna prevádzka
+4 lines___4 linky
+8 digits___8 číslic
+10 digits___10 číslic
+Wall-/desk type model___Model nástenného/stolného typu
+Facial tanner___Opaľovač tváre
+Upper body tanner___Opaľovač hornej časti tela
+Total body tanner___Opalovací prípravok na celé telo
+Sun lamp___Slnečná lampa
+Handheld hair dryer___Ručný sušič vlasov
+Travel hair dryer___Cestovný sušič vlasov
+Curl brush___Kefa na kučery
+Curl staff___Tyč na natáčanie vlasov
+Hair styler___Styler na vlasy
+Drying hood___Sušiaca kapucňa
+Desk type device___Stolný prístroj
+Mechanical/electronic___Mechanické/elektronické
+Low weight flat-iron___Žehlička na vlasy s nízkou hmotnosťou
+Travel iron___Cestovná žehlička
+Steam brush___Parná kefa
+Steam generator___Parný generátor
+Aluminium sole___Hliníková podstava
+Ceramic sole___Keramická podrážka
+Stainless steel sole___Podrážka z nehrdzavejúcej ocele
+Dry shaver___Suchý holiaci strojček
+Wet-/dry shaver___Holiaci strojček na mokré/suché holenie
+Accumulator/mains___Akumulátor/koš na odpadky
+Dry lady-shave___Suché dámske holenie
+Wet-/dry lady-shave___Mokré/suché dámske holenie
+Razor foil___Fólia na holenie
+Double razor foil___Dvojitá holiaca fólia
+2 razor heads___2 holiace hlavice
+3 razor heads___3 holiace hlavice
+Manicure set___Manikúrová súprava
+Pedicure set___Sada na pedikúru
+Haircutter___Strihač vlasov
+Beard trimmer___Zastrihávač fúzov
+Beard styler___Styler na fúzy
+Nose hair trimmer___Zastrihávač nosných chĺpkov
+Infrared proximity switch___Infračervený bezdotykový spínač
+Time switch___Časový spínač
+Thermal under blanket___Tepelná prikrývka
+Thermal over blanket___Tepelná prikrývka nad prikrývkou
+Electric pad___Elektrická podložka
+Heated carpet___Vyhrievaný koberec
+Foot warmer___Ohrievač nôh
+With DIN rails (top hat rails)___S lištami DIN (lišty na horný klobúk)
+Toothbrush + mouth shower___Zubná kefka + ústna sprcha
+Children toothbrush___Detská zubná kefka
+Toothbrush___Zubná kefka
+Mouth shower___Ústna sprcha
+Hard floor cleaner___Čistič tvrdých podláh
+Textile___Textil
+Coated___Povrchová úprava
+Back-/neck thermal pillow___Tepelný vankúš na chrbát/krk
+Surface mounted/partially recessed mounted___Povrchová montáž/čiastočná zapustená montáž
+28___28
+Hand mixer___Ručná miešačka
+Standing blender___Stojaci mixér
+Hand blender___Ručný mixér
+5 steps___5 krokov
+1- and 2-rows___1- a 2-riadkový
+Hand tin opener___Ručný otvárač na konzervy
+Standing tin opener___Stojanový otvárač na konzervy
+Knife sharpener___Ostrúhač nožov
+Knife-/shears blade sharpener___Brúska na ostrie nožov/sekačiek
+Universal sharpener___Univerzálny ostrič
+Table scales___Stolové váhy
+Wall scales___Nástenné váhy
+Citrus press___Lis na citrusy
+Spin juicer___Odšťavovač
+Screwable___Skrutkovací
+Characters 0 and 1___Znaky 0 a 1
+Plug/connector___Zástrčka/konektor
+Non-stick coated___S nepriľnavou povrchovou úpravou
+Table grill___Stolová mriežka
+Grill station___Grilovacia stanica
+Contact grill___Kontaktný gril
+Coated grill plate___Grilovacia doska s povrchovou úpravou
+Coated grill grid___Grilovacia mriežka s povrchovou úpravou
+Grill grid aluminium die-cast___Grilovacia mriežka z hliníkového tlakového odliatku
+Chrome plated grill grid___Pochrómovaný grilovací rošt
+Espresso machine___Espresso strojček
+Espresso/cappuccino___Espresso/cappuccino
+Coffee/espresso/cappuccino___Káva/espresso/cappuccino
+Steam pressure system___Tlakový systém pary
+Thermo block system___Systém termo blokov
+Pumping system___Čerpací systém
+Baking oven___Rúra na pečenie
+Baking grill___Gril na pečenie
+Top heat/bottom heat___Horný/spodný ohrev
+Top heat/bottom heat/grill___Horný ohrev/spodný ohrev/gril
+Fan heating/grill___Ventilátorový ohrev/gril
+Household immersion heater___Ponorný ohrievač pre domácnosť
+Travel immersion heater___Cestovný ponorný ohrievač
+Hinged mast___Výklopný stožiar
+Warming tray___Ohrievacia miska
+Tea light___Čajové svetlo
+1 step___1 krok
+Accu/battery___Akumulátor/batéria
+Coffee mill___Mlynček na kávu
+Espresso grinder___Mlynček na espresso
+Stone-mill system___Systém mletia kameňov
+Fly cutter___Mucha fréza
+Coax___Koaxiálny kábel
+Automatic preserving cooker___Automatický konzervačný varič
+Electric soup pan___Elektrická polievková panvica
+2-slice toaster___Hriankovač s 2 plátkami
+Long slot toaster___Hriankovač s dlhou štrbinou
+4-slice toaster___Hriankovač so 4 plátkami
+Permanent grease filter___Permanentný tukový filter
+Charcoal filter___Uhlíkový filter
+Mounting base___Montážna základňa
+Waffle maker___Vaflovač
+Croissant maker___Výrobník croissantov
+Glass jug___Sklenený džbán
+Water filter___Vodný filter
+Floor standing rotary iron___Podlahová rotačná žehlička
+By movement___Podľa pohybu
+Coffee maker___Kávovar
+Double coffee maker___Dvojitý kávovar
+Coffee-/tea maker___Kávovar na kávu/čaj
+Coffee maker/water cooker___Kávovar/varič na vodu
+Zinc/air___Zinok/vzduch
+Satellite signal meter___Merač satelitného signálu
+Espresso/coffee___Espresso/káva
+With bus bar 4-pole___So zbernicou 4-pólovou
+Chrome sole___Chrómová podrážka
+Foldable rotary iron___Skladacia otočná žehlička
+Steam rotary iron___Naparovacia rotačná žehlička
+G4/GZ4___G4/GZ4
+G6.35___G6.35
+G4/G6.35___G4/G6.35
+Various symbols___Rôzne symboly
+Heating cartridge system___Systém vykurovacích kaziet
+Rail support___Podpera koľajnice
+Coffee-/espresso grinder___Mlynček na kávu/espresso
+Application framework___Rámcová aplikácia
+Sandwich toaster___Sendvičovač
+Air humidifier___Zvlhčovač vzduchu
+Air cleaner___Čistička vzduchu
+Air cleaner-/humidifier___Čistič/vlhčovač vzduchu
+ISDN installation testing device___Zariadenie na testovanie inštalácie ISDN
+Safety lock opener___Otvárač bezpečnostných zámkov
+Battery/mains___Batérie/vodiče
+Face massager___Masážny prístroj na tvár
+QWERTY keyboard___QWERTY klávesnica
+Turning wheel___Otočné koliesko
+Print process___Proces tlače
+Thermal printer___Termálna tlačiareň
+1-2___1-2
+Inside/outside___Vnútorná/vonkajšia strana
+TNC___TNC
+Hand blender___Ručný mixér
+Hair straightener___Žehlička na vlasy
+Micro filter___Mikrofilter
+Motor safety filter___Bezpečnostný filter motora
+Mobile end-distributor___Mobilný koncový rozdeľovač
+Crepes maker___Výrobník palaciniek
+Donut maker___Výrobník šišiek
+Enamelled___Smaltované
+Toaster/mini oven___Hriankovač/mini rúra
+Discharge lamp___Výbojka
+Connection lug___Pripojovacie oko
+Module___Modul
+Automatic grill___Automatický gril
+Grill___Gril
+Grease/odour filter___Tukový/zápachový filter
+Portable black and white TV___Prenosný čiernobiely televízor
+4:3___4:3
+16:9___16:9
+KS screw___KS skrutka
+Viewing window___Zobrazovacie okienko
+Console___Konzola
+S___S
+Snap mounting___Zacvakávacia montáž
+Z-profile___Profil Z
+"Symbol ""unlock"""___"Symbol ""odomknúť""
+"Symbol "" + """___"Symbol "" + """
+"Symbol "" - """___"Symbol "" - """
+"Symbol "" arrow """___"Symbol "" šípka """
+EIN___EIN
+AUS___AUS
+AUF___AUF
+AB___AB
+DIN A3___DIN A3
+START___START
+BACKWARDS___SPÄTNE
+Lift___Výťah
+SENKEN___SENKEN
+ZU___ZU
+VORWÄRTS___VORWÄRTS
+Charge-/switch module___Nabíjací/spínací modul
+Code___Kód
+VHS___VHS
+S-VHS___S-VHS
+Available___Dostupné na
+Built-in device___Zabudované zariadenie
+Instantaneous water heater___Prietokový ohrievač vody
+Protective hose___Ochranná hadica
+Holder for protective hose___Držiak na ochrannú hadicu
+S-VHS/VHS___S-VHS/VHS
+Built-in accessories___Zabudované príslušenstvo
+Support bracket___Podporný držiak
+TFE module___Modul TFE
+Standing blender with kitchen scales___Stojaci mixér s kuchynskou váhou
+Glow lamp___Žiarovka
+Triac___Triak
+Front load___Predné zaťaženie
+Top load___Horná náplň
+Cable guard rail___Ochranná lišta na káble
+Ceiling radiator___Stropný radiátor
+Control tableau___Ovládací stôl
+Corner piece___Rohový diel
+Handgrip___Rukoväť
+Compact___Kompaktný
+Flame___Plameň
+Wall/floor___Stena/podlaha
+Wall/ceiling___Stena/strop
+Wall/ceiling/suspension___Stena/strop/záves
+Rail system___Koľajnicový systém
+Micro cassette___Mikrokaseta
+Standard paper___Štandardný papier
+Compact cassette (analogue)___Kompaktná kazeta (analógová)
+VHS-C___VHS-C
+S-VHS-C___S-VHS-C
+Coaxial___Koaxiálna
+Optic and coaxial___Optické a koaxiálne
+Radio receiver___Rádiový prijímač
+World receiver___Svetový prijímač
+Cassette receiver___Kazetový prijímač
+CD/cassette receiver___CD/kazetový prijímač
+2-way system___Dvojcestný systém
+3-way system___3-cestný systém
+CD receiver___CD prijímač
+Perforated plate___Perforovaná doska
+Capacitor microphone___Kondenzátorový mikrofón
+Dynamic microphone___Dynamický mikrofón
+Cardioid___Kardioidný
+Round/globe___Okrúhly/glóbusový
+Air extraction___Odvod vzduchu
+Inversion fitting___Inverzná montáž
+Inversion fitting with flex pipe___Inverzná armatúra s ohybnou rúrkou
+Inversion fitting with pipe support___Inverzná armatúra s podperou potrubia
+Nonwoven fabric___Netkaná textília
+Acrylic___Akryl
+Carbon filter___Uhlíkový filter
+Vapour filter___Parný filter
+3 lines___3 linky
+12 digits___12 číslic
+Mains power supply___Sieťové napájanie
+Equipment panel___Panel zariadenia
+Loudspeaker mixing panel___Panel na miešanie reproduktorov
+Glass ceramic___Sklokeramický
+Steel enamelled___Oceľový smaltovaný
+Catalytic___Katalytický
+Pyrolytic___Pyrolytický
+Standard hotplate___Štandardná výhrevná doska
+High-speed hotplate___Vysokorýchlostná varná doska
+Automatic hot plate___Automatická horúca platňa
+Capillary tube controller___Regulátor kapilárnych trubíc
+Television/video table___Televízny/videostôl
+HiFi rack___HiFi stojan
+Built-in lamp holder___Zabudovaný držiak lampy
+Line amplifier___Linkový zosilňovač
+Pre-amplifier___Predzosilňovač
+Combination amplifier___Kombinovaný zosilňovač
+G4/GU 5.3___G4/GU 5.3
+Adapter kit___Súprava adaptérov
+GY6.35/GU5.3___GY6.35/GU5.3
+HiFi system___HiFi systém
+HiFi Midi-system___HiFi Midi-systém
+HiFi Mini-system___HiFi minisystém
+HiFi Microsystem___HiFi mikrosystém
+Surround system___Surround systém
+HiFi loudspeaker system___HiFi reproduktorový systém
+Fax selector___Faxový volič
+S0-Modul___S0-Modul
+ISDN phases testing device___Zariadenie na testovanie fáz ISDN
+S-Bus tester___Tester zbernice S-Bus
+LED/LCD/acoustic___LED/LCD/akustický
+24 digits___24 číslic
+LSA Profile___Profil LSA
+Horizontal___Horizontálne
+Under frame___Pod rámom
+Fully-automatic___Plne automatický
+Programmable pocket calculator___Programovateľná vrecková kalkulačka
+Desk calculator___Stolová kalkulačka
+Energized electrode___Napájaná elektróda
+Active substance tips___Hroty s aktívnou látkou
+Sound pressure___Zvukový tlak
+Adhesive film___Lepiaca fólia
+Semi automatic___Poloautomatický
+Evaporation___Odparovanie
+CEE built-in installation box___Zabudovaná inštalačná krabica CEE
+PC___PC
+Clamping/screw mounting___Upínanie/skrutkovanie
+5___5
+6___6
+9___9
+GZ4/GX5.3___GZ4/GX5.3
+Plug-in mounting___Zásuvná montáž
+Ceramics/metal___Keramika/kov
+Bus connection terminal___Pripojovacia svorka zbernice
+Group push button___Tlačidlo skupiny
+Single/double-sided___Jednostranný/obojstranný
+H1___H1
+H3___H3
+P14.5s___P14.5s
+PK22s___PK22s
+GZ10___GZ10
+Direct/indirect___Priamy/nepriamy
+Application segment___Segment aplikácie
+Revolving contact___Otočný kontakt
+Conical___Kónický
+Cosmetic mirror___Kozmetické zrkadlo
+Clothes shaver___Holiaci strojček na oblečenie
+Grease deflector___Deflektor mastnoty
+1 razor head___1 holiaca hlava
+Mains/Battery/Accu___Sieť/Batéria/Akumulátor
+Circuit breaker installation unit, 4-fold___Inštalačná jednotka ističa, 4-násobná
+Haircutting kit___Súprava na strihanie vlasov
+Foot massager___Masážny prístroj na nohy
+Chrome-nickel steel___Chrómniklová oceľ
+Metallic sole___Kovová podrážka
+Impulse insert___Impulzná vložka
+Automatic grill with 2 hotplates___Automatický gril s 2 varnými platňami
+Extension module___Rozširujúci modul
+Main module___Hlavný modul
+Steel nickel plated grill grid___Oceľová poniklovaná grilovacia mriežka
+All-purpose countersunk screw___Univerzálna skrutka so zapustenou hlavou
+Semi round head all-purpose screws___Univerzálne skrutky s pologuľatou hlavou
+Semi round head wood screws___Skrutky do dreva s pologuľatou hlavou
+Distance holder___Držiak vzdialenosti
+Corrosion protection tape 50 mm___Páska na ochranu proti korózii 50 mm
+Corrosion protection tape 100 mm___Páska na ochranu proti korózii 100 mm
+Construction/installation___Konštrukcia/inštalácia
+Cable pulling system___Systém na ťahanie káblov
+5x6 mm²___5x6 mm²
+Cleaning/degreasing___Čistenie/odmasťovanie
+Cleaning___Čistenie
+Dissolve glue___Rozpustenie lepidla
+Insulation___Izolácia
+Greasing___Mazanie
+Protection/lubrication___Ochrana/mazanie
+Refrigeration___Chladenie
+PC-work stations___Pracovné stanice PC
+Galvanized surfaces___Pozinkované povrchy
+Electrical connections___Elektrické prípojky
+Contact grease___Kontaktné mazivo
+Slide contacts___Posuvné kontakty
+Foam pistol___Penová pištoľ
+Not possible___Nie je možné
+Base station___Základňová stanica
+Single conductor terminal___Svorka s jedným vodičom
+Double conductor terminal___Dvojvodičová svorka
+Service clamp___Servisná svorka
+Light control system set___Súprava systému ovládania svetla
+Plastic box___Plastová krabica
+Metal box___Kovová skrinka
+Fluorescent lamp___Žiarivka
+Cinch___Cinch
+Jack plug___Zástrčka konektora
+Scart___Scart
+LED/acoustic___LED/akustická
+Wall-mounted distributor___Nástenný rozvádzač
+Light controller/light sensor___Ovládač svetla/senzor svetla
+Interception tip___Odpočúvacia koncovka
+Interception rod___Zachytávacia tyč
+Gutter___Žľab
+Clamp trestle___Svorkový kozlík
+Clamping shoe___Upínacia pätka
+Wall text plate___Stenová textová doska
+Fire protection plate___Protipožiarna ochranná doska
+Sealing plate___Tesniaca doska
+Wind sensor___Snímač vetra
+Dry vacuum___Suché vákuum
+Steam cleaner___Parný čistič
+Wet vacuum___Mokré vysávanie
+Damp vacuum cleaner___Vlhký vysávač
+12 V DC___12 V DC
+Plaster spatula___Špachtľa na omietku
+Palette-knife___Paletový nôž
+Push fit plug___Zásuvná zástrčka
+Push button, normally closed___Tlačidlo, normálne zatvorené
+Roll___Rolka
+Free standing distributor___Voľne stojaci rozdeľovač
+Distributor enclosure___Kryt rozdeľovača
+Permanent filter___Trvalý filter
+1 to 0___1 až 0
+A to L___A až L
+1 to 100___1 až 100
+2x 1 to 0___2x 1 až 0
+1 to 10___1 až 10
+Single___Jednotlivé
+Distributor box___Distribučná skrinka
+ISDN testing device___Testovacie zariadenie ISDN
+Electronic light controller___Elektronický regulátor svetla
+Twisted Pair cable tester___Tester krútených párov káblov
+Cat-6 certification set___Certifikačná súprava Cat-6
+Fibre optic certification set___Certifikačná súprava na optické vlákna
+Imprinting software___Softvér na tlačenie
+S-VHS-C/VHS-C___S-VHS-C/VHS-C
+Video recorder___Videorekordér
+E2000___E2000
+Connection tester___Tester pripojenia
+8x20, 230 V (F-shape)___8x20, 230 V (tvar F)
+8x8, 230 V (G-shape)___8x8, 230 V (tvar G)
+6x8, 230 V (H-shape)___6x8, 230 V (tvar H)
+Mini Disc___Mini disk
+6x8, 230 V (H-shape, 3-pole)___6x8, 230 V (tvar H, 3-pólový)
+Nickel metal hydride___Nikel-metalhydrid
+PC-CD-recordable___Nahrávateľné na PC-CD
+Audio CD-recordable___Nahrávanie na audio CD
+PC-CD-rewritable___Prepisovateľné PC-CD
+8x13, 230 V, 3-pole___8x13, 230 V, 3-pólový
+8___8
+Circuit breaker installation unit, 9-fold___Inštalačná jednotka ističa, 9-násobná
+PVC-U___PVC-U
+5x4 mm²___5x4 mm²
+Double bit___Dvojitý bit
+Three-square___Tri štvorcové
+Modular Jack___Modulárny konektor
+Fibre optic confection___Konfekcia optických vlákien
+BNC plug___Zástrčka BNC
+Protective contact (SCHUKO)___Ochranný kontakt (SCHUKO)
+CEE___CEE
+Fibre optic laser generator___Generátor optických vlákien
+MT-RJ___MT-RJ
+Separate___Samostatný
+Removable___Odnímateľný
+Steel plate/plastic___Oceľová doska/plast
+Dimming actuator___Stmievací aktuátor
+Double LC display___Dvojitý LC displej
+1 digit LED___1 číslica LED
+R20___R20
+R14___R14
+R6___R6
+2R10___2R10
+3 R 12___3 R 12
+6 F 22___6 F 22
+LR 20___LR 20
+LR 14___LR 14
+LR 6___LR 6
+LR 03___LR 03
+6 LR 61___6 LR 61
+4 R 25___4 R 25
+6 F 100___6 F 100
+4 LR 61___4 LR 61
+4 R 25/2___4 R 25/2
+LR 1___LR 1
+R20 P___R20 P
+R14 P___R14 P
+R6P___R6P
+6 F 22 P___6 F 22 P
+3 R 12 P___3 R 12 P
+2R10 P___2R10 P
+R20 S___R20 S
+R14 S___R14 S
+R6S___R6S
+6 F 22 S___6 F 22 S
+3 R 12 S___3 R 12 S
+R6NM___R6NM
+R03NM___R03NM
+7 R 22 NM___7 R 22 NM
+CR 2430___CR 2430
+LR 54___LR 54
+SR 41___SR 41
+SR 59___SR 59
+SR 43___SR 43
+SR 58___SR 58
+SR 55___SR 55
+SR 44___SR 44
+SR 54___SR 54
+SR 48___SR 48
+SR 42___SR 42
+SR 57___SR 57
+SR 60___SR 60
+4 SR 44___4 SR 44
+LR 55___LR 55
+LR 43___LR 43
+LR 44___LR 44
+CR 1620___CR 1620
+CR 2025___CR 2025
+CR 2032___CR 2032
+4 LR 44___4 LR 44
+SR 45___SR 45
+SR 66___SR 66
+CR 2016___CR 2016
+CR 12600___CR 12600
+2 CR 5___2 CR 5
+CR-P 2___CR-P 2
+CR 17345___CR 17345
+SR 67___SR 67
+SR 62___SR 62
+SR 65___SR 65
+SR 64___SR 64
+SR 69___SR 69
+D/UM-1___D/UM-1
+C/UM-2___C/UM-2
+AA/UM-3___AA/UM-3
+D/AM 1___D/AM 1
+C/AM 2___C/AM 2
+AA/AM 3___AA/AM 3
+AAA/AM 4___AAA/AM 4
+6 AM 6___6 AM 6
+J/7 K 67___J/7 K 67
+G 10___G 10
+LR 9___LR 9
+RW 37/SR 41 SW___RW 37/SR 41 SW
+RW 411/SR 726 W___RW 411/SR 726 W
+RW 311/SR 726 SW___RW 311/SR 726 SW
+RW 34/SR 43 SW___RW 34/SR 43 SW
+RW 310/SR 721 SW___RW 310/SR 721 SW
+RW 30/SR 1120 SW___RW 30/SR 1120 SW
+RW 42/SR 44 SW___RW 42/SR 44 SW
+RW 39/SR 1130 SW___RW 39/SR 1130 SW
+RW 49/SR 1130 W___RW 49/SR 1130 W
+RW 48/SR 754 W___RW 48/SR 754 W
+RW 47/SR 41 W___RW 47/SR 41 W
+RW 44/SR 43 W___RW 44/SR 43 W
+RW 40/SR 1120 W___RW 40/SR 1120 W
+RW 32/SR 44 W___RW 32/SR 44 W
+RW 36___RW 36
+RW 313/SR 927 SW___RW 313/SR 927 SW
+RW 320/SR 621 SW___RW 320/SR 621 SW
+4 G-13___4 G-13
+G 8___G 8
+RW 33/SR 936 SW___RW 33/SR 936 SW
+RW 329/SR 626 SW___RW 329/SR 626 SW
+RW 413/SR 927 SW___RW 413/SR 927 SW
+RW 38/SR 754 SW___RW 38/SR 754 SW
+RW 316/SR 716 SW___RW 316/SR 716 SW
+SR 516 SW/RW 326___SR 516 SW/RW 326
+RW 321/SR 616 SW___RW 321/SR 616 SW
+SR 527 SW/RW 335___SR 527 SW/RW 335
+RW 315/SR 920 SW___RW 315/SR 920 SW
+SR 68___SR 68
+RW 317/SR 916 SW___RW 317/SR 916 SW
+RW 327/SR 521 SW___RW 327/SR 521 SW
+SR 63___SR 63
+CR 1220___CR 1220
+CR 1616___CR 1616
+PR 48___PR 48
+CR 2320___CR 2320
+CR 2450___CR 2450
+PR 41___PR 41
+RW 415/SR 920 W___RW 415/SR 920 W
+PR 44___PR 44
+PR 70___PR 70
+Steam curl brush___Parná kefa na kulmovanie
+Steam curling tong___Parná kulma
+Multi mode/single mode___Multirežim/jednorazový režim
+Spiral plug___Špirálová zástrčka
+Expanding plug___Rozširujúca sa zástrčka
+T-profile___T-profil
+Air circulation operation___Prevádzka s cirkuláciou vzduchu
+Lamp holder with NSS bus contact___Držiak lampy s kontaktom zbernice NSS
+Connection element and lamp holder___Pripájací prvok a držiak svietidla
+Token ring___Tokenový krúžok
+Reflection meter OTDR 850 nm___Merač odrazu OTDR 850 nm
+Reflection meter OTDR 1300/850 nm___Merač odrazu OTDR 1300/850 nm
+Cat-5 certification set___Certifikačná súprava Cat-5
+Thermo-splice protection___Teplotná ochrana
+Crimp splice protection___Krimpovacia ochrana spojov
+Unprinted___Nepotlačené
+Spray extraction cleaner___Čistič extrakcie v spreji
+6 mm___6 mm
+AS 400___AS 400
+19 mm___19 mm
+50 mm___50 mm
+BNC, 50 Ohm___BNC, 50 Ohm
+BNC, 75 Ohm___BNC, 75 Ohm
+IBM 3270___IBM 3270
+BNC, 93 Ohm___BNC, 93 Ohm
+XLR___XLR
+Duct slider___Posuvník kanála
+Plant light___Svetlo závodu
+Steel wire grid___Mriežka z oceľového drôtu
+Fibre silicate plate___Silikátová doska s vláknami
+Closed with prestamping___Uzavretá s predlisovaním
+a/b-module___a/b-modul
+Power failure module___Modul pre výpadok napájania
+Answering machine module___Modul záznamníka
+Remote control device___Zariadenie na diaľkové ovládanie
+2 wings___2 krídla
+Empty housing___Prázdny kryt
+Cover disc___Krycí disk
+Radiator valve___Ventil radiátora
+Fondue___Fondue
+Wok___Wok
+Fondue/wok___Fondue/wok
+G8.5___G8.5
+Floor console___Podlahová konzola
+Circuit breaker installation unit, 3-fold___Inštalačná jednotka ističa, 3-násobná
+Stick___Tyč
+1-way system___1-cestný systém
+Galvanic copper plated___Galvanicky pokovovaný meďou
+Corrugated sheet roof___Strecha z vlnitého plechu
+"Symbol ""tip"""___"Symbol ""tip"""
+Power-cut-out switch___Vypínač napájania
+Exterior coupler___Vonkajšia spojka
+Lithium___Lítium
+CR 123 A___CR 123 A
+CR 1/3 N___CR 1/3 N
+Wide Flood___Široké zaplavenie
+4 mm___4 mm
+With bus bar 5-pole___S 5-pólovou zbernicou
+Round connector M 12___Okrúhly konektor M 12
+Rotating toaster___Otočný hriankovač
+a/b-/System telephone module___a/b-/Systémový telefónny modul
+Multi device connection___Pripojenie viacerých zariadení
+Multi device-/system connection___Pripojenie viacerých zariadení/systému
+System port___Systémový port
+S0-Port___S0-Port
+Natural gas___Zemný plyn
+Propane gas___Propánový plyn
+Toaster/sandwich toaster___Hriankovač/spekač
+Electronic label maker___Elektronický štítkovač
+Electronic cable labeller___Elektronický štítkovač káblov
+CD labelling system___Systém označovania CD
+Printer dependent___Závislosť od tlačiarne
+10x3 mm___10x3 mm
+Solder/plug-in___Spájkovanie/zapájanie
+Adjustable___Nastaviteľný
+Surface mounted/recessed mounted/partially recessed mounted___Povrchová montáž/zapustená montáž/čiastočne zapustená montáž
+Signalling panel___Signalizačný panel
+Series push button___Tlačidlo série
+Middle part___Stredná časť
+Cover___Kryt
+Base unit___Základná jednotka
+Leakage sensor___Snímač úniku
+Trunk line (local loop) module___Modul hlavnej linky (miestnej slučky)
+Duct installation unit___Jednotka pre inštaláciu potrubia
+50x50 mm___50x50 mm
+Duct outlet socket/switch___Zásuvka/vypínač výstupu z kanála
+Data-/telecommunications duct socket outlet___Výstupná zásuvka dátového/telekomunikačného kanála
+Name-plate with cover plate___Štítok s názvom a krycím štítkom
+Roll baker___Pečenie v rolke
+Headset___Náhlavná súprava
+Over-the-ear headset___Náhlavná súprava cez uši
+Pancake maker___Výrobník palaciniek
+Duct fire partitioning___Požiarna priečka kanála
+Wall duct___Stenové potrubie
+Hotel card___Hotelová karta
+2x socket outlet with protective contact___2x zásuvka s ochranným kontaktom
+4x socket outlet with protective contact___4x zásuvka s ochranným kontaktom
+1x change over switch___1x prepínač
+1x series switch___1x sériový spínač
+2x socket outlet with protective contact and overvoltage protection___2x zásuvka s ochranným kontaktom a prepäťovou ochranou
+2x RJ45 8(4)___2x RJ45 8(4)
+2x TAE 2x6 NF___2x TAE 2x6 NF
+2x antenna connection___2x anténna prípojka
+Steel sliding-sole___Oceľová posuvná podrážka
+Installation housing___Inštalačný kryt
+Lance___Lance
+Ni___Ni
+4-fold crown___4-násobná korunka
+Waffle___Waffle
+30° point___Hrot 30°
+Au___Au
+Flat head___Plochá hlava
+Polyoxymethylene (POM)___Polyoxymetylén (POM)
+Single room temperature regulator___Jednoduchý regulátor izbovej teploty
+G22___G22
+Media coupler___Spojka médií
+Banana bus___Banánová zbernica
+Signalling group terminal___Terminál signalizačnej skupiny
+Grounding block double___Uzemňovací blok dvojitý
+Double shielded___Dvojité tienenie
+Torx___Torx
+ESCON___ESCON
+Corner___Rohový
+Compact fluorescent lamp___Kompaktná žiarivka
+C2.4W___C2.4W
+EP10___EP10
+C0.6W___C0,6W
+Hose___Hadica
+Screw lamp holder___Skrutkový držiak žiarovky
+Earthing block___Uzemňovací blok
+Wet-/dry shaver/epilator___Holiaci strojček/epilátor na mokré/suché holenie
+M___M
+XL___XL
+XXL___XXL
+50___50
+54___54
+Headband___Čelenka
+4-pole___4-pólový
+Clamp/busbar___Svorka/priechodka
+S-profile___S-profil
+GZX4___GZX4
+X511___X511
+H4___H4
+P43t___P43t
+4 R 25 P___4 R 25 P
+Combi___Kombinovaný
+Silver oxide___Oxid strieborný
+CR 2___CR 2
+SR 731 SW___SR 731 SW
+SR 626___SR 626
+SR 936___SR 936
+8 LR 932___8 LR 932
+G3___G3
+Emergency lighting lamp holder___Držiak svietidla núdzového osvetlenia
+G24q-2/GX24q-2___G24q-2/GX24q-2
+Smart Media Card___Karta inteligentného média
+Pull switch lamp holder___Držiak lampy ťahového spínača
+Double lamp holder___Dvojitý držiak svietidla
+G24q-3/GX24q-3___G24q-3/GX24q-3
+G24d-1/GX24d-1___G24d-1/GX24d-1
+G24q-1/GX24q-1___G24q-1/GX24q-1
+G24d-2/GX24d-2___G24d-2/GX24d-2
+G24d-3/GX24d-3___G24d-3/GX24d-3
+Closing cap___Uzatvárací uzáver
+Support angle___Podporný uholník
+Signalling and operating panel___Signalizačný a ovládací panel
+R 03___R 03
+BA20s___BA20s
+Earthing connection___Uzemňovacia prípojka
+Roof antenna___Strešná anténa
+GY9.5___GY9.5
+GX9.5___GX9.5
+GY16___GY16
+G38___G38
+Cold adhesion method___Metóda priľnavosti za studena
+Chain hoist door opener___Otváranie dverí reťazovým kladkostrojom
+Tube mounting___Montáž rúrky
+"Symbol ""III"""___"Symbol ""III""
+T-distributor___T-distribútor
+STÖRUNG___STÖRUNG
+HS3___HS3
+PX13.5s___PX13.5s
+Tubing kit___Súprava rúrok
+Plug - protective housing___Zástrčka - ochranné puzdro
+60___60
+110___110
+24___24
+26___26
+XXXL___XXXL
+NPN___NPN
+Clamping bracket___Upínacia konzola
+BA7s___BA7s
+Soapstone___Mydlový kameň
+Cable tie___Káblové viazanie
+Galvanic/electrolytic zinc plated___Galvanický/elektrolytický pozinkovaný
+Caoutchouc___Caoutchouc
+Stand-by starting automatic___Pohotovostný štartovací automat
+Fax switch___Faxový spínač
+Bridging lip___Premostenie pera
+Retractable antenna___Výsuvná anténa
+Window clip-mount antenna___Okenná anténa s klipom
+Automatic antenna___Automatická anténa
+Television antenna___Televízna anténa
+Rear mount antenna___Zadná anténa
+Permanent metal filter___Trvalý kovový filter
+With round duct flag___S okrúhlou kanálovou vlajkou
+2 sides punched___2 strany s dierovaním
+3/8 inch___3/8 palca
+3/4 inch___3/4 palca
+1 inch___1 palec
+1 1/4 inch___1 1/4 palca
+Bitumen___Asfalt
+Rust solution___Roztok hrdze
+Fluid temperature monitoring___Monitorovanie teploty kvapaliny
+Brass/copper___Mosadz/meď
+Module rack___Stojan na moduly
+Freestanding model suitable for built-in___Voľne stojaci model vhodný na zabudovanie
+Duct shears___Nožnice na potrubia
+IEEE 802.11___IEEE 802.11
+Z___Z
+Plastic bag___Plastové vrecko
+42___42
+R-SMA___R-SMA
+Mini OTDR 1310/1550 nm___Mini OTDR 1310/1550 nm
+Touch screen___Dotykový displej
+Mini OTDR 850/1300 nm___Mini OTDR 850/1300 nm
+OTDR, basic device___OTDR, základné zariadenie
+Fa8___Fa8
+R17d___R17d
+R18s___R18s
+90-100___90-100
+80-89___80-89
+70-79___70-79
+60-69___60-69
+40-59___40-59
+20-39___20-39
+PG12-3___PG12-3
+G5.3___G5.3
+G24___G24
+GY5.3___GY5.3
+Tube, single-ended___Trubica, jednostranná
+E40-POS___E40-POS
+KX10s___KX10s
+KY10s___KY10s
+X515___X515
+B22d3___B22d3
+Medium Flood___Stredná povodeň
+E12___E12
+BA20d___BA20d
+S15s___S15s
+Twisted___Twisted
+Double___Dvojitý
+Foil___Fólia
+Braiding___Opletanie
+Pozidriv PZ___Pozidriv PZ
+Violet (lilas)___Fialová (lila)
+Gold-bronze___Zlato-bronzová
+Loudspeaker___Reproduktor
+Primed___Primed
+Low___Low
+High___Vysoký
+Positions___Pozície
+Venetian blind___Žalúzia
+Push button/touch control button___Tlačidlo/tlačidlo dotykového ovládania
+SAT___SAT
+Bore hole___Otvor na vŕtanie
+With perforation___S perforáciou
+Round/square___Okrúhly/štvorcový
+Plastic sheathed___S plastovým plášťom
+Nail___Klinec
+Nail screw___Skrutka s klincom
+Tube shape (closed)___Tvar rúrky (uzavretý)
+Profile (open)___Profil (otvorený)
+For plug-in___Pre zástrčku
+Drive in type___Typ Drive in
+Polyurethane___Polyuretán
+45°___45°
+90°___90°
+Post top___Vrchná časť stĺpika
+Floor standing___Stojan na podlahu
+Ball cylinder___Guľový valec
+Domed head___Klenutá hlava
+Inner square___Vnútorný štvorec
+Bus connection___Pripojenie zbernice
+Red-leaded___Červený vodič
+Surface tank___Povrchová nádrž
+Anodized___Eloxovaná
+Mini circuit breaker___Mini istič
+Screw fuse___Skrutková poistka
+Electrical___Elektrická
+Pneumatic___Pneumatický
+Stone___Kameň
+PTT___PTT
+Y-branch___Y-vetva
+Through branch___Priechodná vetva
+Double branch___Dvojitá vetva
+Illuminated (on)___Osvetlená (zapnutá)
+Control (off position)___Ovládanie (vypnutá poloha)
+End___Koniec
+Numbers___Čísla
+Pipe___Potrubie
+Partial door___Čiastočné dvere
+Inner door___Vnútorné dvere
+PG___PG
+T-handle___T-rukoväť
+Out folding crank___Vonkajšia sklopná kľučka
+Paper___Papier
+Bayonet___Bajonet
+Cable/tube___Kábel/rúrka
+Single locking lever___Jednoduchá uzamykacia páka
+Double locking levers___Dvojitá blokovacia páka
+Central clamp___Centrálna svorka
+Metric___Metrické
+Gas-thread___Plynový závit
+NPT___NPT
+Silver-plated___Postriebrené
+Diaphragm___Membrána
+Rubber ring___Gumový krúžok
+Cut-out ring___Výrezový krúžok
+Membrane___Membrána
+Knife blade fuse (NH)___Nožová poistka (NH)
+Central conduit box___Centrálna rozvodná skrinka
+Brush___Kefa
+RS-422___RS-422
+RS-485___RS-485
+Connector___Konektor
+Thread end___Koniec závitu
+Double clamp___Dvojitá svorka
+Half clamp___Polovičná svorka
+Angular profile___Uhlový profil
+U-profile___U-profil
+Stainless steel A2___Nerezová oceľ A2
+Stainless steel A4___Nerezová oceľ A4
+With inner thread___S vnútorným závitom
+C45 (steel)___C45 (oceľ)
+AG3 (aluminium)___AG3 (hliník)
+AG5 (aluminium)___AG5 (hliník)
+Insert___Vložka
+Impact___Rázová
+Axle shaft___Hriadeľ nápravy
+Straight ladder___Priamy rebrík
+Scaling ladder___Stupnicový rebrík
+Telescopic ladder___Teleskopický rebrík
+Hinged ladder___Závesný rebrík
+Induction lamp___Indukčná lampa
+RX7___RX7
+PGX12-2___PGX12-2
+Indirect___Nepriame
+Sticker___Nálepka
+Insert sheet/plate___Vkladací list/plocha
+Acrylic plate___Akrylová doska
+Escape route___Úniková cesta
+Side entry___Bočný vstup
+Post top/side entry___Horný/bočný vstup na stĺpik
+Central___Centrálna
+Peripheral___Periférne
+Surface mounting/recessed mounting___Povrchová montáž/zápustná montáž
+Line lighting system___Systém líniového osvetlenia
+Only single-sided___Len jednostranný
+Junction___Rozhranie
+S-shaped___V tvare písmena S
+Stripe___Pruh
+Multi colour___Viacfarebný
+H7___H7
+H8___H8
+H9___H9
+H10___H10
+H11___H11
+D1R___D1R
+D1S___D1S
+D2R___D2R
+D2S___D2S
+SV7-8___SV7-8
+SV8.5-8___SV8.5-8
+W2x4.5d___W2x4.5d
+W2.5x16d___W2.5x16d
+W2.5x16q___W2.5x16q
+W4.3x8.5___W4.3x8,5
+BAY9s___BAY9s
+BAX9s___BAX9s
+B8.4-12.5___B8.4-12.5
+B8.5d___B8.5d
+B8.3d___B8.3d
+B8.7d___B8.7d
+B10d-14.5___B10d-14,5
+BAU15s___BAU15s
+BAY15d___BAY15d
+BAZ15d___BAZ15d
+P26s___P26s
+PX14.5s___PX14.5s
+PX26d___PX26d
+PGJ19___PGJ19
+PGJ19-1___PGJ19-1
+PGJ19-2___PGJ19-2
+PGJ19-5___PGJ19-5
+PY20d___PY20d
+PX29t___PX29t
+PX43t___PX43t
+P20d___P20d
+P22d___P22d
+P29t___P29t
+P32d-2___P32d-2
+P32d-3___P32d-3
+PU43t___PU43t
+P45t___P45t
+L-profile___Profil L
+Slide-in bracket___Zásuvná konzola
+Claw___Pazúr
+Face out bracket (C-bracket)___Čelná konzola (C-konzola)
+Right-angled___Pravouhlá
+EVA___EVA
+Solid PE (HD-PE)___Pevný PE (HD-PE)
+Ethylene tetrafluoroethylene (ETFE)___Etyléntetrafluóretylén (ETFE)
+Polytetrafluoroethylene (PTFE)___Polytetrafluóretylén (PTFE)
+Fluorinated ethylene propylene (FEP)___Fluórovaný etylénpropylén (FEP)
+PA___PA
+Grooves___Drážky
+Fork shape___Tvar vidlice
+Pin shape___Tvar kolíka
+Nickel___Nikel
+Hook shape___Tvar háčika
+Special shape___Špeciálny tvar
+Up to 15 kV___Do 15 kV
+Up to 10 kV___Do 10 kV
+Shrink insulation PE___Zmršťovacia izolácia PE
+End connector___Koncový konektor
+Polyethylene___Polyetylén
+Thread___Závit
+Plug-in___Zástrčka
+Pliable corrugated___Poddajná vlnitá
+Pliable___Poddajný
+Clean room___Čistá miestnosť
+Cooling chamber___Chladiaca komora
+Aquarium/seawater___Akvárium/voda
+Aquarium/fresh water___Akvárium/sladká voda
+Terrarium___Terárium
+Food___Potraviny
+Ex-proof environment___Ex-odolné prostredie
+Hardening___Otužovanie
+ESX___ESX
+BAB___BAB
+FRB___FRB
+FMW___FMW
+EXT___EXT
+EXZ___EXZ
+EXN___EXN
+FNV___FNV
+BBF___BBF
+FTB___FTB
+FTD___FTD
+FTH___FTH
+FTE___FTE
+GBA___GBA
+GBD___GBD
+GBE___GBE
+GBF___GBF
+GBB___GBB
+GBC___GBC
+GBG___GBG
+GBH___GBH
+GBJ___GBJ
+GBK___GBK
+Aluminium plated glass___Sklo s hliníkovým pokovovaním
+Up to 30 kV___Do 30 kV
+Lighting for plants___Osvetlenie pre rastliny
+Ring shape___Kruhový tvar
+Special angle___Špeciálny uhol
+Reversing safety___Bezpečnosť pri spätnom chode
+Star-delta contactor___Stýkač hviezda-trojka
+PCB connection___Pripojenie na dosku plošných spojov
+Front fastening___Predné upevnenie
+Side mounting___Bočná montáž
+Integrable___Integrovateľný
+Adjustable roller lever___Nastaviteľná valčeková páka
+Flat plug-in connection___Ploché zástrčkové pripojenie
+Separate positioning___Samostatné polohovanie
+Direct attachment___Priame upevnenie
+Wedge Base W 2x4.6d___Klinová základňa W 2x4,6d
+Neon lamp___Neónová lampa
+Pull-release___Uvoľnenie ťahom
+Turn-release___Otočné uvoľnenie
+Key-release___Uvoľnenie kľúčom
+Delayed___Oneskorené
+Undelayed___Bez oneskorenia
+RC-element___RC-element
+Front installation___Predná inštalácia
+Magnetic drive___Magnetický pohon
+Motor drive___Motorový pohon
+Without button plate___Bez tlačidlovej dosky
+Surface mounting housing___Puzdro pre povrchovú montáž
+Insulation displacement connection___Izolačné pripojenie posunu
+With switch disconnector compact___S odpojovačom spínača kompaktný
+With safety switch disconnector___S bezpečnostným spínacím odpojovačom
+NH000___NH000
+NH1___NH1
+NH2___NH2
+S27___S27
+S33___S33
+Reversing starter___Spätný štartér
+Direct starter___Priamy štartér
+Star-delta starter___Štartér typu hviezda-trojuholník
+NH3___NH3
+NH4a___NH4a
+UP___UP
+Swivel___Otočný
+ISO 12___ISO 12
+ISO 16___ISO 16
+ISO 20___ISO 20
+ISO 25___ISO 25
+ISO 32___ISO 32
+ISO 40___ISO 40
+ISO 50___ISO 50
+ISO 63___ISO 63
+Ratchet model mechanical___Ráčnový model mechanický
+Hydraulic cutter head___Hydraulická rezacia hlava
+Hydraulic cutter head with foot pump___Hydraulická rezacia hlava s nožným čerpadlom
+Hydraulic cutter head with electrical pump___Hydraulická rezacia hlava s elektrickým čerpadlom
+Mechanic one hand___Mechanická jedna ruka
+Mechanic two hands___Mechanik s dvoma rukami
+Funnel___Lievik
+Spiral spring___Špirálová pružina
+Support clamp___Podporná svorka
+Door side panel___Bočný panel dverí
+Triangle___Trojuholník
+Rectangle___Obdĺžnik
+Control module___Ovládací modul
+Connecting-/branching terminal___Pripojovacia/odbočná svorka
+USB___USB
+Equipment mounted sensor___Snímač namontovaný na zariadení
+Movement sensor___Snímač pohybu
+Humidity sensor___Snímač vlhkosti
+Presence detector___Detektor prítomnosti
+Visualization___Vizualizácia
+Product data bank___Banka údajov o produkte
+Application software___Aplikačný softvér
+Planning-/put into operation software___Softvér na plánovanie/uvedenie do prevádzky
+German___Nemecký
+English___Angličtina
+Multi-lingual___Viacjazyčný
+IR-interface___IR-rozhranie
+Fibre optic interface___Optické rozhranie
+LAN-systems interface___Rozhranie LAN-systémov
+Telecommunications interface___Telekomunikačné rozhranie
+Light system interface/Dali___Rozhranie svetelného systému/Dali
+Energy meter___Merač energie
+Max. monitor___Max. monitor
+Convertible___Konvertibilný
+Current module___Aktuálny modul
+Signalling lamp___Signalizačné svietidlo
+ON___ON
+OFF___OFF
+DOWN___DOWN
+CLOSE___CLOSE
+FORWARD___FORWARD
+REVERSE___SPÄTNÝ CHOD
+RAISE___RAISE
+LOWER___DOLE
+RIGHT___VPRAVO
+LEFT___ĽAVÁ
+FAST___RÝCHLE
+SLOW___POMALÝ
+SCHNELL___SCHNELL
+TEST___TEST
+HALT___HALT
+ENTSPERREN___ENTSPERREN
+Short thumb-grip___Krátky úchop palcom
+Long turning handle___Dlhá otočná rukoväť
+TWIN end socket___Koncová zásuvka TWIN
+End socket___Koncová zásuvka
+Magnet mount antenna___Anténa s magnetickým držiakom
+Glass mount antenna___Anténa na sklo
+Bumper antenna___Nárazníková anténa
+Arbour antenna___Anténa v tvare altánku
+Fix___Upevnenie
+23 mm___23 mm
+40 mm___40 mm
+VHF/UHF/FM___VHF/UHF/FM
+Plug___Zástrčka
+5E___5E
+Crimp___Krimpovacia
+Single mode___Jednorazový režim
+Multi mode___Viacrežimový
+FC___FC
+LC___LC
+VF-45___VF-45
+MT/MPO___MT/MPO
+Epoxy___Epoxidové
+Fusion splice___Fúzny spoj
+Mechanical splice___Mechanický spoj
+Via the core___Cez jadro
+Via the cladding___Cez plášť
+CATV___CATV
+Mini-UHF___Mini-UHF
+FAKRA___FAKRA
+SMB___SMB
+MCX___MCX
+MMCX___MMCX
+FME___FME
+7/16___7/16
+SMA___SMA
+Male___Samec
+Female___Samice
+Crimp/crimp___Krimpovanie/skrutkovanie
+Solder/crimp___Spájka/konektor
+Crimp/solder___Krimpovanie/pájka
+RG 58___RG 58
+RG 59___RG 59
+RG 62___RG 62
+Snapable___Prichytiteľné
+2x RJ45___2x RJ45
+2x RJ12___2x RJ12
+2x RJ11___2x RJ11
+2x RJ10___2x RJ10
+2x RJ9___2x RJ9
+RJ45/RJ12___RJ45/RJ12
+RJ12/RJ10___RJ12/RJ10
+Insulated mounting___Izolovaná montáž
+Pulse tone___Impulzný tón
+Slow-action switch___Pomalý spínač
+PROFIBUS___PROFIBUS
+Adjustable rotary lever___Nastaviteľná otočná páka
+Bus (jack)___Zbernica (konektor)
+Without colouring___Bez zafarbenia
+No___Bez
+In accordance with EN 50265-2-1___V súlade s normou EN 50265-2-1
+E 30___E 30
+E 60___E 60
+E 90___E 90
+Rings___Krúžky
+Triple___Trojitý
+Quad___Štvorica
+Polyurethane (PUR)___Polyuretán (PUR)
+Rubber - ethylene propylene rubber (EPR)___Kaučuk - etylénpropylénový kaučuk (EPR)
+Rubber - ethylene-vinyl acetate (EVA)___Guma - etylénvinylacetát (EVA)
+Rubber - silicone rubber (SIR)___Guma - silikónová guma (SIR)
+Corrugated metal___Vlnitý kov
+Rubber - polychloroprene (CR)___Kaučuk - polychlórprén (CR)
+Class 1 = solid___Trieda 1 = pevná
+Class 2 = stranded___Trieda 2 = viazaný
+Class 5 = flexible___Trieda 5 = ohybná
+Class 6 = very flexible___Trieda 6 = veľmi pružná
+Sector-shaped___Sektorový tvar
+NiFe___NiFe
+Aeration and de-aeration___Odvzdušňovanie a odvzdušňovanie
+Window___Okno
+Duct___Kanál
+Door___Dvere
+G1___G1
+F5___F5
+F6___F6
+F7___F7
+F8___F8
+F9___F9
+Dust filter___Prachový filter
+Outside___Vonkajší
+Foot mounting___Montáž na nohy
+Base mounting___Montáž na základňu
+Continuous soldering tip___Priebežný spájkovací hrot
+Cartridge with dispense brush___Kazeta s dávkovacou kefou
+Can___Plechovka
+Lap-screen___Lap-screen
+PE/air___PE/vzduch
+Loose tube___Voľná rúrka
+Simplex___Simplex
+Tape___Páska
+FE 180___FE 180
+Hemp___Konope
+Aramid fibre___Aramidové vlákno
+Al/PE/PA___Al/PE/PA
+NiCr___NiCr
+Copper, bare___Meď, holá
+Copper, tinned___Meď, pocínovaná
+Unfilled polyether-urethane resin___Neplnená polyéter-uretánová živica
+Filled polyether-urethane resin___Plnená polyéter-uretánová živica
+Unfilled epoxy resin___Neplnená epoxidová živica
+Filled epoxy resin___Plnená epoxidová živica
+Unfilled polyurethane resin___Neplnená polyuretánová živica
+Filled polyurethane resin___Plnená polyuretánová živica
+0.6/1 kV___0,6/1 kV
+3.6/6 kV___3,6/6 kV
+6/10 kV___6/10 kV
+12/20 kV___12/20 kV
+18/30 kV___18/30 kV
+Transition___Prechod
+Cast resin___Odlievaná živica
+Heat-shrink___Teplom zmrštiteľná
+Cold-shrink___Zmršťovanie za studena
+Glass fibre texture___Textúra sklenených vlákien
+Carbon-paper___Uhlíkový papier
+Crepe paper___Krepový papier
+Foam material___Penový materiál
+Magnet___Magnet
+Texture___Textúra
+Sector-shaped 90°___Sektorový tvar 90°
+Sector-shaped 120°___Sektorový tvar 120°
+Not isolated___Nie je izolovaný
+Round 4 mm___Okrúhly 4 mm
+Round 5 mm___Okrúhly 5 mm
+Flat 2.8x0.5 mm___Ploché 2,8x0,5 mm
+Flat 2.8x0.8 mm___Ploché 2,8x0,8 mm
+Flat 4.8x0.5 mm___Ploché 4,8x0,5 mm
+Flat 4.8x0.8 mm___Ploché 4,8x0,8 mm
+Flat 6.3x0.8 mm___Ploché 6,3x0,8 mm
+Flat 7.7x0.8 mm___Ploché 7,7x0,8 mm
+Flat 9.5x1.2 mm___Ploché 9,5x1,2 mm
+Insulated cable connections___Izolované káblové prípojky
+M10___M10
+M12___M12
+Up to 230/380 V___Do 230/380 V
+Press fit___Lisované
+Screwed connection___Skrutkové pripojenie
+"Symbol ""light"""___"Symbol ""light"""
+"Symbol ""bell"""___"Symbol ""zvonček""
+"Symbol ""key/door"""___"Symbol ""kľúč/dvere""
+D-sub-miniature___D-sub-miniatúra
+UAE/IAE (ISDN)___UAE/IAE (ISDN)
+Safety power supply (green)___Bezpečnostné napájanie (zelené)
+Supplementary safety power supply (orange)___Doplnkové bezpečnostné napájanie (oranžová)
+Additional safety power supply (red)___Doplnkové bezpečnostné napájanie (červené)
+Full cover plate___Celá krycia doska
+Plug-in end socket___Zásuvková koncová zásuvka
+Control of electrical users___Ovládanie elektrických používateľov
+Chip card___Čipová karta
+Tronic___Tronic
+Auxiliary post___Pomocný stĺpik
+MOSFET___MOSFET
+Direct/transformer___Priamy/transformátor
+Hotel card system___Systém hotelových kariet
+(Alarm) clock___(Budík) hodiny
+Thermometer___Teplomer
+Top control unit___Horná riadiaca jednotka
+Ceiling mounted receiver___Stropný prijímač
+Basic element with control top unit___Základný prvok s ovládacou hornou jednotkou
+Y-piece___Y-diel
+Steel (mild steel rolled)___Oceľ (valcovaná mäkká oceľ)
+Steel (strip steel rolled)___Oceľ (valcovaná pásová oceľ)
+Rigid threaded___Pevný závitový
+Rigid non-threaded___Pevný bez závitu
+Heavy (class 4)___Ťažké (trieda 4)
+Extra heavy (Class 5)___Veľmi ťažké (trieda 5)
+Extra light (125 N)___Veľmi ľahké (125 N)
+Light (Class 2)___Ľahké (trieda 2)
+Medium (class 3)___Stredné (trieda 3)
+Polyamide 6___Polyamid 6
+Polyamide 12___Polyamid 12
+V0___V0
+V1___V1
+V2___V2
+HB___HB
+Not sheathed___Bez plášťa
+Steel braided___Oceľový oplet
+Stainless steel braiding___Oplet z nehrdzavejúcej ocele
+Pliable, self recovering___Pružný, samočinne sa obnovujúci
+No thread___Bez závitu
+External thread___Vonkajší závit
+Internal thread___Vnútorný závit
+Snap connection___Snap pripojenie
+PG11___PG11
+PG16___PG16
+PG21___PG21
+PG29___PG29
+PG36___PG36
+PG42___PG42
+PG48___PG48
+PG7___PG7
+PG9___PG9
+PG13.5___PG13.5
+No sealing___Bez tesnenia
+TPE___TPE
+Without coil___Bez cievky
+PVC-sheathed spring steel___Pružinová oceľ s PVC plášťom
+Plastic-sheathed spring steel___Pružinová oceľ s plastovým plášťom
+Helix of rigid plastic___Špirála z pevného plastu
+Very flexible___Veľmi pružná
+Extremely flexible___Extrémne pružná
+Steel wire, galvanized___Oceľový drôt, pozinkovaný
+Stainless steel wire___Drôt z nehrdzavejúcej ocele
+Megolon, flame retardant___Megolon, nehorľavý
+PVC, oil resistant___PVC, odolný voči olejom
+PVC, flame retardant___PVC, nehorľavé
+Special fibre sealing___Špeciálne tesnenie z vlákien
+Not specified___Nie je špecifikované
+With conducting characteristics___S vodivými vlastnosťami
+With electrical insulating characteristics___S elektroizolačnými vlastnosťami
+With conducting- and insulating characteristics___S vodivými a izolačnými vlastnosťami
+O-ring___O-krúžok
+Flat sealing___Ploché tesnenie
+PET (PolyEthyleenTerephtalate)___PET (polyetyléntereftalát)
+Through bore hole___Priechodný otvor
+Copolymer, cross-linked (XPE)___Kopolymér, zosieťovaný (XPE)
+Foil + braiding___Fólia + opletenie
+Double spatula___Dvojitá špachtľa
+Multifunctional shears___Multifunkčné nožnice
+Smith hammer___Kováčske kladivo
+Grooved hinge___Drážkovaný záves
+Power diagonal cutting nipper___Silové diagonálne strihacie kliešte
+Arbour clamping___Upínanie do altánku
+Notching___Vrubovanie
+Trapezoid compression___Trapézové stláčanie
+Square compression___Štvorhranné stlačenie
+Roll compression (shrinking)___Stláčanie valcov (zmršťovanie)
+Four mandrel compression___Stlačenie štyroch tŕňov
+Universal (exchangeable inserts)___Univerzálne (vymeniteľné vložky)
+Pipe cable lug and connectors___Koncovky a spojky pre káblové rúrky
+Cable compression lugs and connectors___Káblové kompresné koncovky a konektory
+Hand hydraulic___Ručné hydraulické
+Accumulator-hydraulic___Akumulátor-hydraulika
+Hydraulic compression head___Hydraulická kompresná hlava
+Blade saw___Pílový kotúč
+Hack saw___Háková píla
+SDS-max___SDS-max
+SDS-plus___SDS-plus
+Hexagon holder___Šesťhranný držiak
+Cylindrical plug-in axle___Valcová zásuvná os
+Multi mode 50/125___Multirežim 50/125
+Multi mode 62.5/125___Multirežim 62,5/125
+NiAl___NiAl
+Graphic___Grafický
+Counter___Počítadlo
+Conductivity measurement___Meranie vodivosti
+Delay time measuring___Meranie času oneskorenia
+Mechanic measuring___Mechanické meranie
+Pt100___Pt100
+Folding ladder___Skladací rebrík
+V-shape___Tvar V
+1/2 inch___1/2 palca
+1 1/2 inch___1 1/2 palca
+2 inch___2 palce
+3 inch___3 palce
+Hydraulic foot pump___Hydraulické nožné čerpadlo
+Pneumatic pressure transducer___Pneumatický snímač tlaku
+Hydraulic universal head___Hydraulická univerzálna hlava
+With current clamp meter/clamp adapter___S prúdovým meracím prístrojom/svorkovým adaptérom
+Direct current measuring___Meranie jednosmerného prúdu
+220V/accu___220 V/akumulátor
+2 mm___2 mm
+2 mm safety plug___Bezpečnostná zástrčka 2 mm
+4 mm safety plug___4 mm bezpečnostná zástrčka
+6 mm safety plug___6 mm bezpečnostná zástrčka
+Max. 50 V AC/120 V DC___Max. 50 V AC/120 V DC
+Double mounting bracket___Dvojitá montážna konzola
+Under-roof mast___Podstrešný stožiar
+SAT-analogue-TV (PAL)___SAT-analógová TV (PAL)
+SAT-digital-TV (QPSK, DVB-S)___SAT-digitálna televízia (QPSK, DVB-S)
+Terrestrial-analogue TV (PAL)___Pozemná analógová TV (PAL)
+Audio/Video (AV)___Audio/video (AV)
+Force and pressure test equipment___Zariadenia na testovanie sily a tlaku
+Force transducer___Snímač sily
+Universal measuring device___Univerzálne meracie zariadenie
+Two-hand safety control___Dvojručné bezpečnostné ovládanie
+Foot switch___Nožný spínač
+Hydraulic hose___Hydraulická hadica
+Coupling sleeve___Spojovacie puzdro
+Double nipple___Dvojitá vsuvka
+Video-camera microphone___Mikrofón videokamery
+Kitchen radio___Kuchynské rádio
+Plasma___Plazma
+Stereo___Stereo
+Conventional___Konvenčné
+Multimedia card___Multimediálna karta
+SD card___SD karta
+Memory stick___Pamäťová karta
+Flash card___Flash karta
+MICROMV___MICROMV
+MiniDV___MiniDV
+Digital8___Digital8
+With cord___So šnúrou
+Mixer___Mixér
+Home cinema system___Systém domáceho kina
+CD___CD
+DVD___DVD
+Cassette___Kazeta
+Hi8___Hi8
+Monitor___Monitor
+Digital videocassette (DV)___Digitálna videokazeta (DV)
+Suitable for built-under mounting___Vhodný na zabudovanie do podstavca
+Fully integrable___Plne integrovateľný
+G___G
+Without time preselection___Bez časovej predvoľby
+One preselected time___Jeden predvolený čas
+Exhaust air___Odsávanie vzduchu
+Condensation___Kondenzácia
+Microwave solo___Mikrovlnná rúra sólo
+Microwave + grill___Mikrovlnná rúra + gril
+Microwave combination___Kombinovaná mikrovlnná rúra
+Suitable for built-in___Vhodné pre vstavané
+Inbuilt___Vstavaná
+Yes___Áno
+Switch-off function___Funkcia vypnutia
+1-door___1-dverová
+2-doors___2-dvere
+3-doors___3-dvere
+4-doors___4-dvere
+Side-by-side___Side-by-side
+Free-standing___Voľne stojace
+Possible with accessories___Možné s príslušenstvom
+Possible and included___Možné a v cene
+T___T
+Left___Vľavo
+Right___Vpravo
+Sliding connection___Posuvné pripojenie
+Fixed mounted with hinge hole___Pevná montáž s otvorom pre záves
+12 V___12 V
+24 V___24 V
+Gas___Plyn
+Visible___Viditeľné
+Audible___Zvukový
+Both visible and audible___Viditeľné aj počuteľné
+No signal___Žiadny signál
+Fridge___Chladnička
+Freezer___Mraznička
+Fully extendible___Plne vysúvateľná
+Cooking cart___Vozík na varenie
+Telescopic shelf___Teleskopická polica
+Swing door___Výklopné dvere
+Glass front___Sklenená predná časť
+7-step___7-stupňový
+12-step___12-stupňový
+Free standing grill___Voľne stojaci gril
+Grill table___Grilovací stolík
+Lithium battery___Lítiová batéria
+Solar___Solárny
+Non-stick___Nepriľnavý povrch
+Hygienic filter___Hygienický filter
+Turbo___Turbo
+Electro___Elektro
+Concealed___Skrytý
+Storage heater___Zásobníkový ohrievač
+Peripheral ventilation heater___Periférny ventilačný ohrievač
+Ventilation-storage heater___Ventilačno-skladovací ohrievač
+Radio remote control___Rádiové diaľkové ovládanie
+Cable remote control___Káblové diaľkové ovládanie
+2 steps manual___2 kroky manuálne
+2 steps automatic___2 stupne automatické
+Pressure switch-off___Tlakové vypínanie
+2 handles___2 rukoväte
+1 lever___1 páka
+Integrated tap___Integrovaný kohútik
+PU foam___PU pena
+Soft foam___Mäkká pena
+Water tap___Vodovodný kohútik
+Hot water tank___Zásobník na teplú vodu
+Bidet___Bidet
+Surface mounted battery___Povrchová batéria
+Hot water-free standing storage tank___Stojatý zásobník na teplú vodu bez vody
+Vertical heating boiler___Vertikálny vykurovací kotol
+Hanging boiler___Závesný kotol
+Combi accumulator___Kombinovaný akumulátor
+Universal storage___Univerzálny zásobník
+Hard foam___Tvrdá pena
+Moulded parts___Tvarované diely
+Electro central heating___Elektro ústredné kúrenie
+Spread controller___Regulátor rozptylu
+Universal controller___Univerzálny regulátor
+Central controller___Centrálny regulátor
+1/N/PE~220-240 V___1/N/PE~220-240 V
+Freeze protection convector___Konvektor s ochranou proti zamrznutiu
+Low-temperature convector___Nízkoteplotný konvektor
+Floor warming___Podlahové vykurovanie
+Thin-bed heating___Vykurovanie tenkého lôžka
+Floor direct heater___Priame podlahové vykurovanie
+Floor storage heater___Podlahové akumulačné vykurovanie
+Sewed___Šité
+Pasted___Vložené
+Element connectors clamped___Spojovacie prvky upnuté
+Central air supply and -exhaust___Centrálny prívod a odvod vzduchu
+Peripheral supply and exhaust___Periférny prívod a odvod vzduchu
+Peripheral supply/central exhaust___Periférny prívod/centrálny odvod
+Cross counter current unit___Krížová protiprúdová jednotka
+Open air___Otvorený vzduch
+Set electro storage heater___Nastavený elektroakumulačný ohrievač
+Cradle radiator___Radiátor kolísky
+PCB___DPS
+Heating cable___Vykurovací kábel
+Horizontal/vertical___Horizontálne/vertikálne
+Charging time >8h___Čas nabíjania >8 h
+Charging time <8h___Čas nabíjania <8 h
+Heating circuit___Vykurovací obvod
+Hot water heating___Ohrev teplej vody
+Tube collector___Rúrkový kolektor
+Flat collector___Plochý kolektor
+Integrated into roof plane___Integrovaný do strešnej roviny
+Die-casting___Odlievanie pod tlakom
+Approach electronics___Prístupová elektronika
+Double-/single circuit___Dvojitý/jednosmerný obvod
+Universal flange___Univerzálna príruba
+Heat exchanger___Výmenník tepla
+3/N/PE~400 V___3/N/PE~400 V
+Water___Voda
+Brine___Solanka
+R407 C___R407 C
+R290___R290
+R404 A___R404 A
+R410 A___R410 A
+Split___Split
+Circulation reversal___Reverzný obeh
+Hot gas bypass___Obtok horúceho plynu
+Temperature sensor___Snímač teploty
+Climate installation___Klimatická inštalácia
+Solar systems___Solárne systémy
+Heat pump systems___Systémy tepelných čerpadiel
+Ventilation systems___Ventilačné systémy
+Buffer storage tank___Vyrovnávacia nádrž
+Brine distributor___Distribútor soľanky
+Brine mounting kit___Montážna súprava na soľanku
+Installation kit___Inštalačná súprava
+Hot water preparation___Príprava teplej vody
+Partial load range___Rozsah čiastočného zaťaženia
+Electrical reheating___Elektrický dohrev
+Hydraulic instantaneous water heater___Hydraulický prietokový ohrievač vody
+Electronic instantaneous water heater___Elektronický prietokový ohrievač vody
+Connection kit___Pripojovacia súprava
+Mounting kit hot water preparation___Montážna súprava príprava teplej vody
+Mounting kit electro reheating___Montážna súprava elektro ohrev
+Air conditioner___Klimatizácia vzduchu
+Air heater system___Systém ohrievača vzduchu
+Repair aid___Pomôcka na opravu
+Flat-/tube collector___Plochý/trubicový kolektor
+Mineral wool___Minerálna vlna
+Copper, zinc plated___Meď, pozinkovaná
+Sound-muffling cover___Kryt tlmiaci zvuk
+Fundament sound-absorption___Fundamentálna absorpcia zvuku
+Wall-sound insulation___Zvuková izolácia stien
+FRA___FRA
+Soft___Mäkká
+Double-envelope___Dvojitá obálka
+Tube, double-ended___Rúrka s dvojitým koncom
+S15___S15
+S30___S30
+S45___S45
+S90___S90
+S105___S105
+S120___S120
+S135___S135
+h15___h15
+h30___h30
+h45___h45
+h120___h120
+h135___h135
+se90___se90
+se30___se30
+P-90+45___P-90+45
+P4___P4
+P20___P20
+Any___Akýkoľvek
+Pear-shape___Tvar hrušky
+Insects___Hmyz
+Croco___Croco
+Wind gust___Nárazový vietor
+Top___Top
+S5.7___S5.7
+General___Všeobecné
+W2.1x9.5d___W2.1x9.5d
+Lens-shape___Tvar šošovky
+Sphere-shape___Tvar gule
+Olive-shape___Olivový tvar
+G3.9___G3.9
+GX7.9___GX7.9
+G9.5___G9.5
+GZ9.5___GZ9.5
+GY9.6___GY9.6
+P28s___P28s
+P15___P15
+S130___S130
+BDM___BDM
+BRL/BCD___BRL/BCD
+BTL___BTL
+BTP___BTP
+BTR___BTR
+BVM___BVM
+CYX___CYX
+DDS___DDS
+DED___DED
+DNF___DNF
+DWZ___DWZ
+DXX___DXX
+DZA___DZA
+DZJ___DZJ
+EFM___EFM
+EFP___EFP
+EGR___EGR
+EGY___EGY
+EHA___EHA
+EHJ___EHJ
+EHE/ETA___EHE/ETA
+EJA___EJA
+EJL___EJL
+EJM___EJM
+EKE___EKE
+EKM___EKM
+ELC___ELC
+ELC/FA___ELC/FA
+ELD/EJN___ELD/EJN
+ELH___ELH
+EME___EME
+EMG___EMG
+ENH___ENH
+ENX___ENX
+EPZ/DJT___EPZ/DJT
+ERV___ERV
+ESA/FDH___ESA/FDH
+EVB/BRJ___EVB/BRJ
+EVC/FGX___EVC/FGX
+EVD___EVD
+EVM___EVM
+EVX/GX___EVX/GX
+EWF___EWF
+EXJ___EXJ
+EXR___EXR
+EXW___EXW
+EYB___EYB
+FAD___FAD
+FCM___FCM
+FCR___FCR
+FDS/DZE___FDS/DZE
+FDT___FDT
+FEL___FEL
+FGP/EMG___FGP/EMG
+FHM___FHM
+FHS___FHS
+FHX___FHX
+FJX___FJX
+FKB___FKB
+FKK/FKP___FKK/FKP
+FKY___FKY
+FKZ___FKZ
+FLK___FLK
+FLKW___FLKW
+FLT___FLT
+FNT___FNT
+FTL___FTL
+FTM___FTM
+FRH___FRH
+FRJ___FRJ
+FRL___FRL
+FSK___FSK
+FSL___FSL
+FVA___FVA
+FVB___FVB
+FVC___FVC
+FWP___FWP
+FWR___FWR
+FKD___FKD
+FKH___FKH
+FKJ___FKJ
+FWS___FWS
+FWT___FWT
+FXL___FXL
+GAB___GAB
+GAC___GAC
+GAD___GAD
+GCV/GVH___GCV/GVH
+GCW/GCJ___GCW/GCJ
+GCK/GCT___GCK/GCT
+GCL/GCS___GCL/GCS
+GED___GED
+GJT___GJT
+GKV___GKV
+GLA___GLA
+GLB___GLB
+Biplane___Dvojplošník
+M-shape___Tvar M
+Double filament___Dvojité vlákno
+Mono-plane___Jednoplošný
+Single filament___Jedno vlákno
+Halogen metal___Kovový halogén
+Cool beam reflector___Reflektor s chladným lúčom
+BA15s___BA15s
+W2.5x9.5d___W2.5x9.5d
+C21W___C21W
+C5W___C5W
+H6W___H6W
+H12___H12
+H21W___H21W
+HB3___HB3
+HB3A___HB3A
+HB4___HB4
+HB4A___HB4A
+HS1___HS1
+HS2___HS2
+R2___R2
+P21/4W___P21/4W
+P21/5W___P21/5W
+P21W___P21W
+P27W___P27W
+PY21W___PY21W
+PY27/7W___PY27/7W
+R5W___R5W
+R10W___R10W
+S1___S1
+S2___S2
+S3___S3
+T4W___T4W
+W2.3W___W2.3W
+W3W___W3W
+W5W___W5W
+W16W___W16W
+W21W___W21W
+W21/5W___W21/5W
+WP21W___WP21W
+WPY21W___WPY21W
+WY2.3W___WY2.3W
+WY5W___WY5W
+Without ECE-category___Bez kategórie ECE
+P27/7W___P27/7W
+Yellowish___Žltkastý
+Bluely___Modrá
+Only ON___Iba zapnutý
+On or off___Zapnuté alebo vypnuté
+Without hood___Bez krytu
+Transport - hoist___Preprava - zdvihák
+RUNNING___PREVÁDZKA
+FAULT___FAULT
+RESET___RESET
+LANGSAM___LANGSAM
+BETRIEB___BETRIEB
+EINRICHTEN___EINRICHTEN
+ADR___ADR
+Antenna/satellite technique___Anténna/satelitná technika
+1 BNC Video___1 BNC Video
+1 BNC Audio___1 BNC Audio
+1 F-Connector___1 F-konektor
+1 Cinch Audio___1 Cinch Audio
+2 BNC Video___2 BNC Video
+2 BNC Audio___2 BNC Audio
+1 HF___1 HF
+IBM AS400___IBM AS400
+1-2/3-6___1-2/3-6
+3-6/4-5___3-6/4-5
+1-6/5-9___1-6/5-9
+LC-Duplex___LC-Duplex
+E2000 compact___E2000 compact
+FC/PC___FC/PC
+Conductor pigtail___Vodičový pigtail
+Cable pigtail___Káblový pigtail
+Put-on___Nasadenie na
+RJ10 4(4)___RJ10 4(4)
+RJ9 4(2)___RJ9 4(2)
+1:1___1:1
+Crossed___Krížený
+Moulded-on___Nasadené na
+4x2___4x2
+2x2___2x2
+1x4___1x4
+2x4___2x4
+GLC___GLC
+Piezo___Piezoelektrické zariadenie
+Flintstone___Flintstone
+Soldering iron direct___Priama spájkovačka
+Workstation___Pracovná stanica
+Viscose___Viskóza
+Steel wool___Oceľová vlna
+Inside and outside___Vnútri a vonku
+Touch operated lock___Dotykový zámok
+Key lock___Zámok na kľúč
+Chisel shaped___V tvare dláta
+Skirting convector___Konvektor na lištách
+Measuring adapter___Merací adaptér
+Screens___Obrazovky
+Glass surfaces___Sklenené plochy
+Printer mechanics___Mechanika tlačiarne
+Tubes___Rúrky
+Support___Podpora
+Welds___Zvary
+Insulated tube cable lug and connector___Izolované káblové koncovky a konektor
+Cutting insert___Rezná vložka
+Inclined___Šikmé
+DIN rail (top hat rail) 35/15 mm___DIN lišta (horná klobúková lišta) 35/15 mm
+DIN rail (top hat rail) 35/7.5 mm___DIN lišta (horná klobúková lišta) 35/7,5 mm
+G-rail___G lišta
+Direct mounting___Priama montáž
+Special profile___Špeciálny profil
+5V___5V
+Pluggable___Možnosť pripojenia
+Cu/CuNi44___Cu/CuNi44
+Fe/CuNi44___Fe/CuNi44
+NiCr/CuNi44___NiCr/CuNi44
+NiCrSi/NiSi___NiCrSi/NiSi
+NiCr/Ni___NiCr/Ni
+E-Cu/A-Cu___E-Cu/A-Cu
+S-Cu/E-Cu___S-Cu/E-Cu
+Sliding___Posuvné
+3x10 mm___3x10 mm
+6x6 mm___6x6 mm
+5x20 mm___5x20 mm
+Bichromated___Bichrómované
+Round hole___Okrúhly otvor
+1/N~230 V___1/N~230 V
+5x25 mm___5x25 mm
+6.3x32 mm___6,3x32 mm
+Cs___Cs
+gL/gG (cable protection/equipment protection)___gL/gG (ochrana kábla/ochrana zariadenia)
+aM (switchgear protection)___aM (ochrana rozvádzača)
+gR (general purpose semiconductor protection)___gR (ochrana polovodičov na všeobecné účely)
+aR (accompanied semiconductor protection)___aR (sprievodná polovodičová ochrana)
+NHC00___NHC00
+000___000
+DI___DI
+Sorted___Zoradené
+With inscription___S nápisom
+Round duct___Okrúhly kanál
+Metal housing___Kovové puzdro
+Plastic housing___Plastové puzdro
+Ceiling mounting___Stropná montáž
+Pitched roof___Šikmá strecha
+1/N/PE~230 V___1/N/PE~230 V
+DN 15___DN 15
+DN 20___DN 20
+DN 25___DN 25
+DN 30___DN 30
+Ex-proof___Ex-proof
+3/4 inch external___3/4 palca vonkajší
+UV___UV
+PSFc20-6___PSFc20-6
+2G11 (4-pins)___2G11 (4-kolíkový)
+G23 (2-pins)___G23 (2 kolíky)
+GY6.35-15___GY6.35-15
+K23s___K23s
+KX23d___KX23d
+Ring mirror___Krúžkové zrkadlo
+2-pole___2-pólové
+Equipment mounted socket outlet___Zásuvka namontovaná na zariadení
+Combination___Kombinovaná
+400 V___400 V
+Screw less terminal___Svorka bez skrutky
+Anti-kink sleeve___Objímka proti zalomeniu
+75x75 mm___75x75 mm
+130x130 mm___130x130 mm
+CEE 16 A___CEE 16 A
+CEE 32 A___CEE 32 A
+Wall mounted socket___Nástenná zásuvka
+Equipment mounted socket outlet (under plaster)___Zásuvka na zariadenie (pod omietkou)
+Flush mounted socket with UP box___Zásuvka pod omietku s krabicou UP
+Double socket outlet___Dvojitá zásuvka
+Closed cover___Uzavretý kryt
+Cover with text label___Kryt s textovým štítkom
+Cover with text label and lock___Kryt s textovým štítkom a zámkom
+Low voltage___Nízke napätie
+Built-up device plug___Zabudovaná zástrčka zariadenia
+Switchable wall socket___Prepínateľná zásuvka
+Without on/off switch___Bez vypínača
+With on/off switch, without locking___S vypínačom, bez blokovania
+Electrical locking___Elektrické blokovanie
+Electronic locking___Elektronické blokovanie
+Auxiliary contacts___Pomocné kontakty
+Special switch___Špeciálny spínač
+Mixed___Zmiešané
+Resistor___Rezistor
+Suppressor diode___Tlmiaca dióda
+Gas tube conductor___Vodič plynovej trubice
+Free configurable___Voľne konfigurovateľný
+Screw less___Menej skrutiek
+Transverse connector___Priečny konektor
+Box connector___Krabicový konektor
+Vertical connector___Vertikálny konektor
+Cable bridge___Káblový mostík
+Push-in type jumper bar___Prepojovacia lišta typu Push-in
+Wire commoning chain___Spoločný reťazec vodičov
+Separating bridger___Oddeľovací mostík
+Switching bridge___Prepínací mostík
+Reducing connector___Redukčný konektor
+Blade fuse___Čepeľová poistka
+G-fuse 5x25 mm___G-poistka 5x25 mm
+G-fuse 5x20 mm___G-poistka 5x20 mm
+G-fuse 5x30 mm___G-poistka 5x30 mm
+DIN rail (top hat rail) 35 mm___DIN lišta (horná klobúková lišta) 35 mm
+DIN rail (top hat rail) 15 mm___DIN lišta (horná klobúčiková lišta) 15 mm
+DIN rail (top hat rail) mounting rail 75 mm___Montážna lišta DIN (top hat rail) 75 mm
+15x6 mm___15x6 mm
+Bus system___Zbernicový systém
+1+n system___Systém 1+n
+Multi-wire system___Viacvodičový systém
+SN___SN
+Standing___Stojan
+Wall lead-through___Priechodka cez stenu
+Plug-in___Zásuvka
+Switch (connect)___Spínač (pripojiť)
+DECT-module___DECT-modul
+UPO-module___Modul UPO
+Fast beat___Rýchly rytmus
+Slow beat___Pomalý rytmus
+Single beat___Jeden úder
+Alternating___Striedavý
+2-wire___2-vodičový
+Tunnel___Tunel
+Radio antenna___Rádiová anténa
+Radio-/television antenna___Rozhlasová/televízna anténa
+One-wing, left and right___Jednokrídlová, ľavá a pravá
+One-wing, left only___Jednokrídlová, len ľavá
+One-wing, right only___Jednokrídlová, len pravá
+Gate stop___Zarážka brány
+Internal end switch___Vnútorný koncový spínač
+230 V AC___230 V AC
+SAT audio sub carriers___Subnosiče zvuku SAT
+Cable-digital-TV (QAM, DVB-C)___Káblová digitálna televízia (QAM, DVB-C)
+Green/clear___Zelená/jasná
+Xenon___Xenón
+Terrestrial-digital TV (COFDM, DVB-T)___Pozemná digitálna TV (COFDM, DVB-T)
+Horn___Horn
+Sound generator___Generátor zvuku
+Digital___Digitálny
+Offset___Offset
+Twin universal___Dvojitý univerzálny
+Single universal___Jednoduchý univerzálny
+1 Cinch Video___1 Cinch Video
+Halogen___Halogén
+Fresnel lens___Fresnelova šošovka
+Glass optics___Sklenená optika
+T1 to T2___T1 až T2
+T1 to T3___T1 až T3
+T1 to T4___T1 až T4
+T1 to T5___T1 až T5
+T1 to T6___T1 až T6
+Distribute___Distribuovať
+Convert___Previesť
+Expand___Rozšíriť
+Signalling___Signalizácia
+Controlling___Ovládanie
+AM___AM
+Chamfered___Zošikmené
+Pencil point___Hrot ceruzky
+Side___Strana
+Adapter set for covers___Súprava adaptérov pre kryty
+1x16A3p230V___1x16A3p230V
+2x16A3p230V___2x16A3p230V
+3x16A3p230V___3x16A3p230V
+>4x16A3p230V___>4x16A3p230V
+1x16A5p400V___1x16A5p400V
+2x16A5p400V___2x16A5p400V
+3x16A5p400V___3x16A5p400V
+4x16A5p400V___4x16A5p400V
+>4x16A5p400V___>4x16A5p400V
+1x16A xp xxxV___1x16A xp xxxV
+2x16A xp xxxV___2x16A xp xxxV
+1x32A5p400V___1x32A5p400V
+2x32A5p400V___2x32A5p400V
+3x32A5p400V___3x32A5p400V
+4x32A5p400V___4x32A5p400V
+>4x32A5p400V___>4x32A5p400V
+1x32A xp xxxV___1x32A xp xxxV
+2x32A xp xxxV___2x32A xp xxxV
+3x32A xp xxV___3x32A xp xxV
+4x32A xp xxxV___4x32A xp xxxV
+1 cable (branch line)___1 kábel (odbočka)
+2 cables (ring line)___2 káble (kruhové vedenie)
+Built-up plug___Zabudovaná zástrčka
+Feeder cable with plug___Prívodný kábel so zástrčkou
+Portable___Prenosný
+Hangable___Možnosť zavesenia
+Sub floor___Podlaha
+Energy bollard___Energetický stĺpik
+Roof feed-through___Strešný priechod
+Sealing for roof feed-through___Tesnenie pre strešný priechod
+Mast clamp___Svorka stožiara
+Mast covering cap___Krycia čiapka stožiara
+Mast mounting set___Montážna súprava stožiara
+Sealing plug___Tesniaca zátka
+Mast spacing support___Podpera rozstupu stožiara
+Analogue___Analógové
+Pointer___Ukazovateľ
+Forehead___Čelo
+Ear___Ucho
+Décolletage___Dekolt
+R134A___R134A
+Gypsum fibre board___Sadrovláknitá doska
+Spline shank___Drážkovaný driek
+SDS-max socket___Zásuvka SDS-max
+SDS-plus socket___Zásuvka SDS-plus
+SDS-top socket___Zásuvka SDS-top
+Square___Štvorhran
+>4x32A xp xxxV___>4x32A xp xxxV
+1x63A5p400V___1x63A5p400V
+2x63A5p400V___2x63A5p400V
+3x63A5p400V___3x63A5p400V
+4x63A5p400V___4x63A5p400V
+>4x63A5p400V___>4x63A5p400V
+1x63A xp xxxV___1x63A xp xxxV
+2x63A xp xxxV___2x63A xp xxxV
+3x63A xp xxxV___3x63A xp xxxV
+4x63A xp xxxV___4x63A xp xxxV
+>4x63A xp xxxV___>4x63A xp xxxV
+1x125A5p400V___1x125A5p400V
+2x125A5p400V___2x125A5p400V
+3x125A5p400V___3x125A5p400V
+4x125A5p400V___4x125A5p400V
+>4x125A5p400V___>4x125A5p400V
+1x125A xp xxxV___1x125A xp xxxV
+2x125A xp xxxV___2x125A xp xxxV
+3x125A xp xxxV___3x125A xp xxxV
+4x125A xp xxxV___4x125A xp xxxV
+4x16A3p230V___4x16A3p230V
+>4x125A xp xxxV___>4x125A xp xxxV
+Over current switch___Prepínač nadmerného prúdu
+Over current switch/D0-system___Nadprúdový spínač/D0-systém
+Earth leakage switch with IFN 30 mA (standard)___Spínač zemného zvodu s IFN 30 mA (štandard)
+Earth leakage switch with IFN 300 mA___Spínač zemného zvodu s IFN 300 mA
+Earth leakage switch with IFN 500 mA___Spínač zemného zvodu s IFN 500 mA
+12-24 V AC/DC___12-24 V AC/DC
+8-18 V DC___8-18 V DC
+Via digital time switch___Cez digitálny časový spínač
+External power adaptor required___Potrebný externý napájací adaptér
+External power adaptor not required___Externý napájací adaptér nie je potrebný
+Electronic with switching-off pre-warning___Elektronický s predbežným upozornením na vypnutie
+3 and 4 wire configuration___Konfigurácia s 3 a 4 vodičmi
+3 wire configuration___3-vodičová konfigurácia
+4 wire configuration___4vodičová konfigurácia
+Flickering___Blikanie
+Dimming up to 50 %___Stmievanie do 50 %
+Dimming up to 0 %___Stmievanie do 0 %
+Flickering and dimming___Blikanie a stmievanie
+Repetitive___Opakované
+Repetitive + continuous light___Opakované + nepretržité svetlo
+Repetitive + continuous light + time extension___Opakované + nepretržité svetlo + predĺženie času
+Electronic switch___Elektronický spínač
+Mechanical switch___Mechanický spínač
+Electronic series switch___Elektronický sériový spínač
+Mechanical series switch___Mechanický sériový spínač
+Electronic group switch___Elektronický skupinový spínač
+Mechanical group switch___Mechanický skupinový spínač
+Electronic for centralized control___Elektronický pre centralizované ovládanie
+Mechanical for centralized control___Mechanický pre centralizované ovládanie
+Electronic with release delay___Elektronický s oneskorením uvoľnenia
+PLC - extension___PLC - rozšírenie
+PLC - PC___PLC - PC
+PLC programming device___Programovacie zariadenie PLC
+PLC - PLC___PLC - PLC
+PLC - other devices___PLC - iné zariadenia
+Optional___Voliteľné
+Not available___Nie je k dispozícii
+Spring clamp connection___Pripojenie pružinovou svorkou
+Screw-/spring clamp connection___Pripojenie skrutka/pružinová svorka
+Wrapped connection___Ovinuté pripojenie
+Clip connection___Pripojenie pomocou svorky
+Soldering flag connection___Pripojenie spájkovacou vlajkou
+Insulation piercing connection___Pripojenie na prepichnutie izolácie
+Weld___Zvar
+TFT___TFT
+STN___STN
+Box___Box
+Rack___Stojan
+Tower___Veža
+Desktop___Stolný počítač
+Intel Pentium 3___Intel Pentium 3
+Intel Pentium 4___Intel Pentium 4
+Athlon XP___Athlon XP
+Cyrix___Cyrix
+Windows 9x___Windows 9x
+Windows NT___Windows NT
+Embedded Windows NT___Vstavaný systém Windows NT
+Embedded Windows XP___Vstavaný systém Windows XP
+Windows 2000___Windows 2000
+Windows XP___Windows XP
+Windows ME___Windows ME
+Windows CE___Windows CE
+Linux___Linux
+SMATV-system___SMATV-systém
+Portable device___Prenosné zariadenie
+Notebook___Notebook
+Line oriented___Riadkovo orientované
+Graphic oriented___Graficky orientovaný
+Not required___Nevyžaduje sa
+Enclosed___Uzavreté
+0/14/18 V 22 kHz___0/14/18 V 22 kHz
+0/14/18 V DiSEqC___0/14/18 V DiSEqC
+Premiere___Premiere
+Viaccess___Viaccess
+Irdeto___Irdeto
+PC interface___Rozhranie PC
+Module rack extension___Rozšírenie modulu do stojana
+Broadband amplifier___Širokopásmový zosilňovač
+OPC server___OPC server
+Active X___Aktívny X
+PCI+___PCI+
+14/18 V, DiSEqC, 0/22 kHz___14/18 V, DiSEqC, 0/22 kHz
+0/12 V___0/12 V
+Vacuum fluorescence___Vákuová fluorescencia
+LCD with background illumination___LCD displej s podsvietením
+LCD without background illumination___LCD bez osvetlenia pozadia
+Sat range diplexer/filter___Diplexer/filter pre satelitný rozsah
+Feed-in diplexer SAT/terrestrial___Vstupný diplexer SAT/pozemský
+Remote feed diplexer___Diaľkový prívodný diplexer
+Trap filter___Zachytávací filter
+CRT___CRT
+1-channel___1-kanálový
+2-channel___2-kanálový
+3-channel___3-kanálový
+Polarized___Polarizovaný
+Polarity free___Bez polarizácie
+Mono stable___Mono stabilný
+Bistable___Bistabilný
+Remanence___Remanencia
+Simple contact___Jednoduchý kontakt
+Double contact___Dvojitý kontakt
+For AC-current system___Pre striedavý prúdový systém
+For three-phase supply system___Pre trojfázový napájací systém
+For DC-current system___Pre jednosmerný prúdový systém
+For mixed system___Pre zmiešaný systém
+Type III A___Typ III A
+Type III B___Typ III B
+Type III C___Typ III C
+IBM cabling system___Systém kabeláže IBM
+Hinged lid___Odklápacie veko
+20x5 mm___20x5 mm
+DIN rail (top hat rail) 32 mm___Lišta DIN (horná klobúková lišta) 32 mm
+U___U
+Rod___Tyč
+Standard___Štandard
+Shutter___Uzávierka
+Without imprint___Bez potlače
+Without protective contact___Bez ochranného kontaktu
+Earthing pin___Uzemňovací kolík
+M12 x 1.5___M12 x 1,5
+M16 x 1.5___M16 x 1,5
+M20 x 1.5___M20 x 1,5
+M25 x 1.5___M25 x 1,5
+M32 x 1.5___M32 x 1,5
+M40 x 1.5___M40 x 1,5
+M50 x 1.5___M50 x 1,5
+Polyamide, glass-fibre reinforced___Polyamid vystužený sklenenými vláknami
+With thread___So závitom
+Telco 50-pole___Telco 50-pólový
+PVC, oil durable___PVC, odolný voči oleju
+45°-Bend___45°-ohyb
+90°-Bend___90°-ohyb
+45°-elbow___45°-oblúk
+90°-elbow___90°-oblúk
+M 10 x 1.0___M 10 x 1,0
+Fibre optic conductor___Optický vodič
+DN 32___DN 32
+Supply-/exhaust air set for central air supply___Súprava prívodu/odvodu vzduchu pre centrálny prívod vzduchu
+Supply-/exhaust air set for decentralized air supply___Súprava prívodu/odvodu vzduchu pre decentralizovaný prívod vzduchu
+Exhaust air set___Súprava odsávaného vzduchu
+Exhaust-/open air set___Súprava na odsávanie/otvorený vzduch
+10 mm___10 mm
+Armouring___Pancierovanie
+Metallic___Kovové
+Rotating axis___Os otáčania
+Without actuator___Bez pohonu
+Incremental encoder___Inkrementálny snímač
+A+B___A+B
+A+B+0___A+B+0
+Desk type___Stolový typ
+Wall duct installation___Inštalácia do nástenného kanála
+CuNi___CuNi
+Printer heads___Hlavy tlačiarní
+Anti-static___Antistatické
+Field/field___Pole/polie
+Cabinet/cabinet___Kabinet/skriňa
+Housing/housing___Skriňa/skriňa
+Audio-CD-RW___Audio-CD-RW
+Subwoofer___Subwoofer
+Cassette recorder___Kazetový magnetofón
+Pendant___Závesný
+Floor heating___Podlahové vykurovanie
+Untreated___Neošetrené
+Countersunk rounded head___Zápustná zaoblená hlava
+Set___Súprava
+Downwards___Smerom nadol
+Cable entry cabinet___Skrinka na vstup kábla
+Entry/end distributor enclosure___Vstupná/koncová rozvodná skriňa
+T1___T1
+1 change over switch___1 prepínač
+2 change over switches___2 prepínače
+1 daily/weekly contact___1 denný/týždenný kontakt
+Trunk line (local loop) extension___Rozšírenie hlavnej linky (miestnej slučky)
+Audio recorder___Zvukový záznamník
+Point-to-point connection module___Modul spojenia bod-bod
+Mobile module___Mobilný modul
+Substation extension___Rozšírenie rozvodne
+Software package___Softvérový balík
+Substation change over switch___Prepínač rozvodne
+System display___Systémový displej
+Dialling device___Voličské zariadenie
+Installation module___Inštalačný modul
+Colour PAL___Farebný PAL
+In branch box___V rozvodnej skrini
+In junction box___V rozvodnej skrini
+Single-/quad picture___Jednoduchý/štvoritý obraz
+Single picture___Jeden obraz
+Vibration alarm unit___Jednotka vibračného alarmu
+Granulate___Granulát
+ABC-keyboard___ABC-klávesnica
+Leather___Koža
+Leather/metal___Koža/kov
+Outdoor surface heating___Vonkajší povrchový ohrev
+Cubic___Kocka
+PNP/NPN___PNP/NPN
+Magnetic___Magnetické
+Wire___Drôt
+Stripper/skinner___Odstraňovač izolácie/skinovač
+Concrete building___Betónová stavba
+Tube___Rúrka
+Coins___Mince
+Steel varnished___Lakovaná oceľ
+Sand-proof___Odolné voči piesku
+Watertight___Vodotesné
+Twofold___Dvojitá
+Fourfold___Štvornásobné
+Six fold___Šesťnásobný
+With terminal strip___So svorkovnicou
+With solder eyelets___S pájkovými očkami
+With cutting-clamp strip___S rezacou svorkou
+Pliable corrugated with synthetic sheath___Pružná vlnitá vrstva so syntetickým plášťom
+Slot___Drážka
+EPR___EPR
+Parallel branch___Paralelná vetva
+III___III
+Phase cut-on___Fázový strih
+Phase cut-off___Vypnutie fázy
+Conductor bar___Vodičová lišta
+Safety transformer___Bezpečnostný transformátor
+1-phase electronic adapter transformer___1-fázový elektronický adaptérový transformátor
+3-phase electronic adapter transformer___3-fázový elektronický adaptérový transformátor
+Phase cut-off/cut-on___Odpojenie/zapnutie fázy
+1 mounting rail___1 montážna lišta
+2 mounting rails___2 montážne lišty
+3 conductors AWG 12___3 vodiče AWG 12
+Round conductor/copper band___Okrúhly vodič/medený pásik
+Round conductor/laminated copper rail___Okrúhly vodič/laminovaná medená lišta
+Laminated copper rail___Laminovaná medená lišta
+3 conductors AWG 10___3 vodiče AWG 10
+3 conductors AWG 10/3 clamps 10 mm²___3 vodiče AWG 10/3 svorky 10 mm²
+Electronics cabinet___Skriňa elektroniky
+Shelf___Polica
+Swing frame___Výkyvný rám
+Connection system___Systém pripojenia
+Network cabinet___Sieťová skriňa
+CTG G___CTG G
+UNEF___UNEF
+1/4 inch___1/4 palca
+5/16 inch___5/16 palca
+1 3/4 inch___1 3/4 palca
+1 3/8 inch___1 3/8 palca
+1 7/16 inch___1 7/16 palca
+15/16 inch___15/16 palca
+5/8 inch___5/8 palca
+7/8 inch___7/8 palca
+IEEE 802.11 b___IEEE 802.11 b
+Bluetooth___Bluetooth
+Push cart___Tlačný vozík
+Roll board___Rolovacia doska
+C-profile___Profil C
+Control switch___Ovládací spínač
+Venetian blind switch___Žalúziový spínač
+Standard bell ringing transformer___Štandardný zvonkový transformátor
+Mains transformer___Sieťový transformátor
+Parallel capacitor for L-lamp___Paralelný kondenzátor pre L-lampu
+Series capacitor for L-lamp___Sériový kondenzátor pre L-lampu
+Motor operating capacitor___Prevádzkový kondenzátor motora
+Iron core transformer___Transformátor so železným jadrom
+Key switch___Kľúčový spínač
+100 g___100 g
+200 g___200 g
+500 g___500 g
+1 kg___1 kg
+Socket outlet with protective contact, right-angled___Zásuvka s ochranným kontaktom, pravouhlá
+Cable lug___Koncovka kábla
+Cold device plug (IEC 320)___Zástrčka studeného zariadenia (IEC 320)
+EURO plug___EURO zástrčka
+Double slot plug, female___Dvojštrbinová zástrčka, samica
+Euro-plug, female___Euro zástrčka, samica
+Hot device plug, 115 °C___Zástrčka pre horúce zariadenie, 115 °C
+Cold device plug angled, female___Zástrčka studeného zariadenia, uhlová, samička
+Small device plug, female___Zástrčka pre malé zariadenia, samička
+Coupler with protective contact___Spojka s ochranným kontaktom
+Hot device plug, female___Zástrčka pre horúce zariadenia, zásuvka
+Bundle___Zväzok
+Colour + rings___Farba + krúžky
+Rubber - chlorinated/chlorosulfonated polyethylene (CPE/CSP)___Guma - chlórovaný/chlórsulfónovaný polyetylén (CPE/CSP)
+Rubber - Hard grade Ethylene Propylene Rubber (HEPR)___Guma - tvrdá etylénpropylénová guma (HEPR)
+Class D = flexible___Trieda D = flexibilná
+Class E = very flexible___Trieda E = veľmi pružný
+Semi tight___Polotuhý
+Layers___Vrstvy
+Magenta___Magenta
+In accordance with IEC 60332-3-22___V súlade s normou IEC 60332-3-22
+Pairs___Páry
+PE / polyamide___PE / polyamid
+PH 120___PH 120
+PH 15___PH 15
+PH 30___PH 30
+PH 60___PH 60
+PH 90___PH 90
+Crosslinked polyethylene (XLPE)___Sieťovaný polyetylén (XLPE)
+Al/PE___Al/PE
+1 make contact (NO), 1 breaker contact (NC)___1 zapínací kontakt (NO), 1 vypínací kontakt (NC)
+10x2.5 mm²___10x2,5 mm²
+12x2.5 mm²___12x2,5 mm²
+13x2.5 mm²___13x2,5 mm²
+15x2.5 mm²___15x2,5 mm²
+3-pole___3-pólový
+3x1-pole___3x1-pólový
+4 breaker contacts (NC)___4 kontakty vypínača (NC)
+4x1-pole___4x1-pólový
+Acoustic sensor___Akustický senzor
+American National Standard___Americká národná norma
+AMP-ACO___AMP-ACO
+Surface mounted housing___Kryt na povrchovú montáž
+Surface mounted housing presence indicator___Indikátor prítomnosti v kryte na povrchovú montáž
+Surface mounted frame___Rám na povrchovú montáž
+Surface mounted frame with loose bottom plate___Rám na povrchovú montáž s voľnou spodnou doskou
+Off switch 2x1-pole___Vypínač 2x1-pólový
+Off switch 3x1-pole___Vypínač 3x1-pólový
+Basic element with central cover plate___Základný prvok so stredovou krycou doskou
+Basic element with adapter plate___Základný prvok s adaptérovou doskou
+Basic element with housing top___Základný prvok s hornou časťou krytu
+Basic element with complete housing___Základný prvok s kompletným krytom
+Basic element with full cover plate___Základný prvok s celou krycou doskou
+Control end-piece___Ovládací koncový prvok
+Control element___Ovládací prvok
+Mounting with claw___Montáž s kliešťami
+Mounting with claw and screw___Upevnenie s kliešťom a skrutkou
+Mounting with screw___Montáž so skrutkou
+Lighting cap flat___Plochá krytka osvetlenia
+Lighting bonnet high___Kryt osvetlenia vysoký
+Imprintable sheet___List s potlačou
+Imprintable label snap-in in intermediate ring___Štítok s potlačou nacvaknutý do medzikružia
+Imprinting aid___Pomôcka na potlač
+Biometric___Biometrické
+Aperture___Clona
+Bluetooth interface___Rozhranie Bluetooth
+Bottom plate for wall sender___Spodná doska pre nástenný vysielač
+British Standard___Britská norma
+CO2-Sensor___Senzor CO2
+Code lock___Kódový zámok
+Data___Údaje
+Data rail cover___Kryt dátovej lišty
+Continuance___Pokračovanie
+Ceiling-/installation bracket___Stropná/ inštalačná konzola
+Dimmer incl. transformer___Stmievač vrátane transformátora
+3-pole switch___3-pólový spínač
+Three-part rocker___Trojdielny kolískový spínač
+Dupline___Dupline
+Corner adapter___Rohový adaptér
+EDP (Electronic data processing)___EDP (elektronické spracovanie údajov)
+One___Jeden
+Miniature fuse___Miniatúrna poistka
+Remote control___Diaľkové ovládanie
+Blade terminal___Čepeľová svorka
+Radio module___Rádiový modul
+Radio interface manufacturer specific___Rádiové rozhranie špecifické pre výrobcu
+For data connection housing___Pre puzdro dátového pripojenia
+For spacer ring___Pre dištančný krúžok
+Galvanized___Pozinkovaný
+Housing base___Základňa puzdra
+Glossy___Lesklý
+Glass-breakage sensor___Snímač rozbitia skla
+Manual transmitter___Manuálny vysielač
+Manual transmitter for movement sensor___Manuálny vysielač pre snímač pohybu
+Brightness sensor___Snímač jasu
+HNA___HNA
+IHC___IHC
+Inductive load___Indukčná záťaž
+IP00___IP00
+IP20___IP20
+IP21___IP21
+IP23___IP23
+IP24___IP24
+IP2X___IP2X
+IP30___IP30
+IP31___IP31
+IP32___IP32
+IP34___IP34
+IP3X___IP3X
+IP40___IP40
+IP41___IP41
+IP42___IP42
+IP44___IP44
+IP54___IP54
+IP55___IP55
+IP65___IP65
+IP66___IP66
+IP67___IP67
+Capacitive load___Kapacitné zaťaženie
+No special power supply___Bez špeciálneho napájania
+Clamp mounting___Montáž pomocou svorky
+Combination switch/button___Kombinovaný spínač/tlačidlo
+Complete housing___Kompletné puzdro
+Complete device___Kompletné zariadenie
+Control___Ovládanie
+Intermediate switch___Medzispínač
+Laser___Laser
+Print panel-solder connection___Tlačový panel - spájkované spojenie
+Mast fastening___Upevnenie stožiara
+Several___Niekoľko
+Several closing devices___Niekoľko uzatváracích zariadení
+Multiple interface___Viacero rozhraní
+Multiple sensor___Viacero snímačov
+With indication plate___S indikačnou tabuľkou
+Mounting housing___Montážne puzdro
+Mounting frame___Montážny rám
+NEMA___NEMA
+Rain sensor___Snímač dažďa
+Resistive___Odporový
+Resistive load___Odporová záťaž
+Without indication field___Bez indikačného poľa
+Orientation___Orientácia
+PHC___PHC
+DRA (DIN-rail adapter)___DRA (adaptér na DIN lištu)
+Relay and HVAC-relay___Relé a HVAC-relé
+Template___Šablóna
+Switch/dimmer___Spínač/stmievač
+Circuit 0 - 1- 1+2 - 1+2+3___Obvod 0 - 1- 1+2 - 1+2+3
+Circuit 0 - 1 - 2 - 3___Obvod 0 - 1 - 2 - 3
+Circuit 2 - 1 -3___Obvod 2 - 1 -3
+Slide___Posuvník
+With pull relief and suspension___S odľahčením ťahu a zavesením
+Normally open contact with feedback contacts___Normálne otvorený kontakt so spätnými kontaktmi
+Ethernet interface___Rozhranie Ethernet
+Protective cover___Ochranný kryt
+Transmitter insert___Vložka vysielača
+Other indication___Iná indikácia
+Memory medium___Pamäťové médium
+Plug clamp___Zástrčková svorka
+Level switch___Hladinový spínač
+SV___SV
+"Symbol ""1"""___"Symbol ""1""
+"Symbol ""rotational speed"""___"Symbol ""rýchlosť otáčania""
+"Symbol ""3-level switch"""___"Symbol ""3-úrovňový spínač""
+"Symbol ""arrows"""___"Symbol ""šípky""
+System-insert___Vloženie systému
+Button___Tlačidlo
+Button, alternating___Tlačidlo, striedavé
+Tracer push button___Tlačidlo sledovača
+1-pole switch and push switch___1-pólový spínač a tlačidlový spínač
+2-pole switch and push switch___2-pólový spínač a tlačidlový spínač
+TCP/IP___TCP/IP
+TERKO___TERKO
+Inkjet___Inkjet
+Inkjet and laser___Atramentový a laserový
+Supporting plate___Podporná doska
+Foot controller___Nožný ovládač
+UIP___UIP
+Ultrasonic___Ultrazvuk
+Vending aid/display___Predajná pomôcka/displej
+Extended pipe in-lead___Predĺžený prívod potrubia
+Wall-mounted transmitter___Nástenný vysielač
+Wall-mounted transmitter complete___Kompletný nástenný vysielač
+Wall-mounted transmitter insert___Vložka nástenného vysielača
+Alternating-/alternating switch___Striedavý/striedavý spínač
+Rocker/button___Kolískový spínač/tlačidlo
+Rocker with mouth rod guiding___Kolískový ovládač s vedením ústnej tyče
+WSV___WSV
+Pinching contact___Stláčací kontakt
+Decorative square___Ozdobný štvorček
+Decorative ring___Ozdobný krúžok
+ZSV___ZSV
+Support antenna___Podporná anténa
+Two-part rocker___Dvojdielna kolíska
+Adapter plug___Zástrčka adaptéra
+Multi mode 200/300___Multirežim 200/300
+Multi mode 980/1000___Multirežim 980/1000
+0 V ... 10 V___0 V ... 10 V
+0 V ... 10 V / 0 mA ... 20 mA___0 V ... 10 V / 0 mA ... 20 mA
+0 mA ... 20 mA___0 mA ... 20 mA
+0 mA ... 20 mA / 4 mA ... 20 mA___0 mA ... 20 mA / 4 mA ... 20 mA
+-10V ... +10V___-10V ... +10V
+4 mA ... 20 mA___4 mA ... 20 mA
+Active tristimulus method___Aktívna tristimulová metóda
+Anticoincidence___Antiincidencia
+AS-Interface___AS-Interface
+AS-Interface Safety at Work___AS-Interface Bezpečnosť pri práci
+ATEX gas-ex-protection, Cat. 1G___ATEX ochrana proti výbuchu plynu, kat. 1G
+ATEX gas-ex-protection, Cat. 2G___ATEX ochrana proti plynom, kat. 2G
+ATEX gas-ex-protection, Cat. 3G___ATEX ochrana proti plynom, kat. 3G
+ATEX dust-ex-protection, Cat. 1D___ATEX ochrana proti prachu, kat. 1D
+ATEX dust-ex-protection, Cat. 2D___ATEX ochrana proti prachu, kat. 2D
+ATEX dust-ex-protection, Cat. 3D___ATEX ochrana proti prachu, kat. 3D
+Bit parallel___Paralelný bit
+Blue light___Modré svetlo
+Bus cap___Krytka zbernice
+CANOpen___CANOpen
+CuSn___CuSn
+CuZn___CuZn
+Roof plunger___Strešný piest
+DeviceNet___DeviceNet
+DeviceNet Safety___DeviceNet Bezpečnosť
+Double-layer___Dvojvrstvový
+Rotary current asynchronous motor___Asynchrónny motor s rotačným prúdom
+Rotary current synchronous motor___Synchrónny motor s rotačným prúdom
+Dark switching___Spínanie v tme
+One-way system___Jednosmerný systém
+Single cores___Jednotlivé jadrá
+Receiver___Prijímač
+Direct current motor___Motor na jednosmerný prúd
+Green light___Zelené svetlo
+Light-/dark switching___Prepínanie svetlo/tma
+Light switching___Prepínanie svetla
+High pressure gas discharge lamp___Vysokotlaková plynová výbojka
+Infrared light___Infračervené svetlo
+INTERBUS___INTERBUS
+IP10___IP10
+IP12___IP12
+IP22___IP22
+IP33___IP33
+IP43___IP43
+IP45___IP45
+IP50___IP50
+IP52___IP52
+IP53___IP53
+IP56___IP56
+IP57___IP57
+IP58___IP58
+IP64___IP64
+IP68___IP68
+IPX0___IPX0
+IPX4___IPX4
+IPX7___IPX7
+Cable axial___Axiálny kábel
+Cable with connector___Kábel s konektorom
+Cable radial___Kábel radiálny
+Class 1___Trieda 1
+Class 2___Trieda 2
+Class 3___Trieda 3
+Capacitor motor___Kondenzátorový motor
+Spherical plunger___Sférický piest
+Laser diode, infrared light___Laserová dióda, infračervené svetlo
+Laser diode, red light___Laserová dióda, červené svetlo
+Light delay time___Čas oneskorenia svetla
+Linear motor___Lineárny motor
+Magnetostrictional___Magnetostrikčný
+Manual adjustment___Manuálne nastavenie
+Multi-core___Viacjadrový
+Multi-coloured LED___Viacfarebná LED
+Multilayer___Viacvrstvová
+Metallic Target___Kovový terč
+NAMUR___NAMUR
+Ni/Au___Ni/Au
+Not flat___Nie je plochý
+Low-pressure gas discharge lamp___Nízkotlaková plynová výbojka
+NPN/NPN___NPN/NPN
+Breaker contact (NC)___Vypínací kontakt (NC)
+Optocoupler___Optočlen
+Parameterization___Parametrizácia
+Passive tristimulus method___Pasívna tristimulová metóda
+PNP/PNP___PNP/PNP
+Potentiometric___Potenciometrické
+Profile___Profil
+PROFIsafe___PROFIsafe
+Programmable/configurable___Programovateľný/konfigurovateľný
+PTE/FEP___PTE/FEP
+PUR vulcanized___Vulkanizovaný PUR
+Quartz glass___Kremenné sklo
+Quasi-flat___Kvázi ploché
+Reflection system___Odrazový systém
+Relay contact___Reléový kontakt
+Polarized red light___Polarizované červené svetlo
+Polarity free red light___Červené svetlo bez polarizácie
+S 232___S 232
+SafetyBUS p___SafetyBUS p
+Normally open contact (NO)___Normálne otvorený kontakt (NO)
+Stepping motor___Krokový motor
+Safety class 0___Bezpečnostná trieda 0
+Safety class 1___Bezpečnostná trieda 1
+Safety class 2___Bezpečnostná trieda 2
+Safety class 3___Bezpečnostná trieda 3
+Transmitter___Vysielač
+Transmitter and receiver___Vysielač a prijímač
+Transmitter and receiver separated___Vysielač a prijímač oddelené
+Transmitter and receiver in one housing___Vysielač a prijímač v jednom kryte
+Sine-shaped___Sínusový tvar
+Sn___Sn
+Special construction___Špeciálna konštrukcia
+Split pole motor___Motor s rozdeleným pólom
+SSD___SSD
+SSI___SSI
+Axial plug___Axiálna zástrčka
+Radial plug___Radiálna zástrčka
+Connector 1/2 inch___Konektor 1/2 palca
+Connector 3/4 inch___Konektor 3/4 palca
+Connector 7/8 inch___Konektor 7/8 palca
+Connector M12___Konektor M12
+Connector M8___Konektor M8
+Teach-In___Teach-In
+Transponder___Transpondér
+Triangulation___Triangulácia
+Universal motor___Univerzálny motor
+UV LED___UV LED DIÓDA
+Valve connector___Konektor ventilu
+Change-over contact (NO/NC)___Prepínací kontakt (NO/NC)
+White light___Biele svetlo
+Vaulted cam___Klenutá vačka
+Zinc___Zinok
+Forced contact opening___Vynútené rozopnutie kontaktu
+Two-wire___Dvojvodičový
+Cylinder plain___Valec obyčajný
+Cylinder, screw-thread___Valec so závitom
+Cream-white___Krémovo-biela
+EPDM___EPDM
+Galvanic tinned___Galvanicky pocínovaný
+N(A)2XY___N(A)2XY
+N(A)2YY___N(A)2YY
+N(A)YCWY___N(A)YCWY
+N(A)YY___N(A)YY
+Eightfold___Osemnásobný
+Polished___Leštený
+PVC, UV-stabilized___PVC, UV stabilizované
+Single module length___Dĺžka jedného modulu
+2G10 (4-pins)___2G10 (4-kolíkový)
+2G7 (4-pins)___2G7 (4-kolíkový)
+2GX13___2GX13
+Double module length___Dvojitá dĺžka modulu
+Triple module length___Trojitá dĺžka modulu
+Dimming/screen___Stmievanie/obrazovka
+Amber___Amber
+Balance weight___Vyvažovacia hmotnosť
+Decor element___Dekoratívny prvok
+Through-wiring___Priechodné zapojenie
+Power supply system___Systém napájania
+Electronic ballast 1-10 V___Elektronický predradník 1-10 V
+Electronic ballast multiwatt___Elektronický predradník multiwatt
+Colour filter___Farebný filter
+Filter___Filter
+G9___G9
+Perforated___Perforovaný
+Glass clear___Sklo číre
+Glass opal___Opálové sklo
+Glass structured___Štruktúrované sklo
+Glass transparent___Sklo priehľadné
+GX24q-5 (4-pins)___GX24q-5 (4-kolíkové)
+GX24q-6 (4-pins)___GX24q-6 (4-kolíkové)
+HV halogen lamp___HV halogénová žiarovka
+IK01___IK01
+IK02___IK02
+IK03___IK03
+IK04___IK04
+IK05___IK05
+IK06___IK06
+IK07___IK07
+IK08___IK08
+IK09___IK09
+Plastic, clear___Plast, číry
+Plastic, opal___Plast, opál
+Plastic, structured___Plast, štruktúrovaný
+Plastic, transparent___Plast, priehľadný
+Coupler/connector flexible___Spojka/spojka flexibilná
+Coupler/connector straight___Spojka/konektor priamy
+Coupler/connector L-shape___Spojka/konektor v tvare L
+Coupler/connector T-shape___Spojka/konektor v tvare T
+Food products filter___Filter na potravinárske výrobky
+Empty tube___Prázdna rúrka
+Luminaire connection adapter___Adaptér na pripojenie svietidla
+Fluorescent lamp D=16 mm___Žiarivka D=16 mm
+Fluorescent lamp D=26 mm___Žiarivka D=26 mm
+Fluorescent lamp D=38 mm___Žiarivka D=38 mm
+Fluorescent lamp D=7 mm___Žiarivka D=7 mm
+Fluorescent lamp ring-shaped___Žiarivka v tvare kruhu
+Lens___Šošovka
+Magnifier luminaire___Zväčšovacie svietidlo
+Magnetic transformer___Magnetický transformátor
+Mixed light lamp___Zmiešaná svetelná lampa
+Low pressure sodium-vapour lamp___Nízkotlaková sodíková výbojka
+LV halogen lamp___Halogénová žiarovka nízkeho napätia
+Without reflector___Bez reflektora
+P13.5___P13.5
+P30___P30
+P45___P45
+P60___P60
+PAR reflector___PAR reflektor
+Pendant adaptor___Závesný adaptér
+Mercury vapour lamp___Rtuťová výbojka
+Grid___Mriežka
+RGB___RGB
+R-butt/reflector lamp___R-žiarovka/reflektor
+Tube light complete___Kompletné trubicové svetlo
+Screen___Obrazovka
+Screw ring___Skrutkovací krúžok
+Desk luminaire___Stolové svietidlo
+Protective basket___Ochranný kôš
+Protective tube___Ochranná trubica
+Stand (base)___Stojan (základňa)
+Socket outlet element___Prvok zásuvky
+Symmetric/asymmetric___Symetrický/asymetrický
+T4.6___T4.6
+T5.5K___T5.5K
+T6.8___T6.8
+Closure___Uzáver
+Living room luminaire___Svietidlo do obývacej izby
+2 1/2 inch___2 1/2 palca
+3 1/2 inch___3 1/2 palca
+4 inch___4 palce
+Continuously galvanized and coated___Priebežne pozinkované a potiahnuté
+Galvanic/electrolytic zinc plated and coated___Galvanicky/elektrolyticky pozinkované a potiahnuté
+Galvanic/electrolytic zinc plated and hostaflon coated___Galvanicky/elektrolyticky pozinkované a potiahnuté hostafónom
+GRP___GRP
+Wet___Mokré
+Wet varnished___Lakované za mokra
+Clear white___Bezfarebný biely
+Stainless steel V4A___Nerezová oceľ V4A
+Stainless steel V2A___Nerezová oceľ V2A
+Stone grey___Kamenná sivá
+System independent___Systémovo nezávislé
+Hot-dip galvanized and coated___Žiarovo pozinkované a s povrchovou úpravou
+Base unit and cover___Základná jednotka a kryt
+Copper-plated___Pokovované meďou
+0.01 µA___0,01 µA
+0.01 mV___0,01 mV
+0.01 Ohm___0,01 Ohm
+0.01 Ix___0,01 Ix
+0.1 µA___0,1 µA
+0.1 mV___0,1 mV
+0.1 Ohm___0,1 Ohm
+0.1 Ix___0,1 Ix
+0/5 V___0/5 V
+0 degrees___0 stupňov
+1 µA___1 µA
+1 1/4 inch external___1 1/4 palca vonkajší
+1 1/4 inch internal___1 1/4 palca vnútorný
+1 mV___1 mV
+1 Ohm___1 Ohm
+1 modular spacing___1 modulárna vzdialenosť
+1 inch external___1 palec vonkajší
+1 inch internal___1 palec vnútorný
+1/2 inch external square___1/2 palca vonkajší štvorcový
+1/2x20 inch UNF___1/2x20 palcov UNF
+1/4 inch external square___1/4 palca vonkajší štvorhran
+1/4 inch internal hexagon___1/4 palca vnútorný šesťhran
+10 µA___10 µA
+10 Mbit___10 Mbit
+10 mV___10 mV
+254 mm (10 inch) mounting___Montáž 254 mm (10 palcov)
+10/100 BT___10/100 BT
+10/100 Mbit___10/100 Mbit
+10/100/1000 Mbit___10/100/1000 Mbit
+100 µA___100 µA
+100 mV___100 mV
+1024x768___1024x768
+10 Ix___10 Ix
+16 mm___16 mm
+19 mm internal hexagon___19 mm vnútorný šesťuholník
+482.6 mm (19 inch)___482,6 mm (19 palcov)
+482.6 mm (19 inch) housing___482,6 mm (19 palcov) kryt
+482.6 mm (19 inch) device___482,6 mm (19 palcov) zariadenie
+1-fold and 2-fold___1-násobné a 2-násobné
+1-fold and 3-fold___1-násobné a 3-násobné
+1-fold with overvoltage protection___1-násobné s prepäťovou ochranou
+1 Ix___1 Ix
+2 modular spacing___2 modulárne rozstupy
+2x 1-fold___2x 1-násobný
+2x 2-fold___2x 2-násobný
+2x TAE F___2x TAE F
+2nd antenna___2. anténa
+20-30 mm___20-30 mm
+20 mm___20 mm
+21 mm internal hexagon___21 mm vnútorný šesťhran
+25 mm___25 mm
+2-fold and 1-fold with overvoltage protection___2-násobný a 1-násobný s prepäťovou ochranou
+2-fold and 2-fold with overvoltage protection___2-násobný a 2-násobný s prepäťovou ochranou
+2-fold with overvoltage protection___2-násobný s prepäťovou ochranou
+2-fold-cinch___2-násobný s uzáverom
+2x RJ11 6(4)___2x RJ11 6(4)
+2x RJ12 6(6)___2x RJ12 6(6)
+2x RJ45 8(8)___2x RJ45 8(8)
+3 modular spacing___3 modulárne rozstupy
+3/4 inch external square___Vonkajší štvorhran 3/4 palca
+3/8 inch external square___3/8 palca vonkajší štvorhran
+3/8x24 inch UNF___3/8x24 palcov UNF
+32 mm___32 mm
+3N, 400/230V___3N, 400/230V
+3-phase___3-fázový
+4 modular spacing___4 modulové rozstupy
+40-bit WEP___40-bitový WEP
+5 modular spacing___5 modulové rozmiestnenie
+5/8x16 inch UNF___5/8x16 palcov UNF
+55 mm___55 mm
+5-pole___5-pólový
+6 modular spacing___6 modulové rozmiestnenie
+64-/128-bit WEP___64-/128-bitový WEP
+640x480___640x480
+7 mm___7 mm
+7 modular spacing___7 modulárne rozstupy
+7/16 (DIN)___7/16 (DIN)
+7/16 Connector___Konektor 7/16
+72.5 mm___72,5 mm
+8 modular spacing___8 modulová vzdialenosť
+Single mode 9/125___Jeden režim 9/125
+90 mm___90 mm
+95 mm___95 mm
+A+___A+
+A++___A++
+Removable work top___Odnímateľná pracovná doska
+Trimmable (cut away)___Orezateľná (odrezaná)
+Distance ring___Vzdialenostný krúžok
+AC 3 processor___Procesor AC 3
+Adapter___Adaptér
+Additive operating and release delay___Prídavné prevádzkové a uvoľňovacie oneskorenie
+Additive operating delay___Aditívne prevádzkové oneskorenie
+ADo 4___ADo 4
+ADo 8___ADo 8
+Maple___Maple
+AI___AI
+Active glass-breakage indicator___Aktívny indikátor rozbitia skla
+Acoustic and optic___Akustický a optický
+Acoustic glass-breakage indicator___Akustický indikátor rozbitia skla
+Aluminium/copper___Hliník/meď
+Aluminium case___Hliníkové puzdro
+Aluminium alloy___Hliníková zliatina
+Analogue with single function___Analógový s jednou funkciou
+Analogue with multi function___Analóg s viacerými funkciami
+Moulded-on push fit plug___Tvarovaná zástrčka
+Connection sleeve___Pripojovacia objímka
+Terminal bracket___Držiak svoriek
+Operating and release delay___Prevádzkové a uvoľňovacie oneskorenie
+Operating delay___Prevádzkové oneskorenie
+Antenna connection___Pripojenie antény
+Antenna cable___Kábel antény
+Antenna coax plug___Koaxiálna zástrčka antény
+Wrist watch___Náramkové hodinky
+Astro clock___Astrohodiny
+Atlas Copco___Atlas Copco
+On basic element___Na základnom prvku
+Surface mounting fix___Upevnenie pre povrchovú montáž
+Surface mounting modular___Modulárna povrchová montáž
+Surface and panel mounting___Povrchová a panelová montáž
+Snap on___Prichytenie
+Snapped on___Prichytené
+Screw-on___Skrutkovanie
+Table top___Stolová doska
+Aluminium/stainless steel (V2A)___Hliník/nerezová oceľ (V2A)
+Correction blind___Korekčná žalúzia
+Off switch with control lamp___Vypínač s kontrolnou lampou
+Passing break contact___Prechodový prerušovací kontakt
+External positioning___Vonkajšie polohovanie
+Dump___Výsyp
+B10___B10
+B12___B12
+B16___B16
+Telescopic guide rail___Teleskopická vodiaca lišta
+Baking plate___Zapekacia doska
+Basis___Základňa
+Basis/terminals___Základňa/terminály
+Cotton___Bavlna
+Shape of cup___Tvar šálky
+Mounting lug___Montážne ucho
+Mounting angle bracket___Montážna uhlová konzola
+Petrol engine___Benzínový motor
+Cutlery basket___Kôš na príbory
+Beaver tail___Bobrí chvost
+Up to 40 mm___Do 40 mm
+Blue tempered___Modrá temperovaná
+Lead link element___Olovený spojovací prvok
+Dummy plug___Atrapa zástrčky
+Strobe shoe adapter___Adaptér pre päticu stroboskopu
+Bottom perforation___Spodná perforácia
+Bend horizontal___Horizontálne ohnutie
+Bend vertical falling___Ohyb vertikálne padajúci
+Bend vertical rising___Ohyb vertikálne stúpajúci
+Bore hole with M thread___Otvor s M závitom
+Bosch___Bosch
+Fire protection foam___Protipožiarna pena
+Beech___Buk
+Camcorder___Videokamera
+Cardbus___Cardbus
+Cardbus Card___Karta Cardbus
+CAT I___CAT I
+CAT II___CAT II
+CAT III___CAT III
+CAT IV___CAT IV
+CE 2 wire___CE 2 vodiče
+CEE 60x60 mm___CEE 60x60 mm
+CEE 70x70 mm___CEE 70x70 mm
+Cobra___Cobra
+Compact Flash___Compact Flash
+Computer Associates___Computer Associates
+Connector/cable adapter___Adaptér konektora/kábla
+CT 1+___CT 1+
+D II___D II
+D III___D III
+Roof surface pitched___Šikmý povrch strechy
+Gutter clamp___Žľabová svorka
+Data net connection___Pripojenie dátovej siete
+PC interface and satellite/air/cable___Rozhranie PC a satelit/vzduch/kábel
+Data medium___Dátové médium
+DCF 77 radio controlled___DCF 77 s rádiovým ovládaním
+Cover clamp___Krycia svorka
+Ceiling ventilator___Stropný ventilátor
+DECT___DECT
+DECT/GAP___DECT/GAP
+DECT-basis___Základňa DECT
+DECT-basis station___Základná stanica DECT
+DECT-repeater___DECT-repeater
+DECT-beam antenna___Anténa DECT-beam
+Decor-correction blind___Dekoratívna korekčná žalúzia
+Decor frame___Dekoratívny rám
+Zinc/aluminium flake coating___Povrchová úprava zinok/hliník vločky
+Diamond___Diamantový
+Digital with single function___Digitálny s jednou funkciou
+Digital with multi function___Digitálna s viacerými funkciami
+DIN-strips___Pásky DIN
+Double wall bracket___Dvojitý nástenný držiak
+Double floor___Dvojitá podlaha
+Double floor outlet___Dvojitá podlahová zásuvka
+Double nozzle___Dvojitá dýza
+Double door___Dvojité dvere
+Double shell___Dvojitý plášť
+Double bracket___Dvojitá konzola
+Spagnolet___Spagnolet
+Print foil___Tlačová fólia
+Print head___Tlačová hlava
+Fragrances___Vône
+Thin-film___Tenká fólia
+Duplex printing unit___Obojstranná tlačová jednotka
+Through-feed hinge___Priechodný záves
+DVD+R___DVD+R
+DVD+RW___DVD+RW
+DVD-R___DVD-R
+DVD-RAM___DVD-RAM
+DVD-RW___DVD-RW
+Corner duct___Rohový kanál
+Oak___Dub
+Bucket___Vedro
+Installation mounting set___Montážna súprava
+Installation scale___Inštalačná stupnica
+Single shielded___Jednoduché tienenie
+Singular profile___Jednoduchý profil
+Built-in sensor___Zabudovaný snímač
+Hang in___Zavesiť do
+Hang in and screw tight___Zaveste a pevne priskrutkujte
+Inserting___Vloženie
+Snap in___Zacvaknutie
+Insert___Vložte
+On/off-switch wiping relay___Zapínacie/vypínacie stieracie relé
+On-switch wiping relay___Stieracie relé zapnutia a vypnutia
+Single-line___Jednoriadkový
+Single bucket___Jedno vedro
+Single device___Jedno zariadenie
+Electronic beam/analogue___Elektronický lúč/analógové
+Electronic with multi function___Elektronický s viacerými funkciami
+EMS___EMS
+Energy technology___Energetická technológia
+Natural gas and propane gas___Zemný plyn a propán
+Screed-covered___Poter s krytom
+External motor___Externý motor
+External device___Externé zariadenie
+F05-PCF___F05-PCF
+F05-POF___F05-POF
+F07-PCF___F07-PCF
+Rebate clamp___Vrátna svorka
+Mushroom-shaped interceptor___Hríbovitý zachytávač
+Interception rod chamfered___Zachytávacia tyč so skosením
+Interception rod with connection flange___Zachytávacia tyč s pripojovacou prírubou
+Interception rod with thread___Zachytávacia tyč so závitom
+Interception rod with tripod___Zachytávacia tyč s trojnožkou
+Interception rod tapered___Záchytná tyč kužeľová
+Coloured ribbon___Farebná páska
+Hue control___Ovládanie odtieňa
+Colour/digital___Farebné/digitálne
+Colour cartridge___Farebná kazeta
+Facade___Fasáda
+Spring cover___Pružinový kryt
+Spring steel___Pružinová oceľ
+Television set___Televízna súprava
+Finished fire partition___Hotová požiarna priečka
+Hard disc___Pevný disk
+Grease pan___Mastiaca miska
+Hot dip galvanized and coated___Žiarovo pozinkované a potiahnuté
+Fire brigade alarm (red)___Požiarny poplach (červený)
+Fibre silicate___Silikátové vlákno
+Filter set___Súprava filtrov
+Ridge/hip___Hrebeň/boky
+Surface___Povrch
+Flat cable___Plochý kábel
+Flat profile___Plochý profil
+Button head___Hlava gombíka
+Button head with square___Knoflíková hlava so štvorcom
+Bottle cage___Klietka na fľašu
+Photo camera___Fotoaparát
+F-Quick___F-Quick
+Frequency___Frekvencia
+Frequency shunt___Frekvenčný bočník
+Front blind___Predná žalúzia
+Panel mounting 72x72 mm___Montáž na panel 72x72 mm
+FSMA___FSMA
+FSMA-POF___FSMA-POF
+FTZ-123 D12___FTZ-123 D12
+For device cups___Pre poháre zariadenia
+For equipment inset___Pre vloženie zariadenia
+GBIC___GBIC
+Counter shell___Pultový plášť
+Gel___Gél
+Vertical adjustable bend element___Vertikálne nastaviteľný ohybový prvok
+Vertical adjustable bend complete___Vertikálne nastaviteľný ohyb kompletný
+Device cup___Pohárik zariadenia
+Wall ducts___Stenové kanáliky
+Sound filter___Zvukový filter
+Apart___Okrem
+Thread connection___Závitové spojenie
+Thread-forming___Tvorba závitu
+Thread-cutting___Rezanie závitov
+Thread-cutting screws___Skrutky na rezanie závitov
+Glass holder___Držiak skla
+Fibreglass___Sklolaminát
+Fibre optics/aluminium___Optické vlákna/hliník
+Gold/nickel___Zlato/nikel
+Gold/rhodium/nickel___Zlato/ródium/nikel
+Large spline shaft intake___Veľký drážkovaný vstupný hriadeľ
+Basic module___Základný modul
+Group switch___Skupinový spínač
+Belt clip___Spona na remeň
+H05RR-F___H05RR-F
+H05VV-F___H05VV-F
+H07BQ-F___H07BQ-F
+H07RN-F___H07RN-F
+Hook blade___Háková čepeľ
+Half hard___Polovičný tvrdý
+Retaining collar___Upevňovací golier
+Hammer inserts___Kladivové vložky
+Hammer guiding rider___Vodiaci jazdec kladiva
+Hammer stage___Stupeň kladiva
+Hanging___Závesný
+Hard rubber___Tvrdá guma
+Hard metal___Tvrdý kov
+House alarm (blue)___Domový alarm (modrý)
+Hilti___Hilti
+Hollow floor___Dutá podlaha
+Hollow floor outlet___Výstup na dutú podlahu
+Hollow ceiling___Dutý strop
+Hollow head___Dutá hlava
+HomeRF___HomeRF
+Handset___Handset
+HP open View/Windows___HP otv

@@ -1,0 +1,3129 @@
+Busbar terminal___Terminál zbernice
+Cable clamp___Káblové svorky
+Clamp___Svorka
+Connection clamp___Pripojovacia svorka
+Connection terminal___Pripojovacia svorka
+Lip___Lip
+Earth leakage switch___Spínač úniku zeme
+Residual current circuit breaker (RCCB)___Prúdový chránič (RCCB)
+Switch___Spínač
+Blade terminal___Lopatková svorka
+Cable end sleeve___Koncová objímka kábla
+Cable lug___Koncovka kábla
+Sleeve___Objímka
+Cover___Kryt
+Cover frame___Rám krytu
+Cover plate___Krycia doska
+Cover plate for installation units___Krycia doska pre inštalačné jednotky
+Mounting plate___Montážna doska
+Surface tank___Povrchová nádrž
+Cover___Kryt
+Cover frame___Rám krytu
+Cover frame for domestic switching devices___Rám krytu pre domáce spínacie zariadenia
+Cover plate___Krycia doska
+Cover plate for domestic switches and powerpoints (Imperial system)___Krycia doska pre domáce spínače a napájacie body (systém Imperial)
+Decor frame___Dekoratívny rám
+Frame___Rám
+Tap off unit for busbar trunk___Odbočovacia jednotka pre prípojnicové vedenie
+Anchor sleeve___Kotviace puzdro
+Dowel___Hmoždinka
+Expanding plug___Rozširujúca zátka
+Hammer set anchor___Kladivová kotva
+Automatic reversing switch___Automatický spínač spätného chodu
+Automatic star delta starter___Automatický hviezdicový delta štartér
+Automatic star-delta starter___Automatický štartér hviezda-trojuholník
+Combination of contactors___Kombinácia stýkačov
+Contactor___Stýkač
+Instigator___Inštalačný prístroj
+Left-right contactor___Stýkač ľavý-pravý
+Motor starter___Spúšťač motora
+Reversing combination___Reverzná kombinácia
+Reversing contactor___Reverzný stýkač
+Reversing safety___Bezpečnostný reverzný spínač
+Reversing starter___Reverzný spúšťač
+Reversing switch___Spínač spätného chodu
+Star delta___Hviezda delta
+Star-delta___Hviezda-trojuholník
+Star-delta combination___Kombinácia hviezda-trojuholník
+Star-delta contactor___Stýkač hviezda-trojuholník
+Star-delta instigator___Hviezda-trojuholník spúšťač
+Star-delta motor starter___Štartér motora hviezda-trojuholník
+Star-delta starter___Štartér hviezda-trojuholník
+Star-delta switch___Spínač hviezda-trojuholník
+Starter combination___Kombinovaný štartér
+Blind___Slepý
+Blind plate___Slepá doska
+Button___Tlačidlo
+Central cover plate___Centrálna krycia doska
+Centre plate___Stredová doska
+Control element___Ovládací prvok
+Control element/cover plate for domestic switching devices___Ovládací prvok/krytová doska pre domáce spínacie zariadenia
+Cover___Kryt
+Cover frame___Rám krytu
+Cover plate___Krycia doska
+Cover plate for switches/push buttons/dimmers/venetian blind___Krycia doska pre spínače/tlačidlá/stmievače/žalúzie
+Handle___Kľučka
+Hotel card___Hotelová karta
+Key___Kľúč
+Pull cord___Ťahacia šnúra
+Push button___Tlačidlo
+Rocker___Kolískový ovládač
+Rocker with mouth rod guiding___Hojdačka s vedením ústnej tyče
+Set___Nastavenie
+Toggle___Prepínač
+Touch control button___Dotykové ovládacie tlačidlo
+Turn button (knob)___Otočné tlačidlo (gombík)
+Turn handle___Otočná rukoväť
+Venetian blind___Žalúzia
+Cable duct___Káblový kanál
+Slotted cable trunking system___Systém drážkovaných káblových kanálov
+Base plate___Základná doska
+Base plate for flush mounted installation___Základná doska na zapustenú montáž
+Bottom plate___Spodná doska
+Housing base___Základňa krytu
+Mounting cover___Montážny kryt
+Mounting plate___Montážna doska
+Bulb___Žiarovka
+Bulb tubular___Trubicová žiarovka
+Flashlight lamp___Svietidlo na baterky
+Incandescent lamp___Žiarovka
+Incandescent lamp tube-shaped___Žiarovka v tvare trubice
+Indicator light complete___Kontrolka kompletná
+Lamp___Žiarovka
+Miniature lamp___Miniatúrna žiarovka
+Oven lamp___Žiarovka do pece
+Refrigerator lamp___Lampa chladničky
+Signal lamp___Signálna lampa
+Threaded lamp___Závitové svietidlo
+Tube bulb___Trubicová žiarovka
+Tube lamp___Trubicová žiarovka
+Tube-shaped incandescent lamp___Žiarovka v tvare trubice
+Explosion proof CEE socket outlet___Nevýbušná zásuvka CEE
+Ex-proof CEE socket outlet___Nevýbušná zásuvka CEE
+Socket outlet___Zásuvka
+Wall socket___Zásuvka na stenu
+Coupler___Spojka
+Explosion proof CEE-plug/-coupler___Nevýbušná CEE zásuvka/spojka
+Ex-proof CEE-plug/-coupler___Zásuvka/spojka CEE v prevedení do výbušného prostredia
+Plug___Zástrčka
+Adapter___Adaptér
+Antenna connection___Pripojenie antény
+Antenna socket___Zásuvka antény
+Blind___Slepá
+Blind cover___Kryt žalúzie
+Blind plate___Slepá doska
+Central cover plate___Centrálna krycia doska
+Centre plate___Stredová doska
+Communication connection box___Komunikačná spojovacia skrinka
+Cover___Kryt
+Cover plate___Krycia doska
+Covering cap___Krycí uzáver
+Elevation ring___Výškový krúžok
+Hinged lid___Odklápacie veko
+Insert___Vložka
+Insert/cover for communication technology___Vložka/kryt pre komunikačnú technológiu
+Mounting plate___Montážna doska
+Supporting plate___Nosná doska
+Antenna cable___Anténny kábel
+Audio cable___Audio kábel
+Backbone cable___Chrbticový kábel
+Bamboo cable___Bambusový kábel
+Cable___Kábel
+CATV cable___Kábel CATV
+CCTV cable___Kábel CCTV
+Coaxial cable___Koaxiálny kábel
+Data network cable___Dátový sieťový kábel
+Ethernet cable___Ethernetový kábel
+Multi coax___Multikoaxiálny kábel
+Network cable___Sieťový kábel
+RG 11___RG 11
+RG 174___RG 174
+RG 213___RG 213
+RG 214___RG 214
+RG 223___RG 223
+RG 58___RG 58
+RG 59___RG 59
+RG 6___RG 6
+RG 62___RG 62
+RG 71___RG 71
+RG 8___RG 8
+Signal cable___Signálny kábel
+Telematics cable___Telematický kábel
+Trunk cable___Kmeňový kábel
+Twinax___Twinax
+Twinax cable___Twinax kábel
+Video cable___Video kábel
+Combination___Kombinácia
+Combination switch/wall socket outlet___Kombinovaný vypínač/zásuvka
+Bracket for cable support system___Držiak pre káblový nosný systém
+Clamping console___Upínacia konzola
+Console___Konzola
+Double wall bracket___Dvojitá nástenná konzola
+Profile console___Profilová konzola
+Support___Podpera
+Support bracket for cable support system___Podperná konzola pre systém na podopretie káblov
+Supporting bracket___Podporná konzola
+Threaded sleeve___Závitová objímka
+Wall- and profile console___Nástenná a profilová konzola
+Wall bracket___Nástenná konzola
+Wall console___Nástenná konzola
+Blind cover___Slepý kryt
+Cover___Kryt
+Cover for installation column___Kryt pre inštalačný stĺp
+Cover for wall duct___Kryt nástenného kanála
+Cover for wall duct/Installation column___Kryt nástenného kanála/Inštalačného stĺpa
+Cover plate___Krycia doska
+Cover plate for installation column___Krycia doska pre inštalačný stĺp
+Hinged lid___Výklopný kryt
+Installation box for underfloor-installation___Inštalačná krabica pre podlahovú inštaláciu
+Adapter plug___Zástrčka adaptéra
+Dimmer___Stmievač
+Plug adapter___Zástrčkový adaptér
+Low Voltage HRC solid link___Nízkonapäťový HRC pevný článok
+A-Rod___A-Rod
+Length___Dĺžka
+Pendant___Závesný
+Rod___Tyč
+Thread end___Koniec závitu
+Threaded rod___Závitová tyč
+Basic element___Základný prvok
+Button___Gombík
+Change-over contact___Prepínací kontakt
+Group push button___Skupinové tlačidlo
+Push button___Tlačidlo
+Push button switch___Tlačidlový spínač
+Push-switch button___Tlačidlo tlačidlového spínača
+Revolving contact___Prepínací kontakt
+Series push button___Sériové tlačidlové tlačidlo
+Single push button___Jednotlivé tlačidlá
+Touch control button___Dotykové ovládacie tlačidlo
+Alignment switch___Vyrovnávací spínač
+Cabinet door switch___Spínač dverí skrinky
+Circuit breaker___Vypínač obvodu
+Door panel switch___Vypínač dverného panelu
+Door switch___Spínač dverí
+End contact___Koncový kontakt
+End switch___Koncový spínač
+Hinge switch___Závesný spínač
+Interlock switch___Spínač blokovania
+Key switch___Kľúčový spínač
+Limit switch___Koncový spínač
+Micro switch___Mikrospínač
+Panel switch___Panelový spínač
+Pen switch___Pero spínač
+Position switch___Polohový spínač
+Safety gate switch___Bezpečnostný spínač brány
+Safety limit switch___Bezpečnostný koncový spínač
+Safety position switch___Bezpečnostný polohový spínač
+Safety switch___Bezpečnostný spínač
+Switch___Spínač
+Switch with separate actuator___Spínač so samostatným ovládačom
+All-purpose plug___Univerzálna zástrčka
+Blind___Slepá
+Blind plate___Slepá doska
+Dowel___Hmoždinka
+Dummy plug___Atrapa zástrčky
+Plug for cable screw gland___Zástrčka pre káblovú skrutkovú vývodku
+Seal ring___Tesniaci krúžok
+Sealing plug___Tesniaca zátka
+Installation strap___Inštalačný popruh
+Tape___Páska
+AT-V(ZN)H(ZN)BH___AT-V(ZN)H(ZN)BH
+AT-V(ZN)Y(ZN)11Y___AT-V(ZN)Y(ZN)11Y
+AT-V(ZN)Y(ZN)Y___AT-V(ZN)Y(ZN)Y
+AT-V(ZN)YY___AT-V(ZN)YY
+AT-W(ZN)HH___AT-W(ZN)HH
+AT-W(ZN)Y(ZN)11Y___AT-W(ZN)Y(ZN)11Y
+AT-W(ZN)Y(ZN)Y___AT-W(ZN)Y(ZN)Y
+AT-W(ZN)YY___AT-W(ZN)YY
+AT-W11Y(ZN)11Y___AT-W11Y(ZN)11Y
+AT-WQ(ZN)Y(ZN)B2Y___AT-WQ(ZN)Y(ZN)B2Y
+Cable___Kábel
+Data cable___Dátový kábel
+Fiber optic cable___Optický kábel
+Fibre optic cable___Optický kábel
+I-V(ZN)HH___I-V(ZN)HH
+I-V4Y(ZN)11Y___I-V4Y(ZN)11Y
+I-V4Y(ZN)Y___I-V4Y(ZN)Y
+MI-VHH___MI-VHH
+Glass fuse___Sklenená poistka
+Miniature fuse___Miniatúrna poistka
+Spare fuse___Náhradná poistka
+Type of fuse___Typ poistky
+Miniature fuse___Miniatúrna poistka
+Miniature fuse holder___Držiak miniatúrnej poistky
+Discharge lamp___Výbojka
+Halogen lamp___Halogénová žiarovka
+Halogen metal halide lamp___Halogénová halogenidová výbojka
+Halogen metal halide lamp without reflector___Halogénová halogenidová výbojka bez reflektora
+Lamp___Výbojka
+Metal halide lamp___Halogenidová výbojka
+Candle___Sviečka
+Candle-shaped incandescent lamp___Žiarovka v tvare sviečky
+Halogen lamp___Halogénová žiarovka
+High voltage halogen lamp___Vysokonapäťová halogénová žiarovka
+HV halogen lamp___VN halogénová žiarovka
+Lamp___Lampa
+All-purpose plug___Univerzálna zástrčka
+Cavity fixing___Upevnenie do dutiny
+Dowel___Hmoždinka
+Auxiliary contact block___Blok pomocných kontaktov
+Auxiliary switch___Pomocný spínač
+Auxiliary switch block___Pomocný spínací blok
+Body contact___Kontakt na telese
+Built-in device___Zabudované zariadenie
+Contact___Kontakt
+Contact block___Blok kontaktov
+Contact body___Teleso kontaktu
+Contact element___Kontaktný prvok
+Help contact___Pomocný kontakt
+Push button___Tlačidlo
+Signalling switch___Signalizačný spínač
+Switch block___Blok spínača
+Switch element___Spínací prvok
+Automatic protection___Automatická ochrana
+Automaton___Automat
+Built-in device___Zabudované zariadenie
+Circuit breaker___Vypínač
+Circuit-breakers___Ističe
+Flex omat___Flex omat
+Flexomat___Flexomat
+MCB___MCB
+Mini circuit breaker___Mini istič
+Miniature circuit breaker (MCB)___Miniatúrny istič (MCB)
+Over current switch___Nadprúdový spínač
+Key switch___Kľúčový spínač
+Switch___Spínač
+Venetian blind switch___Žalúziový spínač
+Venetian blind switch/-push button___Žaluziový spínač/tlačidlo
+Candle-shaped incandescent lamp___Žiarovka v tvare sviečky
+Incandescent lamp___Žiarovka
+Lamp___Lampa
+Band bundle___Zväzok pásov
+Burs tape___Páska s ostrím
+Cable band___Káblový pás
+Cable bundle band___Pás káblového zväzku
+Cable fixing band___Pás na upevnenie kábla
+Cable tie___Káblový viazač
+Colson band___Colsonova páska
+Endless tape___Nekonečná páska
+Fixing band___Upevňovacia páska
+Installation strap___Inštalačná páska
+Knotted tie___Viazací uzol
+Ty-rap___Ty-rap
+Wire bundle band___Páska na zväzok drôtov
+Cable duct___Káblový kanál
+Cable support system___Káblový podporný systém
+Cable tray___Káblový žľab
+Cable tray/wide span cable tray___Káblový žľab/širokorozponový káblový žľab
+Cable trough___Káblový žľab
+Ceiling cable tray___Stropný káblový žľab
+Ceiling cable tray system___Systém stropných káblových žľabov
+Anchor bolt___Kotviaca skrutka
+Bolt___Skrutka
+Bolt anchor___Kotviaca skrutka
+Dowel___Hmoždinka
+Chain___Reťaz
+Knot chain___Uzolová reťaz
+Link chain___Spojovacia reťaz
+Incandescent lamp___Žiarovka
+Indicator light complete___Kontrolka kompletná
+Lamp___Lampa
+Sphere-shaped incandescent lamp___Žiarovka v tvare gule
+Coupler___Spojka
+Coupler for plinth skirting duct___Spojka pre soklovú lištu
+Coupling piece___Spojovací kus
+Joint cover___Kryt spoja
+Incandescent lamp___Žiarovka
+Incandescent lamp with reflector___Žiarovka s reflektorom
+Incandescent lamp with ring head___Žiarovka s kruhovou hlavicou
+Lamp___Žiarovka
+Diazed fuse link___Zapojenie poistky s diapozitívom
+Knife blade fuse (NH)___Nožová poistka (NH)
+Low Voltage HRC fuse___Nízkonapäťová poistka HRC
+Type of fuse___Typ poistky
+Discharge lamp___Výbojka
+Lamp___Výbojka
+Mercury lamp___Rtuťová výbojka
+Mercury vapour lamp___Ortuťová výbojka
+Busbar housing___Kryt zbernice
+Distributor___Rozvádzač
+Distributor case___Skriňa rozdeľovača
+Empty cabinet___Prázdna skriňa
+Fuse enclosure___Skriňa s poistkami
+Housing___Skriňa
+Small distribution board equipped___Malý rozvádzač vybavený
+Terminal box___Svorkovnica
+Cable duct___Káblový kanál
+Door diversion duct___Dverný odvádzací kanál
+Duct___Kanál
+Installation duct___Inštalačný kanál
+Blind___Slepý
+Hood for light signalling unit___Kryt pre svetelnú signalizačnú jednotku
+Lens___Šošovka
+Light pole___Svetelný stĺp
+Luminaire for streets and places___Svietidlo pre ulice a miesta
+Information light signal for domestic switching devices___Informačná svetelná signalizácia pre domáce spínacie zariadenia
+Light signalling unit___Svetelná signalizačná jednotka
+Cable___Kábel
+Loudspeaker cable___Kábel reproduktora
+Contactor___Stýkač
+Contactor, AC-switching___Stýkač, spínanie striedavým prúdom
+Magnet contactor, AC-switching___Magnetický stýkač, spínaný striedavým prúdom
+Mini contactor___Mini stýkač
+Power contactor, AC switching___Výkonový stykač, spínaný striedavým prúdom
+Power relay___Výkonové relé
+Relay___Relé
+Star-delta contactor___Stýkač hviezda-trojuholník
+Switch module___Spínací modul
+Fuse base___Poistková základňa
+Low Voltage HRC fuse base___Nízkonapäťová poistková základňa HRC
+Connection space___Priestor na pripojenie
+Distributor___Distribútor
+Meter board___Meracia doska
+Ampere meter___Ampérmeter
+Analog multimeter___Analógový multimeter
+Digital multimeter___Digitálny multimeter
+Frequency meter___Merač frekvencie
+Multi meter___Multimetre
+Multimeter___Multimeter
+Multitester___Multitester
+Test device___Testovacie zariadenie
+Universal meter___Univerzálny merač
+Voltmeter___Voltmeter
+VOM___VOM
+VOM meter___Merač VOM
+Capacitor microphone___Kondenzátorový mikrofón
+Dynamic microphone___Dynamický mikrofón
+Microphone___Mikrofón
+Video-camera microphone___Mikrofón pre videokameru
+Accessories for busbar trunks___Príslušenstvo pre prípojnicové rozvody
+Carrying handle___Rukoväť na prenášanie
+Double hook___Dvojitý hák
+Eye hook___Háčik s okom
+Fixing clamp___Upevňovacia svorka
+Mounting bracket___Montážna konzola
+Mounting clip___Montážna svorka
+Mounting corner___Montážny roh
+Mounting system for busbar trunk___Montážny systém pre kmeňovú prípojnicu
+Retaining bracket___Upevňovacia konzola
+Suspension bracket___Závesná konzola
+Wall mounting___Montáž na stenu
+Built-in installation box___Zabudovaná inštalačná krabica
+CEE built-in installation box___Vstavaná inštalačná krabica CEE
+Connector socket___Konektorová zásuvka
+Junction box for wall duct___Spojovacia krabica pre nástenný kanál
+Mounting frame___Montážny rám
+Contactor automatic___Stýkač automatický
+Instigator___Inštalačný prístroj
+Manual motor starter___Manuálny spúšťač motora
+MBS___MBS
+Motor protection circuit-breaker___Ochranný istič motora
+Motor protection switch___Ochranný spínač motora
+Motor protective circuit-breaker___Ochranný istič motora
+Motor starter___Spúšťač motora
+Power-cut-out switch___Vypínač napájania
+Starter___Spúšťač
+Switch___Spínač
+Neon lamp___Neónová lampa
+Plug in (night) light___Zásuvkové (nočné) svetlo
+Incandescent lamp___Žiarovka
+Lamp___Lampa
+Pear-shape___V tvare hrušky
+Standard-shaped incandescent lamp___Žiarovka štandardného tvaru
+Appliance box for skirting duct___Skrinka na spotrebič pre soklový kanál
+Covering cap___Krytka
+Device carrier___Nosič zariadenia
+Distance piece___Vzdialený kus
+Housing___Kryt
+Surface mounted frame___Rám na povrchovú montáž
+Surface mounted housing___Puzdro s povrchovou montážou
+Surface mounted housing for flush mounted switching device___Povrchovo montované puzdro pre spínacie zariadenie montované pod omietku
+Surface mounting housing___Puzdro na povrchovú montáž
+Ceiling profile for cable support system___Stropný profil pre káblový nosný systém
+C-profile___Profil C
+Floor fastening___Upevnenie na podlahu
+I-profile___I-profil
+Pendant___Závesný
+Profile___Profil
+S-profile___S-profil
+Support___Podpera
+T-profile___T-profil
+U-profile___U-profil
+U-profile double-sided___Obojstranný U-profil
+Z-profile___Z-profil
+Surface mounting junction box for installation duct___Rozbočovacia krabica na povrchovú montáž pre inštalačný kanál
+Transition cover section for installation duct___Prechodová krycia časť pre inštalačný kanál
+Transition piece for installation tube/installation duct___Prechodový diel pre inštalačnú rúru/inštalačný kanál
+Sleeve___Objímka
+Sleeve for compacted conductor___Objímka pre zhutnený vodič
+Diazed screw adapter___Skrutkový adaptér s prierezom
+D-system screw adapter___D-systémový skrutkový adaptér
+Fitted screw___Namontovaná skrutka
+Perilex socket outlet___Perilexová zásuvka
+Socket outlet___Zásuvkový vývod
+Compact fluorescent lamp___Kompaktná žiarivka
+Compact fluorescent lamp without integrated ballast___Kompaktná žiarivka bez integrovaného predradníka
+Energy-saving lamp___Energeticky úsporná žiarovka
+Fluorescent lamp___Žiarivka
+Lamp___Svietidlo
+Installation duct___Inštalačný kanál
+Skirting duct complete___Kompletný kanál pre lišty
+All-purpose plug___Univerzálna zástrčka
+Double flange plug___Zástrčka s dvojitou prírubou
+Dowel___Hmoždinka
+Expanding plug___Rozširujúca zátka
+Plasterboard plug___Hmoždinka do sadrokartónu
+Push fit plug___Zásuvná zátka
+Screwing system___Skrutkovací systém
+Spiral plug___Špirálová zátka
+Universal anchor plug___Univerzálna kotviaca zátka
+Potential equalization socket___Zásuvka na vyrovnanie potenciálu
+Potential equalization socket outlet___Zásuvka potenciálneho vyrovnania
+Busbar___Prípojnica
+Busbar trunk unit___Prípojnicová kmeňová jednotka
+Screw hook___Skrutkovací hák
+Screwing system___Skrutkovací systém
+Diazed screw cap___Skrutkovací uzáver s priemerom
+D-system screw cap___Skrutkovací uzáver systému D
+Diazed fuse base___Diazónová poistková základňa
+D-system fuse base___D-systémová poistková základňa
+Fuse base___Podstavec poistky
+Nut___Matica
+T-nut for channels___T-matica pre kanály
+All-purpose plug___Univerzálna zástrčka
+Dowel___Hmoždinka
+Hammerfix___Hammerfix
+3D-ring___3D-krúžok
+Body ring___Krúžok na telo
+Disc___Kotúč
+Flat washer___Plochá podložka
+Lock washer___Zaisťovacia podložka
+Prestressing washer___Predpínacia podložka
+Revet___Revet
+Ring___Krúžok
+Serrated lock washer___Zubatá poistná podložka
+Square taper washer___Štvorhranná kužeľová podložka
+Washer___Podložka
+Washer conical___Podložka kužeľová
+Washer spherical___Podložka guľatá
+Cartridge___Kazeta
+Diazed fuse link___Diazónová poistková vložka
+D-system fuse link___Poistková vložka systému D
+STOP___STOP
+Type of fuse___Typ poistky
+Distributor___Distribútor
+Distributor case___Skrinka rozdeľovača
+Fuse enclosure___Poistková skriňa
+Housing___Kryt
+Small distribution board equipped___Malá rozvodná doska vybavená
+Busbar___Prípojnica
+Copper pipe___Medená rúrka
+Light-track___Svetelná stopa
+Mounting rail___Montážna lišta
+Incandescent lamp___Žiarovka
+Incandescent lamp with reflector___Žiarovka s reflektorom
+Lamp___Svietidlo
+Impact nail___Nárazový klinec
+Nail___Klinec
+Needle___Ihla
+Steel nail___Oceľový klinec
+Cordless telephone___Bezdrôtový telefón
+Mobile module___Mobilný modul
+System telephone___Systémový telefón
+Telephone___Telefón
+Bimetal___Bimetal
+Bimetallic contact___Bimetalový kontakt
+Control resistor___Riadiaci odpor
+Delayed activation___Oneskorená aktivácia
+DIL switch___Spínač DIL
+Electro/- mounting set/- circuit/- control___Elektro/- montážna sada/- obvod/- ovládanie
+Installation multicircuit switch___Inštalačný viacokruhový spínač
+Manual control___Manuálne ovládanie
+Overload protector___Ochrana proti preťaženiu
+Relay___Relé
+Thermal overload relay___Tepelné relé preťaženia
+Thermal protection___Tepelná ochrana
+Thermal relay___Tepelné relé
+Thermo-relay mounting set___Montážna súprava tepelného relé
+Adapter plug___Zástrčka adaptéra
+Plug adapter___Adaptér zástrčky
+Timer___Časovač
+Timer clock___Časové hodiny
+Timer for domestic switching devices___Časovač pre domáce spínacie zariadenia
+Fluorescent lamp___Žiarivka
+Lamp___Svietidlo
+Batten luminaire___Svietidlo s lištou
+Device carrier___Nosič zariadenia
+Fluorescent batten___Žiarivková lišta
+Wall luminaire___Nástenné svietidlo
+Cavity fixing___Upevnenie do dutiny
+Dowel___Hmoždinka
+Toggle fixing___Kĺbové upevnenie
+Toggle wing___Kĺbové krídlo
+Tumbler bolt___Skrutka s nárazníkom
+Distributor box___Rozdeľovacia skrinka
+Junction box for installation duct___Rozdeľovacia skrinka pre inštalačný kanál
+Cable box___Káblový box
+Junction box for underfloor installation___Spojovacia krabica pre podlahovú inštaláciu
+Terminal box___Svorkovnica
+Distance ring___Distančný krúžok
+Elevation ring___Výškový krúžok
+Extension piece___Predlžovací diel
+Extension ring___Predlžovací krúžok
+Plaster compensation ring___Vyrovnávací krúžok na omietku
+Amplifier___Zosilňovač
+HiFi Amplifier___HiFi zosilňovač
+Mixing amplifier___Zmiešavací zosilňovač
+Sub-floor duct___Podlahový kanál
+Underfloor installation duct screed-covered___Podlahový inštalačný kanál pokrytý poterom
+Device carrier___Nosič zariadenia
+Device cup___Zásobník zariadenia
+Module housing rack___Stojan na puzdro modulu
+Mounting box___Montážna skrinka
+On floor duct base___Na základni podlahového kanála
+Installation column___Inštalačný stĺp
+Surface tank___Povrchová nádrž
+Surface tank empty___Povrchová nádrž prázdna
+Accessories for busbar trunks___Príslušenstvo pre prípojnicové rozvody
+Feed unit for busbar trunk___Napájacia jednotka pre prípojnicový kmeň
+In line power supply___In line napájanie
+Double socket outlet___Dvojitá zásuvka
+Earth leakage switch___Spínač úniku zeme
+Fault current protection___Ochrana pred poruchovým prúdom
+Over voltage protection___Prepäťová ochrana
+Residual current circuit breaker (RCCB)___Prúdový chránič (RCCB)
+Rotating current___Rotačný prúd
+Socket outlet___Zásuvka
+Socket outlet with protective contact___Zásuvka s ochranným kontaktom
+Socket outlet with safety contact___Zásuvka s bezpečnostným kontaktom
+Wall socket___Nástenná zásuvka
+Brace___Podpierka
+Cable clamp___Káblové svorky
+Cable clip___Káblové svorky
+Cable saddle___Káblové sedlo
+Clamp___Svorka
+Closed saddle___Uzavreté sedlo
+Conduit clip___Kábliková svorka
+Double model___Dvojitý model
+Fixing clip___Upevňovacia svorka
+Half saddle___Polovičné sedlo
+Mast clamp___Svorka stožiara
+Nail clip___Spona na klince
+Omega saddle___Sedlo Omega
+Pipe bracket___Držiak potrubia
+Pipe clamp___Objímka na potrubie
+Pipe saddle___Sedlo na potrubie
+Saddle___Sedlo
+Single shape___Jednoduchý tvar
+Suspended ceiling fixing___Upevnenie na zavesený strop
+Tube bracket___Držiak rúrky
+Tube clamp___Objímka rúrky
+Tube saddle___Sedlo rúrky
+Adhesive tape___Lepiaca páska
+Aluminum tape___Hliníková páska
+Burs tape___Páska s ostrím
+Denso tape___Denso páska
+Double adhesive sided tape___Obojstranne lepiaca páska
+Double-sided tape___Obojstranná lepiaca páska
+Glass tape___Sklenená páska
+Grease string___Mazacia šnúra
+Grease tape___Mazacia páska
+Installation strap___Inštalačná páska
+Insulation tape___Izolačná páska
+Mounting band___Montážna páska
+Press sleeve tape___Páska na lisovacie puzdro
+PVC tape___PVC páska
+Sealing Tape___Tesniaca páska
+Self-vulcanizing tape___Samovulkanizačná páska
+Shrink tape___Zmršťovacia páska
+Tape___Páska
+Transparent tape___Priehľadná páska
+Velcro___Suchý zips
+Vulcanizing tape___Vulkanizačná páska
+Adjusting nut___Nastavovacia matica
+For clamp nut___Pre upínaciu maticu
+Half nut___Polovičná matica
+Hex nut___Šesťhranná matica
+Hexagon nut___Šesťhranná matica
+Hexagonal nut___Šesťhranná matica
+Locknut___Zaisťovacia matica
+Low hexagon nut___Nízka šesťhranná matica
+Nut___Matica
+Plate nut___Dosková matica
+Horn___Roh
+Pneumatic horn___Pneumatický roh
+Pneumatic signal horn___Pneumatický signálny klaksón
+Signal horn___Signálny klaksón
+Sound generator___Generátor zvuku
+Bell___Zvonček
+Sound generator___Generátor zvuku
+Button___Tlačidlo
+Contact___Kontakt
+Door contact___Dverový kontakt
+Door station___Dverová stanica
+Doorbell___Dverový zvonček
+Push button___Tlačidlo
+Push button, complete___Tlačidlo, kompletné
+Auxiliary post___Pomocný stĺpik
+Movement sensor___Snímač pohybu
+Movement sensor complete___Snímač pohybu kompletný
+Multi-sensor___Viacnásobný senzor
+Presence detector___Detektor prítomnosti
+Low voltage switch for doorbell___Spínač nízkeho napätia pre zvonček
+Hospital bell___Nemocničný zvonček
+Hospital call button (hanging)___Nemocničné privolávacie tlačidlo (závesné)
+Pear shaped bell button___Zvončekové tlačidlo v tvare hrušky
+Pear shaped call button___Tlačidlo privolania v tvare hrušky
+Lamp holder for doorbell___Držiak lampy pre zvonček
+Motor siren___Motorová siréna
+Sound generator___Generátor zvuku
+Movement sensor___Snímač pohybu
+Presence detector___Detektor prítomnosti
+Sensor___Senzor
+Sensor element for movement sensor___Snímací prvok pre snímač pohybu
+Sensor element for movement sensor basic element___Senzorový prvok pre pohybový senzor základný prvok
+System movement sensor___Systémový snímač pohybu
+CEE plug___Zástrčka CEE
+CEE plug for mounting on machines and equipment___Zástrčka CEE na montáž na stroje a zariadenia
+Ceeform___Ceeform
+CEE-plug___Zástrčka CEE
+Counter connector___Konektor počítadla
+Coupling plug___Spojovacia zástrčka
+Disconnect plug___Odpojovacia zástrčka
+Elbow plug___Kolenová zástrčka
+Phase inverter___Fázový menič
+Plug___Zástrčka
+Adhesive label___Samolepiaci štítok
+Imprintable label___Štítok s potlačou
+Imprintable sheet___List s potlačou
+Imprinting software___Softvér na potlač
+Indication plate___Indikačná doska
+Insert___Vložka
+Labelling material___Označovací materiál
+Labelling material for domestic switching devices___Označovací materiál pre domáce spínacie zariadenia
+Lens___Šošovka
+Cable cutter___Rezák na káble
+Cable shears___Nožnice na káble
+Cutter___Strihač
+Pincer___Pinzeta
+Shears___Nožnice
+Aluminum rule___Hliníkové pravidlo
+Carpenter ruler___Tesárske pravítko
+Folding rule___Skladacie pravidlo
+Measure___Meradlo
+Plastic rule___Plastové pravidlo
+Rule___Pravidlo
+Ruler___Pravítko
+Stainless steel rule___Pravidlo z nehrdzavejúcej ocele
+Steel rule___Oceľové pravidlo
+Wooden rule___Drevené pravidlo
+Yardstick___Meradlo
+Cranked screwdriver___Skrutkovač s kľukou
+Cross slotted head screwdriver___Krížový skrutkovač s drážkovanou hlavou
+Crosshead screwdriver___Krížový skrutkovač
+Double cranked screwdriver___Skrutkovač s dvojitou kľukou
+Double right-angled screwdriver___Dvojitý pravouhlý skrutkovač
+Flexible screwdriver___Pružný skrutkovač
+Insert___Vložka
+Phillips screwdriver___Krížový skrutkovač
+Pozidrive screwdriver___Pozidrive skrutkovač
+Right-angled screwdriver___Pravouhlý skrutkovač
+Screwdriver cranked___Skrutkovač s kľukou
+Screw-driver cross recess___Skrutkovač krížová priehlbina
+Level___Vodováha
+Chisel___Dláto
+Electrician chisel___Elektrikárske dláto
+Flat chisel___Ploché dláto
+Graver___Graver
+Hack___Hák
+Mortice chisel___Dláto na zápustky
+Mortise chisel___Dláto na hĺbenie
+Pointed chisel___Špicaté dláto
+Splitting chisel___Štiepacie dláto
+Stone chisel___Kamenné dláto
+Mini pipe cutter___Mini sekáč na rúry
+Mini tube cutter___Mini fréza na rúry
+Pipe cutter___Rezák na rúry
+Pipe cutting___Rezanie rúr
+Pipe shears___Nožnice na rúry
+Tube cutter___Rezačka rúr
+Bag___Vrece
+Box___Box
+Case___Puzdro
+Casing___Plášť
+Combination spanner___Kombinovaný kľúč
+Expansion kit___Rozširujúca súprava
+Hole saw___Píla na otvory
+Mounting box___Montážna skrinka
+Pliers set___Súprava klieští
+Screwdriver set___Súprava skrutkovačov
+Set___Súprava
+Spanner set___Súprava kľúčov
+Tool set___Súprava náradia
+Wrench set___Súprava kľúčov
+Brush___Kefy
+Paintbrush___Štetec
+Chalk line device___Zariadenie na kreslenie kriedou
+Double spatula___Dvojitá špachtľa
+Glue spatula___Špachtľa na lepidlo
+Joint knife___Nôž na spoje
+Palette-knife___Paletový nôž
+Plaster spatula___Špachtľa na omietku
+Putty knife___Tmeliaci nôž
+Putty knife/spatula___Tmeliaci nôž/špachtľa
+Scraper___Škrabka
+Spatula___Špachtľa
+Bucket___Vedro
+Gypsum container___Nádoba na sadru
+Fuse screw key___Kľúč na poistné skrutky
+Key___Kľúč
+Bread knife___Nôž na chlieb
+Cable knife___Nôž na káble
+Cable stripping knife___Nôž na odizolovanie káblov
+Carving knife___Rezbársky nôž
+Industrial knife___Priemyselný nôž
+Knife___Nôž
+Knives___Nože
+Meat knife___Nôž na mäso
+Paring knife___Nôž na krájanie
+Retractable knife___Výsuvný nôž
+Table knife___Stolový nôž
+Universal knife___Univerzálny nôž
+Vegetable knife___Nôž na zeleninu
+Work knife___Pracovný nôž
+Arc punch___Oblúkový dierovač
+Hole punch___Dierovač
+Dial Calliper___Číslicové meradlo
+Digital slide gauge___Digitálne posuvné meradlo
+Precision slide gauge___Presné posuvné meradlo
+Slide gauge___Posuvné meradlo
+Angled screwdriver___Uhlový skrutkovač
+Double right-angled screwdriver___Dvojitý pravouhlý skrutkovač
+Electrician screwdriver___Skrutkovač pre elektrikárov
+Electronics screwdriver___Skrutkovač na elektroniku
+Fitting screwdriver___Montážny skrutkovač
+Flexible screwdriver___Pružný skrutkovač
+Mechanics screwdriver___Mechanický skrutkovač
+Precision screwdriver___Presný skrutkovač
+Screwdriver___Skrutkovač
+Screwdriver for slot head screws___Skrutkovač na skrutky s drážkovou hlavou
+Segmented screwdriver___Segmentový skrutkovač
+Slotted screwdriver___Skrutkovač s drážkou
+Straight screwdriver___Priamy skrutkovač
+Voltage tester___Skúšačka napätia
+Workshop screwdriver___Dielenský skrutkovač
+Stabbing awl___Šidlo na pichanie
+Cable scissors___Nožnice na káble
+Cable shears___Káblové nožnice
+Craftman scissors___Remeselnícke nožnice
+Duct scissors___Nožnice na káble
+Duct shears___Kanálistické nožnice
+Electrician's shears___Elektrikárske nožnice
+Industrial scissors___Priemyselné nožnice
+Leather scissors___Nožnice na kožu
+Leather shears___Nožnice na kožu
+Metal scissors___Nožnice na kov
+Metal shears___Nožnice na kov
+Multifunctional scissors___Multifunkčné nožnice
+Multifunctional shears___Multifunkčné nožnice
+Paper scissors___Nožnice na papier
+Paper shears___Nožnice na papier
+Scissors___Nožnice
+Shears___Nožnice
+Telephone cable scissors___Nožnice na telefónne káble
+Telephone cable shears___Nožnice na telefónne káble
+Carpenters hammer___Tesárske kladivo
+Chipping hammer___Štiepacie kladivo
+Chisel hammer___Sekáčske kladivo
+Claw hammer___Kladivo s pazúrmi
+Geolist hammer___Kladivo pre geológov
+Glaziers hammer___Sklenárske kladivo
+Hammer___Kladivo
+Hammer/sledge hammer___Kladivo/ kladivo na sane
+Lead hammer___Olovené kladivo
+Magnetic hammer___Magnetické kladivo
+Mason hammer___Zednícke kladivo
+Paving hammer___Kladivo na dlážku
+Plastic hammer___Plastové kladivo
+Rubber hammer___Gumové kladivo
+Scaling hammer___Kladivo na kameň
+Sledge hammer___Kladivo na sane
+Smith hammer___Kováčske kladivo
+Universal hammer___Univerzálne kladivo
+Welding chipping hammer___Zváračské sekacie kladivo
+Wooden hammer___Drevené kladivo
+Drill___Vŕtačka
+Step drill___Krokový vrták
+Cable stripper___Odstraňovač izolácie káblov
+Cable stripping tool___Nástroj na odizolovanie káblov
+Sheath stripper___Odizolovač plášťa
+Stripper___Odizolovač
+Stripper tool___Nástroj na odizolovanie
+Stripping tool___Nástroj na odizolovanie
+Wire stripper pliers___Odizolovacie kliešte na káble
+Adjustable pliers___Nastaviteľné kliešte
+Channellocks___Kanálové zámky
+Groove-joint pliers___Kliešte na drážkové spoje
+Pipe wrench___Kľúč na rúrky
+slip-joint pliers___kliešte na klzné spoje
+Tongue-and-groove pliers___Kliešte na pero a drážku
+Water pump pliers___Kliešte na vodné čerpadlo
+Cutter___Štiepacie kliešte
+Diagonal cutting nipper___Diagonálne štípacie kliešte
+Electronic cutting nipper___Elektronické štiepacie kliešte
+Electronic side cutter___Elektronické bočné štípacie kliešte
+Nipper___Strihacie nožnice
+Pliers___Kliešte
+Power diagonal cutting nipper___Elektrické diagonálne strihacie kliešte
+Shears___Nožnice
+Side cutter___Bočné nožnice
+Punch pliers___Dierovacie kliešte
+Cable pulling system___Systém na ťahanie káblov
+Extension circuit___Predlžovací obvod
+Crimp tool___Krimpovací nástroj
+Crimp tool cable and sleeves___Krimpovací nástroj kábel a objímky
+Crimp tool cable lugs___Krimpovací nástroj káblové koncovky
+Crimp tool cable lugs, cable end sleeves, screen connection___Krimpovací nástroj káblové koncovky, koncové objímky kábla, pripojenie tienenia
+Crimp tool screen connection___Krimpovací nástroj pripojenie tienenia
+Crimping pliers___Krimpovacie kliešte
+Crimping tool___Krimpovací nástroj
+Deep Trough End Sleeve Crimping Pliers___Krimpovacie kliešte na koncové objímky s hlbokým žliabkom
+Hand crimp tool___Ručný lisovací nástroj
+Jacking pliers___Kliešte na zovretie
+Terminal crimping pliers___Krimpovacie kliešte na svorky
+Wire rod sleeve___Objímka na drôtené tyče
+Arm-saw___Ručná píla
+Blade saw___Pílový kotúč
+Hack saw___Háková píla
+Hacksaw frame___Rám pílky na železo
+Hand saw___Ručná píla
+Handsaw___Ručná píla
+Japanese saw___Japonská píla
+Keyhole saw___Píla s kľúčovou dierkou
+Saw___Píla
+Wood saw___Píla na drevo
+Sabre saw (electric)___Šabľová píla (elektrická)
+Cutting disc___Rezný kotúč
+Diamond wheel___Diamantový kotúč
+Box spanner___Skriňový kľúč
+Flexibel nut driver___Flexibelový skrutkovač matíc
+Flexibel spanner___Kľúč Flexibel
+Handgrip___Ručná rukoväť
+Key___Kľúč
+Nut driver___Ovládač matíc
+Single head box spanner___Jednohlavý krabicový kľúč
+Socket screwdriver___Nástrčný skrutkovač
+Socket spanner___Nástrčný kľúč
+Socket spanner offset___Nástrčkový kľúč ofsetový
+T-handle___T-rukoväť
+Half moon key___Polmesiacový kľúč
+Key___Kľúč
+Key for enclosure___Kľúč na skrinku
+Key for enclosures/cabinets___Kľúč na skrine/skrinky
+Socket spanner___Nástrčkový kľúč
+Nibbler (electric)___Nástrčné kliešte (elektrické)
+Nibbler (electrical)___Skrutkovač (elektrický)
+Slitting machine (electric)___Rezací stroj (elektrický)
+Wall chaser (electric)___Stenová stierka (elektrická)
+Wall groove cutter (electric)___Fréza na drážky na steny (elektrická)
+Bag___Vrece
+Box___Krabica
+Carrier bag___Nosné vrecko
+Case___Puzdro
+Case for power tools (empty)___Kufrík na elektrické náradie (prázdny)
+Casing___Puzdro
+Installation box___Inštalačná škatuľa
+Leather tool bag___Kožená taška na náradie
+Machine case, empty___Kufrík na stroj, prázdny
+Mechanics box___Skrinka na mechaniku
+Mounting box___Montážna skrinka
+Retractable tool bag___Výsuvná taška na náradie
+Roll-up bag___Rolovacia taška
+Steel case___Oceľový kufor
+Suitcase___Kufrík
+Tool bag___Taška na náradie
+Tool box___Skrinka na náradie
+Tool box/case___Skriňa/kufor na náradie
+Tool case___Kufrík na náradie
+Trolley___Vozík
+Assambly tweezers___Montážna pinzeta
+Cross tweezers___Krížová pinzeta
+Forcep___Forcepty
+Forceps___Pinzeta
+Grab tweezers___Uchopovacia pinzeta
+Insulated tweezers___Izolovaná pinzeta
+Pincette___Pinzeta
+Precision tweezers___Presná pinzeta
+Spring loaded tweezers/gripper___Pružinová pinzeta/prípravok na uchopenie
+Tweezers___Pinzeta
+Electric soldering iron___Elektrická spájkovačka
+Soldering gun___Pájacia pištoľ
+Soldering station___Spájkovacia stanica
+Soldering tip___Spájkovací hrot
+Bar solder___Tyčová spájka
+Resin core solder___Pájka s živicovým jadrom
+Soft solder___Mäkká spájka
+Solder___Spájka
+Soldering wire___Spájkovací drôt
+Tin silver solder___Cínová strieborná spájka
+Tin solder___Cínová spájka
+Tin solder wire___Cínové spájkovacie drôty
+Wire solder___Spájkovací drôt
+Converter___Konvertor
+Razor socket outlet___Zásuvka na žiletku
+Socket outlet___Zásuvka
+Chalk___Kréda
+Felt pen___Plstené pero
+Marker___Popisovač
+Pin___Kolík
+Built-in device___Zabudované zariadenie
+Latching relay___Spínacie relé
+Mini circuit breaker___Mini istič
+Relay___Relé
+Series switch___Sériový spínač
+Twilight switch___Súmrakový spínač
+Cover___Kryt
+Cover plate___Krycia doska
+Face plate for wall duct___Čelná doska pre stenový kanál
+Cable reel___Navijak kábla
+Extension circuit___Predlžovací obvod
+FLASH EPROM___FLASH EPROM
+PLC memory card___Pamäťová karta PLC
+Storage module___Pamäťový modul
+Application framework___Aplikačný rámec
+Application segment___Aplikačný segment
+Clip___Klip
+Decor frame___Dekoratívny rám
+Decoration element for domestic switching devices___Dekoračný prvok pre domáce spínacie zariadenia
+Decorative ring___Dekoračný krúžok
+Blinker light___Blinkrové svetlo
+Blue light___Modré svetlo
+Continuous light___Nepretržité svetlo
+Flash bulb___Žiarovka s bleskom
+Flash light___Zábleskové svetlo
+Flashing alarm luminaire___Blikajúce poplašné svietidlo
+Flashing light___Blikajúce svetlo
+Flashlight___Zábleskové svetlo
+Light signalling unit___Svetelná signalizačná jednotka
+Optical/acoustic signal device___Optické/akustické signalizačné zariadenie
+Round flashing light___Okrúhle blikajúce svetlo
+Strobe luminaire___Stroboskopické svietidlo
+Auxiliary contactor___Pomocný stýkač
+Built-in device___Zabudované zariadenie
+Contactor relay___Stýkačové relé
+Control circuit relay___Relé riadiaceho obvodu
+Coupling relays___Spojovacie relé
+Interface relays___Relé rozhrania
+Miniature relay___Miniatúrne relé
+Mini-relay___Mini relé
+Plug-in relay___Zásuvné relé
+Print relay___Tlačové relé
+Relay___Relé
+Universal relay___Univerzálne relé
+Diode-suppressor___Diódový tlmič
+Over voltage protection___Prepäťová ochrana
+RC-suppressor___RC-supresor
+Surge voltage protection___Ochrana proti prepätiu
+Varistor (voltage-sensitive resistor)___Varistor (rezistor citlivý na napätie)
+Amplifier module for contactor___Modul zosilňovača pre stýkač
+Interface___Rozhranie
+Glow lamp___Žiarovka
+Illumination insert for domestic switching devices___Osvetľovacia vložka pre domáce spínacie zariadenia
+Incandescent lamp___Žiarovka
+Indicator lamp___Indikačná žiarovka
+LED___LED
+Single LED___Jednoduchá LED dióda
+Cabinet for contact element pushbutton___Skrinka pre kontaktný prvok tlačidlo
+Empty pushbutton box___Prázdna skrinka na tlačidlá
+Empty pushbutton housing___Prázdna skrinka na tlačidlá
+Enclosure for control circuit devices___Skriňa pre zariadenia ovládacieho obvodu
+Housing___Skriňa
+Installation housing___Inštalačný kryt
+Surface mounting housing___Puzdro pre povrchovú montáž
+Built-in panel for control circuit devices___Zabudovaný panel pre zariadenia riadiacich obvodov
+Cover___Kryt
+Front plate___Predná doska
+Covering cap___Kryt krytu
+Protective cover for contact element pushbutton___Ochranný kryt pre tlačidlo kontaktného prvku
+Lamp transformer for control circuit devices___Lampový transformátor pre zariadenia riadiacich obvodov
+Lamp holder___Držiak svetelného zdroja
+Lamp holder block for control circuit devices___Blok držiaka svetelného zdroja pre zariadenia riadiacich obvodov
+LED___LED DIÓDA
+Button___Tlačidlo
+Control element___Ovládací prvok
+Intelligent control element___Inteligentný ovládací prvok
+Contact grease___Kontaktné mazivo
+Corrosion protection___Ochrana proti korózii
+Leakage detection spray___Sprej na detekciu úniku
+Menie___Mení
+Primer___Základný náter
+Spray___Sprej
+Topcoat___Vrchný náter
+Fire protection binding___Protipožiarne viazanie
+Fire protection compound___Protipožiarna ochranná zmes
+Fire protection compound/-binding___Protipožiarna zmes/viazač
+Fire protection compound/binding/foam/sealant___Protipožiarna zmes/viazač/pena/tesniaci prostriedok
+Fire protection correction element___Korekčný prvok protipožiarnej ochrany
+Fire protection foam___Protipožiarna pena
+Fire protection sealant___Protipožiarny tmel
+Fire stop tape___Protipožiarna páska
+Fire-proof cement___Protipožiarny cement
+Fire-proof paint___Protipožiarna farba
+Fire-proof spackling compound___Ohňovzdorná stierkovacia hmota
+Silicone___Silikónové
+Block___Blok
+Duct fire partitioning___Protipožiarne deliace konštrukcie kanálov
+End plate___Koncová doska
+Feed-through block___Priechodný blok
+Fibre silicate plate___Doska z vláknitého silikátu
+Finished fire partition___Hotová požiarna priečka
+Fire partitioning___Protipožiarna priečka
+Fire protection correction element___Korekčný prvok požiarnej ochrany
+Fire protection pad___Protipožiarna podložka
+Fire protection plate___Protipožiarna ochranná doska
+Fireproof mortar partition___Protipožiarna deliaca stena z malty
+Fireproof partition (soft)___Protipožiarna priečka (mäkká)
+Fireproof partition box___Ohňovzdorná deliaca priečka
+Fireproof plate partition___Protipožiarna dosková priečka
+Foam blocks___Penové bloky
+Foam stopper___Penová zátka
+Mixing tube___Zmiešavacia rúrka
+Modular fire partition___Modulárna protipožiarna priečka
+Sealing plate___Tesniaca doska
+Steel wire grid___Oceľová drôtená mriežka
+Support bracket___Podporná konzola
+Tube of silicon paste___Rúrka so silikónovou pastou
+Wall lead-through___Priechodka cez stenu
+Wall text plate___Stenová textová doska
+Cable entry___Vstup kábla
+Cable inlet___Prívod kábla
+Cover___Obal
+Cover plate___Krycia doska
+Flange___Príruba
+Gland plate for small distribution boards/switchgear cabinets___Vývodová doska pre malé rozvádzače/rozvodné skrine
+Inlet plate___Vstupná doska
+Insert___Vložka
+Mounting plate___Montážna doska
+Mounting plate for distribution board___Montážna doska pre rozvádzač
+Clamp cover___Kryt svorky
+Distributor___Rozvádzač
+Distributor case___Skriňa rozdeľovača
+Housing___Puzdro
+Small distribution board___Malá rozvodná doska
+Small distribution board equipped___Vybavená malá rozvodná doska
+Busbar___Prípojnica
+Connection rail___Pripojovacia lišta
+Earthing rail for distribution board___Uzemňovacia lišta pre rozvádzač
+Phase busbar___Fázová prípojnica
+Control switch___Ovládací spínač
+Fuse switch disconnector___Odpojovač poistiek
+Group switch___Skupinový spínač
+Load switch___Spínač záťaže
+Main switch___Hlavný vypínač
+Maintenance switch___Spínač údržby
+Master switch___Hlavný vypínač
+Motor switch___Motorový spínač
+Off-load switch___Vypínač zaťaženia
+On / off switch___Spínač zapnutia/vypnutia
+Operation switch___Prevádzkový spínač
+Power splitter___Rozdeľovač výkonu
+Reverser___Spätný chod
+Rotary toggle___Otočný prepínač
+Safety switch___Bezpečnostný spínač
+Switch___Prepínač
+Switch disconnector___Odpojovač spínača
+Turn switch___Prepínač otáčania
+Heat-shrink tubing___Teplom zmrštiteľné rúrky
+Hose___Hadica
+Insulation tube___Izolačná rúrka
+Shrink tape___Zmršťovacia páska
+Shrink tubing___Zmršťovacia hadička
+End cap___Koncový uzáver
+Heat-shrink end cap___Teplom zmrštiteľná koncovka
+Heat-shrink tubing___Teplom zmrštiteľná rúrka
+Shrink end cap___Zmršťovacia koncovka
+Sleeve___Objímka
+Heat-shrink tubing___Teplom zmrštiteľná rúrka
+Repair seal___Opravné tesnenie
+Shrink cast___Zmršťovací odliatok
+Gel cast___Gélový odliatok
+Grommet___Priechodka
+Heat-shrink___Teplom zmrštiteľné
+Heat-shrink wall duct___Teplom zmrštiteľný stenový kanál
+Press ring seal___Tesnenie lisovacím krúžkom
+Pressure cast___Tlakový odliatok
+Wall collar___Stenový golier
+Wall duct for cable___Stenový kanál pre kábel
+Wall lead-through___Priechodka cez stenu
+Actuator___Aktuátor
+Button___Tlačidlo
+Control element___Ovládací prvok
+Front element___Predný prvok
+Front element for push button___Predný prvok pre tlačidlo
+Head pushbutton___Hlavné tlačidlo
+Illuminated pushbutton___Podsvietené tlačidlo
+Illuminated switch___Osvetlený spínač
+Mushroom button___Hríbové tlačidlo
+Pulse button___Pulzné tlačidlo
+Push button___Tlačidlo
+Push button front element___Predný prvok tlačidla
+Push button signal lamp___Tlačidlové tlačidlo signalizačné svietidlo
+Push button, complete___Tlačidlo, kompletné
+Pushbutton___Tlačidlo
+Push-button___Tlačidlo
+Switch___Spínač
+Switch button___Tlačidlo spínača
+Actuator___Akčný člen
+Agreement switch___Spínač dohody
+Button___Tlačidlo
+Control element___Ovládací prvok
+Front element for selector switch___Predný prvok pre prepínač
+Front element selector___Predný prvok prepínača
+Head push button___Hlavné tlačidlo
+Illuminated selector button___Osvetlené tlačidlo voliča
+Key switch___Kľúčový prepínač
+Pulse button___Impulzné tlačidlo
+Push button___Tlačidlo
+Push button, complete___Tlačidlo, kompletné
+Rotary lever___Otočná páka
+Selector front element___Predný prvok voliča
+Switch___Prepínač
+Turn button (knob)___Otočné tlačidlo (gombík)
+Front element for indicator light___Predný prvok pre kontrolku
+Indicator light complete___Kontrolka kompletná
+Lens___Objektív
+7 segment LED driver___7 segmentový LED ovládač
+Complete device___Kompletné zariadenie
+Complete housing___Kompletný kryt
+Control box___Ovládacia skrinka
+Control circuit devices combination in enclosure___Kombinácia zariadení riadiacich obvodov v kryte
+Double pushbutton___Dvojité tlačidlo
+Push button___Tlačidlo
+Push button housing___Puzdro tlačidla
+Pushbutton cabinet complete___Kompletná tlačidlová skrinka
+Built-in device___Zabudované zariadenie
+Mini circuit breaker___Mini istič
+Power circuit-breaker for trafo/generator/installation prot.___Výkonový istič pre trafo/generátor/inštalačný prot.
+Power circuit-breaker for trafo/generator/installation protection___Výkonový istič pre ochranu trafo/generátora/inštalácie
+Power-cut-out switch___Vypínač napájania
+Switch___Spínač
+Control element___Ovládací prvok
+Handgrip___Ručná rukoväť
+Handle___Rukoväť
+Handle for power circuit breaker___Rukoväť pre výkonový istič
+Swivelling mechanism___Otočný mechanizmus
+Toggle handle___Prepínacia rukoväť
+Turn button (knob)___Otočné tlačidlo (gombík)
+Turn handle___Otočná rukoväť
+Door coupling handle for switchgear___Spojovacia rukoväť dverí pre rozvádzač
+Switch___Spínač
+Turn button (knob)___Otočné tlačidlo (gombík)
+Agreement switch___Spínač dohody
+Foot switch___Nožný spínač
+Foot-/palm switch complete___Nožný/palcový spínač kompletný
+Mushroom___Hríb
+Off switch___Vypínač
+Push button___Tlačidlo
+Reverser___Spätný chod
+Acoustic indicator___Akustický indikátor
+Blinker light___Svetlo blikača
+Continuous light___Nepretržité svetlo
+Continuous luminaire___Priebežné svietidlo
+Flash light___Zábleskové svetlo
+Flashing alarm luminaire___Blikajúce výstražné svietidlo
+Flashing light___Blikajúce svetlo
+Flashing luminaire___Blikajúce svietidlo
+Flashlight___Zábleskové svetlo
+Horn___Klaksón
+Optical module for signal tower___Optický modul pre signalizačnú vežu
+Round flashing light___Okrúhle blikajúce svetlo
+Signalling lamp___Signalizačné svietidlo
+Strobe luminaire___Stroboskopické svietidlo
+Empty enclosure for pendant control station___Prázdny kryt pre závesnú riadiacu stanicu
+Complete device___Kompletné zariadenie
+Pendant control station___Závesná ovládacia stanica
+Push button___Tlačidlo
+Dimmer___Stmievač
+Power boost___Zvýšenie výkonu
+Control___Ovládanie
+Logic module___Logický modul
+PLC CPU-module___Modul CPU PLC
+Connecting cable___Pripojovací kábel
+Connecting cord___Pripojovací kábel
+Connecting pipe___Pripojovacia rúrka
+Expansion___Rozširovací modul
+PC cable___PC kábel
+PLC connection cable___Pripojovací kábel PLC
+PLC simulation module___Modul simulácie PLC
+Current limiter___Obmedzovač prúdu
+Short-circuit current limiter___Obmedzovač skratového prúdu
+Adapter___Adaptér
+Cable entry___Káblový vstup
+Cable inlet___Vstup kábla
+Cable plug sealing clamp___Tesniaca svorka káblovej zástrčky
+Conduit inlet___Vstup kábla
+Coupler___Spojka
+Coupling piece___Spojovací kus
+Diaphragm___Membrána
+Duct slider___Posuvník potrubia
+Extended pipe in-lead___Predĺžený prívod potrubia
+Insert___Vložka
+Muff slider___Posuvník tlmiča
+Pipe in-lead___Vstupné vedenie potrubia
+Slide___Posuvník
+Slider with 2 inlets___Posuvník s 2 prívodmi
+With pull relief and suspension___S odľahčením ťahu a zavesením
+Cover___Kryt
+Cover plate___Krycia doska
+Covering cap___Krycí uzáver
+Diazed protective cover___Ochranný kryt s diapozitívom
+D-system protective cover___Ochranný kryt systému D
+Screening___Tienenie
+Shock protection cover___Ochranný kryt proti nárazom
+Built-up plug___Zabudovaná zástrčka
+Coupling plug___Spojovacia zátka
+Elbow plug___Kolenová zástrčka
+HNA plug___Zástrčka HNA
+Plug___Zástrčka
+Plug with protective contact___Zástrčka s ochranným kontaktom
+Plug with protective contact (SCHUKO)___Zástrčka s ochranným kontaktom (SCHUKO)
+TERKO plug___Zástrčka TERKO
+Air pressure switch___Spínač tlaku vzduchu
+Gas pressure switch___Spínač tlaku plynu
+Pressure switch___Tlakový spínač
+Clamp___Svorka
+Clip___Spona
+Span wire clamp___Svorka na rozpätie vodičov
+Cable dispenser___Zásobník káblov
+Feed roll___Podávacia rolka
+Roller___Valec
+Swivel castor set for cable dispenser___Sada otočných koliesok pre zásobník káblov
+Cable___Kábel
+Connection cable___Pripojovací kábel
+Spiralized cable___Špirálový kábel
+Housing___Puzdro
+Unequipped meter cabinet___Nevybavená skrinka na merače
+Control switch___Ovládací spínač
+Fuse switch disconnector___Odpojovač poistiek
+Housing___Skriňa
+Main switch___Hlavný vypínač
+Off switch___Vypínač
+Off-load switch___Vypínač vypnutia
+Protection switch disconnector housing___Ochranný spínač odpojovač puzdro
+Switch___Spínač
+Switch disconnector___Odpojovač spínača
+Cable protective covering hood___Kryt ochranného krytu kábla
+Cable protection tube for underground applications___Káblový ochranný kryt pre podzemné aplikácie
+Pipe___Potrubie
+Protective tube___Ochranná rúra
+Standpipe___Stojanová rúra
+Tube___Rúra
+Insert___Vložka
+Potentiometer___Potenciometer
+Rotational speed controller___Regulátor otáčok
+Speed controller___Regulátor otáčok
+Control element___Riadiaci prvok
+Manual transmitter___Manuálny vysielač
+Remote control___Diaľkové ovládanie
+Remote control (box)___Diaľkové ovládanie (krabica)
+Rocker___Kolískový ovládač
+Station___Stanica
+Transmitter___Vysielač
+Transmitter/Remote control for domestic switching devices___Vysielač/diaľkové ovládanie pre domáce spínacie zariadenia
+Wall transmitter___Nástenný vysielač
+Wall-mounted transmitter___Nástenný vysielač
+Halogen lamp___Halogénová lampa
+Lamp___Svietidlo
+Low voltage halogen reflector lamp___Nízkonapäťová halogénová reflektorová žiarovka
+Halogen lamp___Halogénová žiarovka
+Indicator light complete___Kontrolka kompletná
+Lamp___Svietidlo
+Low voltage halogen lamp___Nízkonapäťová halogénová žiarovka
+Low voltage halogen lamp without reflector___Nízkonapäťová halogénová žiarovka bez reflektora
+LV halogen lamp___Halogénová žiarovka nízkeho napätia
+Starter for lighting___Štartér pre osvetlenie
+Switch element___Spínací prvok
+Cable entry cabinet___Skrinka na zavedenie káblov
+Command panel___Príkazový panel
+Control panel___Ovládací panel
+Electronics cabinet___Skriňa elektroniky
+Enclosure/switchgear cabinet (empty)___Skriňa/rozvádzačová skriňa (prázdna)
+Housing___Skriňa
+Network cabinet___Sieťová skriňa
+Switchgear cabinet (empty)___Skriňa rozvádzača (prázdna)
+Terminal box___Svorkovnica
+Meter cabinet equipped___Vybavená meracia skriňa
+Meter panel___Panel merača
+Installation set___Inštalačná súprava
+Meter panel___Panel merača
+Distributor___Rozvádzač
+Panel for distribution board___Panel pre rozvádzač
+Halogen lamp___Halogénová lampa
+High voltage halogen reflector lamp___Vysokonapäťová halogénová reflektorová žiarovka
+Lamp___Lampa
+Ventilation appliance___Ventilačné zariadenie
+Cable entry cabinet___Skrinka na vstup káblov
+Connection cable___Pripojovací kábel
+Distributor___Rozvádzač
+Terminal box___Svorkovnica
+Cable connection box for entry cabinet___Káblové prípojky pre vstupnú skriňu
+Connection set___Pripojovacia súprava
+Edison base circuit breaker___Základný istič Edison
+Mini circuit breaker___Mini istič
+Miniature circuit breaker (MCB)___Miniatúrny istič (MCB)
+Miniature circuit breaker (MCB) plug model___Miniatúrny istič (MCB) model zástrčky
+Miniature circuit breaker (MCB) screw-in model___Miniatúrny istič (MCB) skrutkový model
+Indicator light complete___Svetelná signalizácia kompletná
+Lamp holder block for control circuit devices___Blok držiaka lampy pre zariadenia riadiacich obvodov
+Light signalling unit___Blok svetelnej signalizácie
+Pressure switch___Tlakový spínač
+Cable harness___Káblový zväzok
+Cable tree___Káblový strom
+Wiring set___Súprava káblov
+Cable harness___Zväzok káblov
+Connection cable tree for distribution boards___Pripojovací káblový strom pre rozvádzače
+Clamp___Svorka
+Clip___Spona
+Connection clamp___Pripojovacia svorka
+Connection rail___Pripojovacia lišta
+Connection terminal___Pripojovacia svorka
+Earthing rail for distribution board___Uzemňovacia lišta pre rozvádzač
+Neutral busbar___Neutrálna prípojnica
+Rail terminal bar___Koľajnicová svorkovnica
+Clamp___Svorka
+Clip___Svorka
+Connection clamp___Pripojovacia svorka
+Connection rail___Pripojovacia lišta
+Connection terminal___Pripojovacia svorka
+Distribution terminal block___Distribučná svorkovnica
+Earthing rail for distribution board___Uzemňovacia lišta pre rozvádzač
+Neutral busbar___Neutrálna zbernica
+D0-system switch disconnector___D0-systémový odpojovač
+Fuse switch disconnector___Odpojovač poistiek
+Neozed switch disconnector___Odpojovač neozn. spínača
+Protection switch disconnector housing___Kryt odpojovača ochranného spínača
+Switch___Spínač
+Switch disconnector___Odpojovač spínača
+D0-system adapter sleeve___Puzdro adaptéra systému D0
+Fitted screw___Namontovaná skrutka
+Neozed adapter sleeve___Neosadené puzdro adaptéra
+Diazed ring adapter___Diazovaný kruhový adaptér
+D-system ring adapter___D-systémový krúžkový adaptér
+Fitted screw___Namontovaná skrutka
+Busbar___Prípojnica
+Empty tube___Prázdna rúrka
+Line lighting system___Systém osvetlenia vedenia
+Module___Modul
+Pendant luminaire___Závesné svietidlo
+Profile___Profil
+Rail system___Koľajnicový systém
+Tube___Trubica
+Tube light complete___Kompletné trubicové svietidlo
+Tubelight system___Systém rúrkového osvetlenia
+Line lighting system___Systém líniového osvetlenia
+Mounting rail___Montážna lišta
+Support___Podpora
+Support profile light-line system___Nosný profil systém svetelnej línie
+Built-in device___Zabudované zariadenie
+Mini circuit breaker___Mini istič
+Relay___Relé
+Staircase lighting timer___Časovač osvetlenia schodiska
+Time switch___Časový spínač
+Timer clock___Časové hodiny
+Timer relay___Časové relé
+Floor luminaire___Podlahové svietidlo
+Living room luminaire___Svietidlo do obývačky
+Prisms luminaire___Svietidlo s hranolmi
+Bollard___Stĺpik
+Bollard luminaire___Svietidlo na stĺpik
+Luminaire bollard___Svietidlo stĺpik
+Orientation luminaire___Orientačné svietidlo
+Pedestal luminaire___Svietidlo na podstavci
+Stele___Stĺp
+Desk lamp___Stolové svietidlo
+Desk luminaire___Stolové svietidlo
+Floor luminaire___Podlahové svietidlo
+Housing lighting luminaire___Svietidlo na osvetlenie obydlia
+Loupe light___Lupienkové svietidlo
+Office luminaire___Kancelárske svietidlo
+Table lamp___Stolové svietidlo
+Table luminaire___Stolové svietidlo
+Workplace lighting lamp___Svietidlo na osvetlenie pracoviska
+Attenuation measuring device___Zariadenie na meranie útlmu
+Cat-5 certification set___Certifikačná súprava Cat-5
+Cat-5 testing device___Zariadenie na testovanie Cat-5
+Cat-6 certification set___Certifikačná súprava Cat-6
+Coaxial cable testing device___Zariadenie na testovanie koaxiálnych káblov
+Connection tester___Tester pripojenia
+Continuity tester___Tester kontinuity
+Fibre optic certification set___Certifikačná súprava na optické vlákna
+Fibre optic laser generator___Laserový generátor optických vlákien
+Interface testing device___Zariadenie na testovanie rozhrania
+ISDN installation testing device___Zariadenie na testovanie inštalácie ISDN
+ISDN phases testing device___Zariadenie na testovanie fáz ISDN
+ISDN testing device___Zariadenie na testovanie ISDN
+LAN Function testing device___Zariadenie na testovanie funkcií LAN
+Level tester___Zariadenie na testovanie úrovní
+Manual testing device___Ručné testovacie zariadenie
+Measure-/test device for communication technique___Meracie/testovacie zariadenie pre komunikačnú techniku
+Mini OTDR 1310/1550 nm___Mini OTDR 1310/1550 nm
+Mini OTDR 850/1300 nm___Mini OTDR 850/1300 nm
+OTDR, basic device___OTDR, základné zariadenie
+Patch cable tester___Tester prepojovacích káblov
+PC-cable tester___Tester PC káblov
+Reflection meter___Merač odrazu
+Reflection meter OTDR 1300/850 nm___Merač odrazu OTDR 1300/850 nm
+Reflection meter OTDR 850 nm___Merač odrazu OTDR 850 nm
+Satellite signal meter___Merač satelitného signálu
+S-Bus tester___Tester S-Bus
+Test device___Testovacie zariadenie
+Test point adapter___Adaptér testovacieho bodu
+Test receiver___Testovací prijímač
+Twisted Pair cable tester___Tester krútených párov káblov
+Clamp___Svorka
+Clamp connector___Konektor svorky
+Clip___Svorka
+Connector___Konektor
+Low current connector___Slaboprúdový konektor
+Low-voltage connector___Nízkonapäťový konektor
+Screw less terminal___Svorka bez skrutky
+Single-conductor connector___Konektor s jedným vodičom
+Insert___Vloženie
+LAN module___Modul LAN
+Modular connector___Modulárny konektor
+Modular coupler___Modulárna spojka
+Module___Modul
+Module for active network component/network unit___Modul pre aktívny sieťový komponent/sieťovú jednotku
+Converter___Konvertor
+Interface converter___Konvertor rozhrania
+USB interface___Rozhranie USB
+Bus___Autobus
+Connector___Konektor
+Elbow plug___Kolenová zástrčka
+Plug___Zástrčka
+Plug-in connection___Zástrčkové pripojenie
+Plug-in system___Zásuvný systém
+TAE-connector___TAE-konektor
+Telephone/modem connector___Telefónny/modemový konektor
+Automatic T-Switch___Automatický prepínač T
+Automatic/manual T-Switch___Automatický/ručný T-prepínač
+Data switch___Dátový prepínač
+Manual T-Switch___Manuálny T-prepínač
+Manual T-Switch/X-Switch___Manuálny T-prepínač/prepínač
+Manual X-Switch___Manuálny prepínač X
+Monitor/keyboard T-switch___Prepínač monitora/klávesnice T
+Reverser___Spätný chod
+Active network adapter___Aktívny sieťový adaptér
+Adapter___Adaptér
+Banana bus___Banánová zbernica
+Communications technique adapter___Adaptér komunikačnej techniky
+Connector___Konektor
+Coupler___Spojka
+Coupling piece___Spojovací kus
+Elbow plug___Kolenová zástrčka
+Interface converter___Prevodník rozhrania
+Network adapter___Sieťový adaptér
+TAE-connector___TAE-konektor
+T-piece___T-kus
+Document holder (switchgear cabinet)___Držiak dokumentov (rozvádzačová skriňa)
+Wiring diagram compartment___Priehradka na schému zapojenia
+Wiring diagram desk___Stôl so schémou zapojenia
+Wiring diagram holder___Držiak schémy zapojenia
+Wiring diagram pocket___Vrecko na schému zapojenia
+Air circulater___Cirkulátor vzduchu
+Air circulation___Cirkulácia vzduchu
+Fan___Ventilátor
+Roof ventilator___Strešný ventilátor
+Ventilator___Ventilátor
+Ventilator (switchgear cabinet)___Ventilátor (rozvodná skriňa)
+Fluorescent lamp___Žiarivka
+Illumination___Osvetlenie
+Luminaire (switchgear cabinet)___Svietidlo (rozvodná skriňa)
+Panel luminaire___Panelové svietidlo
+Cable bracket___Káblový držiak
+Cable duct___Káblový kanál
+Cable guard rail___Ochranná lišta na káble
+Cable guide___Vedenie kábla
+Cable guide for cabinets___Vedenie káblov pre skrinky
+Cable guide for enclosures/cabinets___Vedenie káblov pre skrine/skrinky
+Cable trough___Káblový žľab
+Cabling panel___Panel na vedenie káblov
+Fibre optic cable guide___Vedenie optických káblov
+Hammer head profile___Profil hlavy kladiva
+Holder for protective hose___Držiak na ochrannú hadicu
+Protective hose___Ochranná hadica
+Sandwich cable guide___Sendvičové vedenie kábla
+Handgrip___Rukoväť
+Lock system for switchgear cabinet systems___Zámkový systém pre systémy rozvodných skríň
+Padlock___Visiaci zámok
+Toggle___Prepínač
+Toggle handle___Prepínacia rukoväť
+Turn handle___Otočná rukoväť
+Connection rail___Pripojovacia lišta
+Earthing arrangements___Usporiadanie uzemnenia
+Earthing rail___Uzemňovacia lišta
+Earthing rail for distribution board___Uzemňovacia lišta pre rozvádzač
+Neutral busbar___Neutrálna prípojnica
+Strip___Pás
+Stripe___Pásik
+Connection strip___Pripojovacia lišta
+Multiple outlet strip___Lišta s viacerými zásuvkami
+Multiple socket___Viacnásobná zásuvka
+Multiple socket outlet___Viacnásobná zásuvka
+Socket outlet___Zásuvka
+Socket outlet combination___Kombinácia zásuviek
+Socket outlet strip___Zásuvková lišta
+Socket strip___Zásuvková lišta
+Strip___Pásik
+Wall socket___Zásuvka na stenu
+Ventilation plate (switchgear cabinet)___Ventilačná doska (rozvodná skriňa)
+Analog clock___Analógové hodiny
+Calendar clock___Kalendárne hodiny
+Clock___Hodiny
+Count down clock___Odpočítavacie hodiny
+Digital clock___Digitálne hodiny
+Indoor clock___Vnútorné hodiny
+LED clock___LED hodiny
+NTP clock___NTP hodiny
+Outdoor clock___Vonkajšie hodiny
+Quartz clock, battery operated___Quartzové hodiny na batérie
+Radio clock___Rádiové hodiny
+Radio clock, battery operated___Rádiové hodiny na batérie
+Radio clock, mains operated___Rádiové hodiny, napájané zo siete
+Receiver clock___Hodiny s prijímačom
+Secondary clock___Sekundárne hodiny
+Slave clock___Podriadené hodiny
+Sub-clock___Vedľajšie hodiny
+Synchronous clock___Synchrónne hodiny
+Temperature clock___Teplotné hodiny
+Wall clock___Nástenné hodiny
+Wireless clock___Bezdrôtové hodiny
+Cable___Kábel
+Heating cable___Vykurovací kábel
+Connection set___Pripojovacia súprava
+Finishing set heating cable___Vykurovací kábel dokončovacieho setu
+Heating cable end piece___Koncovka vykurovacieho kábla
+Heating cable/connection cable___Vykurovací kábel/spojovací kábel
+Heating cable/heating cable___Vykurovací kábel/vykurovací kábel
+Heating strip/housing___Vyhrievacia lišta/kryt vykurovacieho kábla
+Vending machine___Predajný automat
+Maximum demand monitor for distribution board___Monitor maximálneho odberu pre rozvádzač
+Garage door motor___Motor garážovej brány
+Sliding gate operator___Pohon posuvnej brány
+Swing gate operator___Pohon krídlovej brány
+Strap motor___Motor remeňa
+Tube mounted motor___Motor namontovaný na rúrke
+Building site lighting luminaire___Svietidlo na osvetlenie staveniska
+Bar-shaped lamp___Svietidlo v tvare tyče
+Hand lamp___Ručné svietidlo
+Hand luminaire___Ručné svietidlo
+Hand tube light___Ručné trubicové svietidlo
+Work light___Pracovné svetlo
+Machine and work bench luminaire___Svietidlo pre stroje a pracovné stoly
+Machine luminaire___Svietidlo pre stroje
+Magnifier luminaire___Svietidlo lupy
+Work bench luminaire___Svietidlo na pracovný stôl
+Blind module___Slepý modul
+Door station___Dverová stanica
+Extension module___Rozširujúci modul
+Functional module for door communication___Funkčný modul pre komunikáciu s dverami
+Functional module for door station___Funkčný modul pre dverovú stanicu
+Module___Modul
+Cover frame___Krycí rám
+Door side panel___Bočný panel dverí
+Module housing rack___Stojan na kryt modulu
+Mounting frame___Montážny rám
+Mounting frame for door station___Montážny rám pre dverovú stanicu
+Surface mounted housing___Kryt pre povrchovú montáž
+Accessories for telephone system___Príslušenstvo pre telefónny systém
+Alternating intercom___Striedavý interkom
+House telephone___Domový telefón
+Intercom___Interkom
+System telephone___Systémový telefón
+Telephone___Telefón
+Mounting frame___Montážny rám
+Mounting frame for house station___Montážny rám pre domácu stanicu
+Door loudspeaker___Dverový reproduktor
+Door station___Dverová stanica
+Door station door communication___Dverová stanica Dverová komunikácia
+Door station for door communication___Dverová stanica pre dverovú komunikáciu
+Loudspeaker___Reproduktor
+Loudspeaker box___Reproduktorová skrinka
+Outdoor station (audio/video)___Vonkajšia stanica (audio/video)
+Outside station (audio/video)___Vonkajšia stanica (audio/video)
+Outside station intercom (audio/video)___Vonkajšia stanica interkomu (audio/video)
+Accu___Accu
+Accumulator___Akumulátor
+Alkaline___Alkalický
+Alkaline battery___Alkalická batéria
+Battery___Batéria
+Battery (not rechargeable)___Batéria (nie nabíjateľná)
+Block battery___Bloková batéria
+Button cell___Knoflíkový článok
+Button cell/battery___Knoflíkový článok/batéria
+Clock battery___Hodinová batéria
+Coin cell battery___Mincová batéria
+Emergency battery___Núdzová batéria
+Flat battery___Plochá batéria
+Memory battery___Pamäťová batéria
+Minicel___Minicel
+Monocel___Monocel
+Nicad___Nikad
+Non-rechargeable battery___Nenabíjateľná batéria
+Penlite___Penlite
+Power pack___Napájací akumulátor
+Accu___Accu
+Accumulator___Akumulátor
+Battery___Batéria
+Battery rechargeable___Nabíjateľná batéria
+Block battery___Bloková batéria
+Button cell___Knoflíkový článok
+Clock battery___Hodinová batéria
+Emergency Battery___Núdzová batéria
+Flat battery___Plochá batéria
+Memory battery___Pamäťová batéria
+Minicel___Minicel
+Monocel___Monocel
+Nicad___Nikad
+Penlite___Penlite
+Power pack___Napájací akumulátor
+Rechargeable battery___Nabíjateľná batéria
+Battery charger___Nabíjačka batérií
+Universal battery charger___Univerzálna nabíjačka batérií
+Universal charger___Univerzálna nabíjačka
+Number___Číslo
+Number/text label for house number luminaire___Štítok s číslom/textom pre svietidlo s číslom domu
+Clamp___Svorka
+Clip___Svorka
+Fixing clip___Upevňovacia svorka
+Nail clip___Klip na klince
+Dowel___Hmoždinky
+Screw anchor___Skrutková kotva
+Punch___Dierovanie
+Chain hoist door opener___Reťazový otvárač dverí
+Door code opener___Kódový otvárač dverí
+Electrical door opener___Elektrický otvárač dverí
+Escape door opener___Otvárač únikových dverí
+Safety lock opener___Otvárač bezpečnostných zámkov
+Standard door opener___Štandardný otvárač dverí
+Toggle___Prepínač
+Brace___Stojan
+Cable clamp___Svorka kábla
+Cable pipe clamp___Objímka káblovej rúrky
+Clamp___Svorka
+Clamp block___Blok svorky
+Clamp bracket___Držiak svorky
+Clamp plug___Svorkovnica
+Click bracket___Klipová konzola
+Closed pipe clamp___Uzavretá rúrková svorka
+Holder for protective hose___Držiak ochrannej hadice
+Open clamp___Otvorená svorka
+Pipe bracket___Držiak rúrky
+Pipe clamp___Objímka na potrubie
+Pipe clip___Rúrková spona
+Plug bracket___Držiak zástrčky
+Plug clip___Zástrčková svorka
+Press bracket___Lisovacia konzola
+Pressure clamp___Tlaková svorka
+Shackle___Svorka
+Slide clamp___Posuvná svorka
+Tube clamp___Rúrková svorka
+Tube clip___Rúrková svorka
+Tube Insert___Vložka rúrky
+Tube terminal strip___Trubková svorkovnica
+Cable guide___Vedenie kábla
+Connection___Pripojenie
+Connection strip___Pripojovacia lišta
+Distribution strip___Distribučná lišta
+Earthing strip___Uzemňovacia lišta
+LSA Plus___LSA Plus
+Power supply system___Napájací systém
+Separating strip___Oddeľovacia lišta
+Switch strip___Spínacia lišta
+Telecommunication terminal strip___Telekomunikačná svorkovnica
+Telephone connection___Telefónne pripojenie
+LSA-Plus mounting box___Montážna skrinka LSA-Plus
+Mounting bracket___Montážna konzola
+Terminal box___Svorkovnica
+Accessories for communication technique___Príslušenstvo pre komunikačnú techniku
+Accessories for telecommunication technique___Príslušenstvo pre telekomunikačnú techniku
+Automatic change over switch___Automatický prepínač
+Dialling device___Zariadenie na vytáčanie
+Dialling/remote control device___Zariadenie na vytáčanie/diaľkové ovládanie
+Fax selector___Volič faxu
+Fax switch___Faxový spínač
+KNX tele control device___Zariadenie na diaľkové ovládanie KNX
+Locking device___Blokovacie zariadenie
+Power-current switch___Prepínač napájania a prúdu
+Remote control device___Zariadenie na diaľkové ovládanie
+Reverser___Spätný chod
+Stand-by starting automatic___Pohotovostný štartovací automat
+Support bell___Podporný zvonček
+Switching relay___Spínacie relé
+Tariff time switch___Časový spínač tarify
+Tele control head-set___Telecontrol head-set
+Telephone ringer side-unit___Bočná jednotka telefónneho zvonenia
+Telephone/fax/modem switch___Prepínač telefón/fax/modem
+Two-way switch___Obojsmerný prepínač
+Base plate___Základná doska
+Distributor___Rozvádzač
+Distributor box___Distribučná skrinka
+Distributor case___Skrinka distribútora
+Distributor enclosure___Skriňa rozdeľovača
+Distributor for telecommunication___Distribútor pre telekomunikácie
+Empty housing___Prázdny kryt
+Free standing distributor___Voľne stojaci rozvádzač
+Wall-mounted distributor___Nástenný rozvádzač
+Analogue telephone system___Analógový telefónny systém
+IP telephone system___IP telefónny systém
+ISDN telephone system___Telefónny systém ISDN
+Telephone___Telefón
+Telephone system___Telefónny systém
+VoIP telephone system___Telefónny systém VoIP
+Mounting plate___Montážna doska
+Mounting plate for fibre optic connection box___Montážna doska pre skrinku na pripojenie optických vlákien
+CEE socket outlet combination___Kombinácia zásuviek CEE
+Combination___Kombinácia
+Distributor___Rozvádzač
+Energy bollard___Energetický stĺpik
+Free standing distributor___Voľne stojaci rozvádzač
+Socket outlet combination___Kombinácia zásuviek
+Socket outlet strip___Zásuvková lišta
+Wall-mounted distributor___Nástenný rozvádzač
+Ampere meter___Ampérmeter
+Clamp measuring instrument___Svorkový merací prístroj
+Lightning current arrester for power supply systems___Zvodič bleskového prúdu pre napájacie systémy
+Over voltage protection___Prepäťová ochrana
+Protection___Ochrana
+Current supply___Napájanie prúdom
+Uninterrupted power supply___Neprerušované napájanie
+UPS___UPS
+Grip pliers___Úchopové kliešte
+LSA Plus___LSA Plus
+Special tool for telecommunication technique___Špeciálny nástroj pre telekomunikačnú techniku
+Stripper___Odstraňovač izolácie
+C-profile___Profil C
+Double profile___Dvojitý profil
+Fastening profile___Upevňovací profil
+I-profile___I-profil
+L-profile___L profil
+Mounting rail___Montážna lišta
+Profile___Profil
+Profile rail___Profilová lišta
+Simple profile___Jednoduchý profil
+S-profile___S-profil
+Support/profile rail___Nosná/profilová lišta
+T-profile___T-profil
+U-profile___U-profil
+Z-profile___Z-profil
+Separating partition___Deliaca priečka
+Separation plate for surface tank___Oddeľovacia doska pre povrchovú nádrž
+Additional heating___Prídavný ohrev
+Heating___Vykurovanie
+Heating flange___Vykurovacia príruba
+High-speed heater___Vysokorýchlostný ohrievač
+Mounting set electro storage heater___Montážna súprava elektroakumulačného ohrievača
+Screwable heating element___Skrutkovacie vykurovacie teleso
+Boiling water unit___Jednotka na varnú vodu
+Hot water device___Zariadenie na prípravu teplej vody
+Built-under device___Zabudované zariadenie
+Electronic instantaneous water heater___Elektronický prietokový ohrievač vody
+Hot water device___Zariadenie na prípravu teplej vody
+Instantaneous water heater___Prietokový ohrievač vody
+Special -/great instantaneous water heater___Špeciálny -/skvelý prietokový ohrievač vody
+Under sink device___Zariadenie pod umývadlo
+Heat pump___Tepelné čerpadlo
+Hot water heat pump___Tepelné čerpadlo na teplú vodu
+Pump___Čerpadlo
+Baseboard storage heating___Akumulačné vykurovanie so základnou doskou
+Flat storage___Plošný zásobník
+High storage___Vysoký zásobník
+Kitchen accumulator___Kuchyňa Akumulátor
+Peripheral ventilation heater___Periférne vetracie vykurovacie teleso
+Standard accumulator___Štandardný akumulátor
+Storage heater___Zásobníkový ohrievač
+Ventilation-storage heater___Ventilačno-skladovací ohrievač
+Heating element set for storage heater___Súprava vykurovacích telies pre zásobníkový ohrievač
+Storage heater___Zásobníkový ohrievač
+Flat storage___Plochý zásobník
+Housing for storage heater___Puzdro pre zásobníkový ohrievač
+Storage heater___Zásobníkový ohrievač
+Distribution terminal block___Rozvodná svorkovnica
+Distribution terminal for transformer___Distribučná svorka pre transformátor
+Distributor___Distribútor
+Incandescent lamp___Žiarovka
+Indication- and signalling lamp___Indikačné a signalizačné svietidlo
+Lamp___Svietidlo
+Traffic signalling lamp___Dopravná signalizačná lampa
+Door station set___Súprava dverových staníc
+Set___Súprava
+Built-in lamp holder___Zabudovaný držiak svietidla
+Ceiling lamp holder___Držiak stropného svietidla
+Connecting element___Spojovací prvok
+Double lamp holder___Dvojitý držiak lampy
+Edison lamp holder___Držiak Edisonovej lampy
+Emergency lighting lamp holder___Držiak lampy núdzového osvetlenia
+Hanging lamp holder___Držiak závesnej lampy
+Illumination lamp holder___Držiak osvetľovacej lampy
+Lamp holder___Držiak lampy
+Lamp holder for in-wall installation cable___Držiak lampy pre inštalačný kábel v stene
+Lamp holder with NSS bus contact___Držiak svietidla s kontaktom zbernice NSS
+Plug-in lamp holder___Zásuvný držiak svietidla
+Pull switch lamp holder___Držiak svietidla s výsuvným spínačom
+Reduction lamp holder___Držiak redukčného svietidla
+Screw lamp holder___Skrutkový držiak svietidla
+Small lamp holder___Držiak malého svietidla
+Surface mounted lamp holder___Držiak svietidla na povrchovú montáž
+Through-feed lamp holder___Držiak priechodného svetla
+Floor direct heater___Priame podlahové vykurovanie
+Floor heating___Podlahové vykurovanie
+Floor storage heater___Podlahové akumulačné vykurovanie
+Floor warming___Podlahové vykurovanie
+Heating___Vykurovanie
+Heating mat___Vykurovacia rohož
+Surface heating___Povrchové vykurovanie
+Hard foam___Tvrdá pena
+Insulation___Izolácia
+PU foam___PU pena
+Soft foam___Mäkká pena
+Storage heater___Zásobníkový ohrievač
+Thermal insulation___Tepelná izolácia
+Accu___Accu
+Adapter___Adaptér
+Battery___Batéria
+Battery for mobile and wireless telephone___Batéria pre mobilný a bezdrôtový telefón
+Booster___Posilňovač
+Line amplifier___Zosilňovač linky
+Backward controller___Spätný ovládač
+Central controller___Centrálny ovládač
+Charge controller___Regulátor nabíjania
+Charging controller___Ovládač nabíjania
+Control___Ovládanie
+Forward control___Ovládanie smerom dopredu
+Forward-/backward control___Ovládanie vpred/vzad
+Group controller___Skupinový ovládač
+Spread controller___Regulátor rozloženia
+Time control device___Časové riadiace zariadenie
+Universal controller___Univerzálny regulátor
+Lux meter___Merač luxov
+Built-in installation box luminaire___Vstavané svietidlo do inštalačnej krabice
+Housing___Kryt
+Installation housing___Inštalačné puzdro
+Hole cutter___Rezačka otvorov
+Hole saw___Píla na otvory
+Holesaw___Píla na otvory
+Piercing pinch___Prebíjací štipec
+Antenna___Anténa
+GSM antenna___GSM anténa
+Radio antenna___Rádiová anténa
+Radio-/television antenna___Rozhlasová/televízna anténa
+Receiver___Prijímač
+Television antenna___Televízna anténa
+Terrestrial antenna___Pozemná anténa
+Head end station___Hlavná koncová stanica
+Cassette___Kazeta
+Compact head end station___Kompaktná koncová stanica
+Cassette___Kazeta
+FM amplifier___FM zosilňovač
+Installation module___Inštalačný modul
+Module for head end station___Modul pre hlavovú stanicu
+SAT audio sub carriers___Subnosiče zvuku SAT
+Stripe___Pásik
+Diplexer/filter___Diplexer/filter
+Feed-in diplexer SAT/terrestrial___Vstupný diplexer SAT/pozemný
+Filter___Filter
+Frequency shunt___Frekvenčný bočník
+Receiver diplexer___Prijímací diplexer
+Remote feed diplexer___Diaľkový napájací diplexer
+Sat range diplexer/filter___Diplexer/filter satelitného dosahu
+Trap filter___Zachytávací filter
+Distributor___Distribútor
+Splitter___Rozdeľovač
+Tap-off and distributor___Odbočka a rozdeľovač
+Multi switch for communication technology___Multiprepínač pre komunikačnú technológiu
+Active return path module___Modul aktívnej spätnej cesty
+Amplifier___Zosilňovač
+Amplifier substation___Zosilňovačová rozvodňa
+CATV-amplifier___CATV-zosilňovač
+Distribution amplifier___Distribučný zosilňovač
+In-house distribution amplifier___Vnútorný distribučný zosilňovač
+Line amplifier___Sieťový zosilňovač
+Multi-band amplifier___Viacpásmový zosilňovač
+Repeater amplifier___Zosilňovač opakovača
+Return path amplifier___Zosilňovač spätnej cesty
+Signal amplifier___Zosilňovač signálu
+Split band amplifier___Zosilňovač rozdeleného pásma
+Receiver___Prijímač
+Twin-Receiver___Dvojitý prijímač
+Converter___Prevodník
+Feeding system/LNB___Napájací systém/LNB
+Quatro___Quatro
+Single___Jeden
+Single cable system___Systém s jedným káblom
+Twin___Twin
+Antenna___Anténa
+Mirror___Zrkadlo
+Satellite antenna___Satelitná anténa
+Finned-tube heater___Ohrievač s rebrovanými rúrkami
+Heating___Vykurovanie
+Above floor shaft___Nadpodlažná šachta
+Pumping shaft-container___Čerpacia šachta - kontajner
+Sub floor shaft___Podlahová šachta
+Built-in installation box___Zabudovaná inštalačná krabica
+Recessed mounted box for doorbell___Zapustená montážna krabica pre zvonček
+Attenuator___Tlmič
+Level adjuster___Nastavovač úrovne
+Antenna pole___Anténny stĺp
+Hinged mast___Výklopný stožiar
+Mast pipe___Rúra stožiara
+Plug-in mast___Zásuvný stožiar
+Standpipe___Stojanová rúra
+Telescopic mast___Teleskopický stožiar
+Under-roof mast___Podstrešný stožiar
+Antenna support bracket___Podperná konzola antény
+Double mounting bracket___Dvojitá montážna konzola
+Stand (base)___Stojan (základňa)
+Stand pipe holder___Držiak rúrky stojana
+Support___Podpera
+Supporting bracket___Podporná konzola
+Wall mount___Nástenný držiak
+Brightness sensor___Snímač jasu
+Light sensor___Snímač svetla
+Sensor___Senzor
+Solar operation___Solárna prevádzka
+Sun-/twilight sensor for roller-blind drive___Snímač slnka/súmraku pre pohon žalúzií
+Switch element___Spínací prvok
+Twilight switch___Súmrakový spínač
+Antenna___Anténa
+Radio receiver___Rádiový prijímač
+Receiver___Prijímač
+Coupling housing___Puzdro spojky
+Housing___Puzdro
+Housing extension___Rozšírenie puzdra
+Housing for industrial connectors___Puzdro pre priemyselné konektory
+Housing for rectangular connectors___Puzdro pre obdĺžnikové konektory
+Installation housing___Inštalačné puzdro
+Plug case___Puzdro zástrčky
+Socket case___Puzdro zásuvky
+Surface mounting housing___Puzdro pre povrchovú montáž
+Adapter___Adaptér
+Connector___Konektor
+Contact insert for industrial connectors___Kontaktná vložka pre priemyselné konektory
+Contact insert for rectangular connectors___Kontaktná vložka pre obdĺžnikové konektory
+Fibre optic conductor___Optický vodič
+Insert___Vložka
+Modular connector___Modulárny konektor
+Antenna socket___Anténna zásuvka
+End socket___Koncová zásuvka
+Loop-through socket___Priechodná zásuvka
+Modem box___Skrinka modemu
+Socket outlet___Zásuvka
+TWIN end socket___Koncová zásuvka TWIN
+Satellite set___Satelitná súprava
+Set___Súprava
+All-purpose plug___Univerzálna zástrčka
+Blind___Slepá
+Blind cap___Slepá zátka
+Blind cap explosion proof___Slepý uzáver odolný proti výbuchu
+Blind plate___Slepá doska
+Blind plug explosion proof___Slepá zátka odolná proti výbuchu
+Cable entry___Vstup kábla
+Cable entry explosion proof___Káblový vstup odolný proti výbuchu
+Cable gland___Káblové vývodky
+Cable glands___Káblové vývodky
+Cable screw gland___Káblové skrutkové vývodky
+Dowel___Hmoždinka
+Dummy plug___Zástrčka
+Dust cap___Prachová krytka
+Explosion proof blind cap___Nevýbušná záslepka
+Explosion proof blind plug___Nevýbušná slepá zátka
+Explosion proof cable entry___Nevýbušný káblový vstup
+Explosion proof cable gland___Káblové vývodky odolné proti výbuchu
+Explosion proof plug___Nevýbušná zástrčka
+Explosion proof sealing cap___Nevýbušný tesniaci uzáver
+Explosion proof sealing plug___Nevýbušná tesniaca zátka
+Explosion proof stop___Nevýbušná zarážka
+Flat cable coupling___Plochá káblová spojka
+Gland nut___Vývodová matica
+Plug___Zástrčka
+Seal ring___Tesniaci krúžok
+Sealing cap___Tesniaci uzáver
+Sealing plug___Tesniaca zátka
+Sealing plug explosion proof___Tesniaca zátka odolná proti výbuchu
+Sealing ring___Tesniaci krúžok
+Stop plug___Uzatváracia zátka
+Stuffing___Výplň
+Stuffing explosion proof___Výplň odolná proti výbuchu
+Swivel___Otočná
+Trumpet gland___Trubková vývodka
+Device built-in push button___Zariadenie zabudované v tlačidle
+Device built-in switch___Zabudovaný spínač zariadenia
+Device built-in switch and -push button___Zariadenie so zabudovaným spínačom a tlačidlom
+End switch___Koncový spínač
+Miniature push button switch___Miniatúrny tlačidlový spínač
+Off switch___Vypínač
+Push button___Tlačidlo
+Reverser___Spätný chod
+Series switch___Sériový spínač
+Switch___Spínač
+Child-protection___Detská ochrana
+Insert for child protection___Vložka pre detskú ochranu
+Insert socket outlet protection___Vložka na ochranu zásuvky
+Plug - protective housing___Zástrčka - ochranný kryt
+Self adhesive socket outlet protection___Samolepiaca ochrana zásuvky
+Cord switch___Šnúrový vypínač
+Cord switch/dimmer___Šnúrový spínač/stmievač
+Dimmer___Stmievač
+End switch___Koncový spínač
+Foot switch___Nožný spínač
+Connection terminal___Pripojovacia svorka
+Low current connector___Slaboprúdový konektor
+Plug clamp___Zástrčková svorka
+Screw less terminal___Svorka bez skrutky
+Clamp___Svorka
+Connection terminal___Pripojovacia svorka
+Double conductor terminal___Dvojvodičová svorka
+Plug clamp___Zástrčková svorka
+Service clamp___Servisná svorka
+Single conductor terminal___Jednožilová svorka
+Terminal for luminaire___Svorka pre svietidlo
+Resistor___Rezistor
+Terminal resistor___Svorkový rezistor
+Terminating resistor___Ukončovací rezistor
+Base___Základňa
+Fixing clip___Upevňovacia svorka
+Mounting base and -element for cable ties___Montážna základňa a -element pre káblové pásky
+Mounting clip___Montážna svorka
+Support bracket___Podporná konzola
+Appliance connection box___Skrinka na pripojenie spotrebiča
+Terminal box___Svorkovnica
+Cable entry___Vstup kábla
+Cable inlet___Prívod kábla
+Cable plug sealing clamp___Tesniaca svorka káblovej zástrčky
+Insert___Vložka
+Nozzle___Dýza
+Sealing plug___Tesniaca zátka
+CEE plug___Zástrčka CEE
+Motor protection plug___Ochranná zástrčka motora
+Motor protective circuit-breaker___Ochranný istič motora
+Phase inverter___Fázový menič
+Plug___Zástrčka
+Thermal release___Tepelné uvoľnenie
+Thermal/magnetic release___Tepelné/magnetické uvoľnenie
+Cable tie tool___Nástroj na viazanie káblov
+Bow clamp___Oblúková svorka
+Brace___Výstuha
+Cable clamp___Káblové svorky
+Clamp___Svorka
+Clamp bracket___Držiak svorky
+Clamp clip___Svorka svorky
+Conduit clamp___Svorka na potrubie
+Conduit clip___Káblovková svorka
+Holder for protective hose___Držiak ochrannej hadice
+One-piece strut clamp___Jednodielna rozperná svorka
+Counter shell___Pultový plášť
+Double shell___Dvojitý plášť
+Long shell___Dlhá škrupina
+Shell for cable clamp___Škrupina pre káblovú svorku
+Blind___Slepá
+Blind plate___Slepá doska
+Cable duct___Káblový kanál
+Cabling panel___Káblový panel
+Cover___Kryt
+Cover plate___Krycia doska
+Front blind___Predná žalúzia
+Front panel (switchgear cabinet)___Predný panel (rozvádzačová skriňa)
+Front plate___Predná doska
+Front plate (switchgear cabinet)___Predná doska (rozvádzačová skriňa)
+Adapter___Adaptér
+Bus___Zbernica
+Connector___Konektor
+Connector for luminaire___Konektor pre svietidlo
+Distribution terminal block___Distribučná svorkovnica
+Distributor___Rozvádzač
+Plug___Zástrčka
+T-distributor___T-distribútor
+Blind cover___Slepý kryt
+Cover___Kryt
+Cover plate___Krycia doska
+Cover plate for installation column___Krycia doska pre montážny stĺp
+Perilex plug___Perilexová zátka
+Plug___Zástrčka
+Beam clamp___Svorka nosníka
+Beam clip___Svorka nosníka
+Cable snap clip___Káblová spona
+Clip___Spona
+Conduit clamp___Svorka na potrubie
+Conduit clip___Spona na potrubie
+Fixing clamp___Upevňovacia svorka
+Fixing clip___Upevňovacia svorka
+Flange clamp___Prírubová svorka
+Flange clip___Prírubová svorka
+Hammer clamp___Kladivová svorka
+Hammer clip___Kladivová svorka
+Hammer-on clamp___Kladivová svorka
+Hammer-on clip___Kladivová svorka
+Snap clip___Svorka na zaklapnutie
+Spring clamp___Pružinová svorka
+Spring clip___Pružinová svorka
+Connection devices___Pripojovacie zariadenia
+Connector___Konektor
+Heat shrinking technique___Technika zmršťovania teplom
+Heat-shrink crimp connection___Teplom zmrštiteľné krimpovacie spojenie
+Active network adapter___Aktívny sieťový adaptér
+Adapter___Adaptér
+Balun___Balun
+Network adapter___Sieťový adaptér
+Accessories for lighting___Príslušenstvo pre osvetlenie
+S-Hook___S-Hook
+Chain connecting link___Spojovací článok reťaze
+Link chain___Spojovacia reťaz
+Fibre optic cable light system___Svetelný systém s optickými vláknami
+Conversion kit___Konverzná súprava
+Emergency unit for luminaire___Núdzová jednotka pre svietidlo
+Installation set___Inštalačná súprava
+Basic element for surge protection device___Základný prvok pre zariadenie na ochranu pred prepätím
+Over voltage protection___Prepäťová ochrana
+Clip___Klip
+Hanger for trapezoidal ceiling___Záves pre trapézový strop
+Beam clamp___Nosníková svorka
+C-beam clamp___Svorka na C-nosník
+C-clamp beam model___Model nosníka s C-svorkou
+Clamp___Svorka
+Clamp bracket___Držiak svorky
+Clip___Svorka
+Fixing clamp___Upevňovacia svorka
+Flange clamp___Prírubová svorka
+Profile clamp___Profilová svorka
+Screw clamp___Skrutková svorka
+Cover___Kryt
+Cover cap for mounting rail___Krytka pre montážnu lištu
+Edge protection tape___Páska na ochranu hrán
+End cap___Koncová krytka
+End cap/cover for support/profile rail___Koncová krytka/kryt pre nosnú/profilovú lištu
+Lengthwise cover___Pozdĺžny kryt
+Profile rail___Profilová lišta
+Door side panel___Bočný panel dverí
+Letterbox___Listová schránka
+Acrylate plate___Akrylátová doska
+Escape route___Úniková cesta
+Insert sheet/plate___Vkladací plech/doska
+Pictogram___Piktogram
+Pictogram for emergency luminaire___Piktogram pre núdzové svietidlo
+Sticker___Nálepka
+Orientation luminaire___Orientácia svietidla
+Sign luminaire___Značka svietidla
+Wall luminaire___Nástenné svietidlo
+Base plate___Základná doska
+Ceiling bracket___Stropná konzola
+Clamp piece___Svorka
+Floor console___Podlahová konzola
+Floor plate___Podlahová doska
+Mounting angle bracket___Montážna uhlová konzola
+Mounting bracket___Montážna konzola
+Mounting corner___Montážny roh
+Mounting element for support/profile rail___Montážny prvok pre nosnú/profilovú lištu
+Mounting lug___Montážne oko
+Wall connecting angle___Spojovací uholník na stenu
+Angle___Uholník
+Clamping bracket___Upínacia konzola
+Connector___Konektor
+Corner joint for mounting rail___Rohový spoj pre montážnu lištu
+Coupler___Spojka
+Coupler for support/profile rail___Spojka pre nosnú/profilovú lištu
+Coupling piece___Spojovací diel
+Double bracket___Dvojitá konzola
+Exterior coupler___Vonkajšia spojka
+Flat coupler___Plochá spojka
+Interior coupler___Vnútorná spojka
+Longitudinal joint___Pozdĺžny spoj
+Profile rail___Profilová lišta
+Support bracket___Nosná konzola
+Z-element___Z-element
+Cable entry cabinet___Skrinka na vstup káblov
+Cable entry distribution cabinet___Rozvodná skriňa na vstup káblov
+Distributor___Rozvádzač
+Distributor case___Rozdeľovacia skriňa
+End distribution enclosure___Koncová rozvodná skriňa
+Energy distributor for construction site___Energetický rozvádzač pre stavenisko
+Entry/end distributor enclosure___Vstupná/koncová rozvodná skriňa
+Mobile end-distributor___Mobilný koncový rozvádzač
+Busbar___Prípojnica
+Neutral busbar___Neutrálna prípojnica
+Electrical unit for gas discharge lamp___Elektrická jednotka pre výbojku
+Pendant luminaire___Závesné svietidlo
+Octagonal steel shaft for tube motor___Osemhranná oceľová hriadeľ pre trubkový motor
+Steel plate___Oceľová doska
+Box connector___Skriňová prípojka
+Bridge___Mostík
+Cable bridge___Káblový mostík
+Connecting bridge___Spojovací mostík
+Connector___Konektor
+Cross connector___Krížový konektor
+Cross-connector for terminal block___Krížový konektor pre svorkovnicu
+Distance piece___Vzdialený kus
+Jumper comb___Prepojovací hrebeň
+Phase busbar___Fázová prípojnica
+Plug___Zástrčka
+Push-in type jumper bar___Prepojovacia lišta typu Push-in
+Reducing connector___Redukčný konektor
+Separating bridger___Oddeľovací mostík
+Separating plug___Oddeľovacia zástrčka
+Wire commoning chain___Spoločná reťaz drôtov
+Accessories for earthing and lightning___Príslušenstvo pre uzemnenie a bleskozvod
+Adapter___Adaptér
+Base___Základňa
+Bracket___Držiak
+Bracket clamp___Svorka konzoly
+Bridgeover cord___Prepojovací kábel
+Bridgeover tape___Páska na premostenie
+Bridging lip___Premostenie pera
+Bushing for Roofs, Walls and Earthing Electrodes___Prechodka pre strechy, steny a uzemňovacie elektródy
+Clamp piece___Kus svorky
+Clamping bell___Upínací zvon
+Connecting element___Spojovací prvok
+Connecting vane___Spojovacia lopatka
+Connection cable___Pripojovací kábel
+Connection lug___Pripojovacie oko
+Connection plate___Pripojovacia doska
+Copper plated aluminium plate___Hliníková doska s medeným pokovovaním
+Copper plated aluminium sleeves___Hliníkové puzdrá s medeným pokovovaním
+Corrosion protection tape 100 mm___Páska na ochranu proti korózii 100 mm
+Corrosion protection tape 50 mm___Páska na ochranu proti korózii 50 mm
+Cover disc___Krycí kotúč
+Covering cap___Krycia čiapočka
+Cross-shaped keys___Kľúče v tvare kríža
+Distance frame___Dištančný rám
+Distance holder___Držiak vzdialenosti
+Dowel for rigid foam plates___Hmoždinka pre pevné penové dosky
+Earthing block___Uzemňovací blok
+Earthing cable lug___Uzemňovacie káblové oko
+Earthing conductor___Uzemňovací vodič
+Earthing connection___Uzemňovacia prípojka
+Earthing mortar___Uzemňovacia malta
+Earthing pipe___Uzemňovacia rúrka
+Earthing rail___Uzemňovacia lišta
+Eave support___Okapová podpera
+Event counter___Počítadlo udalostí
+Expansion piece___Dilatačný kus
+Expansion strap___Rozširovací pásik
+Grip head___Uchopovacia hlavica
+Ground spike___Uzemňovací hrot
+Grounding block double___Uzemňovací blok dvojitý
+Heat-shrink tubing___Teplom zmrštiteľná rúrka
+Impact head___Nárazová hlavica
+Impact pin___Nárazový kolík
+Indication plate___Indikačná doska
+Inspection door___Kontrolné dvierka
+Inspection housing___Kontrolný kryt
+Insulator___Izolátor
+Lip___Okraj
+Mounting material___Montážny materiál
+Mounting material M6___Montážny materiál M6
+Mounting material M8___Montážny materiál M8
+Pole___Pól
+Potential equalisation terminal___Svorka na vyrovnávanie potenciálov
+Rail base___Základňa lišty
+Rail support___Podpera koľajnice
+Rivet___Niť
+Sealing gaiter___Tesniaca manžeta
+Signing plate___Označovacia doska
+Stake___Kolík
+Straightening tool___Nástroj na vyrovnávanie
+Support___Podpera
+Support pipe___Podporná rúrka
+Tension band___Napínacia páska
+Tension strap___Napínacia páska
+Test terminal___Skúšobná svorka
+Threaded rod set___Súprava závitových tyčí
+Wall mounting___Montáž na stenu
+Wandmontage___Montáž prútov
+Wire dresser device___Zariadenie na obliekanie drôtov
+Wire reel___Navíjač drôtu
+Clamp___Svorka
+Clip___Spona
+Connection clamp___Spojovacia svorka
+Connection terminal___Pripojovacia svorka
+Earth terminal clamp___Svorka uzemňovacej svorky
+Earthing arrangements___Usporiadanie uzemnenia
+Earthing pliers___Uzemňovacie kliešte
+Low current connector___Slaboprúdový konektor
+Earth rod___Uzemňovacia tyč
+Earth rod/profiled earth rod___Uzemňovacia tyč/profilová uzemňovacia tyč
+Clamp___Svorka
+Clip___Svorka
+Connection clamp___Spojovacia svorka
+Connection terminal___Pripojovacia svorka
+Earthing arrangements___Usporiadanie uzemnenia
+Earthing pipe clamp___Svorka uzemňovacej rúrky
+Combi check___Kontrola kombinovaného zariadenia
+Continuity tester___Skúšačka kontinuity
+Digital voltage tester___Digitálna skúšačka napätia
+Double pole voltage tester___Dvojpólová skúšačka napätia
+Master check___Hlavná kontrola
+Multi check___Viacnásobná kontrola
+Phase sequence indicator___Indikátor sledu fáz
+Test device___Testovacie zariadenie
+Voltage detector___Detektor napätia
+Voltage tester___Skúšačka napätia
+Voltage tester screwdriver___Skrutkovač na skúšku napätia
+Voltmeter___Voltmeter
+Connection tester___Skúšačka pripojenia
+Continuity tester___Skúšačka kontinuity
+Test device___Skúšobné zariadenie
+Cable finder___Vyhľadávač káblov
+Cable sorter___Triedič káblov
+Conductor identifier___Identifikátor vodičov
+Conductor sorter___Triedič vodičov
+Line sorter___Triedič vedení
+Pipe and cable locator/sorter___Vyhľadávač/triedič potrubí a káblov
+Pipe locator___Lokátor potrubí
+Wire sorter___Triedič káblov
+DIN VDE 0100 multitasked___DIN VDE 0100 viacúčelový
+Multi meter___Viacúčelový merač
+Test device___Skúšobné zariadenie
+DIN VDE 0701 multitasked___DIN VDE 0701 viacúčelový
+Hand driven generator___Ručne poháňaný generátor
+Insulation tester___Skúšačka izolácie
+Multi meter___Viacúčelový merač
+Test device___Skúšobné zariadenie
+Hand driven generator___Ručne poháňaný generátor
+Insulation tester___Tester izolácie
+Test device___Skúšobné zariadenie
+Cable knife___Káblový nôž
+Cable length meter___Merač dĺžky kábla
+Measuring wheel___Meracie koliesko
+Network management software___Softvér na správu siete
+Software___Softvér
+Energy pole___Energetický stĺp
+Light and energy pole___Svetelný a energetický stĺp
+Light/energy pole___Svetelný/energetický stĺp
+Globe-shaped incandescent lamp___Žiarovka v tvare gule
+Incandescent lamp___Žiarovka
+Lamp___Lampa
+Copper, bare___Medená, holá
+Round conductor___Okrúhly vodič
+Round conductor/wire for lightning protection___Okrúhly vodič/drôt na ochranu pred bleskom
+Steel wire___Oceľový drôt
+Air-termination equipment for lightning protection___Vzduchové koncové zariadenie na ochranu pred bleskom
+Interception rod___Zachytávacia tyč
+Interception tip___Zachytávacia koncovka
+Lightning current arrester for power supply systems___Zvodič bleskového prúdu pre napájacie systémy
+Mushroom-shaped interceptor___Zachytávač v tvare hríbu
+Over voltage protection___Prepäťová ochrana
+Protection___Ochrana
+Earthing arrangements___Uzemňovacie zariadenia
+Lead-in earthing rod for lightning protection___Zvodová uzemňovacia tyč na ochranu pred bleskom
+Clamp___Svorka
+Roof conductor holder for lightning protection___Držiak strešného vodiča na ochranu pred bleskom
+Clamp trestle___Svorkový stožiar
+Conductor holder for lightning protection___Držiak vodiča na ochranu pred bleskom
+Rod holder for lightning protection___Držiak tyče na ochranu pred bleskom
+Protective / Isolating spark gap for lightning protection___Ochranné/izolačné iskrište na ochranu pred bleskom
+Clamp___Svorka
+Clip___Svorka
+Connection clamp___Pripojovacia svorka
+Connection terminal___Pripojovacia svorka
+Earthing pipe clamp___Svorka uzemňovacieho potrubia
+Tube earthing clamp for lightning protection___Uzemňovacia rúrková svorka na ochranu pred bleskom
+Disconnection clamp for lightning protection___Odpojovacia svorka na ochranu pred bleskom
+Clamp___Svorka
+Clamp screw___Skrutka svorky
+Clamp trestle___Svorka kozlík
+Clamping shoe___Svorkovnica
+Clip___Svorka
+Connection clamp___Spojovacia svorka
+Connection clamp for lightning protection___Pripojovacia svorka na ochranu pred bleskom
+Connection piece___Pripojovací kus
+Connection terminal___Pripojovacia svorka
+Construction clamp___Stavebná svorka
+Flange clamp___Prírubová svorka
+Gutter clamp___Svorka žľabu
+Low current connector___Slaboprúdová spojka
+Rebate clamp___Svorka prepadu
+Rod clamp___Tyčová svorka
+Snow catcher clamp___Svorka na zachytávanie snehu
+Bimetal connector___Bimetalový konektor
+Clamp___Svorka
+Clamp connector___Konektor svorky
+Clip___Svorka
+Connection clamp___Spojovacia svorka
+Connection terminal___Pripojovacia svorka
+Connector___Konektor
+Connector for lightning protection___Konektor na ochranu pred bleskom
+Cross connector___Krížový konektor
+End piece___Koncový kus
+Low current connector___Slaboprúdový konektor
+Multi purpose connecting clamp___Viacúčelová pripojovacia svorka
+Parallel connector___Paralelný konektor
+Sleeve connection___Pripojenie rukávov
+T-connector___T-konektor
+Active network adapter___Aktívny sieťový adaptér
+Adapter___Adaptér
+Network adapter___Sieťový adaptér
+PC-Card___PC-Card
+Powerline adapter___Sieťový adaptér
+Blade terminal___Blade terminál
+Cable lug___Káblové koncovky
+Flat pin bushing___Ploché kolíkové puzdro
+Insulated varnish wire connector___Konektor izolovaného lakovaného vodiča
+Plug___Zástrčka
+Round or flat plug/receptacle___Okrúhla alebo plochá zástrčka/zásuvka
+Round plug/flat receptacle___Okrúhla zástrčka/plochá zásuvka
+Sleeve___Objímka
+Terminal sleeve for protective hose___Svorkovnica pre ochrannú hadicu
+1-pole switch___1-pólový spínač
+Explosion proof switch___Nevýbušný spínač
+Switch___Spínač
+Two-way switch___Dvojcestný spínač
+Convector (electric)___Konvektor (elektrický)
+Convector frame___Rám konvektora
+Freestanding-/wall model___Voľne stojaci/stenový model
+Freeze protection convector___Konvektor s ochranou proti zamrznutiu
+Low-temperature convector___Nízkoteplotný konvektor
+Skirting convector___Konvektor s lištou
+Assortment box for installation- and connection material___Montážna krabica na inštalačný a spojovací materiál
+Amplifier___Zosilňovač
+Basic device for multi switch system___Základné zariadenie pre systém viacerých spínačov
+Feed-in amplifier___Vstupný zosilňovač
+Line amplifier___Sieťový zosilňovač
+Multi switch for communication technology___Viacnásobný prepínač pre komunikačnú technológiu
+Repeater amplifier___Zosilňovač opakovača
+Sat IF amplifier___Zosilňovač satelitného IF
+Satellite amplifier___Satelitný zosilňovač
+Split band amplifier___Zosilňovač s rozdeleným pásmom
+Amplifier___Zosilňovač
+Broadband amplifier___Širokopásmový zosilňovač
+Combination amplifier___Kombinovaný zosilňovač
+Feed-in amplifier___Vstupný zosilňovač
+FM amplifier___FM zosilňovač
+Multi-band amplifier___Viacpásmový zosilňovač
+Pre-amplifier___Predzosilňovač
+Repeater amplifier___Zosilňovač opakovača
+Signal amplifier___Zosilňovač signálu
+Split band amplifier___Delený pásmový zosilňovač
+Terrestrial amplifier___Terestriálny zosilňovač
+Earthing arrangements___Uzemňovacie zariadenia
+Earthing plate___Uzemňovacia doska
+2 component adhesive___2-zložkové lepidlo
+2 component glue___2-zložkové lepidlo
+Adhesive___Lepidlo
+Epoxy___Epoxidové
+Glue___Lepidlo
+Glue for fiber optic connectors___Lepidlo na optické konektory
+Paste___Pasta
+Two component adhesive___Dvojzložkové lepidlo
+Two component glue___Dvojzložkové lepidlo
+Solvent___Rozpúšťadlo
+Ceiling ventilator___Stropný ventilátor
+Fan___Ventilátor
+Free standing ventilator___Voľne stojaci ventilátor
+Table fan___Stolový ventilátor
+Ventilator___Ventilátor
+Brightness sensor___Snímač jasu
+Control unit___Riadiaca jednotka
+Electronic light controller___Elektronický regulátor svetla
+Extension module___Rozširujúci modul
+Infrared receiver___Infračervený prijímač
+IR sensor___IR snímač
+Light control system set___Súprava systému ovládania svetla
+Light controller/light sensor___Ovládač svetla/senzor svetla
+Light sensor___Snímač svetla
+Lighting control system component___Komponent systému riadenia osvetlenia
+Main module___Hlavný modul
+Manual transmitter___Manuálny vysielač
+Mini constant___Mini konštanta
+Multi-sensor___Multi-senzor
+Presence sensor___Snímač prítomnosti
+Remote control___Diaľkové ovládanie
+Remote control (box)___Diaľkové ovládanie (krabica)
+Sensor___Senzor
+Signal amplifier___Zosilňovač signálu
+Signal converter___Prevodník signálu
+Station___Stanica
+Switch element___Spínací prvok
+Tracer dimmer/IR-controller___Sledovací stmievač/IR-kontrolér
+Transmitter___Vysielač
+Twilight switch___Súmrakový spínač
+Wall transmitter___Nástenný vysielač
+Wall-mounted transmitter___Nástenný vysielač
+Automatic controller for light controlling system___Automatický ovládač pre systém riadenia osvetlenia
+Ceiling radiator___Stropný radiátor
+Ceiling-/wall emitter___Stropný/stenový žiarič
+Church bank heating___Vykurovanie kostolnej banky
+Church heating___Vykurovanie kostola
+Church pew heating___Vykurovanie kostolných lavíc
+Cradle radiator___Kolískový radiátor
+Free standing radiator___Voľne stojaci radiátor
+Heating emitter___Vykurovací žiarič
+Wall radiator___Nástenný radiátor
+Brace___Konzola
+Cable bracket___Držiak kábla
+Cable clamp___Káblové svorky
+Cable clip___Káblové svorky
+Cable guide___Vedenie kábla
+Clamp___Svorka
+Clip___Spona
+Mounting bracket___Montážna konzola
+Disc___Disk
+Nail___Klinec
+Nail disk___Kotúč na klince
+Blood pressure measuring instrument___Prístroj na meranie krvného tlaku
+Foot massage bath___Masážna vaňa na nohy
+Foot massager___Masážny prístroj na nohy
+Massager___Masážny prístroj
+Steam cleaner___Parný čistič
+Accumulator vacuum cleaner___Akumulátorový vysávač
+Back vacuum cleaner___Vysávač na chrbát
+Canister-cylinder cleaner___Vysávač s kanistrovým valcom
+Cyclone cleaner___Cyklónový vysávač
+Hip vacuum cleaner___Vysávač na bedrá
+Robot vacuum cleaner___Robotický vysávač
+Stick vacuum cleaner___Tyčový vysávač
+Table vacuum cleaner___Stolový vysávač
+Vacuum cleaner___Vysávač
+Blower vac___Vysávač s dúchadlom
+Blower vac (electrical)___Vysávač s dúchadlom (elektrický)
+Garden vacuum___Záhradný vysávač
+Grass suction machine___Vysávač na trávu
+Leaf blower___Vysávač lístia
+Leaf suction machine___Stroj na vysávanie lístia
+Leaf vac___Vysávač lístia
+Leaf vacuum___Vysávač lístia
+Mulcher___Mulčovač
+Desk calculator___Stolová kalkulačka
+Pocket calculator___Vrecková kalkulačka
+Programmable pocket calculator___Programovateľná vrecková kalkulačka
+Facial tanner___Prístroj na opaľovanie tváre
+Solarium___Solárium
+Sun lamp___Slnečná lampa
+Tanning appliance___Zariadenie na opaľovanie
+Total body tanner___Celkové opálenie tela
+Upper body tanner___Opalovací prípravok na hornú časť tela
+Curl brush___Kefa na natáčanie
+Curl staff___Pracovníci na kulmovanie
+Drying hood___Sušiaca kapucňa
+Hair dryer/hair styler___Sušič vlasov/prípravok na úpravu vlasov
+Hair straightener___Žehlička na vlasy
+Hair styler___Styler na vlasy
+Hairdryer/Hairstyler___Sušič vlasov/fén na vlasy
+Handheld hair dryer___Ručný sušič vlasov
+Steam curl brush___Parná kefa na natáčanie vlasov
+Steam curling tong___Parný kulmofén
+Travel hair dryer___Cestovný sušič vlasov
+Flat iron___Žehlička na vlasy
+Ironer___Žehlička na vlasy
+Ironing device___Žehliace zariadenie
+Low weight flat-iron___Žehlička s nízkou hmotnosťou
+Steam brush___Parná kefa
+Steam iron___Naparovacia žehlička
+Travel iron___Cestovná žehlička
+Cable ladder/wide span cable ladder___Káblový rebrík/širokorozponový káblový rebrík
+Vertical cable ladder___Zvislý káblový rebrík
+Clothes shaver___Holiaci strojček na oblečenie
+Dry lady-shave___Suché dámske holenie
+Dry shaver___Suchý holiaci strojček
+Shaver___Holiaci strojček
+Wet-/dry lady-shave___Mokré/suché dámske holenie
+Wet-/dry shaver___Holiaci strojček na mokré/suché holenie
+Wet-/dry shaver/epilator___Holiaci strojček/epilátor na mokré/suché holenie
+Body care appliance___Prístroj na starostlivosť o telo
+Cosmetic mirror___Kozmetické zrkadlo
+Face cleaning device___Prístroj na čistenie tváre
+Hair colouring device___Zariadenie na farbenie vlasov
+Manicure set___Súprava na manikúru
+Mirror___Zrkadlo
+Pedicure set___Súprava na pedikúru
+Personal care set___Súprava na osobnú starostlivosť
+Beard styler___Styler na fúzy
+Beard trimmer___Zastrihávač fúzov
+Hair trimmer___Zastrihávač vlasov
+Haircutter___Zastrihávač vlasov
+Haircutting kit___Súprava na strihanie vlasov
+Nose hair trimmer___Zastrihávač nosných chĺpkov
+Wall hair dryer___Nástenný sušič vlasov
+Personal scale___Osobná váha
+Back-/neck thermal pillow___Tepelný vankúš na chrbát/krk
+Electric blanket/electric pillow___Elektrická prikrývka/elektrický vankúš
+Electric blanket/pillow/foot warmer___Elektrická prikrývka/poduška/ohrievač nôh
+Electric pad___Elektrická podložka
+Foot warmer___Ohrievač nôh
+Heated carpet___Vyhrievaný koberec
+Thermal over blanket___Tepelná prikrývka
+Thermal under blanket___Tepelná prikrývka pod deku
+Clinical thermometer___Klinický teplomer
+Fever thermometer___Teplomer na meranie horúčky
+Thermometer___Teplomer
+Children toothbrush___Detská zubná kefka
+Mouth shower___Ústna sprcha
+Oral care appliance___Prístroj na starostlivosť o ústnu dutinu
+Toothbrush___Zubná kefka
+All-purpose vacuum cleaner___Univerzálny vysávač
+Canister-cylinder cleaner___Vysávač s kanistrovým valcom
+Damp vacuum cleaner___Vlhký vysávač
+Dry vacuum___Suchý vysávač
+Hard floor cleaner___Vysávač na tvrdé podlahy
+Spray extraction cleaner___Čistič s odsávaním v spreji
+Steam cleaner___Parný čistič
+Vacuum cleaner___Vysávač
+Wet and dry vacuum cleaner (electrical)___Vysávač na mokré a suché vysávanie (elektrický)
+Wet vacuum___Mokré vysávanie
+Blender___Mixér
+Hand blender___Ručný mixér
+Hand mixer___Ručný mixér
+Mixer/blender___Mixér/mixér
+Standing blender___Stojaci mixér
+Standing blender with kitchen scales___Stojaci mixér s kuchynskou váhou
+Can opener___Otvárač na konzervy
+Hand tin opener___Ručný otvárač na konzervy
+Standing tin opener___Stojanový otvárač na konzervy
+Knife sharpener___Ostrúhač nožov
+Knife-/shears blade sharpener___Brúska na nože a nožnice
+Universal sharpener___Univerzálny ostrič
+Baby food warmer___Ohrievač detskej stravy
+Installation scale___Inštalačná váha
+Kitchen scale___Kuchynská váha
+Table scales___Stolové váhy
+Wall scales___Nástenné váhy
+All-purpose slicer___Univerzálny krájač
+Food-slicer___Krájače potravín
+Slicing machine___Stroj na krájanie
+Electric knife___Elektrický nôž
+Knife___Nôž
+Food dehydrator___Sušička potravín
+Fruit/vegetable dryer___Sušička ovocia/zeleniny
+Citrus press___Lis na citrusy
+Juice centrifuge___Odstredivka na šťavu
+Juicer___Odšťavovač
+Spin juicer___Odšťavovač na odstreďovanie
+Squeezer/juicer___Odšťavovač/odšťavovač
+Ice cream maker___Výrobník zmrzliny
+Chopper___Sekáčik
+Cutter___Krájač
+Shredder___Drvič
+Kitchen machine___Kuchynský stroj
+Foil sealer___Zariadenie na zatavovanie fólií
+Vacuum sealer___Vákuová zváračka
+Raclette set___Súprava Raclette
+Contact grill___Kontaktný gril
+Free standing grill___Voľne stojaci gril
+Grill___Gril
+Grill station___Grilovacia stanica
+Grill table___Grilovací stôl
+Table grill___Stolový gril
+Electric fondue___Elektrické fondue
+Electric wok___Elektrický wok
+Fondue___Fondue
+Fondue/wok___Fondue/wok
+Wok___Wok
+Egg boiler___Kotol na vajcia
+Coffee maker___Kávovar
+Espresso machine___Kávovar na espresso
+Food steamer___Parný varič potravín
+Pan___Panvica
+Roof tile___Strešná krytina
+Steam cooker___Parný varič
+Steam oven___Parná rúra
+Joghurt maker___Výrobník jogurtu
+Yogurt maker___Jogurtovač
+Kitchen timer___Kuchynský časovač
+Stop watch___Stopky
+Timer___Časovač
+Automatic grill___Automatický gril
+Baking grill___Gril na pečenie
+Baking oven___Rúra na pečenie
+Grill___Gril
+Table baking oven/-grill___Stolová rúra na pečenie/gril
+Household immersion heater___Ponorný ohrievač pre domácnosť
+Immersion heater (electric)___Ponorný ohrievač (elektrický)
+Travel immersion heater___Cestovný ponorný ohrievač
+Hot tray___Horúca miska
+Memory medium___Pamäťové médium
+Tea light___Čajové svetlo
+Warming plate___Ohrievacia doska
+Warming tray___Ohrievacia miska
+Coffee grinder___Mlynček na kávu
+Coffee mill___Mlynček na kávu
+Coffee-/espresso grinder___Mlynček na kávu/espresso
+Espresso grinder___Mlynček na espresso
+Automatic preserving cooker___Automatický konzervačný varič
+Electric soup pan___Elektrická polievková panvica
+Preserving appliance___Zariadenie na konzervovanie
+Cordless kettle___Bezdrôtová rýchlovarná kanvica
+Electric kettle___Elektrická rýchlovarná kanvica
+Kettle___Rýchlovarná kanvica
+Water boiler___Bojler na vodu
+Water cooker___Varič na vodu
+Water heater___Ohrievač vody
+Water kettle___Rýchlovarná kanvica
+2-slice toaster___Hriankovač s 2 plátkami
+4-slice toaster___Hriankovač na 4 plátky
+Bread roll warmer___Ohrievač chleba
+Long slot toaster___Hriankovač s dlhým otvorom
+Roll baker___Pekáreň na rožky
+Rotating toaster___Rotačný hriankovač
+Sandwich toaster___Hriankovač na sendviče
+Toaster___Hriankovač
+Toaster/mini oven___Hriankovač/mini rúra
+Toaster/sandwich toaster___Hriankovač/sendvičovač
+Deep frier___Hlboká fritéza
+Deep fryer___Fritéza
+Fryer___Fritéza
+Crepes maker___Výrobník palaciniek
+Croissant maker___Výrobník croissantov
+Donut maker___Výrobník šišiek
+Pancake maker___Výrobník palaciniek
+Waffle maker___Vaflovač
+Cold press___Studený lis
+Floor standing rotary iron___Podlahová rotačná žehlička
+Foldable rotary iron___Skladacia rotačná žehlička
+Rotary ironer___Rotačná žehlička
+Steam rotary iron___Parná rotačná žehlička
+Facial sauna___Sauna na tvár
+Radiator (electric)___Radiátor (elektrický)
+Bread machine___Stroj na pečenie chleba
+Sterilizer___Sterilizátor
+Alarm clock___Budík
+Alarmclock___Budík
+Timer___Časovač
+Coffee maker___Kávovar
+Coffee maker/water cooker___Kávovar/varič na vodu
+Coffee-/tea maker___Kávovar/čajovar
+Double coffee maker___Dvojitý kávovar
+PLC system power supply___Napájanie systému PLC
+Clamp___Svorka
+Clip___Svorka
+Connection clamp___Pripojovacia svorka
+Connection terminal___Pripojovacia svorka
+Contact clip___Kontaktná svorka
+Lamp tester___Skúšačka svetelných zdrojov
+Screwed terminal___Skrutkovací terminál
+Test device___Skúšobné zariadenie
+Digital meter___Digitálny merač
+Digital thermometer___Digitálny teplomer
+Infrared meter___Infračervený merač
+Infrared thermometer___Infračervený teplomer
+liquid thermometer___teplomer na kvapaliny
+Measuring instrument for temperature and climate___Prístroj na meranie teploty a klímy
+Temperature meter___Merač teploty
+Thermometer___Teplomer
+Bus system___Zbernicový systém
+Connecting bridge___Spojovací mostík
+Data rail for bus system___Dátová lišta pre zbernicový systém
+EIB data rail___Dátová lišta EIB
+KNX data rail___Dátová lišta KNX
+Bus system___Zbernicový systém
+Connecting bridge___Spojovací mostík
+Connector___Konektor
+Coupler___Spojka
+Data rail coupler for bus system___Spojka dátovej lišty pre zbernicový systém
+EIB___EIB
+Air cleaner___Čistič vzduchu
+Air cleaner-/humidifier___Čistič vzduchu/vlhčovač vzduchu
+Air conditioner___Klimatizácia vzduchu
+Air humidifier___Zvlhčovač vzduchu
+Air moisturizer/air refresher___Zvlhčovač vzduchu/osviežovač vzduchu
+Epilator___Epilátor
+Adhesive label___Lepiaca etiketa
+Labelling tape___Etiketovacia páska
+Polisher___Leštička
+Vacuum polisher___Vákuová leštička
+CD labelling system___Systém označovania CD
+Electronic cable labeller___Elektronický štítkovač káblov
+Electronic label maker___Elektronický štítkovač
+Label maker___Zariadenie na výrobu štítkov
+Quick drying cement/plaster___Rýchloschnúci cement/omietka
+Rapid set cement/plaster___Rýchlo tuhnúci cement/omietka
+Coil___Cievka
+Decoupling coil for internal lightning protection___Oddeľovacia cievka na vnútornú ochranu pred bleskom
+Trap filter___Zachytávací filter
+Button___Tlačidlo
+Isolator relay venetian blind___Izolačné relé žalúzie
+Switch___Spínač
+Venetian blind control unit___Ovládacia jednotka žalúzie
+Boarding ladder___Nastupovací rebrík
+Combi ladder___Kombinovaný rebrík
+Combination ladder___Kombinovaný rebrík
+Electrician ladder___Rebrík pre elektrikárov
+Extending ladder___Výsuvný rebrík
+Extensible ladder___Výsuvný rebrík
+Folding ladder___Skladací rebrík
+Folding-ladder___Skladací rebrík
+Hinged ladder___Závesný rebrík
+Industry ladder___Priemyselný rebrík
+Ladder___Rebrík
+Multi-purpose ladder___Viacúčelový rebrík
+Paring-ladder___Kĺbový rebrík
+Pilot ladder___Pilotný rebrík
+Push-up ladder___Výsuvný rebrík
+Rope ladder___Lanový rebrík
+Runged ladder___Žeriavový rebrík
+Scaling ladder___Šupinový rebrík
+Sliding ladder___Posuvný rebrík
+Straight ladder___Priamy rebrík
+Telescopic ladder___Teleskopický rebrík
+Monitoring unit___Monitorovacia jednotka
+Over current protection___Nadprúdová ochrana
+Shunt release (for power circuit breaker)___Bočníková spúšť (pre výkonový istič)
+Thermal protection___Tepelná ochrana
+Thermal release___Tepelné uvoľnenie
+Tripping bloc for power circuit-breaker___Vypínací blok pre výkonový istič
+Meat grinder___Mlynček na mäso
+Meat mincer___Mlynček na mäso
+Butt chisels___Sekáče na tupo
+Screw___Skrutka
+Screw assortment box___Skriňa so sortimentom skrutiek
+Wood screw___Skrutka do dreva
+Accessories for control circuit devices___Príslušenstvo pre zariadenia riadiaceho obvodu
+Indication plate___Indikačná doska
+Legend plate for control circuit devices___Označovacia tabuľka pre zariadenia riadiacich obvodov
+Adhesive___Lepidlo
+Glue stick for glue gun___Lepiaca tyčinka pre lepiacu pištoľ
+Adhesive label___Lepiaci štítok
+Coding plate___Kódovacia tabuľka
+Indication plate___Označovacia tabuľka
+Text plate for control circuit devices___Textová tabuľka pre zariadenia riadiacich obvodov
+Text strip___Textový prúžok
+Car audio___Auto audio
+Cassette receiver combination___Kombinácia kazetového prijímača
+CD changer___CD menič
+CD changer set___Súprava CD meniča
+CD receiver___CD prijímač
+CD receiver combination___Kombinovaný CD prijímač
+MD receiver combination___Kombinovaný MD prijímač
+MP3/CD receiver combination___Kombinácia MP3/CD prijímača
+Radio___Rádio
+Refrigerator___Chladnička
+Combination___Kombinácia
+Fridge/freezer combination___Kombinovaná chladnička s mrazničkou
+Refrigerator___Chladnička
+Side-by-Side___Side-by-Side
+Top-opening freezer___Mraznička s horným otváraním
+Freezer___Mraznička
+Freezer box___Mraziaci box
+Top-opening freezer___Mraznička s horným otváraním
+Curler___Curler
+Curler set___Súprava na natáčanie
+Control switch___Ovládací spínač
+Control switch, Joystick___Ovládací spínač, joystick
+Controller___Ovládač
+Joystick___Joystick
+Joy-stick___Joy-stick
+Selector switch, complete___Prepínač, kompletný
+Switch___Prepínač
+Dishwasher___Umývačka riadu
+Basemodule___Základný modul
+Bus coupler for bus system___Spojka zbernice pre zbernicový systém
+Bus system___Zbernicový systém
+Coupler___Spojka
+EIB___EIB
+Bus connection terminal___Pripojovacia svorka zbernice
+Bus system___Zbernicový systém
+Clamp___Svorka
+Clip___Svorka
+Connecting-/branching terminal___Pripojovacia/odbočná svorka
+Connection clamp___Pripojovacia svorka
+Connection terminal___Pripojovacia svorka
+Connection-/branching terminal for bus system___Pripájacia/odbočná svorka pre zbernicový systém
+EIB___EIB
+Low current connector___Slaboprúdový konektor
+(Alarm) clock___(Alarmové) hodiny
+Electronic insert for domestic switching devices___Elektronická vložka pre domáce spínacie zariadenia
+Radio___Rádio
+Radio receiver___Rádiový prijímač
+Thermometer___Teplomer
+Voice recording___Nahrávanie hlasu
+Weather station___Meteorologická stanica
+Ironing table___Žehliaci stôl
+Top loading___Horné nakladanie
+Washer-dryer___Práčka so sušičkou
+Washing machine___Práčka
+Drier___Sušička
+Dryer___Sušička
+Tumble dryer___Sušička bielizne
+Wash dryer___Sušička bielizne
+Semiconductor motor controller___Polovodičový regulátor motora
+Soft starter___Softštartér
+Laser___Laser
+Measuring laser___Merací laser
+AB___AB
+Answering machine___Odpovedný stroj
+Fax___Fax
+CD changer___Menič CD
+CD player___CD prehrávač
+CD recorder___CD rekordér
+Portable CD player___Prenosný CD prehrávač
+SACD-player___SACD prehrávač
+CD changer___CD menič
+CD player___CD prehrávač
+CD player/recorder___CD prehrávač/rekordér
+CD recorder___CD rekordér
+SACD-player___SACD prehrávač
+Alarm clock___Budík
+Kitchen radio___Kuchynské rádio
+Radio___Rádio
+Radio Clock___Rádiobudík
+Radio receiver___Rádioprijímač
+Time indicator___Ukazovateľ času
+World receiver___Svetový prijímač
+Cassette receiver___Kazetový prijímač
+CD receiver___CD prijímač
+CD/cassette receiver___Prijímač CD/kaziet
+CD/MD receiver___CD/MD prijímač
+Radio recorder___Rádiomagnetofón
+2-way system___Dvojcestný systém
+3-way system___3-cestný systém
+Box___Skrinka
+Car loudspeaker___Reproduktor do auta
+Loudspeaker___Reproduktor
+Subwoofer___Subwoofer
+Bookshelf speaker___Regálový reproduktor
+Box___Box
+Cabinet loudspeaker___Skriňový reproduktor
+Ceiling speaker___Stropný reproduktor
+Column speaker___Stĺpový reproduktor
+Floorstanding speaker___Podlahový reproduktor
+Horn loudspeaker___Hornový reproduktor
+Loudspeaker___Reproduktor
+Loudspeaker box___Reproduktorová skrinka
+Rack loudspeaker___Regálový reproduktor
+Reflex horn___Reflexný roh
+Sound projector___Zvukový projektor
+Sound speaker___Zvukový reproduktor
+Speaker___Reproduktor
+Wall speaker___Nástenný reproduktor
+Compact cassette (analogue)___Kompaktná kazeta (analógová)
+Dictaphone___Diktafón
+Micro cassette___Mikrokazeta
+Camcorder___Videokamera
+Built-in___Zabudovaný
+Built-under___Zabudované pod
+Cooker hood___Odsávač pár
+Decorative (isle hood)___Dekoratívny (ostrovčekový odsávač pár)
+Flat shield___Plochý štít
+Free-hanging___Voľne zavesený
+Integrated___Integrovaný
+Wall fireplace___Nástenný krb
+Spin-dryer___Sušička so sušičkou
+Accessories for cooker hood___Príslušenstvo pre odsávač pár
+Hose___Hadica
+Inversion fitting___Inverzná armatúra
+Inversion fitting for cooker hood___Inverzná armatúra pre odsávač pár
+Inversion fitting with flex pipe___Inverzná armatúra s flexi rúrkou
+Inversion fitting with pipe support___Inverzná armatúra s podperou potrubia
+Suction hose___Odsávacia hadica
+Micro wave___Mikrovlna
+Microwave___Mikrovlnná rúra
+Microwave oven___Mikrovlnná rúra
+Baking oven___Rúra na pečenie
+Cooker___Sporák
+Electric cooker___Elektrický sporák
+Electric stove___Elektrický sporák
+Gas cooker___Plynový sporák
+Gas stove___Plynový sporák
+Earphone___Slúchadlá
+Headphone___Slúchadlá
+Head-phone___Slúchadlá
+Headset___Slúchadlá
+Built-in gas cooker___Zabudovaný plynový sporák
+Cooker___Sporák
+Freestanding gas cooker___Voľne stojaci plynový sporák
+Gas cooker___Plynový sporák
+Gas stove___Plynový sporák
+Glass ceramic cooking plate___Sklokeramická varná doska
+Heating plate___Vykurovacia doska
+Hob___Varná doska
+Hot plate___Horúca platňa
+Kitchen stove___Kuchynský sporák
+Oven___Rúra na pečenie
+Portable hob (hotplate)___Prenosná varná doska (varná platňa)
+Range___Rozsah
+Automatic hot plate___Automatická varná doska
+Exchange hotplate___Výmenná varná doska
+Heating plate___Vykurovacia doska
+High-speed hotplate___Vysokorýchlostná varná doska
+Hob___Varná doska
+Portable hob (hotplate)___Prenosná varná doska (varná platňa)
+Standard hotplate___Štandardná varná doska
+HiFi rack___HiFi stojan
+HiFi/TV furniture___HiFi/TV nábytok
+Stand (base)___Stojan (podstavec)
+Television/video table___Televízny/video stolík
+Under frame___Podstavec pod rám
+Wall console___Nástenná konzola
+Audio mixer___Zvukový mixér
+Equipment panel___Panel zariadenia
+Loudspeaker mixing panel___Panel na miešanie reproduktorov
+Mixer___Mixér
+HiFi-Receiver___HiFi prijímač
+Receiver___Receiver
+HiFi-Tuner___HiFi-Tuner
+Radio___Rádio
+Radio receiver___Rádioprijímač
+Current collector___Prúdový kolektor
+Length___Dĺžka
+Bus system___Zbernicový systém
+Button___Tlačidlo
+Control element___Ovládací prvok
+EIB___EIB
+Group push button___Skupinové tlačidlo
+Infrared receiver___Infračervený prijímač
+Nikobus___Nikobus
+Push button___Tlačidlo
+Push button, complete___Tlačidlo, kompletné
+Rocker___Kolískový ovládač
+Sensor___Senzor
+Top-piece___Vrchný diel
+Touch sensor for bus system___Dotykový snímač pre zbernicový systém
+Area/line coupler for bus system___Plošná/riadková spojka pre zbernicový systém
+Bus system___Zbernicový systém
+Coupler___Spojka
+EIB___EIB
+Repeater___Opakovač
+Bus system___Zbernicový systém
+Coupler___Spojka
+EIB IP gateway___IP brána EIB
+EIB IP router___IP smerovač EIB
+Interface___Rozhranie
+Interface for bus system___Rozhranie pre zbernicový systém
+KNX IP gateway___IP brána KNX
+KNX IP router___KNX IP smerovač
+Nikobus___Nikobus
+USB interface___Rozhranie USB
+Bus system___Zbernicový systém
+EIB___EIB
+Mains power supply___Sieťové napájanie
+Power adaptor___Napájací adaptér
+Power supply for bus system___Napájanie zbernicového systému
+Bus system___Zbernicový systém
+EIB___EIB
+Logic component for bus system___Logický komponent pre zbernicový systém
+Logic module___Logický modul
+Logic object___Logický objekt
+Bus system___Zbernicový systém
+Cover___Kryt
+Cover plate___Krycia doska
+Display___Displej
+Display for bus system___Displej pre zbernicový systém
+EIB___EIB
+LCD display___LCD displej
+Cable remote control___Káblové diaľkové ovládanie
+EIB remote control___Diaľkové ovládanie EIB
+KNX remote control___Diaľkové ovládanie KNX
+Radio remote control___Rádiové diaľkové ovládanie
+Remote control___Diaľkové ovládanie
+Remote control (box)___Diaľkové ovládanie (krabica)
+Remote control building services___Diaľkové ovládanie služieb budovy
+Remote control building technology___Technológia diaľkového ovládania budov
+Remote control consumer electronics___Diaľkové ovládanie spotrebnej elektroniky
+Remote control heating appliances___Diaľkové ovládanie vykurovacích zariadení
+Remote control housing technology___Diaľkové ovládanie bytovej techniky
+Remote controll for roller-blind drive___Diaľkové ovládanie pohonu roliet
+Wall remote control___Nástenné diaľkové ovládanie
+Popcorn machine___Stroj na výrobu popcornu
+DVD player/recorder___DVD prehrávač/rekordér
+DVD-player___DVD prehrávač
+HiFi Microsystem___HiFi mikrosystém
+HiFi Midisystem___HiFi Midisystém
+HiFi Minisystem___HiFi Minisyst

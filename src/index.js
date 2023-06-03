@@ -25,9 +25,10 @@ const config = require(path.resolve(workingDirectory, 'config.json'));
 const deepl = new DeepL.Translator(deepLApiKey);
 
 // Check command-line arguments
-const translateMode = args.includes('--translate');
-const mergeMode = args.includes('--merge');
-const updateMode = args.includes('--update');
+const translateMode = args.includes('--translate') || args.includes('-all');
+const mergeMode = args.includes('--merge') || args.includes('-all');
+const updateMode = args.includes('--update') || args.includes('-all');
+
 
 if (translateMode) {
   const translatedStream = fs.createWriteStream(path.resolve(workingDirectory, translatedFile));
@@ -96,7 +97,7 @@ if (mergeMode) {
 if(updateMode){
     const connection = ADODB.open(`Provider=Microsoft.Jet.OLEDB.4.0;Data Source=${path.resolve(workingDirectory, databasePath)};`)
 
-    fs.readFile(inputFile, 'utf8', async (err, data) => {
+    fs.readFile(path.resolve(workingDirectory, inputFile), 'utf8', async (err, data) => {
     if (err) {
         console.error('Failed to read file', err);
         return;
