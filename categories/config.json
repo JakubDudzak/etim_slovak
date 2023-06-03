@@ -1,9 +1,10 @@
 {
     "databasePath": "../db.mdb",
-    "translatedFile": "translated.txt",
+    "translatedFile": "translated2.txt",
     "originalFile": "original.txt",
     "inputFile": "both.txt",
     "propertyName": "ARCLASSDESC",
-    "tableName": "ETIMARTCLASS"
+    "tableName": "ETIMARTCLASS",
+    "deepLApiKey": "858f595a-e5df-b691-5689-8b45683b77cc:fx"
   }
   

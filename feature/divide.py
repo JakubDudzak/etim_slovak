@@ -13,13 +13,13 @@ def rozdelit_subor(original, translated):
         koniec = (i + 1) * 100
         blok = riadky[zaciatok:koniec]
 
-        vystup += "\n" * 5
+        vystup += "\n" * 20
         vystup += "".join(blok)
 
     # Spracovanie zvyšku riadkov
     zvysok = riadky[pocet_blokov * 100:]
     if zvysok:
-        vystup += "\n" * 5
+        vystup += "\n" * 20
         vystup += "".join(zvysok)
 
     with open(translated, 'w') as vystupny_subor:

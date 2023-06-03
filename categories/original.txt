@@ -1,137 +1,4273 @@
-Káble
-Inštalačné rúrky/ochranné rúrky káblov
-Systémy ochranných hadíc
-Systémy na prenášanie káblov
-Podlahové systémy
-Inštalačné kanály na stenu a strop
-Štrbinový káblový žľabový systém
-Inštalačné stĺpové systémy
-Káblové a drôtové vstupné systémy
-Inštalačný materiál pre káble a rúrky
-Skrinky
-Svorkovnice
-Domáce spínacie zariadenia
-Aplikácie priemyselných zásuviek/zástrčiek
-Systémy distribúcie energie
-Nízkonapäťové priemyselné komponenty
-relé
-Ističe a poistky
-Uzemnenie, ochrana pred bleskom a prepätím
-Meracie panely
-Rozvodné dosky
-PLC
-Senzory
-Svietidlá
-Lampy
-Ovládanie svetla
-Príslušenstvo pre osvetlenie
-Inštalačné zbernicové systémy
-Anténna a satelitná technika
-Pohony brán, čerpadiel a ventilátorov
-Optické a akustické signalizačné zariadenia
-Technika komunikácie
-Dáta a telekomunikácie
-Telekomunikačné zariadenia/kancelárske zariadenia
-Veľké domáce spotrebiče
-Malé domáce spotrebiče
-Spotrebná elektronika
-Zariadenia na teplú vodu
-Bytové vykurovanie
-Meracie prístroje a tester
-Merače
-Ochranný materiál a pracovný odev
-Inštalačný, izolačný a spojovací materiál
-Pripojovacie zariadenia
-Spojovacie prvky
-Ručné nástroje
-Elektrické náradie
-Nástroje (lisovať, rezať a izolovať)
-Batérie, nabíjačky a napájacie káble
-Poplachové zariadenia, núdzové volanie a signalizácia
-Obnoviteľná energia
-Protipožiarne systémy
-Zásuvné stavebné inštalačné systémy
-Konektory
-Bezpečnostné zariadenia
-Pomocný materiál
-Spájkovacie a zváracie zariadenia
-Zariadenia na montáž na rozvodnú dosku/na povrch
-Spotrebné náradie
-Pomocné nástroje
-Zdvíhacie zariadenia
-Pracovné vybavenie
-Ubytovací/skladovací priestor
-Testovacie vybavenie
-Produkty iných sektorov
-Námorné produkty
-Žľaby/nádrže
-Skladovacie nádrže/nádoby
-Odtoky
-Filtre/odlučovače
-Úprava vzduchu
-Kotly a ohrievače
-Tepelné výmenníky
-Chladiace systémy
-Jednotky na prívod/odsávanie vzduchu
-Zvýšenie/zníženie tlaku
-Náhradné diely pre kotly a ohrievače
-Distribútori/zberatelia
-Distribútori
-Hadice a skrinky
-Hadicové spojky
-Rúry
-Armatúry, príruby a konektory
-Potrubie a potrubie pre spaliny a vzduch
-Príslušenstvo pre spaliny a vzduch
-Kompenzátory a dilatačné prvky
-Kryty, poklopy a kapoty
-Ventily/kohútiky/ovládacie prvky
-Náhradné diely pre armatúry
-Vzduchové (regulačné) ventily a požiarne ventily
-Príslušenstvo pre ventily a žeriavy
-Radiátory/konvektory
-Meracie a regulačné zariadenia
-Elektrické a pneumatické snímače
-Meracie prístroje (záznam/registrácia)
-Štatistiky, prepínače a ovládače
-Ovládanie spracovania signálu
-Príslušenstvo pre meracie a regulačné zariadenia
-Náhradné diely pre meracie a regulačné prístroje
-Pečate
-Keramika a kolesá
-Technická syntetika
-zariadenia na príjem (odpadovej vody).
-Splachovacie nádrže
-Montážne rámy pre prijímacie zariadenia/batérie
-Náhradné diely pre splachovacie systémy
-Doplnky/zariadenia do kúpeľne a umyvárne
-Vstupné a výstupné armatúry
-Sanitárne kohútiky
-Náhradné diely pre sanitárne batérie
-Príslušenstvo pre sanitárne batérie
-Sanitárne sprchy
-Príslušenstvo pre sanitárne zariadenia
-Sanitárne priečky a kabínky
-Nábytok
-Konštrukčné systémy pre umyvárne
-Tepelná izolácia
-Tlmiče
-Tlmiče vibrácií
-Montáž radiátorov
-Dlaždice
-Strešné materiály
-Profily
-Listový materiál
-Personál, kapela, drôtený materiál
-Stenové/strešné priechodné kanály
-Technické plyny
-Hnacie remene
-Továrenské vybavenie
-Vysokonapäťové distribučné systémy
-Príslušenstvo pre elektrické náradie
-Stavebné - dokončovacie materiály
-Stavebníctvo - Upevňovací materiál a náradie (vrátane spotrebného materiálu)
-Stavebné - konštrukčná oceľ a profily
-Stavebno - chemické výrobky
-Budova - Občianska infraštruktúra
-Stavebno - izolačný materiál
+Busbar terminal
+Residual current circuit breaker (RCCB)
+Cable end sleeve
+Cover plate for installation units
+Cover frame for domestic switching devices
+Tap off unit for busbar trunk
+Hammer set anchor
+Combination of contactors
+Control element/cover plate for domestic switching devices
+Slotted cable trunking system
+Base plate for flush mounted installation
+Incandescent lamp tube-shaped
+Explosion proof CEE socket outlet
+Explosion proof CEE-plug/-coupler
+Insert/cover for communication technology
+Coaxial cable
+Combination switch/wall socket outlet
+Bracket for cable support system
+Cover for wall duct/Installation column
+Installation box for underfloor-installation
+Dimmer
+Low Voltage HRC solid link
+Threaded rod
+Push-switch button
+End switch
+Plug for cable screw gland
+Installation strap
+Fibre optic cable
+Miniature fuse
+Miniature fuse holder
+Halogen metal halide lamp without reflector
+High voltage halogen lamp
+Cavity fixing
+Auxiliary contact block
+Miniature circuit breaker (MCB)
+Venetian blind switch/-push button
+Candle-shaped incandescent lamp
+Cable tie
+Cable tray/wide span cable tray
+Anchor bolt
+Chain
+Sphere-shaped incandescent lamp
+Coupler for plinth skirting duct
+Incandescent lamp with ring head
+Low Voltage HRC fuse
+Mercury vapour lamp
+Empty cabinet
+Installation duct
+Hood for light signalling unit
+Light pole
+Luminaire for streets and places
+Information light signal for domestic switching devices
+Loudspeaker cable
+Power contactor, AC switching
+Low Voltage HRC fuse base
+Meter board
+Multimeter
+Microphone
+Mounting system for busbar trunk
+Junction box for wall duct
+Motor protection circuit-breaker
+Plug in (night) light
+Standard-shaped incandescent lamp
+Appliance box for skirting duct
+Surface mounted housing for flush mounted switching device
+Ceiling profile for cable support system
+Transition cover section for installation duct
+Sleeve for compacted conductor
+D-system screw adapter
+Perilex socket outlet
+Compact fluorescent lamp without integrated ballast
+Skirting duct complete
+All-purpose plug
+Potential equalization socket outlet
+Busbar trunk unit
+Screw hook
+D-system screw cap
+D-system fuse base
+T-nut for channels
+Hammerfix
+Washer
+D-system fuse link
+Fuse enclosure
+Light-track
+Incandescent lamp with reflector
+Nail
+Cordless telephone
+Thermal overload relay
+Timer for domestic switching devices
+Fluorescent lamp
+Batten luminaire
+Toggle fixing
+Junction box for installation duct
+Junction box for underfloor installation
+Plaster compensation ring
+HiFi Amplifier
+Underfloor installation duct screed-covered
+Mounting box
+On floor duct base
+Surface tank empty
+Feed unit for busbar trunk
+Socket outlet
+Saddle
+Adhesive tape
+Hexagon nut
+Signal horn
+Bell
+Doorbell
+Movement sensor complete
+Low voltage switch for doorbell
+Hospital call button (hanging)
+Lamp holder for doorbell
+Motor siren
+Sensor element for movement sensor
+CEE plug
+Labelling material for domestic switching devices
+Cable shears
+Folding rule
+Crosshead screwdriver
+Level
+Chisel
+Pipe cutter
+Tool set
+Brush
+Chalk line device
+Putty knife/spatula
+Gypsum container
+Fuse screw key
+Knife
+Hole punch
+Slide gauge
+Screwdriver for slot head screws
+Stabbing awl
+Shears
+Hammer
+Step drill
+Cable stripping tool
+Water pump pliers
+Side cutter
+Punch pliers
+Cable pulling system
+Crimp tool cable lugs, cable end sleeves, screen connection
+Hand saw
+Sabre saw (electric)
+Cutting disc
+Socket spanner
+Key for enclosures/cabinets
+Nibbler (electric)
+Wall chaser (electric)
+Tool box/case
+Tweezers
+Electric soldering iron
+Soldering tip
+Soldering wire
+Razor socket outlet
+Marker
+Latching relay
+Twilight switch
+Face plate for wall duct
+Cable reel
+PLC memory card
+Decoration element for domestic switching devices
+Optical/acoustic signal device
+Contactor relay
+Surge voltage protection
+Amplifier module for contactor
+Illumination insert for domestic switching devices
+Enclosure for control circuit devices
+Built-in panel for control circuit devices
+Protective cover for contact element pushbutton
+Lamp transformer for control circuit devices
+Lamp holder block for control circuit devices
+Intelligent control element
+Spray
+Fire protection compound/binding/foam/sealant
+Fire partitioning
+Gland plate for small distribution boards/switchgear cabinets
+Mounting plate for distribution board
+Small distribution board
+Phase busbar
+Switch disconnector
+Shrink tubing
+Shrink end cap
+Repair seal
+Wall duct for cable
+Front element for push button
+Front element for selector switch
+Front element for indicator light
+7 segment LED driver
+Control circuit devices combination in enclosure
+Power circuit-breaker for trafo/generator/installation protection
+Handle for power circuit breaker
+Door coupling handle for switchgear
+Foot-/palm switch complete
+Optical module for signal tower
+Empty enclosure for pendant control station
+Pendant control station
+Power boost
+PLC CPU-module
+PLC connection cable
+PLC simulation module
+Current limiter
+Cable entry
+D-system protective cover
+Plug with protective contact
+Pressure switch
+Span wire clamp
+Cable dispenser
+Swivel castor set for cable dispenser
+Spiralized cable
+Unequipped meter cabinet
+Protection switch disconnector housing
+Cable protective covering hood
+Cable protection tube for underground applications
+Speed controller
+Transmitter/Remote control for domestic switching devices
+Low voltage halogen reflector lamp
+Low voltage halogen lamp without reflector
+Starter for lighting
+Enclosure/switchgear cabinet (empty)
+Meter cabinet equipped
+Meter panel
+Panel for distribution board
+High voltage halogen reflector lamp
+Ventilation appliance
+Cable entry cabinet
+Cable connection box for entry cabinet
+Miniature circuit breaker (MCB) plug model
+Indicator light complete
+Cable tree
+Connection cable tree for distribution boards
+Rail terminal bar
+Distribution terminal block
+D0-system switch disconnector
+D0-system adapter sleeve
+D-system ring adapter
+Tubelight system
+Support profile light-line system
+Staircase lighting timer
+Floor luminaire
+Luminaire bollard
+Table luminaire
+Measure-/test device for communication technique
+Low current connector
+Module for active network component/network unit
+Interface converter
+Telephone/modem connector
+Data switch
+Communications technique adapter
+Document holder (switchgear cabinet)
+Ventilator (switchgear cabinet)
+Luminaire (switchgear cabinet)
+Cable guide for enclosures/cabinets
+Lock system for switchgear cabinet systems
+Earthing rail for distribution board
+Multiple socket
+Ventilation plate (switchgear cabinet)
+Clock
+Heating cable
+Finishing set heating cable
+Vending machine
+Maximum demand monitor for distribution board
+Garage door motor
+Strap motor
+Tube mounted motor
+Building site lighting luminaire
+Hand luminaire
+Machine and work bench luminaire
+Functional module for door communication
+Mounting frame for door station
+System telephone
+Mounting frame for house station
+Door station door communication
+Battery (not rechargeable)
+Rechargeable battery
+Universal charger
+Number/text label for house number luminaire
+Nail clip
+Screw anchor
+Punch
+Electrical door opener
+Tube clamp
+Cable guide
+Telecommunication terminal strip
+LSA-Plus mounting box
+Accessories for telecommunication technique
+Distributor for telecommunication
+Telephone system
+Mounting plate for fibre optic connection box
+CEE socket outlet combination
+Clamp measuring instrument
+Lightning current arrester for power supply systems
+UPS
+Special tool for telecommunication technique
+Support/profile rail
+Separation plate for surface tank
+Additional heating
+Boiling water unit
+Instantaneous water heater
+Hot water heat pump
+Storage heater
+Heating element set for storage heater
+Housing for storage heater
+Distribution terminal for transformer
+Indication- and signalling lamp
+Door station set
+Lamp holder
+Heating mat
+Thermal insulation
+Battery for mobile and wireless telephone
+Booster
+Charging controller
+Lux meter
+Built-in installation box luminaire
+Hole saw
+Terrestrial antenna
+Head end station
+Compact head end station
+Module for head end station
+Diplexer/filter
+Tap-off and distributor
+Multi switch for communication technology
+CATV-amplifier
+Receiver
+Feeding system/LNB
+Satellite antenna
+Finned-tube heater
+Pumping shaft-container
+Recessed mounted box for doorbell
+Level adjuster
+Antenna pole
+Antenna support bracket
+Sun-/twilight sensor for roller-blind drive
+Radio receiver
+Housing for rectangular connectors
+Contact insert for rectangular connectors
+Antenna socket
+Satellite set
+Cable gland
+Device built-in switch and -push button
+Insert for child protection
+Cord switch/dimmer
+Screw less terminal
+Terminal for luminaire
+Terminal resistor
+Mounting base and -element for cable ties
+Appliance connection box
+Cable plug sealing clamp
+Motor protection plug
+Cable tie tool
+One-piece strut clamp
+Shell for cable clamp
+Front plate (switchgear cabinet)
+Connector for luminaire
+Cover plate for installation column
+Perilex plug
+Fixing clamp
+Heat-shrink crimp connection
+Balun
+S-Hook
+Chain connecting link
+Fibre optic cable light system
+Emergency unit for luminaire
+Basic element for surge protection device
+Hanger for trapezoidal ceiling
+Screw clamp
+End cap/cover for support/profile rail
+Letterbox
+Pictogram for emergency luminaire
+Orientation luminaire
+Mounting element for support/profile rail
+Coupler for support/profile rail
+Energy distributor for construction site
+Neutral busbar
+Electrical unit for gas discharge lamp
+Octagonal steel shaft for tube motor
+Cross-connector for terminal block
+Accessories for earthing and lightning
+Earth terminal clamp
+Earth rod/profiled earth rod
+Earthing pipe clamp
+Voltage tester
+Continuity tester
+Pipe and cable locator/sorter
+DIN VDE 0100 multitasked
+DIN VDE 0701 multitasked
+Insulation tester
+Cable length meter
+Network management software
+Light/energy pole
+Globe-shaped incandescent lamp
+Round conductor/wire for lightning protection
+Air-termination equipment for lightning protection
+Lead-in earthing rod for lightning protection
+Roof conductor holder for lightning protection
+Conductor holder for lightning protection
+Rod holder for lightning protection
+Protective / Isolating spark gap for lightning protection
+Tube earthing clamp for lightning protection
+Disconnection clamp for lightning protection
+Connection clamp for lightning protection
+Connector for lightning protection
+Network adapter
+Round or flat plug/receptacle
+Terminal sleeve for protective hose
+Explosion proof switch
+Convector (electric)
+Assortment box for installation- and connection material
+Satellite amplifier
+Terrestrial amplifier
+Earthing plate
+Adhesive
+Solvent
+Fan
+Lighting control system component
+Automatic controller for light controlling system
+Heating emitter
+Cable bracket
+Nail disk
+Blood pressure measuring instrument
+Massager
+Steam cleaner
+Vacuum cleaner
+Blower vac (electrical)
+Pocket calculator
+Tanning appliance
+Hair dryer/hair styler
+Flat iron
+Vertical cable ladder
+Shaver
+Body care appliance
+Hair trimmer
+Wall hair dryer
+Personal scale
+Electric blanket/pillow/foot warmer
+Clinical thermometer
+Oral care appliance
+All-purpose vacuum cleaner
+Mixer/blender
+Can opener
+Knife sharpener
+Baby food warmer
+Kitchen scale
+Slicing machine
+Electric knife
+Food dehydrator
+Squeezer/juicer
+Ice cream maker
+Chopper
+Kitchen machine
+Vacuum sealer
+Raclette set
+Grill
+Fondue/wok
+Egg boiler
+Espresso machine
+Steam oven
+Yogurt maker
+Kitchen timer
+Table baking oven/-grill
+Immersion heater (electric)
+Warming tray
+Coffee mill
+Automatic preserving cooker
+Water cooker
+Toaster
+Deep fryer
+Waffle maker
+Rotary ironer
+Facial sauna
+Radiator (electric)
+Bread machine
+Sterilizer
+Alarm clock
+Coffee maker
+PLC system power supply
+Lamp tester
+Measuring instrument for temperature and climate
+Data rail for bus system
+Data rail coupler for bus system
+Air moisturizer/air refresher
+Epilator
+Labelling tape
+Polisher
+Label maker
+Quick drying cement/plaster
+Decoupling coil for internal lightning protection
+Venetian blind control unit
+Runged ladder
+Tripping bloc for power circuit-breaker
+Meat grinder
+Butt chisels
+Screw assortment box
+Legend plate for control circuit devices
+Glue stick for glue gun
+Text plate for control circuit devices
+Car audio
+Refrigerator
+Fridge/freezer combination
+Freezer
+Curler set
+Control switch, Joystick
+Dishwasher
+Bus coupler for bus system
+Connection-/branching terminal for bus system
+Electronic insert for domestic switching devices
+Ironing table
+Washing machine
+Tumble dryer
+Soft starter
+Measuring laser
+Answering machine
+Fax
+Portable CD player
+CD player/recorder
+Radio
+Radio recorder
+Car loudspeaker
+Loudspeaker box
+Dictaphone
+Camcorder
+Cooker hood
+Spin-dryer
+Accessories for cooker hood
+Microwave oven
+Cooker
+Headphone
+Hob
+Exchange hotplate
+HiFi/TV furniture
+Audio mixer
+HiFi-Receiver
+HiFi-Tuner
+Current collector
+Touch sensor for bus system
+Area/line coupler for bus system
+Interface for bus system
+Power supply for bus system
+Logic component for bus system
+Display for bus system
+Remote control
+Popcorn machine
+DVD player/recorder
+HiFi-set
+Loudspeaker set
+Surge protection module
+Record player
+Binary input for bus system
+Time switch for bus system
+Video projector
+Insect repellent device
+Heating element (baking oven)
+Mini kitchen
+Hand floodlight
+Vehicle lamp
+Repeater for bus system
+Central device for bus system
+Band suppressor/choke for bus system
+Window opener
+Communication column
+Core drill bit
+Measuring instrument set
+Console for wall duct
+Cool/freezer box, portable
+Socket for letterbox
+Square nut
+Empty enclosure for switchgear
+Busbar coupler
+Plug for telecommunication terminal strip
+Wire-guide for LSA connection strip
+Labelling cap for connection strips
+Labelling plate for telecommunication terminal strips
+Base/base element (switchgear cabinet)
+On-floor installation duct
+Dust shield for plug connections
+Cleaning cassette/CD
+End plate for slotted cable trunking system
+Cover for slotted cable trunking system
+Cover for installation duct
+Discharge tube for overvoltage protection magazine
+Network hub
+Network repeater
+Network switch
+Print server
+Analogue memory medium
+Heating (switchgear cabinet)
+Modem
+Insert for lock system
+Top-/floor cover element (enclosure/switchgear cabinet)
+Door/operating panel (switchgear cabinet)
+Pigtail
+Vertical bend for underfloor installation ducting systems
+Coupler for underfloor installation duct
+Induction lamp
+Fibre optic coupler
+Fibre optic cable splitter
+Anchor sleeve
+Software for bus system
+In-ground luminaire
+Splice holder
+Hole cutter for plastics
+Labelling for terminal block
+Splice cassette
+Line equalizer (receiver technology)
+Coding for data communication technique
+Multiplexer
+Module for telephone system
+Separation plate for meter-/distribution boards
+Cover strip (modular) for meter-/distribution board
+Main clock
+Explosion proof hand floodlight
+Miniature fuse assortment
+Cover for distribution board
+Pan
+Baby bottle
+ISDN telephone with cord
+Indoor station door communication
+Sealing for hose screw connection
+Access control unit for bus system
+Signalling and operation panel for bus system
+Desk system (switchgear cabinet)
+Connector for wall duct
+Cover for plinth skirting duct
+Handset for cordless telephone
+Charger for cordless telephone
+Headset
+Driver module for bus system
+Actuating drive for bus system
+Analogue input for bus system
+Extension module for installation column
+Contact for industrial connectors
+USB-Hub
+Test pin
+Screw gland holder
+Cover strip for wall duct
+Torx screwdriver
+Audio/video modulator
+Rasp
+Navigation system
+Portable MP3 player
+Programming- and engineering software
+PLC mounting rack
+Electrical chimney fire
+Ceiling heating foil
+Natural stone heating
+Threaded bush
+Car antenna
+WLAN access point
+WLAN network adapter
+Hexagonal key
+Compact fluorescent lamp with integrated ballast
+Traffic signalling lamp
+High pressure sodium-vapour lamp
+Low pressure sodium-vapour lamp
+Halogen metal halide reflector lamp
+Flat nose pliers
+Round nose pliers
+Telephone pliers
+Combination pliers
+Power cable >= 1 kV, for moving application
+Thermocouple cable
+Braid wire
+Pipe wrench
+Alarm signal
+Buzzer
+Outer corner for skirting duct
+End piece for skirting duct
+Inner corner for skirting duct
+Flat bend for skirting duct
+Mesh cable tray
+Cable ladder/wide span cable ladder
+Air conditioner (switchgear cabinet)
+Corner add-on piece for cable ladder
+Corner plate for cable ladder
+Drop-out plate for cable ladder
+Corner add-on piece for cable tray
+Inner corner for installation duct
+Outer corner for installation duct
+Flat bend for installation duct
+Tee for installation duct
+End cap for installation duct
+Inner corner for wall duct
+Outer corner for wall duct
+End piece for wall duct
+Joint clip for wall duct
+Flat bend for wall duct
+Cover for flat bend wall duct
+Cross piece for wall duct
+Cable entry sleeve
+Seal
+Seal wire
+Profile support arm
+Connection for support arm
+Eye screw
+Endplate and partition plate for terminal block
+Machine screw
+Wood screw
+Tapping screw
+Thread cutting screw
+Service box for underfloor installation
+Cover for underfloor installation duct flush floor open
+Equipped surface tank
+Ceiling bracket for cable support system
+Feed-through terminal block
+Indicator terminal block
+Fuse terminal block
+Sensor/actuator terminal block
+Ground terminal block
+(Knife) disconnect terminal block
+Component terminal block
+Thermal couple terminal block
+Earth leakage circuit breaker
+90° connection for cable ladder to cable ladder
+Side profile for vertical cable ladder
+Bottom end plate for cable tray
+Acoustic baffle for wall duct
+End terminal
+Voltmeter selector switch
+Amp meter switch
+Switch operating shaft
+Physical sensor for bus system
+Brightness sensor for bus system
+Infrared receiver
+Bend for installation tubes
+Terminal sleeve for installation tubes
+Enlargement/reducing ring
+Coupler for installation tubes
+Locknut for cable screw gland
+Surge protection device for power supply systems
+Surge protection device for terminal equipment
+Surge protection device for data networks/MCR-technology
+Drill
+Explosion proof emergency and security luminaire
+Electrical unit for light-line system
+Flashlight
+Explosion proof pocket torch
+Explosion proof hand luminaire
+LED-module
+Separation plate for cable support system
+Mounting clamp for separation plate cable support system
+Clamp for cover cable support system
+Wall- and ceiling bracket for cable support system
+Mounting plate for cable support system
+Mounting material for cable support system
+Add-on tee for cable tray
+Reducing piece for cable tray
+Separation plate for wall duct
+Add-on tee for cable ladder
+Reducing piece for cable ladder
+Cover for outside corner wall duct
+Separation plate for installation duct flush floor
+End piece for underfloor installation duct
+Separation plate for installation duct
+Coupler for installation duct
+Cross piece for installation duct
+Wire clamp for slotted cable trunking system
+Single LED
+Adapter for control circuit devices
+Residual current release for power circuit breaker
+Under voltage coil
+Shunt release (for power circuit breaker)
+DIN-rail adapter
+Trip indicator
+Acoustic indicator
+Potentiometer for control circuit devices
+Push button, complete
+Selector switch, complete
+Motor operator for power circuit-breaker
+Electronic enclosure
+Text plate holder for control circuit devices
+Phase coupler for bus system
+Movement sensor basic element
+Three-stage switch
+Motor starter/Motor starter combination
+Front element for mushroom push-button
+Fuse switch disconnector
+End bracket for terminal block
+Signal tower complete
+Coil for relay
+Mechanic interlock for switch
+Documentation
+In-line fuse base
+Selective main line circuit breaker
+Reducing sleeve for copper DIN cable lugs and connectors
+Assortment box with heat-shrink tubing segments
+Crimp cable lug for copper conductors
+Tube cable lug for copper conductors
+Solderless copper terminals for copper conductors
+Crimp cable lug for aluminium conductors
+Screw cable lug
+Mixed light lamp
+Studio-, projection- and photo lamp
+Tunnel luminaire
+Crimp splices for copper conductor
+Crimp splices for aluminium conductor
+Branch terminal
+Connector to screw
+Cable branch screw clamp ring
+Digital memory medium
+Digital photo camera
+Portable DVD player/recorder
+Hood/lens for circuit control devices
+Capacitor contactor
+Electronic overload relay
+Room antenna
+Antenna mounting material
+Antenna measuring instrument
+Pliers for hole punch
+Shelf for soldering iron
+Soldering iron (battery)
+Soldering station
+Power supply door communication
+Swing gate operator
+Sliding gate operator
+Dimming actuator for bus system
+Light control unit for bus system
+Analogue actuator for bus system
+Switch actuator for bus system
+System interface/media gateway for bus system
+Sensor control for bus system
+Room temperature controller for bus system
+Energy management for bus system
+Measurement device for bus system
+External camera door communication
+Off-load switch
+Compact installation for heat pump
+Solar compact installation
+Cover for storage heater
+Electric heating element for hot water tank
+Modular connector
+Fibre optic connector
+Splice protection
+Fibre optic splicer
+Fibre optic shears
+Fibre optic cleaver
+Patch panel copper (twisted pair)
+Insert module for fibre optic patch panel
+Patch panel fibre optic
+Coax connector
+D-Sub connector
+D-Sub hood
+Modular coupler
+Coax coupler
+D-Sub coupler
+Power cable for overhead lines
+Ventilator for in-house bathrooms and kitchens
+Window ventilator
+Equipment ventilator
+Small-room ventilator
+Ventilator enclosure for in-house bathrooms and kitchens
+Roof mounted ventilator
+Duct mounted ventilator
+Industrial wall ventilator
+Connection module for signal tower
+Wall bracket for signal tower
+Stand for signal tower without tube
+Tube for signal tower
+Desoldering station
+Spare heating element for soldering irons and - baths
+Soldering flux
+Flux remover
+Busbar support
+Hinge for distribution systems
+Cable resin
+Straight-through joint
+Branch-splice joint (set)
+Coupler for corrugated plastic hoses
+Metal installation tube
+Plastic installation tube
+Corrugated plastic hose
+Screw connection for corrugated plastic hose
+Protective plastic hose
+Screw connection for protective plastic hose
+Protective metallic hose
+Screw connection for protective metallic hose
+Sealing ring
+Braided hose
+Battery charger for electric tools
+Hydraulic drive unit
+Multi purpose equipment (pressing/cutting/piercing)
+Power adapter for battery tools
+Safety shearing equipment
+Phase sequence indicator
+Measuring instrument for environmental parameters
+Hand RPM meter
+DIN VDE 0113 tester
+Leakage current measuring instrument
+Power quality analyser
+Accessories for measuring instrument
+DIN VDE 0751 tester
+Belt grinder (electric)
+Cable ring dispenser
+Battery for electric tools
+Force and pressure test equipment for pressing tools
+Control equipment for hydraulic aggregates
+Hydraulic connecting part
+Trolley
+Washer-dryer
+Control panel for recessed mounted hob
+Ice cube maker
+Cappuccino creamer
+Water filter
+Drinks maker
+Hand dryer
+Heating heat pump
+KNX module building technology
+Connection/tube mounting kit
+Mounting aid building technology
+Solar mounting frame
+Solar frame connector
+Connection tube for solar system
+Solar compensator/- corrugated hose
+Heat-transfer fluid
+Sound-absorbing cap/- housing for heat pump
+Groundwater mounting set for heat pump
+Groundwater distributor for heat pump
+Neutral disconnect terminal block
+Foot switch
+Stand for signal tower with tube
+Two-hand control device
+Acoustic module for signal tower
+Patch cord copper (twisted pair)
+Fibre optic patch cord
+Data communication connection box copper (twisted pair)
+Soldering iron set (battery)
+Desoldering iron
+Desoldering lace
+Desoldering tweezers
+Desoldering pump
+Desoldering tip
+Gas soldering iron
+Gas soldering set
+Soldering bath
+Soldering steam absorption
+Soldering set
+Soldering tip holder
+Cleaning sponge for soldering tip
+Temperature controller for soldering bath
+Vacuum pipette for SMD-elements
+Spare tip for desoldering pump
+Insert for crimp tool cable lugs, cable end sleeves, screen connection
+Panel feed-through terminal block
+Single- and multi-pole terminal strip
+Mounting rail
+Auxiliary device for distribution board devices
+Locking device for switches
+Labelling material
+Equalizer
+Car amplifier
+Electrical kit for storage heater
+Panel-mounted CEE socket outlet
+CEE/SCHUKO architectural programme (IP44)
+CEE plug for mounting on machines and equipment
+CEE coupling
+CEE socket outlet
+Round socket/plug for high currents
+CEE socket outlet, disconnectable, with fuse
+Panel mounted socket outlet with protective contact
+Plug with protective contact for devices
+Coupler with protective contact
+Multi level installation terminal block
+Shutting actuator for bus system
+Flashing luminaire
+Strobe luminaire
+Continuous luminaire
+Explosion proof strobe luminaire
+Explosion proof electronic buzzer
+Explosion proof flashing alarm luminaire
+Explosion proof signal horn
+Explosion proof warning light pole
+Monitored LED indicator luminaire
+Rotating beacon alarm luminaire
+Explosion proof fan
+Accessories for door communication
+Push button panel door communication
+Mounting accessories for door communication
+Traffic light
+Electronic sound generator
+Explosion proof traffic light
+Explosion proof signal generator
+Explosion proof alarm bell
+Radio transmitter
+Monitor door communication
+PC-programming set for yearly time switch KNX
+Universal hole cutter and components
+Sheet metal shears (electric)
+Riveting tool (battery)
+Rotary and demolition hammer (electric)
+Rotary hammer (battery)
+Rotary hammer (electric)
+Drilling machine (battery)
+Drilling machine (electric)
+Drilling machine/screwdriver (battery)
+Drilling machine/screwdriver (electric)
+Diamond drilling machine (electric)
+Triangular base-plate grinder (electric)
+Random orbital disc sander (battery)
+All purpose saw (battery)
+All purpose saw (electric)
+Threading machine (electric)
+Hand circular saw (battery)
+Hand circular saw (electric)
+Hot glue gun (electric)
+Hot air gun (electric)
+Planer (battery)
+Planer (electric)
+Chop saw (battery)
+Kit gun (battery)
+Chipping hammer (electric)
+Wet and dry vacuum cleaner (electric)
+Hammer drill (battery)
+Hammer drill (electric)
+Impact screw driver (battery)
+Impact screw driver (electric)
+Screw driver (battery)
+Screw driver (electric)
+Sander (battery)
+Sander (electric)
+Jig saw (electric)
+Stapler/nailer (battery)
+Angle drill machine (battery)
+Angle drill machine (electric)
+Angle drill machine/screw driver (battery)
+Angle grinder (electric)
+Jig saw (battery)
+PC cable
+Data communication connection box fibre optic
+DCF-antenna for time switches
+Surface mounting set for distribution board
+Graphic panel
+Industrial PC
+Panel PC
+Push button panel
+Visualization software
+Logic module
+PLC programming device
+PLC digital I/O-module
+PLC analogue I/O-module
+PLC analogue/digital I/O-module
+PLC function/technology module
+PLC communication module
+Text panel
+Mobile panel
+Recessed mounted monitor
+Desktop monitor
+Automation software, others
+Axle break protection relay
+Switching relay
+Voltage monitoring relay
+Timer relay
+Current monitoring relay
+Phase monitoring relay
+Frequency monitoring relay
+Effective power (cos phi) monitoring relay
+Insulation and earth fault monitoring relay
+Residual current monitoring relay
+Temperature monitoring relay
+(Fill) level monitoring relay
+Speed-/standstill monitoring relay
+Device for monitoring of safety-related circuits
+Overrun relay
+Two-hand control relay
+Relay socket
+Combined arrester for power supply systems
+Fastening angle for hose fitting
+House ventilation set
+Connection clamp for earth rods
+Lightning current arrester for data networks/MCR-technology
+Media converter
+Flat strip for lightning protection
+Protective hose adapter
+Equipotential bonding bar
+Metal cable
+Surge protection device for power supply & information tech.
+Glass fibre duct
+Glass fibre duct coupler
+Optical fibre
+Network router
+Fixed earthing terminal
+Drive head for position switches/hinge switches
+NAMUR switching amplifier
+Rotary encoder
+Actuator for position switch with separate actuator
+Distributor for intrusion detection system
+Socket for fire alarm detector
+Closure plug for installation tube
+Coupler for cable protection tube
+Bend for cable protection tubes
+Spacer for cable protection tube
+Warning tape
+Ballast
+Value coin for vending machine
+Colour powder
+Transformer for low voltage light system/low voltage halogen lamp
+Earthing set
+Optocoupler
+Kilowatt-hour meter
+Replacement blade
+Power supply for discharge lamps
+Camera for monitoring system
+Fragrance cartridge
+Plug adapter
+Random orbital disc sander (electric)
+Capacitor
+Baby phone
+Accessory for time switch
+Door sliding contact
+Busbar
+Monitor for monitoring system
+Video switchbox for monitoring system
+Central alarm station for intrusion detection system
+Switchgear for intrusion detection system
+Video surveillance system
+Cable coding system
+Busbar adapter
+Accessories for telephone system
+Luminaire carrier tray
+Bend for cable ladder
+Tee for cable ladder
+Cross piece for cable tray
+Tee for cable tray
+Main switch for distribution board
+Push button for distribution board
+Bell transformer
+Audio-/video support bracket
+Accessories for refrigerator/freezer
+Filter for cooker hood
+Cross piece for cable ladder
+Head plate for support/profile rail
+Cover for corner add-on piece for cable support system
+Cover coupler for cable support system
+End piece for cable ladder
+End piece for cable tray
+Power cord
+Hybrid cable
+Accessories for movement sensor
+Basic module for bus system
+Movement sensor for bus system
+Accessories for bus system
+I/O device for bus system
+Multi operating device for bus system
+Heating actuator for bus system
+Hand-/wall sensor for bus system
+Electronic switch
+Switch
+Sensor for venetian blind/time switches
+Isolator relay venetian blind
+Time switch for domestic switching devices
+Fieldbus, decentr. periphery - analogue I/O module
+Fieldbus, decentr. periphery - analogue/digital I/O module
+Fieldbus, decentr. periphery - mounting frame
+Fieldbus, decentr. periphery - digital I/O module
+Fieldbus, decentr. periphery - power supply/segment module
+Fieldbus, decentr. periphery - function-/technology module
+Fieldbus, decentr. periphery - basic appliance
+Fieldbus, decentr. periphery - communication module
+Fieldbus, decentr. periphery - power module, motor switch
+Combined arrester for data networks/MCR-technology
+Base for air termination systems lightning protection
+Remote signalling module for lightning current-/surge arrester
+Driving-in tool for earth rods
+Objective for camera/projector
+Television
+Audio/video transmitting system
+Accessories for camcorder
+Accessories for car audio
+Accessories for digital photo camera
+D0-system protective cover
+Hour meter
+D0-system fuse link
+D0-system screw cap
+D0-system fuse base
+Twilight switch for distribution board
+Mains disconnection relay
+Installation relay
+Installation contactor for distribution board
+Load shedding relay for distribution board
+Indicator light for distribution board
+Accessories for Low Voltage HRC fuse
+Accessories for Low Voltage HRC fuse bases
+Socket outlet for distribution board
+Socket switch clock
+Temperature controller for distribution board
+Under voltage monitoring relay for distribution board
+Alarm unit for distribution board
+Timer relay for distribution board
+Central control system for buildings
+Cable sharing adapter
+Printer
+Accessories for fix telephone
+Accessories for cordless phone
+Accessories for fax/printer/MFC
+ISDN distributor
+Cable bending restrictor
+Telecommunications patch cord
+Coax patch cord
+All-in-one (fax/printer/scanner)
+Microscope for glass fibre
+Microscope adapter for glass fibre
+Furnace for glass fibre
+Fibre optic polishing mould
+Fibre optic polishing emery cloth
+Fibre optic polishing machine
+Analogue telephone with cord
+Keyboard
+Fax/printer/all-in-one supplies
+VoIP gateway
+VoIP telephone
+Forerun-/trail fibre (Glass fibre measuring)
+Wireless antenna
+Fibre optic polishing mat
+High bay luminaire
+Pendant luminaire
+Downlight/spot/floodlight
+Photovoltaics module
+DC/AC grid inverter
+Photovoltaics charge controller
+Photovoltaics standalone inverter
+Photovoltaics complete set
+Photovoltaics roof-/facade fastener
+Photovoltaics mounting system
+Photovoltaics connecting and mounting element
+Solar mounting profile
+Photovoltaics large display
+Photovoltaics data logger
+Solar-battery
+Indicator for glass breakage/vibration/mechanical vibration
+Detector for bolt switching contact
+Opening detector for intrusion detection system
+Movement sensor for intrusion detection system
+Fire detector
+Technical detector for intrusion detection system
+Non-automatic detector for danger detection system
+Alarm transfer device
+Operating and display device for intrusion detection system
+Door locking central station
+Permanent magnet for door locking mechanism
+Admittance control system
+Electronic data medium for switchgear
+Matrix memory for video surveillance system
+Protective housing for surveillance camera
+Signal converter for monitoring system
+Control point for rescue route technology
+Lens for surveillance camera
+Warning/signing plate
+Power supply consumer electronics
+Sealing insert for built-in installation box
+Separation plate for junction box
+Equipment carrier for insulated walls
+Wall-ceiling transition for concrete construction
+Junction box for ceiling luminaire
+Colour sensor
+Inductive distance sensor
+Contrast sensor
+Light scanner, energetic
+Luminescence sensor
+Multilayer test sensor
+Optical distance sensor
+Position switch modular
+Single beam light curtain
+Multiple beam light curtain
+Ultrasonic distance sensor
+Ultrasonic single beam reflex light curtain
+Ultrasonic reflex light curtain
+Ultrasonic proximity switch
+Electric motor
+Way sensor
+Sensor-actuator patch cord
+Frequency converter =< 1 kV
+Wine fridge
+Baking oven
+Heater for cutlery
+Hoover outlet
+Built-under mounting set for domestic appliances
+Stacking kit wash-/dry column
+Enclosure/cabinet for built-in domestic appliances
+Built-under base for domestic appliances
+Sink cupboard
+Portable cabinet for built-in domestic appliances
+Accessories for cooking device/baking device
+Storage basket for freezer
+Accessories for dishwasher, washing and drying
+Waste separation system
+Stone set for storage heater
+Sauna furnace
+Accessories for sauna furnace
+Oscilloscope
+Process calibrator
+Sabre saw (battery)
+Distributor assembly with protection against contact
+Distributor assembly for device surface mounting
+Distributor assembly terminal blocks
+Distributor assembly busbars
+Distributor assembly switch
+Wiring band
+Touch-up stick/spray
+Busbar system for distribution boards
+Underfloor installation duct flush floor open
+Underfloor installation duct flush floor
+Junction box insert for underfloor installation
+Duct outlet for underfloor system
+Mounting cover for underfloor draw-in box
+Stacking frame for underfloor box
+Cassette frame with cassette
+Mounting set for device installation under cassette
+Cover for duct outlet
+Blind plate for duct exit
+Tube cable outlet
+Outlet box for underfloor installation
+Raised floor distribution system
+Pre-wired mounting box power current
+Partition piece for mounting box
+Strain relief for mounting box
+Slot in cable extension for installation units
+Extension unit for underfloor installation duct flush floor open
+Junction unit for underfloor installation duct flush floor open
+Cross-piece for underfloor installation ducting systems
+Floor guide profile flush for underfloor installation duct flush floor
+Cover joint seal for underfloor installation duct flush floor
+Earth conductor clamp for underfloor installation ducting
+Cable clip for installation duct
+Cable protection for installation duct
+Wall duct
+Tee for wall duct
+Transition piece for skirting duct
+Installation column
+Corner duct
+Inner corner for corner duct
+End piece for corner duct
+Tee for corner duct
+Transition piece for corner duct / installation duct
+Bend for mesh cable tray
+Insert plate for cable ladder
+Low voltage cable system
+Explosion proof luminaire fixed mounting
+Sign luminaire
+Emergency luminaire
+Airport lighting lamp
+LED-lamp/Multi-LED
+Neon lamp
+Ignition transformer
+Test device for emergency power luminaires
+Front panel/patch panel empty (switchgear cabinet)
+Hygrostat (switchgear cabinet)
+Condensate drain (switchgear cabinet)
+Thermostat (switchgear cabinet)
+Component plug terminal block
+Connection vane/phase spreader
+Shield connection clamp
+Terminal block connector
+Blind cover for control circuit devices
+Accessories for control circuit devices
+Accessories for frequency controller
+Accessories for emergency stop pull cord switch
+Accessories for overload protection device
+Foot and palm switch head element
+Foot and palm switch enclosure base
+Special tool for control circuit devices
+Emergency stop pull cord switch
+Emergency stop complete
+Phase separation plate for power circuit breaker
+Front bezel pushbutton
+Variable-voltage transformer
+Protective cover for control circuit devices
+Chassis part power circuit breaker
+Voltage stabilizer
+Power supply transformer
+Current transformer
+Modification set for power circuit breaker
+Wiring set for power circuit breaker
+Padlock barrier for switch
+Time delay under voltage coil
+Power direction relay
+Solid state relay
+Cooling element for solid state relay
+Power relay
+Synchronization relay
+Timer block
+Accessories for heating cables
+End cap glass fibre tube
+Accessories for splice cassette
+Fibre optic distribution box
+Microphone rod
+Tripod microphone
+Earth resistance meter
+Earth leakage switch tester
+Cable fault locator
+Temperature probe
+Dust-coat
+Combi vest
+Breathing mask
+Working trousers
+Aid for electrical engineering
+Earplug
+Shirt
+Heat resisting blanket
+Insulation mat/basin
+Jacket
+Ear muff
+Leg protector
+Bib trousers
+Overall/safety suit
+Pullover
+Protective glasses
+Protective glove
+Protective helmet
+Protection trousers
+Protection jacket/coat
+Facial shield
+Protective shoe
+Protective boot
+Dust-mask
+Inner glove
+Wire stripper pliers
+Pulley puller
+Square
+Axe
+Drawing cover
+Bit for hexagonal screws
+Bit for cross-head screws
+Bit for slot head screws
+Bit for Torx screws
+Bit holder
+Bit screwdriver
+Bit set
+Hole punch set
+Snips
+Lead pencil
+Draper Hand Riveter
+Drill holder
+Drill holder key
+Bellows for drill hole
+Mounting/drill template installation boxes
+Crowbar
+Spanner
+Wire brush
+Momentum wrench
+Tommy bar for box spanner
+Drift punch
+Tamp tool for anchor sleeve
+Ground drill
+Scribe tip
+Paint roller
+File
+File handle
+Nail gun (gas driven)
+Angle saw case
+Angle clamp
+Angle gauge
+Scaffold
+Sliding handle for sockets
+Grip pliers
+Hand nibbler
+Hand broom
+Handle for sockets
+Handsaw blade
+Hoist sling
+Hexagonal screwdriver
+Tapping drill
+Reamer/deburrer
+Socket for in-hexagonal
+Robertson screwdriver
+Inspection mirror
+Cable pulling pump
+Cable stocking
+Universal joint for sockets
+Caulking gun
+Dust pan
+Folding trestle
+Pincer
+Centre punch
+Pickaxe
+Socket for crosshead screws
+Speed wrench for sockets
+Varnish stripper
+Lamp extractor
+Machine vice
+Measuring tape
+Cross spanner
+Combination spanner
+Trowel
+Ruler
+Measuring wheel
+Fencing pliers
+NH-fuse extraction handle
+Oil canister
+Pipe vice
+Sealing pliers
+Cleaning cloth
+Adapter for sockets
+Scribe
+Ring spanner
+Pipe spring
+Pipe shears
+Double head box spanner
+Adjustable spanner
+Hacksaw bow
+Shovel
+Hand protector for chisel
+Sand paper/emery cloth
+Socket for slot head screws
+Cutting plate
+Bench-vice
+Glue clamp
+Wheelbarrow
+Vice plate
+Socket for hexagonal nuts
+Winch
+Hoist
+Hoist chain
+Plumb bob
+Spade
+Socket set
+Hexagonal key set
+Siphon pliers
+Plate shear
+Socket for Torx screws
+Torx wrench
+Funnel
+Stepladder
+Hoist block/pulley
+Ratchet
+Extension piece for screw bit
+Extension bar for sockets, spanners and ratchets
+Padlock
+End cutting pliers
+Washstand pliers
+Workbench
+Tool belt
+Tapping drill holder
+Tap wrench
+Circlip pliers
+Pair of compasses
+Adapter SDS-drill
+Drill chuck adaptor for core drill bit
+Drill chuck adaptor for hole saw
+Rotating steel brush
+Wall chase
+Circular saw blade
+Soldering gun
+Sabre saw blade
+Punching machine
+Diamond drilling stand
+Jig saw blade
+Table drilling machine
+Table circular saw machine, semi-stationary (electric)
+Bench grinder
+Centre drill
+Handicapped person element for domestic switching devices
+Mounting for labelling material
+Infrared switch
+Transition adapter for domestic switching devices
+Central-element clinic-installation
+Circuit board for bus system
+Touch rocker for bus system
+Cable insulation hose
+Test plug terminal block
+Connection bend for installation tubes
+Ground mounting for cable protection tubes
+Cable exit for cable protection tubes
+Mounting wedge for installation tubes
+Mounting coupler for cable protection tubes
+Mounting plate for installation tubes/cable protection tubes
+Sleeve-tube for installation tubes
+Reducing sleeve for installation tubes
+Protection cap for cable protection tubes
+Tee for cable protection tubes
+Strain relief for cable protection tubes
+Cover cap for rail terminal bar
+Accessories for tap off unit busbar trunk
+Accessories for busbars
+Accessories for busbar trunks
+Accessories for feed unit busbar trunks
+Phase barrier plate
+Busbar housing
+Distributor assembly D-system fuse systems
+Distributor assembly RCCB
+Switch fuse enclosure
+Distributor assembly miniature circuit breaker (MCB)
+Distributor assembly with main switch
+Distributor assembly with combination RCCB/MCB
+Distributor assembly with power circuit-breaker
+Distributor assembly with zero voltage switch
+Distributor assembly Low Voltage HRC fuse systems
+Accessories for small distribution board
+Small distribution board equipped
+Quick release fastener for housing covers
+C-clamp for round wire
+Earthing strap clamp
+Ampere meter for installation
+Var meter for installation
+Built-in rotational speed meter
+Accessories for measuring instruments for installation
+Accessories for time switches
+Residual current circuit breaker (RCCB) module
+Blade fuse
+Frequency meter for installation
+Impulse meter for installation
+Multifunction measuring instrument
+Measuring scale
+Shunt
+Analogous time switch for distribution board
+Digital time switch for distribution board
+Voltmeter for installation
+Resistor
+Effective power converter meter for installation
+Adapter plate industrial connectors
+Fixing element for industrial connectors
+Coding element for industrial connectors
+Module carrier frame for industrial connectors
+Protective cover for CEE plugs
+Cap for industrial connectors
+Padlock guard for CEE plugs
+Sealing disc for cable screw gland
+Earthing lug for cable screw gland
+Cut-out sealing ring for cable inlet
+Wire connector
+Pressure clamp
+Wall mounting plate for tube clamps
+Cable plug for cable-/installation tube entry
+End piece for illumination cable
+Accessories for junction boxes/junction cases for mounting in the wall
+Spacer sleeve
+Wedge anchor
+Anchor rod
+Anti-theft screw
+Hexagon head wood screw
+Blind rivet
+Blind rivet nut
+Self drilling tapping screw
+Bolt anchor
+Rivet nut
+Speed nut
+Serrated lock washer
+Mushroom head bolt
+Wing nut
+Gas cartridge for nail gun
+Stud bolt
+Threaded sleeve
+Threaded pipe
+Hook nail
+Round head rivet
+T-head bolt for channels
+Cap nut
+Hexagon socket head screw
+Support insulator
+Square caged nut
+Tommy screw
+Long nut
+L-hook screw
+Mounting cramp for junction boxes
+Resin capsule for adhesive anchor
+Nail for nail gun
+Safety screw
+Lifting eye nut
+Eye bolt
+Lifting eye screw
+Stirrup bolt J-form
+Stirrup bolt U-form
+Shackle
+Swing hook
+Wheel nipple for luminaire
+Screw for compressed air screw driver
+Screw/nut cap
+Screw rosette
+Expanding rivet
+Weld nut
+High performance hook
+Hexagon head bolt
+Tab washer
+Locknut
+Retaining ring
+Spring pin
+Chipboard screw
+Flange nut
+Self locking screw
+Foundation bolt
+Adjusting ring
+Set screw
+Stud
+Stud screw
+Adhesive anchor
+Square taper washers
+Shoulder bolt
+Adjusting cheese head screw
+Tee funnel for cable tray
+Bend for cable tray
+Add-on tee cover for cable support system
+Bend cover for cable support system
+Cover for cable support system
+Cover cross piece for cable support system
+Reduction piece cover for cable support system
+Tee cover for cable support system
+Accessories for installation rail current/data cable
+Installation rail current/data cable
+Profile column for cable ladder
+Tube-/cable bracket for cable support system
+Rung for cable ladder
+Connector for cable support system
+Cable guide chain
+Wall mounting for bracket cable support system
+Cover floor duct
+Insulating plate mounting cover underfloor duct box
+Form dummy for underfloor installation
+Accessories for surface tank
+Accessories for underfloor installation ducting systems
+Height adjustment ring/-frame for underfloor install. duct
+Mounting socket for surface tank
+Tube entry for underfloor installation duct box
+Cover frame for domestic switching devices skirting duct
+Cover for tube-/duct inlet skirting duct
+Screening profile for skirting duct
+Add-on tee for installation duct
+Surface mounting junction box for installation duct
+Surface mounting plate for installation duct
+Fin for wall duct
+Fin support for wall duct
+Cable cover holder for skirting duct
+Cable clip for wall duct
+Cable clip for skirting duct
+Cable junction piece for skirting duct
+Joint clip for cover wall duct
+Potential equalization for wall duct
+Installation tube/installation duct entry for skirting duct
+Saw kernel for wall duct
+Support clamp for wall duct
+Mounting for separation plate installation duct
+Transition piece for installation tube/installation duct
+Universal inner-/outer corner for wall duct
+Trunking base for skirting duct
+Wall fastening clip for installation duct
+Wall-ceiling transition for installation duct
+Wall connection blind for wall duct
+Cover for extension module installation column
+Ceiling connection for installation column
+Pedestal for installation column
+Gas detector
+Glass plate for automatic fire alarm detector
+Mechanical connection sleeve for telecommunications cable
+Pressure spring
+Cable sheath repair kit
+Socket outlet/plug with protective contact
+Accessories for socket outlets/plugs with protective contact
+Spreader cap
+Accessories for cable end sleeves
+Touch sensor connector for bus system
+Reflector for light curtain
+Video switch
+Accessories for floor duct
+Mounting clamp for cable protection tubes
+Accessories for luminaire mounting box
+Current value transformer
+Power value transformer
+Voltage value transformer
+Reactive power transducer
+Effective power (cos phi) value transformer
+Perilex coupler
+D0-system screw adapter
+Switch spool for power circuit breaker
+Sound system for domestic switching devices
+Three-phase control transformer
+One-phase control transformer
+Explosion proof telephone
+Signal generator for explosion proof telephone
+Weatherproof telephone
+Signal generator for weatherproof telephone
+Telephone hood
+Explosion proof loudspeaker
+Explosion proof indicator light
+Signal device with LED-multicolourlamp
+Measurement device for surge protection
+Accessories for surge protection power supply systems
+Accessories for surge protection data networks/MCR-technology
+Accessories for low-voltage switch technology
+Network/server enclosure
+Network cabinet
+Telecommunications cabinet
+Enclosure/housing for PC, monitor or periphery
+Explosion proof enclosure/housing
+Command panel
+Kiosk system
+Cabling rack (electro/IT)
+Laboratory rack (electro/IT)
+Laboratory trolley (electro/IT)
+Climate controlled switchgear cabinet
+Climatic door (switchgear cabinet)
+Climatic side panel (switchgear cabinet)
+Filter (switchgear cabinet air conditioning)
+Air/air heat exchanger (switchgear cabinet air conditioning)
+Air/water heat exchanger (switchgear cabinet air conditioning)
+Recooling unit (switchgear cabinet)
+Case for component installation with modular spacing 19 inch
+Profile (switchgear cabinet)
+Front plate for unit with modular spacing 19 inch
+Plug-in unit for modular spacing 19 inch
+Drive unit for modular spacing 19 inch
+Mounting part for unit with modular spacing 19 inch
+Side/back panel (switchgear cabinet)
+Divider panel (switchgear cabinet)
+Window (switchgear cabinet)
+Spacer frame (switchgear cabinet)
+Display panel (switchgear cabinet)
+Top mounting module (switchgear cabinet)
+Column (switchgear cabinet)
+Accessories for column (switchgear cabinet)
+Application software for automation
+Configurable control component
+DC-power supply
+AC-power supply
+AC/DC-power supply
+Magnetic proximity switch
+Light curtain
+Laser scanner
+Power contactor, DC switching
+Accessories for domestic switching devices
+Test plug for terminal blocks
+Electrical accessories for luminaires
+Mechanical accessories for luminaires
+Light technical accessories for luminaires
+Accessories for light pole
+Plug-in connector for plug-in building installation
+Direction change for rail distributor
+Busbar trunk unit for riser cable
+Coil for low-voltage
+Filter for low-voltage
+Filter circuit coil for low-voltage
+Device connection for plug-in building installation
+Compact distributor for plug-in building installation
+Relay for thermistor protection (PTC)
+Agreement switch
+Motor management device
+Built-in field for telecommunications
+Distributor assembly for serial built-in device
+Flat bend for on-floor installation duct
+Coupler for on-floor installation duct
+Flow monitoring equipment
+PLC device set
+Function block/library
+Fieldbus, decentr. periphery - power supply module
+Accessories for controls
+Passive sensor-actuator interface (with cable)
+Accessories for switching relay
+Patch cord for plug-in building installation
+Flat cable adapter for plug-in building installation
+Communication connection box
+Hinge switch
+Position switch with separate actuator
+Position switch with guard locking
+Accessories for position switches
+Separation plate for on-floor duct
+Flexible cable guiding system
+Data communication connection box copper (twisted pair) industry
+Data communication connection box fibre optic industry
+Patch cord copper (twisted pair) industry
+Box/housing for surface mounting on the wall/ceiling
+Box/housing for built-in mounting in the wall/ceiling
+Cable outlet for underfloor system
+Levelling cassette for duct mounting, raised and underfloor installation
+Cable bundle hose
+Multifunctional connection box
+Insert for multifunctional connection box
+Patch cord fibre optic industry
+Accessories for modular connection system
+Accessories for optic fibre technique
+Accessories for communication technique
+Control switch
+Extension module for motor management device
+Operator panel for Motor management device
+Accessories for electronic motor control and protection device
+Temperature switch
+Cover / infill panel / identification strip (switchgear cabinet)
+Component for installation (switchgear cabinet)
+Component for transport (switchgear cabinet)
+Component for arrangement / baying system (switchgear cabinet)
+Component for earthing / equipotential bonding (switchgear cabinet)
+Component for wiring, cable entry, cable fixing (enclosure/switchgear cabinet)
+Mounting accessories (switchgear cabinet)
+Component for door (switchgear cabinet)
+Monitoring system (switchgear cabinet)
+Slot PLC (PC-based controls)
+Complete system (PC-based controls)
+Soft PLC (PC-based controls)
+Fieldbus, decentr. periphery - pneumatics module
+Circular connector for field assembly (industrial connector)
+Rectangular connector, set (industrial connector)
+Printed circuit board connector
+Cable connector
+RF connector
+I/O connector
+Modular connector (industrial connector)
+Chipcard connector
+Printed circuit board terminal
+Accessories for fire detector
+Spare part for domestic switching devices
+Connection for screened wires
+Optical fibre sensor / optical fibre amplifier
+Isolation amplifier
+Limit signal transmitter
+Cover for box/housing for surface mounting on the wall/ceiling
+Cover for box/housing for built-in mounting in the wall/ceiling
+Fire-resistant duct
+Outer corner for fire-resistant duct
+End piece for fire-resistant duct
+Flat bend for fire-resistant duct
+Inner corner for fire-resistant duct
+Cable clip for fire-resistant duct
+Cross piece for fire-resistant duct
+Coupler for fire-resistant duct
+Separation plate for fire-resistant duct
+Tee for fire-resistant duct
+Accessories for fire-resistant duct
+Accessories for fire partitioning
+Earthing arrangements
+Distance holder for lightning protection
+Set for earthing/lightning protection
+Set for internal lightning protection/surge protection
+Surge protection device medium voltage 1-36 kV
+Surge protection device medium voltage >36 kV
+Emergency lighting power supply unit
+Accessories for small domestic appliances
+Accessories for floor maintenance
+Accessories for kitchen machine
+Cooking pot
+Central fire alarm system
+Smoke extraction installation
+Expansion module for surveillance systems
+Accessories for hot air gun
+Bolt cutting machine
+Draw bolt for hole punch
+Accessories for hole punch
+Residual current circuit breaker (RCCB) with auxiliary device
+Miniature circuit breaker (MCB) with auxiliary device
+Earth leakage circuit breaker with auxiliary device
+Accessories for weather- and explosion proof telephones
+System patchpanel copper (twisted pair)
+System patchcord copper (twisted pair)
+System patchpanel optic fibre
+System patchcord optic fibre
+Blu-ray-player/-recorder
+Joint clip for installation duct
+Vacuum cleaner for central hovering installation
+Cylindrical fuse
+Holder for cylindrical fuse
+Light ribbon-/hose/-strip
+Accessories for light ribbon-/hose/-strip
+Lamp for medical applications
+Cover for fluorescent lamp
+LED driver
+Filter coil for power factor correction
+Accessories for ballast
+Terminal box
+Inductive proximity switch
+Capacitive proximity switch
+One-way light barrier
+Reflection light barrier
+Light scanner with background masking
+Fork light barrier
+Optical frame sensor
+Jointing compound
+Floor tile for cable floor system
+Support for cable floor system
+Skirt finishes for cable floor system
+Accessories for cable floor system
+Connecting component for cable floor system
+Distribution box for cable floor system
+Calibration measuring instrument
+Accessories for photovoltaics data logger
+Accessories for optic and acoustic signalling equipment
+Mobile phone
+Accessories for headphone/head-set
+Hotstone massage appliance
+Lubricant
+Energy management controller
+Desk connecting unit
+Wiring set for small distribution board
+Party lighting
+Power distribution unit (PDU)
+Underfloor tank
+Luminaire hoist
+Garden chopper (electric)
+Garden scissors (battery)
+Garden scissors (electric)
+Lawn shears (battery)
+Lawn shears (electric)
+Hedge trimmer (battery)
+Hedge trimmer (electric)
+Stripping and crimping machine
+Extruded profile modular housing
+Interface module
+Voltage detector
+Chain saw (battery)
+Accessories for safety equipment
+Phase comparator
+Voltage detection system
+Operating rod
+Insulating protective shutter
+Earthing and short-circuiting device
+Connection element for earthing and short circuit device
+Chain saw (electric)
+Chain saw (combustion engine)
+Fixed ball point for earthing and short circuit device
+Single-pole earthing and discharge device
+Cleaning kit for electrical devices
+Mower (battery)
+Refilling device for end closures
+Cover drape (safety at work)
+Mower (electric)
+Mower (combustion engine)
+Lawn trimmer (battery)
+Lawn trimmer (electric)
+Lawn scarifier/aerator (battery)
+Lawn scarifier/aerator (electric)
+Accessories for garden chopper
+Accessories for lawn shears
+Accessories for hedge trimmer
+Stretching pliers for stretch sleeves
+Earthing strip preassembled
+Accessories for lawn trimmer
+Accessories for mower
+Accessories for lawn scarifier/aerator
+Plunge router (electric)
+Chop saw, semi-stationary (electric)
+Table-, chop- and bevel saw, semi-stationary (electric)
+Straight grinder (battery)
+Straight grinder (electric)
+Tile cutter (electric)
+Plunge router (battery)
+Concrete vibrator (battery)
+Concrete vibrator (electric)
+Power generator
+Handheld transceiver
+Pillar for bollard
+Braces
+Overshoe
+Disposable glove
+Machine chisel
+Docking station
+Tee for mesh cable tray
+Angle attachment for cable channel
+Accessories for cable resin
+Accessories for CEE plugs and sockets
+Accessories for battery/charger
+Carbon monoxide detector
+Explosion proof fire detector
+Weatherproof intercom station
+Energy data gateway
+Energy consumption indication
+Multi combination switch/push button/socket outlet
+Accessories for body care appliances
+Accessories for terminals
+Accessories for gate-/roller-blind drive
+Accessories for UPS
+Hollow wall installation box with premounted switching devices
+Typewriter
+Document shredder
+Laminating device
+Cash register
+Spiral binding device
+Earthing mat
+Protection grille finned tube heater
+Mirror heating
+Air compressor
+Accessories and tools compressed air
+Accessories for plug-in building installation
+Torque multiplier
+Cable block
+Accessories for sound systems
+Fuel tank (for power generator)
+Earth inspection pit
+Wireless microphone receiver
+Bathroom fan heater light combination
+Diode module
+Charging device E-Mobility
+Accessories E-Mobility
+Anti-theft nut
+Accessories for agreement switch
+Pressure sensitive protective device
+Accessories for pressure sensitive protective device
+Charging controller E-Mobility
+Central control unit E-Mobility
+Ceiling-/wall luminaire
+Tool cabinet
+Charging cable E-Mobility
+Charging connector E-Mobility
+Measuring and testing instrument E-Mobility
+Sand paper/emery cloth set
+Right angle grinder (battery)
+Traffic detection cable
+Accessories for electrical door opener
+Plastic installation tube, prewired
+Multi insert/cover for data and communication connection technique
+Accessories for wall duct
+Contact material according to Dutch specific standard
+Concrete screw
+Arc detection system
+Wire pulling grip
+Hand cleaner
+Bit for square drive screws
+Band saw (battery)
+Hand band saw (electric)
+Band saw blade
+Frequency value transformer
+Temperature transmitter
+Megaphone
+Tee/cross for installation tubes
+Controller for luminaires
+Sensor actuator adapter
+Wind generator
+Accessories for renewable energy generation
+Oscillator (electric)
+Oscillator (battery)
+Power tool set
+Stove guard
+Accessories for cable guide chain
+Accessories for cable carrying system
+Accessories for electrical fuses/fuse holders
+AV patch cord
+Accessories for installation and connection material
+Accessories for workwear
+Filter for breathing mask
+Accessories for alarm systems
+Accessories for industrial connectors
+Tablet-Computer
+HFC-Component
+Holder for modular domestic switching devices
+USB power supply
+Accessories for LED drivers and modules
+Vibration control unit
+Extension module for vibration control unit
+Sensor for vibration control unit
+UV lamp
+IR lamp
+Arc fault protection system
+Lightning current measuring system
+Hot air gun (gas-powered)
+Indication element clinic-installation
+Terminal clinic-installation
+System device clinic-installation
+Call-/control unit clinic-installation
+Weatherproof loudspeaker
+Signalling light
+Animal guard for electrical insulators/bushings
+Locator for cables and markers
+Electronic cable marker
+Overvoltage protection magazine
+Accessories for installation column
+Industrial heating control system
+Module rack for industrial heating control systems
+Digital module for industrial heating control systems
+Analogue module for industrial heating control systems
+Door control system
+Gear motor for door control systems
+Band sawing machine
+Differential pressure transmitter
+Gauge/absolute pressure transmitter
+Magnetic-inductive flow meter
+Coriolis-mass flow meter
+Capacitive level meter
+Temperature process measuring system
+Microwave level meter
+RFID transponder
+Accessories for RFID
+RFID reader
+Matrix code reader
+Socks
+Ultrasonic level meter
+Potential equalization connector
+Stapler (electric)
+Belt file (electric)
+Belt file (battery)
+Hot glue gun (battery)
+Accessories for cable pulling system
+Accessories for ladder/scaffold
+Accessories for measuring tools
+Accessories for threading tool
+Accessories for hole saws and drills
+Biscuit joiner (electric)
+Corrugated dowel
+Biscuit joint
+Accessories for sensor technology
+Saw blade for oscillator
+Accessories for blower vac
+Heating for satellite antenna
+Accessories for jointing compound
+Split-/safe pin
+Seismic Bracing System
+Fitting with 1 connection
+Fitting with 2 connections
+Fitting with 3 connections
+Fitting with 4 connections
+Concrete bed infiltration gully
+Infiltration gully
+Click inlet
+Gully grating
+Road gully
+Channel drain end cap
+Grating channel drain
+Foul air trap channel drain
+Pit-hole cover
+Sump unit channel drain
+Water meter bracket
+Gas meter bracket
+Mounting-/connection set for fire hose reel
+Top cover panel radiator
+Side cover panel radiator
+Plug/socket for truck/trailer
+Accessories for plug/socket for truck/trailer
+Six-way control valve
+Mounting material toilet seat
+Electric actuator with damper blade round air duct
+Fitting for square rainwater pipe
+Fitting with 5 connections
+Wall plate
+Zinc pipe
+Anti climbing bracket
+Pressure sprayer
+Plug fuse
+Two-piece bracket square
+Accessories for rainwater pipe
+Brick in bracket square
+A/V-Connector
+Steel C-profile
+Door closer
+Mounting glue
+Universal contact adhesive
+Plastic glue
+Construction glue
+Wedge
+Feed-in bend meter box floor plate
+Meter box floor plate
+Rubber compensator
+Metal compensator
+Tap aerator
+Robotic arm
+Shower floor
+Flue gas/air supply floor connection
+Power cable < 1 kV, for permanent installation
+Data and communication cable (copper)
+Power cable < 1 kV, for moving application
+Power cable >= 1 kV, for permanent installation
+Pellet stove
+Insulation cover for air-/dirt separator
+Label holder for pipes
+Dish brush
+Gate valve
+Casing convector radiator
+Smart thermostat
+Telescopic tube synthetic pit
+Synthetic pit floor
+Synthetic pit
+Synthetic shaft
+Service valve
+Six-way control valve with electric servomotor
+Fire damper actuator
+Wing screw
+Electronic pressure-independent 2-way control valve with energy monitoring
+Nibbler (battery)
+Universal scissors (battery)
+Precision drill/grinder (electric)
+Rotary and demolition hammer (battery)
+Threaded rod cutter (battery)
+Groove cutter (battery)
+Metal scissors (battery)
+Blower vac (battery)
+Air pump (battery)
+Needle scaler (battery)
+Angle Wrench (battery)
+Accessories for inspection camera
+Heating device for work pieces (electrical)
+Brush grinder (electric)
+Diamond saw (electric)
+Dowel machine (electric)
+Fold seam locker (electric)
+Accessory set for precision drill/grinder
+Precision drill/grinder set (electric)
+Flathead grinder (electric)
+Jointing press (electric)
+Threaded rod cutter (electric)
+Groove cutter (electric)
+Fillet grinder (electric)
+Chain mortiser (electric)
+Putty router (electric)
+Varnish milling cutter (electric)
+Linear grinder (electric)
+Magazine screwdriver (electric)
+Multifunctional grinder (electric)
+Needle scaler (electric)
+Wet grinder (electric)
+Polisher (electric)
+Pipe belt grinder (electric)
+Renovation milling cutter (electric)
+Scraper (electric)
+Welding edge former (electric)
+Rope saw (electric)
+Spray gun (electric)
+Wallpaper stripper (electric)
+Carpet remover (electric)
+Stair stringer milling machine (electric)
+Precision drill/grinder (battery)
+Precision drill/grinder set (battery)
+Spring scale
+Penstock
+Pack hook
+Flap valve
+Strapping device
+Window cleaner (battery)
+Ride-on vacuum sweeping machine
+Weeder (gas powered)
+Nut Splitter
+Concrete tamper
+Loop tie twisting tool
+Post hole digger
+Hedge trimmer (hand)
+Rake
+Sickle
+Carry handle
+Hand saw set
+Water mist sprinkler
+Laths lifter
+Laminate cutter
+Wash basin wrench
+Scraper/trowel set
+(De)magnetizing device
+Bolt block
+Accessories for vice
+Brush set
+Tiling rubber
+Sponge
+Plate lifting bracket
+Tiler breaking pliers
+Horse shoeing pliers
+Paper pliers
+Notching pliers
+Steel wire mesh cutter
+Strike plate edger
+Material moisture meter
+Telescopic measuring rod
+Flame spray powder
+Soldering water bottle
+Soldering water brush
+Forstner bit
+Ice drill
+Drilling dust collector
+Chisel set for drill hammer
+Mixing head
+Saw blade for foam saw
+Saw blade assortment
+Chain for chainsaw
+Hand grinder set
+Cutting disc set
+Counterbore
+System accessories for colour spray system (battery/electric/compressed air)
+System accessories for milling (battery/electric)
+System accessories for planing (battery/electric)
+System accessories for nibbling/cutting (battery/electric/compressed air)
+System accessories for oscillating (battery/electric/compressed air)
+System accessories for sawing (battery/electric/compressed air)
+System accessories for scraping (battery/electric/compressed air)
+System accessories for grinding/polishing (battery/electric/compressed air)
+System accessories for wallpaper stripping (battery/electric)
+Drilling machine (compressed air)
+Hammer (compressed air)
+needle scaler (compressed air)
+Oscillator (compressed air)
+Jig saw (compressed air)
+Sheet nibbler (compressed air)
+Belt grinder (compressed air)
+Random orbital disc grinder (compressed air)
+Belt file (compressed air)
+Oscillating grinder (compressed air)
+Inline grinder (compressed air)
+Angle grinder (compressed air)
+Angle die grinder (compressed air)
+Impact screwdriver (compressed air)
+Tool holder assortment
+Rainwater system
+Beehive grate
+Sewer tank
+Phosphorus trap / filter
+Sequencing batch reactor
+UV box
+Wastewater filter
+Base manhole chamber
+Manhole chamber riser / reduction
+Accessories for infiltration unit
+Accessories infiltration gully
+PCM element
+Tile cutter (hand model)
+Accessories for navigation systems/tablets/mobile phones
+Projection screen
+Accessories for loudspeaker
+Pipe chamfer tool
+Medium-/high voltage fuse
+Utility pole
+High voltage disconnector
+Cable suspension hook
+Accessories for high voltage disconnector
+Accessories for utility pole
+Accessories for stay wire
+High voltage insulator
+Cross arm for utility pole
+Accessories for cross arm for utility pole
+Cable distribution cabinet
+Cable termination for medium and high voltage cables
+Plug termination for medium and high voltage cables
+Distribution transformer
+Marking pole
+Dry toilet
+Bath rail
+Discussion unit
+Thermal camera
+Convector pit complete without grid
+Accessories for distribution transformer
+Wireless control station
+Device circuit breaker
+Column radiator
+Frame and door for group distributor housing
+Frame for group distributor housing
+Door for group distributor housing
+European socket outlet/plug
+Appliance connector
+Accessories for first aid
+Packaging material
+Spill containment for oil/chemicals
+Water Barrier
+PoE injector/splitter
+Robot controller
+Accessories for robotic arm
+Exothermic welding mould
+Housing for circular connectors
+Contact insert for circular connectors
+Passive sensor-actuator interface (without cable)
+Dynamic power booster
+Exothermic welding powder
+Exothermic welding accessories
+Controller for public address system
+Earthing cartridge
+Short-circuiting bar
+Call station for public address system
+Amplifier for public address system
+Accessories for heating mat
+Circular connector, mounting (PCB)
+Circular connector, mounting (without cable)
+Circular connector, mounting (with cable)
+Automatic tea maker
+Ironing system
+Skirt
+Tollgate
+Dress
+Headgear
+Back protection
+Safety mirror
+Underwear
+Self Contained Breathing Apparatus (SCBA)
+Garment set
+Accessories for electric motor
+Personal care products
+Beverage
+Powered Air Purifying Respirator (PAPR)
+Paper towel
+Traffic management/road signage
+Cable protection mat
+Micrometer
+Dial gauge
+Temperature marker
+Pitchfork
+Roll groover
+Material testing device
+Industry-related tester/meter
+Digital photo frame
+Accessories for consumer electronics
+Accessories for camera (monitoring system)
+Application software for conference system
+Interpreter desk
+Controller for conference system
+Intercom
+Accessories for conference system
+Wall duct system, wall integrated
+Group distributor housing watertight
+Cable gland shroud
+Non-slip mat
+Expulsion fuse-link, medium voltage
+Automatic sectionalising link (ASL)
+Nail gun (powder actuated)
+Audio interface for conference/public address system
+Threaded nail
+Assortment box empty
+Router for public address system
+Form part for installation tubes
+Sensor for liquid analysis
+Busbar tool
+Voltage controlled short-circuiting device
+Accessories for surge protection device medium voltage
+Valve connector (field assembly)
+Towel drying radiator (electric)
+Wall guide plate for plastic pipes
+Fixing cap, foundation bracket
+Radiator insert
+Immersion thermostat
+Domestic fan
+Floor air grille, rectangular front
+Oil preburner
+Electric air curtain
+Float-controlled trap
+Flue cover
+Kitchen extraction box
+Bath lift
+Foundation bracket
+Bathroom vanity
+Constant flow rate controller
+Single-walled flue gas attachment, 3 connections
+Ground spike, foundation bracket
+Front support
+Fancoil thermostat
+Heat exchanger pipe
+Storz reduced coupling
+Accessories for alarm valve
+Air vent
+Mechanical urinal flusher
+Three way plug valve
+Shower/toilet seat
+Mounting set, ribbed fixing strap
+T-piece, double-w. round air duct
+Cable temperature sensor active
+Washbasin extension
+Pneumatic controlled three-way control valve
+Thin-walled steel pipe
+Plastic slide plate, feed-through tile
+Corner entrance shower enclosure rectangular
+Room sensor relative humidity/temp. active
+Outlet clamping piece roof gutter
+Flue temperature sensor active
+Round shower wall
+Laboratory tap
+Sliding piece
+Spindle extension for valve
+Triple trap
+Flush pipe extension pipe
+Solar heater tank
+Pentagonal shower wall
+De-aeration valve (CH)
+Accessories for radiator fittings
+Two-piece bracket round
+Wall rail, adapted sanitary fittings
+Cross piece, round air duct
+Wrench for plug valve
+Connection piece roof gutter
+Submersible faeces pump
+Bend rectangular air duct
+Radiographic zone controller
+Shut down valve (tap water)
+Glass thermometer
+Mechanical accessories, ventilator convector
+Height adjustment system toilet
+Flush actuator flushing system mechanical
+Radiator thermostat button
+Roof vent cover
+Air curtain without heat exchanger
+Shower wall accessories and parts
+Plastic hose, insulated with spiral
+Aluminium profiled pipe
+Fill and drain valve
+Thermostatic de-aerator
+Waste stack bracket set
+Four-way plug cock
+Norm block pump with base plate
+Bottom H-block
+Toilet support
+Accessories for pipe duct
+Bucket filter, single
+Cleaning product
+Electric boiler
+Recess for ashtray holder
+Storz blind cap
+Cover, embedding duct
+Radiator window-sill support
+Double wall/built-in element bath/shower mixer
+Wall fitting control set for floor heating
+Duct sensor relative humidity/temperature active
+Accessories, shower stretcher/dressing table
+Pot, embedding duct
+Double pipe bracket
+Radiator spacer
+Roof upstand prefab chimney single family house
+Gauze grille
+Dressing table
+Concentric flue gas/air supply form piece, 3 connections
+Four-way ball valve
+Outlet nozzle, round air duct
+Radiator connection combination with valve and bottom block
+Wreath piece
+Liquid level sensor
+Accessories for membrane valve
+Mounting console for wall plate
+Sliding rod combination
+Flue gas roof duct
+Accessories for pressure difference switch
+Floor support for pipe bracket
+Branch piece rectangular air duct
+Feed-through tile
+Round side connection, embedding duct
+De-aerator
+Separation strip roof gutter
+Feed-through plate
+Globe valve
+Bend round air duct
+Pressure reducing valve
+Accessories for measuring device for flow and pressure controllers
+Recess for waste bin
+Security switchboard for smoke detectors
+Bidet
+Duct sensor absolute humidity
+Side for bath and shower
+Double trap
+Concrete tie for embedding rail
+Aerator
+Hand shower holder
+VEWI valve
+Separation partition roof gutter
+Lip seal, flue gas pipe
+Radiator stop valve
+Rectangular air duct
+CH plate changer
+Vertical radiator console set
+Sliding rod
+Flush pipe bend
+Flushing reservoir float valve
+Leaf catcher roof discharge
+Washbasin leg
+Double wall/built-in element wall-hung closet with flushing reservoir
+Glass/toothbrush holder
+Slanting corner, embedding duct
+Duct sensor relative humidity
+Rail beam clamp
+Y-filter
+Convector radiator
+Carrying plate
+Perforated grille
+Contact temperature sensor
+Inlay strap
+Accessories for thermostatic control valve, hot tap water
+Hand shower
+Wall plate on bracket
+Gate valve
+Accessories for check valve
+Shower toilet
+Pressure gauge console
+Loose flange rectangular air duct
+Plenum for air handling unit
+Flush pipe extension bend
+Compression ring reducing set
+Pneumatic controlled two-way control valve
+Squatting toilet
+Bend, double-walled round air duct
+Room sensor relative humidity/temperature
+Closet with faeces grinder
+Outdoor sensor relative humidity
+Washing machine element for construction wall
+Prefab chimney, single-family home
+Bath side
+Venturi insert for CH
+Cover rosette, round air duct
+Natural stone tile
+Hearth slide
+Boiler storage tank
+Outdoor temperature sensor
+T-Y-piece round air duct
+High/low washbasin system
+Round saddle piece for air duct
+Water detection switching
+Chimney cover
+Chimney bracket construction
+Tap coupling for top
+Thermal servomotor
+Accessories, shower/toilet chair
+P, S, beaker siphon
+Construction plate for mounting rail
+Radiator wall console
+Boiler with preburner
+Bucket filter, double
+Float valve
+Alarm valve
+Extension module for air heater, indirect
+Offset bend rectangular air duct
+Accessories, shower/WC
+One-bladed control valve, oval air duct
+Sprinkler for domestic use
+Built-in box for urinal
+Air volume and pressure controller, round
+Vertical radiator console
+Electronic urinal flusher
+Accessories, toilet raiser
+Convector console
+Three-way needle valve
+Fixed-application controller
+Inlay plate for fixed-point construction
+Convector element
+Surface temperature sensor active
+Cold-bridge-free bracket
+Separator / mud trap attachment
+Immersion temperature sensor active
+Multi-layered pipe, smooth
+Storz coupling/thread
+Suspension system for air heater, indirect
+Foundation beam hook
+One-point bottom connecting block
+Overflow grille
+Boiler, directly fired
+Wall-mounted gas heater
+Recess for soap holder
+Urinal
+Disinfectant
+Thimble front plate
+Needle valve
+Flanged bush
+Thermal pipe insulation
+Boiler connection group
+Air-/dirt separator for CH/cooling system
+Solenoid valve
+Pressure gauge valve
+Flat roll-up fire hose with coupling
+Fire hose reel
+Filler hose set for boiler
+Steel profiled pipe
+Metering pump
+Hand vane pump
+Automatic expansion unit
+Oil/petrol/grease trap
+Radiant device, directly fired
+Nozzle grille
+Outdoor vane grate
+Pipe pendulum suspension
+Ball hinge
+Rain water roof outlet
+Roof discharge funnel negative pressure system
+Roof gutter
+Separation slide roof gutter
+Roof gutter decoration
+Solar heater discharge tank
+Floor drain with 1 connection
+Drain grid
+Drain bucket
+Circon ring
+Mobile air heater (gas/oil)
+Floor heating control unit
+Reel cabinet
+Insulation coupling
+Gas shortage valve
+Manifold valve
+Parent sprinkler
+Gas pressure control valve
+Expansion tank connection group
+Sprinkler rosette
+Three-way solenoid valve
+Four-way solenoid valve
+Support bush
+Pressure controller, medium-controlled
+Bend with mounting support
+Transition cap, sleeveless cast iron
+Welding shoe
+Welding saddle
+Cleaning piece
+Compression ring valve coupling
+Fire-extinguishing unit
+Self-priming horizontal pump
+Pump control system
+Fixed flange
+Plastic pipe, ribbed
+Electronic tap
+Bath and shower base panel
+Bath and shower base skirting
+Well pump
+Grease collection air filter
+Sound absorber rectangular air duct
+Grid grille
+Vaned grille
+Prison grille
+Solar collector
+Louver for duct installation
+Fire damper, rectangular
+Valve register
+Round fire damper
+Evaporating tray
+Sliding grille
+Self-cleaning filter
+Filter element for y filter
+Filter element for bucket filter
+Temporary installation filter
+Double wall closet bend
+Fitting with 6 connections
+Fall pipe T-piece
+Mounting corner support sanitary
+Distance holder sanitary
+Connection strip sanitary
+Reinforcement free standing wall
+Fixation clip for threaded rod
+Sound insulation for wall plate
+Drain plug for bath
+S coupling
+Portable gas detector
+Gas leakage checking device
+Accessories for floor heating
+Central heating distributor/collector for radiators/convectors
+Accessories for CH distributor/collector for radiators/convectors
+Installation frame for fire damper
+Insulation package, fire damper wall structure
+Hand plunger pump
+Street pot
+Tap wrench for street pot
+Gauge body
+Gas line
+Top-piece for roof gully
+Reinforcement plate UV-funnel
+Fixation plate UV-funnel
+UV-funnel condensation isolation
+O-ring set UV-funnel
+Clamping flange set UV-funnel
+Plastic foil ring UV-funnel
+Roof flashing, universal
+Welding/soldered flange set for UV funnel
+Emergency overflow (side outlet)
+Hose valve
+PTFE compensator with flanges
+Akzo coupling/hose connector
+Cam and groove coupling/hose connector
+Clamp coupling/thread
+Guillemin coupling/thread
+Guillemin coupling, composite hose
+Threaded coupling composite hose
+Swivel coupling
+Claw coupling / thread
+Valve quick coupling/hose connector
+Storage tank, pressureless
+Fabric oil catcher
+Shaft sleeve for oil catcher
+Shaft seal end cap
+Rubber oil seal
+PTFE lip for PTFE lip seal
+PTFE lip seal
+Rodar seal
+Spiral spring for oil catcher
+V-ring seal
+Cathodic flange-sealing set DIN
+Flange-protection cover/cap
+Bonded seal
+Support ring for O ring seal
+Metal O ring seal
+Pressure ring mechanical seal
+Spring mechanical seal
+Mechanical seal, two piece
+Sliding ring, mechanical seal
+Ancillary seal, mechanical seal
+Rotor, mechanical seal
+Stator, mechanical seal
+Gland packing
+Countersliding ring, mechanical seal
+Swivelling arm for hose reel
+Machine hose reel
+Hose reel, single hose
+Hose reel, double hose
+Coolant hose for lathe/miller
+Composite hose
+Metal hose, wavy
+Metal hose, hooked
+AWG hose
+1- and 2- part hose clamp
+Twisted ring for metal hose
+Plastic ball
+Thermal insulation cloth
+Thermal insulation cord
+Eye/face shower
+Emergency eye shower combination
+Bath support
+Bath legs/frame
+Shower base support
+Shower base legs/frame
+Shower stretcher
+Toilet seat heightener
+Washbasin top
+Bathroom vanity top
+Pipe clip thermometer
+Underground hydrant
+Hand membrane pump
+Gas-leakage check, gas concentration type
+Gas-leakage check, overpressure principle
+Gas block
+Thermocouple for burner
+Double pressure gauge valve
+Attachment for underground hydrant
+Manhole cover hook
+Air supply connecting piece
+Suspension bracket for wall-mounted boiler
+Fuel adjustment set
+Built-in siphon
+Urinal flush pipe
+Pressure expansion vessel console
+Funnel for trap
+Siphon for bath/shower base
+Fall pipe for flue gas removal
+Bird cover
+Connection set wall-hung closet
+Built-in flush pipe
+Tank feed-through nipple
+Combined slide cap
+Floor column for slide valve
+Shower unit
+Shower curtain
+Comfort unit
+Laundry-basket
+Handle for furniture
+Flue gas heat exchanger
+Lip seal
+Wall connection accessory, floor closet
+Urinal siphon
+Immersion tube
+Duct flange for sensor
+Duct measuring point connection set
+Mast for weather station
+Sensor cabin
+Connection for pressure switch
+Capillary set for pressure switch
+Vane for flow switch
+Grommet for suspension sling
+Floor drain mounting standard
+Attachment and extension for floor drain
+Water barrier edge for floor drain
+Flush pipe connection set
+Electro-welding fixed-point inlay
+Bursting disc
+Breather valve
+Set of fixed flanges with accessories
+Repair wall plate
+Pressure gauge drain pipe
+Bracket mantle
+Pneumatic servomotor air fittings
+Worm gearbox for valves
+Assembled alarm valve
+Rainwater pipe outlet
+Water butt valve piece
+Mobile electric air heater
+Solar boiler mounting bracket
+Accessories for solar collector
+Headboard roof gutter
+Vertical level switch
+Pressure gauge connection pipe
+Electronic control system for shower
+Mechanical control system for shower
+Sink plug
+Soap dispenser
+Mirror
+Towel holder
+Towel hook
+Toilet roll holder
+Spare toilet roll holder
+Lavatory brush set
+Toothbrush holder
+Soap holder
+Air treatment cabinet, inside
+Washbasin waste unit
+Bath drainage combination
+Expansion vessel bracket
+Self-sealing coupling
+Rainwater pipe spout
+Upstand for roof mounted fan
+Roofing material
+Floor drain with several connections
+Sludge extractor pit
+Roof gutter thin grate
+Coupling vessel
+CH function server
+Stainless steel profiled pipe
+Frost protection element, rainwater pipe
+Bath seat
+Pressure gauge cooling element
+Pressure gauge shock absorber
+Pressure gauge overpressure safety device
+Water separator, steam and compressed air
+Cone bag filter around air duct
+Cone bag filter housing around air duct
+Electromagnetic liquid flow meter
+Plastic O ring seal
+Rubber O-ring seal
+Quadring seal
+Liquid flow meter
+Air flow meter
+Pneumatic release cylinder
+Release magnet
+Compressed air valve
+Loose plate flange
+Coupling nut
+Paper dispenser
+Reducer, rectangular/rectangular air duct
+Solar heater tank with integrated CH
+Wafer type check valve
+Blow-off valve
+Corner profile roof gutter
+Feed-through attachment
+Water hammer damper
+Left-right threaded fitting
+Reducer, oval air duct
+Reducer, oval/round air duct
+One-strap bracket, oval air duct
+Blow-off cock
+Sheathed O ring seal
+Hydraulic sleeve seal
+Hydraulic sealing set, roof form
+Hydraulic wiper seal
+O-ring activated seal
+Spring-activated seal
+Sleeve for sealing set, roof form
+Support ring for sealing set, roof form
+Pressure ring for sealing set, roof form
+Hydraulic guide ring (seal)
+Hydraulic guide strip seal
+Fitting with double dimensions
+Wire protection cap
+Pressureless tank coupling set
+Wall duct link
+Insert part of coupling
+Wall plate filler disc
+Slot diffuser
+Trough grille
+Graphite tape
+Displacement grille
+Floor air grille, round front
+Gland packing ring
+Gland packing cord
+Rubber T-section
+Rubber U-section
+Rubber bulb section
+Clamping strip section
+Rubber multi-faced/trapezium section
+Rubber rectangular section
+Rubber cord
+Rubber bumping section
+Rubber glass carrier clamping section
+Rubber key for glass carrier section
+Rubber corner section
+Rubber corner guard section
+Cellular rubber strip
+Washer for PTFE lip seal
+Rubber rod
+Gasket puller
+Gasket puller point
+Gasket remover
+Assortment case sanitary sealing materials
+Cartridge mechanical seal
+Cartridge mechanical seal (double)
+Spindle sealing set
+Thermal insulation tape
+Expanded PTFE sealing strip
+PTFE sealing tape
+Sealing washer
+Plastic foil
+Plastic welding wire
+Rubber flange gasket (not normed)
+Fibre flange gasket (not normed)
+Rubber flange gasket (DIN)
+Fibre flange gasket (DIN)
+PTFE flange gasket (ANSI)
+Fibre flange gasket (ANSI)
+Rubber flange gasket (ANSI)
+Plastic angle profile
+Plastic C-section
+Plastic U-section
+Plastic I-section
+Plastic H-section
+Plastic rectangular section
+Cellular and sponge rubber plate
+Fibre plate
+Graphite plate
+Cork rubber plate
+Plastic plate
+Wool felt plate
+Aluminium plate
+Brass plate
+Copper
+Steel plate
+Stainless steel plate
+Nickel plate
+Steel alloy plate
+PTFE sealing plate
+Round plastic rod
+Rectangular plastic rod
+Hexagonal plastic rod
+Graphite flange gasket (DIN)
+Comb profile flange gasket (DIN)
+Envelope flange gasket (DIN)
+Oval manhole flange gasket
+PTFE flange gasket (DIN)
+RTJ flange gasket (Ring Type Joint)
+PTFE flange gasket (not normed)
+Graphite flange gasket (ANSI)
+Graphite flange gasket (not normed)
+Comb profile flange gasket (ANSI)
+Comb profile flange gasket (not normed)
+Envelope flange gasket (not normed)
+Envelope flange gasket (ANSI)
+Cathodic flange gasket, ANSI
+OPJ plate
+Flange-protection strip
+Spring-activated chain tensioner
+Liquid gasket
+Spring-activated belt tensioner
+Transport wheels
+Pneumatic tyre transport wheel
+Ceramic wire guide
+Roller chain slide profile
+Sprocket chain slide profile
+V-belt slide profile
+Circular belt slide profile
+Flat belt slide profile
+Plastic product line slide profile
+Block pump
+Submersible wastewater pump
+Flat roll-up hose
+Dry-break coupling / thread
+Insert stop
+Pressurisation unit
+Flare/flare coupling
+Plastic hose with inlay
+Spiral hose
+Spiral hose protection
+Rubber twin hose
+Hose guide
+Protection links for hose
+Sealing for storz coupling
+Key for hose coupling
+Guillemin coupling/hose connector
+Guillemin reduced coupling
+Guillemin plug
+Guillemin coupling/weld
+Sealing for guillemin coupling
+DSP coupling/thread
+DSP coupling/hose connector
+DSP reduced coupling
+DSP plug
+Sealing for DSP coupling
+Sealing for claw coupling
+Insert coupling, 2 connections
+Insert coupling, 3 connections
+Insert coupling/thread
+Insert coupling, T and L/thread
+Clamp coupling/flange
+Cap/plug for dry-break coupling
+Sealing for dry-break coupling
+Clamp coupling/weld
+Swivel joint for hose reel
+Hose compression coupling (2 connections)
+Clamping disc for hose
+Ear clamp for hose
+Worm screw clamp for hose
+Hose connector
+Valve quick coupling stop
+Flanged bush for hose coupling
+Akzo stop
+Akzo push-on flange
+Sealing for Akzo coupling
+Compression coupling for hose (3 connections)
+Compression coupling for hose (4 connections)
+Cam and groove coupling/thread
+Cam and groove coupling/weld
+Cam and groove coupling/flange
+Cam and groove plug/cap
+Grille with absolute filter housing
+Drain housing
+Mechanical constant volume controller, round
+Mechanical constant volume controller, rectangular
+Air volume and pressure controller, rectangular
+Airtight inspection hatch
+Airtight inspection door
+Seal for cam and groove coupling
+TW quick coupling/hose connector
+TW coupling/thread
+TW plug/cap
+Sealing, TW coupling
+Sealing, clamp coupling
+Hydraulic nipple, 2 connections
+Hydraulic threaded T-piece
+Hydraulic threaded cross piece
+Hydraulic threaded plug
+Hydraulic cutting ring stop
+Hydraulic cutting ring fitting with 2 connections
+Hydraulic cutting ring T-piece
+Hydraulic cutting ring cross-connector
+Hydraulic cutting ring screw coupling
+Hydraulic cutting ring, banjo coupling
+Cutting ring
+Flare T-piece
+Flare cross-connector
+Flare/threaded coupling
+Clamping slide, ribbed fixing strap
+TW clamp ring
+TW crown ring
+Cam and groove handle
+Cam and groove pin
+Cam and groove ring
+Vacuum support ring for compensator
+Bolt/washer set for compensator
+Syrup drain tap
+Industrial drain tap
+Emergency overflow (vertical)
+Mounting plate for bath tap
+Solid vibration isolator hanger
+Vertical coupling
+Tap hole cover plug
+Top section
+Turbine cover
+Display assembly set
+Cable for control apparatus with connector
+Hoist band for hose
+Tri Clamp coupling
+Sealing for Tri Clamp
+Pointed piece, dairy coupling/hose connector
+Cam and groove handle/pin/ring
+Dry-break coupling / flange
+Tri Clamp clamp
+Fixed-point attachment
+Prop
+Tile strip for mounting rail
+Bath outlet-inlet combination
+Sound-proofing set for collection devices
+Drain booster
+Drainage-/infiltration pipe
+Spindle extension
+Tube grille
+Air volume measuring station, round
+Dual-channel air mixing unit
+Air volume measuring station, rectangular
+Accessories for radiator
+Flexible aluminium tube
+Wastewater pump unit
+Heat-conducting paste
+Bath mixing tap
+Embedding duct
+Surface-mounted flushing reservoir
+End lid for sleeveless cast iron
+Radiator foot valve
+Passing plate for floor heating
+Gas-fired water heater
+Hot tap water heater, indirectly fired
+Concentric flue gas/air supply form piece, 2 connections
+Boiler for preburner
+Shower seat
+Contact temperature sensor active
+Toilet tap
+Heat exchanger roof duct
+Outlet nozzle, rectangular air duct, 45°
+Valve installation accessory
+Insulation blanket/-plate
+High/low bath
+Suspension element, carrying pipe section
+Plastic pipe, smooth
+Wall mounted fan (built-up)
+Washing-glove holder
+Outlet funnel
+Single-walled flue gas attachment, 1 connection
+Accessories for pressure difference sensor
+Bidet mixing tap
+Pneumatic lifting system flushing reservoir
+Radiator mounting set
+Shower wall walk-in
+Accessories for sprinklers
+Embedding rail
+Riser for hose on shower tap
+Bend, embedding duct
+Concentric flue gas/air supply pipe
+Cable temperature sensor
+Wall closet extension
+Glass for glass holder
+Suspension eye bracket
+Shower connecting piece
+Set of centring plates
+Recess for tissue holder
+Weight-loaded pressure relief valve
+Immersion temperature sensor
+Butterfly valve
+Anemostat, round front
+Reducer, embedding duct
+Convector pit empty
+Counterplate, adapted system
+Adapter for air handling unit
+Plug valve
+Sleeve, embedding duct
+Bend, oval air duct
+Light intensity sensor
+Air duct attachment
+Heat exchanger connecting box, flat roof
+Transition piece rectangular/round air duct
+Cover for ventilation valve
+Base plate for bracket attachment
+Room thermostat
+Side-corner joint for mounting rail
+Double wall/built-in element armrest
+Wall mounted fan (built-in)
+Duct sensor absolute humidity/temperature
+Rail console
+Reducer, round air duct
+Duct air quality sensor
+Sliding piece, embedding duct
+Self-closing tap - mechanical
+Double radiator wall console
+Storage sprinkler
+Fixed-point corner support
+Automatic draining system for shower hose
+Plastic expansion sleeve
+Air flow sensor
+Outdoor temperature sensor active
+Thermostatic steam trap
+Trap protector, adapted sanitary fittings
+Backrest
+Duct dew point sensor
+Stainless steel pipe
+Profiled tube clip
+Room air quality sensor
+Radiator base
+Single-walled flue gas attachment, 2 connections
+Combined boiler for detachable burner
+Free programmable controller extension
+Membrane pressure expansion vessel
+Vacuum valve
+Heat recovery bend
+Application for freely programmable controller
+Shower door
+Foundation hook
+Siphon tube
+Transport wheel fork
+Heat exchanger reducer
+Tap fastening element for construction wall
+Programming unit for servomotor/controller
+Velcro
+Accessories/parts for hot tap water heater
+Recess for toilet brush fittings
+Shower seat height adjustment system
+Cap bracket
+Outdoor sensor relative humidity/temp. active
+Chimney double wall bracket
+Double wall/built-in element urinal without flushing apparatus
+Built-in circulation pump
+Bell float-controlled trap
+Flue gas/air supply collector
+Washbasin bracket
+Drain valve (radiator and tap water)
+Room sensor relative humidity
+Plastic twin hose
+Vent cross cowl
+Double-walled flue gas attachment, 1 connection
+Chimney spacer construction
+Chimney sound absorber
+Centrifugal fan
+T-model beam clamp
+Connecting bracket for sling
+Shelf carrier
+Gas preburner
+System profile sanitary
+Urinal partition
+Cold/hot water distributor
+Wall grab handle/rail
+Recess for shelf holder
+Stud for brackets
+Spiral-wound flange gasket (not normed)
+Spiral-wound flange gasket (ANSI)
+Faeces pump with standard motor
+Radiator coupling
+Roof Mounted fan, Alternating Current (AC)
+Circulating fan
+Duct fan
+Broaching saddle
+Gas valve
+Push-on profile, rectangular air duct
+One-bladed air control valve, rectangular
+Back-draught shutter for roof mounted fan
+Sound absorber, around air duct
+Plastic hose, uninsulated with spiral
+Storz coupling/hose connector
+Panel radiator
+Tube radiator
+Convector pit complete
+Armrest toilet support
+Auxiliary support leg set disabled sanitary
+Shower stool
+Grab handle/rail disabled sanitary
+Spherical wire grid cover
+Air heater, indirectly fired, suspended
+Swinging/ceiling support
+Floor stand disabled sanitary
+Refrigerant
+Fan coil unit
+Electrical accessories, ventilator convector
+Shower toilet seat
+Height-adjustment system, toilet support
+Accessories, bath lift
+Accessories, toilet support/handle
+Mechanical accessories for pumps
+Compression ring
+Compression ring set
+Connecting nipple pressure gauge
+Earth clamp electric welding
+Battery acid tester
+Adaptor multimeter
+Compression trial pump
+Compression trial plug
+Terminal plug
+Antifreeze meter
+Broom
+Stick
+Fire blanket
+Fire extinguisher
+Nozzle cleaner set
+Burner handle
+Burner head
+Burner extension piece
+Bending block
+Pipe bender
+Press pliers for push fittings
+Lifting jack
+Die head
+Thread cutter
+Differential pressure meter
+Electrode holder
+Bucket
+Tube expander head
+Tube expander pliers
+Expansion tank tester
+Flanging machine (tube)
+Gas lighter
+Gas bottle cart
+Gas leakage meter
+Water heater adjustment meter
+Sound intensity meter
+Cam pliers
+Hand suction set flue gas analyser
+Hard solder
+Lifting table
+Angle bender
+Boiler brush
+Tap seat grinder
+Ladder lift
+Welding/cutting torch set
+Welding goggles
+Welding wire
+Welding electrode
+Welding helmet / Welding mask
+Welding sleeve
+Welding torch
+Welding apron
+Welding mirror
+Welding transformer
+Welding torch end piece
+Inspection camera
+Crane crab
+Air discharge meter
+Air velocity meter
+Air humidity meter
+Manometer protective cap
+Measuring head air velocity meter
+Defrost transformer
+Air bleed key
+Gasket cutter
+Pipe freezing device
+Pipe bending machine
+Pipe support
+Pitot tube
+Propane bottle
+Die head ratchet
+Pressure reducing valve welding- and soldering tools
+Flue gas analyser
+Flue gas probe
+Cleaning brush
+Letter/number punch set
+Cutting-/cooling liquid
+Cutting torch
+Cutting torch end piece
+Die plate holder
+Soldering tongs
+Steel wire clamp
+Welding cable plug
+Testgas fire alarm installation
+Rope
+Extractor head
+Extractor set
+Safety line
+First aid kit
+Extension rod for anemometer
+Detection instrument for tube obstructions
+Flame extinguisher
+Filling nipple gas bottle
+Guaranty case (NL-product!)
+Wind guard welding torch
+Safety strip, C-model beam clamp
+Level gauge tubular, upper and bottom part
+Level gauge tubular, bottom part
+Level gauge tubular, upper part
+Level gauge tubular, intermediate part
+Level gauge glass tubular
+Gauge, magnetic
+Viewing/checking device
+Level gauge, flat
+Shelf
+Mirror clamp
+Bimetal thermometer
+Mano-thermometer
+Pressure difference gauge
+Membrane pressure gauge
+Diaphragm drum pressure gauge
+Bourdon tube pressure gauge
+Outdoor thermostat
+Duct thermostat
+Contact thermostat
+Frost protection thermostat (air)
+Room hygrostat
+Duct hygrostat
+Air flow switch
+Float switch
+Pressure differential switch
+Claw coupling/hose connector
+Claw coupling blind cap
+Pressure sleeve for hose
+Hose connector/flange coupling
+Compression coupling for hose/thread
+Compression coupling, hose T and L/thread
+Banjo compression coupling for hose
+Valve quick coupling/thread
+Ashtray holder
+Garbage bucket
+Basket
+Accent colour element
+Lavatory brush for set
+Laundry line
+Flow switch, liquid
+Built-in flow switch, liquid
+Toilet seat
+Pneumatic servomotor for valves
+Ceiling induction unit
+Façade induction unit
+Passive ceiling cooling convector
+Level switch for steam boiler
+Electronic level switch
+Braiding for hose
+Roof mounted fan with continuous current (DC)
+Oval air duct
+Double-walled round air duct
+Cover, round air duct
+Connecting piece, round air duct
+Inspection bend, round air duct
+Outlet bend, round air duct
+Cover, double-walled round air duct
+Connection piece double-walled round air duct
+Automatic burner
+Surface temperature sensor
+Ceiling temperature sensor
+Frost temperature sensor
+Flue temperature sensor
+Signal converter
+Signal converter active
+Sound-insulating grille
+Hose connector/threaded coupling
+Roll filter
+Cellular filter
+Round air filter
+Frame for air filter
+Cartridge air filter
+Roll air filter unit
+Air filter frame
+Air filter duct housing
+Wall/roof duct, round air duct
+Tensioning ring, round air duct
+Sound-absorbing bend, round air duct
+Sound-absorbing roof duct round air duct
+Sound absorber, oval air duct
+Flanged ring for metal hose
+Air filter unit
+Cowl for roof mounted fan
+Roof sleeve for roof mounted fan
+Acoustic silencer for roof mounted fan
+Flange ring, round duct
+Reducer double-walled round air duct
+Insulation, cover ring, round air duct
+Loose flange, round air duct
+Suction cone round air duct
+Inspection piece, round air duct
+Mounting ring, hose/valve
+Telescopic pipe, round air duct
+Exhaust collector, round air duct
+Connecting piece, oval air duct
+Cover, oval air duct
+Oval saddle for air duct
+Ventilation cover, round air duct
+Control valve, round air duct
+Clamp coupling/hose connector
+Solid rubber plate
+Roof sleeve upstand for roof mounted fan
+Flange plate for roof mounted fan
+Flexible duct connector
+Set-up piece for roof mounted fan
+Diaphragm valve (round)
+Smoke valve double-walled round air duct
+Smoke valve air duct
+Control valve, double-walled air duct
+Slide valve, round air duct
+Three-way valve, round air duct
+Non-return valve, round air duct
+Non-return valve double-walled round air duct
+Sand separation air grille
+Nozzle grille in frame
+Heat recovery unit for single family house
+Heat recovery unit
+Inspection hatch for air duct
+Two-point bottom connecting block
+Toilet closet
+Electric servomotor
+Punched plate grille
+Adapter upstand for flat roof
+Heat exchanger ventilation cover
+Set-up piece roof upstand prefab chimney single family house
+Thermostatic control element
+Radiator connection combination for decor radiator
+PTFE hose
+Coupling set for heat generator
+Single-walled flue gas pipe
+Bucket grid
+Hot water air curtain
+Built-in flushing reservoir without frame
+Cast-iron pipe
+Tail piece key
+Mobile electric spindle float
+Loose components, handle for adapted sanitary fittings
+Accessories for servomotor
+Accessories for room thermostat/clock thermostat
+Room clock thermostat
+Three-way control valve
+Safety valve
+Pressure-compensated control valve
+Accessories for radiographic zone controller
+Rubber hose
+Kitchen sink
+Closet part closet combination
+Wash fountain
+Toilet combination
+Accessories for flow and pressure controller
+Measuring device for flow and pressure controllers
+Fastening strip, insulating plate, floor heating
+Anchor clip floor mounted pipe
+Heat-conducting plate, floor heating
+CH refill installation
+Distance holder for flexible flue liner
+Built-in mixing tap
+Washbasin mixing tap
+Shower mixing tap
+Electric air heater, suspended
+Siphon cover
+Slophopper
+Inline circulation pump with standard motor
+Multistage centrifugal pump
+Rail joint for mounting rail
+Front wall/built-in element wall toilet with flusher
+Double wall/built-in element urinal with flushing reservoir
+Accessories for double wall/built-in element sanitary
+Accessories for flushing reservoir
+Ceramic tile
+Mosaic tile
+Closet connecting piece
+Ball valve
+Shut-off valve for sanitary devices
+Stop valve with knee control
+Kitchen hand shower
+Technical gas
+Plastic hose without inlay
+Accessories for sensors
+Roof drain funnel, side outlet
+Pipe trap 0, 90, 180 degrees
+Fastening mat for floor heating
+Hose saddle
+Flat air filter
+Roof gutter outlet
+Vortex grille
+Finned grille
+Flexible flue gas pipe
+Cover rectangular air duct
+Niche pipe
+Double-walled flue gas attachment, 3 connections
+Coupling piece, embedding duct
+Fastening wedge, carrying pipe section
+VAV-controller
+Double wall/built-in element bidet
+Double wall/built-in element washbasin
+Double wall/built-in element urinal with flush valve
+Spray sprinkler
+Wall sprinkler
+Dry sprinkler
+Central mixing tap
+Water tap
+Open and closed sprinklers
+Double sprinkler with alert
+Outside tap
+Insert for tap
+Control element for sanitary tap
+Bathroom furniture set
+Washbasin lower cupboard
+Shower head
+Washbasin top cabinet
+Concentric flue gas/air supply form piece, 1 connection
+Steel pipe
+Aboveground hydrant
+Storm collar, round duct
+Rainwater pipe square
+Standing combination boiler, integrated burner
+Boiler electric
+Boiler indirectly heated
+Boiler, indirectly fired, with control system
+Hot tap water heater, indirectly fired with control system
+Air heater, directly fired, suspended
+Wall-mounted gas combination boiler
+Standing boiler with integrated burner
+Roof discharge funnel bottom outlet
+Flexible metal connecting hose
+Pre-expansion tank
+Accessories for electric two-way control valve
+Accessories for kitchen extraction box
+Insulation tray, CH plate changer
+Breather for transport pipe
+Façade louver
+Console for servomotor
+Electrically controlled two-way control valve
+One-piece bracket
+Room temperature sensor
+Toilet discharge sleeve
+Double-walled flue gas attachment, 2 connections
+Extension, urinal control unit
+Suspension eye, suspension strap
+Diverter tap
+Fire fighting valve
+Liquid flow sensor
+Ceiling temperature sensor active
+Outlet for sanitary taps
+Mounted transport wheel
+Cookerhood central exhaust system
+Wall plate mixing tap
+Outlet bend, rectangular air duct
+Membrane valve
+Stoma Washbasin
+Corner attachment, toilet support
+Slop sink
+Kitchen mixing tap
+Corner piece roof gutter
+Bracket piece, sleeveless cast iron
+Boarding sanitary double wall system
+Two way control valve
+Accessories for domestic control set
+Outdoor sensor relative humidity/ temperature
+Base plate for freely programmable controller
+Roof duct, round air duct
+Pipe duct
+Aluminium pipe
+Z-joint for mounting rail
+Shower tray
+Round air duct
+Washbasin column
+Piston valve
+Roof gutter bracket
+Foundation floor pin
+Group distributor housing
+Air curtain for cold application
+Room dew point sensor
+Bimetal steam trap
+T-piece rectangular air duct (90 degrees)
+Foot valve
+Washbasin element for construction wall
+Solar heater tank with collector
+Clamping strip, foundation bracket
+Knife gate valve
+Regulating valve
+Wind velocity sensor
+Cover plate, height-adjustment system
+Profile connection accessory sanitary
+Three-way screw valve
+Pressure differential sensor
+Check valve
+Glass brick
+Combined boiler with detachable burner
+Flat flange, round air duct
+Waste stopper for shower base
+Flanged sleeve, embedding duct
+Pull coupling for plastic tube
+Washbasin plug
+Aluminium laminate hose, uninsulated with spiral
+Pressure transmitter
+Accessories for air heaters
+Domestic control set
+Outlet intermediate piece roof gutter
+Rain water discharge cistern
+Bottle for soap dispenser
+Accessories for air curtain
+Wind direction sensor
+Free programmable controller
+Protective tube for plastic pipe system
+Pressure difference overflow controller
+Electrical accessories for pumps
+Bath shelf
+Shower curtain rail
+Accessories for boilers
+Rectangular side connection, embedding duct
+Accessories for butterfly valve
+Ventilation valve
+Duct temperature sensor active
+Rain cover
+Frost temperature sensor active
+Combined measuring and control valve
+Spring-loaded pressure relief valve
+Glass/soap holder
+Double wall/built-in element slop sink
+Duct temperature sensor
+Clamp strip coupling
+Room temperature sensor active
+Collection tray / dish
+Cover rosette, flue gas/air supply pipe
+Glass holder
+Boarding set for double wall/built-in element
+Thermostatic control valve, hot tap water
+T-Y-piece embedding duct
+Electric lifting system flushing reservoir
+U-joint for mounting rail
+Electric control flushing system
+Cover plate for vertical radiator base console
+Connecting element, carrying pipe section
+Adjusted toilet seat (disabled sanitary)
+Double-walled flue gas pipe
+Vacuum breaker for steam
+Spiral-wound flange gasket (DIN)
+Chimney support
+Duct sensor relative humidity/temperature
+Copper pipe
+Cabinet fan
+Shower hose
+Push-button surface-mounted flushing reservoir
+Chimney wind support
+Tap-raising ring
+Three way ball valve
+Display/operator panel
+Chimney renovation set
+Radiator valve pipe bend
+Flue gas wall duct
+Anemostat, rectangular front
+Tap rosette
+Combined preburner
+Pneumatic control flushing system
+Pressure difference controller
+Washbasin
+Roof boarding bracket
+Grid shoe for air duct
+Fire sleeve for pipe
+Thermodynamic stream trap
+Rail console set
+Aluminium laminate hose, insulated with spiral
+Mounting head, ribbed fixing strap
+Wash-tub
+Convector base
+Pipe rosette
+Clamping slide, foundation bracket
+Washbasin mirror element
+Thyristor power controller
+Mechanical toilet flusher
+Body shower (emergency shower)
+Accessories for control valve
+Sun sensor, active
+Accessories for universal suspension system
+Window temperature sensor
+Air-conditioning split system – single split, complete
+Air-conditioning split system – multi-split, complete
+Air-conditioning split system – inside unit (evaporator)
+Air-conditioning split system – single-split condensing unit, air-cooled
+Air-conditioning split system – multi-split condensing unit, air-cooled
+Air-conditioning split system – single-split condensing unit, water-cooled
+Universal suspension system
+Electronic toilet flusher
+Accessories for shower curtain
+Handle combination system, adapted sanitary fittings
+Inlet-/ drain set disabled sanitary
+V-snare
+Duct heater, electric
+Duct heater indirectly heated
+Accessories for duct heater
+Air-conditioning conduit set
+Accessories for airconditioning
+Mobile air-conditioner
+Window air-conditioner
+Accessories for ventilator
+Accessories for thermal pipe insulation
+Open CH distributor
+Bath
+System bath
+Accessories for emergency shower
+Shower column/panel
+Large kitchen mixing tap
+Large kitchen tap
+Parts for sanitary taps
+Tail pump
+Cooling unit for heat recovery unit
+Accessories for needle valve
+Bottom valve
+Toilet lift
+Accessories for toilet lift
+Hydraulic actuator for valve
+Conductivity sensor
+Chain wheel
+Line blind valve
+Humidifier (steam)
+Build-on set for valve
+Condensate pump steam operated
+Mica plate
+Pneumatic cylinder
+Blowdown controller
+Steam water mixer
+Mica flange gasket
+Steam injector
+Boiler connection element for heat recovery unit for single family house
+Concentrical connection set flue gas/air supply
+Accessories flue gas analyser
+Accessories for bottom valve
+Accessories for fire fighting valve
+Accessories steam trap
+Accessories pressure sensor
+Accessories pressurisation unit
+Accessories for liquids filter
+Accessories hydraulic actuator for valve
+Accessories for regulating valve
+Accessories for globe valve
+Accessories clamp coupling
+Accessories for ball valve
+Accessories for humidifier
+Accessories for solenoid valve
+Accessories for pressure gauge
+Accessories manifold valve
+Accessories liquid level sensor
+Accessories for level switch
+Accessories for air vent
+Accessories for fittings
+Accessories for gauge
+Accessories compressed air valve
+Accessories plate slide valve
+Accessories plug valve
+Accessories piston valve
+Accessories Pneumatic servomotor for valves
+Accessories for pressure reduction valve
+Accessories for gate valve
+Accessories blow-off valve
+Accessories for steam water mixer
+Accessories for thermometer
+Accessories for liquid flow meter
+Accessories float valve
+Accessories foot valve
+Accessories for storz coupling
+Accessories CH plate changer
+Accessories watertight switching
+Accessories worm gearbox for valves
+Accessories seal
+Accessories for condensate pump steam operated
+Accessories guillemin coupling
+Accessories for viewing-/checking device
+Accessories for line blind valve
+Accessories for safety device
+Grease box
+Vibration damper
+Hot tap water heater, directly fired with control system
+Bend pipe system for floor / wall
+Flexible metal connecting pipe (extractable)
+Pre-insulated plastic pipe
+Duct cooler cold water
+Pictogram Sanitary room
+Tile adhesive
+Tile profile
+Tile grout
+Shower heat (recovery) exchanger
+Accessories for pre-insulated plastic pipe
+Condensate water pump
+Accessories pressure difference overflow controller
+Shock buffer
+Vibration absorber mat
+Flue top
+Pass piece
+Bellowgasmeter
+Gas hearth / gas fire
+Shower drain
+Accessories for pressure switch
+Accessories dairy coupling
+Pressure-spring thermometer
+Grid for shower drain
+Dehumidifier
+Accessories for central gas heaters
+Lead replacement
+Accessories for heat exchanger
+Heat recovery T-Y-piece
+Water softener
+Screw mounting set
+Exhaust bowl for urinal
+Transition ring drainage
+Tube bundles heat exchanger
+Line drain gutter
+Accessories for Line drain gutter
+Flusher disinfector
+Ventilation pot
+Radiation panel indirectly heated
+zinc
+Lead
+Waste plug
+Bad inspection hatch
+Splash shield
+Gas fired air curtain
+Wall plate for outside tap
+Urinal screen
+Dome light
+Roof upstand for dome light
+Heat meter
+Cascade package
+Cunifer pipe
+Chalk separator
+Control unit expansion automat
+Pull support for flexible waste gas pipe
+Dispense valve for pipe mounting
+Leak sealant heating system
+Log fire
+Mounting frame wall-mounted gas heater
+Funnel overflow valve
+Textile air distribution system
+Floor heating insulation board
+Border insulation floor heating
+Capillary tube mat
+Accessories capillary tube matt
+Finishing panel heating/cooling
+Wall Bracket air conditioner
+Roof mounting bar outdoor unit airconditioning
+Plenum for airconditioning unit
+Watercooler
+Bituminous band
+Bituminous roof shingle
+Passive house unit
+Sewage inspection pit
+Duct cooler direct expansion (DX)
+Heat pump (water/water)
+Urinal cover
+Lubrication and maintenance medium
+Water puller
+Bidet seat
+Micro CHP boiler
+Module sanitary accessories
+Set sanitary accessories
+Tool trolley
+Insert ring for friction ratchet
+Friction ratchet
+Hook spanner
+Accessories for screwdrivers
+Accessories for momentum tools
+Screwdriver set
+Spanner set
+Pliers set
+Swivel head spanner
+Accessories for toolbox, chest, trolley and workbench
+Accessories for spanner
+Accessories for pliers and clamps
+Accessories for cutting tools
+Accessories for bending tools
+Accessories for flanging tools
+Chisel and drift punch set
+Fitting for momentum tools
+Hammerhead
+Handle for hammer
+Accessories for hammer, chisel and punch
+Puller for automotive
+Accessories for puller
+Puller set
+Pipe cleaning tool
+Stud screw wrench
+Multifunctional tool
+File set
+Countersink
+Countersink set
+Bolt extractor
+Drill set
+Electric diaphragm pump
+Feeler gauge
+Electrically controlled three-way control valve
+UV water purification filter
+Staple
+Plunge saw blade
+Cutter for milling machine
+Base station for portable gas detector
+Steel angle profile
+Hexagonal metal rod
+Round metal rod
+Rectangular metal rod
+Fire surround
+Battery
+Geotextile
+Concrete plate
+Infiltration unit
+Steel HP-profile
+Steel T-profile
+Aluminium T-profile
+Stainless steel T-profile
+Steel U-profile
+Aluminium U-profile
+Stainless steel U-profile
+Grease nipple
+Absorption grain
+Tyre lever
+Brake spring pliers
+Balance weight pliers
+Door spring plier
+Valve spring tool
+Piston ring plier
+Special grip pliers / connector pliers
+Offsetting pliers with punch
+Hose clip plier
+Saw set master plier
+Flanging pliers
+Pliers Wrench
+Plane
+Accessories for plane
+Scraper
+Manuel tacker
+Staple remover
+V-block
+Aluminium HP-profile
+Drill bit sharpening machine
+Sprinkler reamer
+Wrench with T-bar
+Grinding stone
+Burr
+Flap wheel
+Sanding block
+Oxide block
+Belt holder
+Grinding wheel dresser
+Accessories for grinding wheel dresser
+Steel wool
+Tire pressure gauge
+Accessories for tiles
+Window scraper
+Glass cutter
+Wall covering applicator
+Agitator (electric)
+Anvil
+Motor mechanics stethoscope
+Automotive special tool
+Concrete mixing machine
+Battery charger
+Display stand
+Jerrycan
+Accessories for jerrycan
+Measuring cup
+Stud (quarter turn fastener)
+Gear wheel
+Key (wedge)
+Knurled knob
+Cardan joint
+Fork joint
+Toggle clamp
+Accessories for toggle clamp
+Locking bar guide
+Locking bar for pawl latch
+Retaining spring
+Spring plate (quarter turn fastener)
+Receptacle clip (quarter turn fastener)
+Steel H/I-profile
+Bolt extractor set
+GMAW welding torch
+GTAW welding torch
+Accessories for welding equipment
+Accessories for handheld transceiver
+Burr set
+Spring plunger
+Saw-horse
+Multiple bar connector
+Tolerance compensator (quarter turn fastener)
+Assortment box fastening material
+Ball joint
+Ground coat
+Locker for keys
+Eye wash bottle
+Holder for eye wash bottle
+Accessories for personal protection
+Stainless steel angle profile
+Aluminium angle profile
+Locking strip insert tool
+Plastic string for rubber key glass carrier section
+Gear pump
+Heat pump (air/water) monobloc type
+Heat pump (air/water) split type
+Grease gun
+Fall arrest device
+Safety harness
+Throw line
+Accessories for fall protection
+Line clamp
+Safety hook for fall protection
+Fall protection set
+Protective cap
+Press jaw for push fittings
+Press chain for press jaw
+Personal protection set
+Accessories for gun
+Turnbuckle
+Lifting clamp
+Accessories for display stand
+Machine handle
+Accessories for grinding stone
+liquid ejector
+Filling nozzle
+Magnetic fuel filter
+Mist eliminator
+Accessories for furniture fastening system
+Pelican hook
+Wire netting
+Chain holder
+Carabiner
+Anti-spatter/chipping lens
+Mesh grating
+Protective sleeve
+Door stop
+Toilet shower
+Thread insert
+Bit for anti-theft screw
+Triangle
+Accessories for mesh grating
+Protective apron
+High-pressure washer
+Accessories for turnbuckle
+Securing strap/chain
+Accessories for pressure washer
+Accessories for television
+Gravel catcher roof discharge
+Welding filter
+Aerosol fire extinguishing unit
+Accessories for fire fighting
+Cabinet for fire extinguisher
+Cabinet for fire fighting equipment
+Combination battery charger/inverter
+Boat hook
+Buffer for toilet seat
+Bimetallic welding joint
+Capstan
+Ceiling hanger
+Accessories for crane
+Accessories for heat pump
+Filler/putty
+Lifting lug
+Protection cap plastic drain pipe
+Storage box
+Aluminium Z-profile
+Accessories for bearing
+Sounding tape
+Mop
+Aluminium I-profile
+Flame arrestor
+Bin bag
+Grid for convector
+Lead frame air duct
+Storage tank
+Accessories pressure expansion vessel
+Accessories automatic expansion unit
+Gas sensor automatic expansion unit
+Floor stand for storage tank
+Mounting wrench
+District heating unit
+Accessories for shower drain
+Accessories bathroom accessories
+Shower floor support
+Spare parts for pumps
+Load safety net
+Half-round metal rod
+Half-round plastic rod
+Spare parts and accessories for gas hearth / gas fire
+Orifice

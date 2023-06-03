@@ -1,0 +1,20 @@
+{
+  "name": "access",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepl": "^1.0.13",
+    "node-adodb": "^5.0.3",
+    "node-deepl": "^1.0.0",
+    "progress": "^2.0.3",
+    "puppeteer": "^20.5.0",
+    "selenium-webdriver": "^4.9.2",
+    "sqlite3": "^5.1.6"
+  }
+}
