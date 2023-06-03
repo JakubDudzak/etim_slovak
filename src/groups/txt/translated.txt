@@ -1,0 +1,137 @@
+Káble
+Inštalačné rúry/ochranné rúrky pre káble
+Ochranné hadicové systémy
+Systémy na prenášanie káblov
+Podlahové systémy
+Inštalačné kanály pre steny a stropy
+Systém drážkovaných káblových kanálov
+Systémy inštalačných stĺpov
+Systémy na zavedenie káblov a vodičov
+Inštalačný materiál pre káble a rúrky
+Skrinky na rozvodné skrine
+Svorkovnice
+Domáce spínacie zariadenia
+Priemyselné zásuvky/zástrčky
+Energetické distribučné systémy
+Nízkonapäťové priemyselné komponenty
+Relé
+Ističe a poistky
+Uzemnenie, ochrana pred bleskom a prepätím
+Meracie panely
+Rozvádzače
+PLC
+Senzory
+Svietidlá
+Svietidlá
+Ovládanie svetla
+Príslušenstvo pre osvetlenie
+Systémy inštalačných zberníc
+Anténna a satelitná technika
+Pohony brán, čerpadiel a ventilátorov
+Optické a akustické signalizačné zariadenia
+Komunikačná technika
+Dátová a telekomunikačná technika
+Telekomunikačné zariadenia/kancelárske zariadenia
+Veľké domáce spotrebiče
+Malé domáce spotrebiče
+Spotrebná elektronika
+Zariadenia na prípravu teplej vody
+Vykurovanie obytných priestorov
+Meracie prístroje a testery
+Merače
+Ochranný materiál a pracovné odevy
+Inštalačný, izolačný a spojovací materiál
+Pripojovacie zariadenia
+Spojovací materiál
+Ručné náradie
+Elektrické náradie
+Nástroje (lisovacie, rezacie a izolačné)
+Batérie, nabíjačky a napájacie káble
+Alarmové zariadenia, núdzové volanie a signalizácia
+Obnoviteľné zdroje energie
+Systémy požiarnej ochrany
+Zásuvné inštalačné systémy budov
+Konektory
+Bezpečnostné zariadenia
+Pomocný materiál
+Spájkovacie a zváracie zariadenia
+Zariadenia na rozvodnú dosku/povrchovú montáž
+Spotrebné nástroje
+Pomocné nástroje
+Zdvíhacie zariadenia
+Pracovné zariadenia
+Ubytovacie/skladovacie priestory
+Skúšobné zariadenia
+Výrobky iných odvetví
+Námorné výrobky
+Žľaby/nádržky
+Skladovacie nádrže/plavidlá
+Odtoky
+Filtre/separátory
+Úprava vzduchu
+Kotly a ohrievače
+Výmenníky tepla
+Chladiace systémy
+Jednotky na prívod/odvod vzduchu
+Zvyšovanie/znižovanie tlaku
+Náhradné diely pre kotly a ohrievače
+Distribútory/zberače
+Distribútori
+Hadice a skrinky
+Hadicové spojky
+Potrubia
+Spojky, príruby a konektory
+Potrubie a rúry na odvod spalín a vzduchu
+Príslušenstvo pre spaliny a vzduch
+Kompenzátory a expanzné kusy
+Kryty, poklopy a odsávače pár
+Ventily/odbočky/regulátory
+Náhradné diely pre príslušenstvo
+Vzduchové (regulačné) ventily a protipožiarne ventily
+Príslušenstvo pre ventily a žeriavy
+Radiátory/konvektory
+Meracie a regulačné zariadenia
+Elektrické a pneumatické snímače
+Meracie prístroje (záznam/registrácia)
+Štatistiky, spínače a regulátory
+Ovládacie prvky na spracovanie signálov
+Príslušenstvo pre meracie a regulačné zariadenia
+Náhradné diely pre meracie a regulačné prístroje
+Tesnenia
+Keramika a kolesá
+Technické syntetické materiály
+Zariadenia na príjem (odpadových) vôd
+Splachovacie nádrže
+Montážne rámy pre prijímacie zariadenia/ kohútiky
+Náhradné diely pre splachovacie systémy
+Kúpeľňové a umývadlové príslušenstvo/komplety
+Prívodné a odtokové armatúry
+Sanitárne batérie
+Náhradné diely pre sanitárne batérie
+Príslušenstvo pre sanitárne batérie
+Sanitárne sprchy
+Príslušenstvo pre sanitárne zariadenia
+Sanitárne priečky a kabíny
+Nábytok
+Stavebné systémy pre umyvárne
+Tepelná izolácia
+Tlmiče hluku
+Tlmiče vibrácií
+Upevnenie radiátorov
+Obklady
+Strešné materiály
+Profily
+Plechový materiál
+Tyčový, pásový, drôtený materiál
+Priechodné kanály na stenu/strechu
+Technické plyny
+Hnacie remene
+Továrenské zariadenia
+Vysokonapäťové rozvody
+Príslušenstvo pre elektrické náradie
+Stavebníctvo - dokončovacie materiály
+Stavebníctvo - Upevňovací materiál a náradie (vrátane spotrebného materiálu)
+Stavebníctvo - konštrukčná oceľ a profily
+Stavebníctvo - chemické výrobky
+Stavebníctvo - stavebná infraštruktúra
+Stavebníctvo - izolačný materiál

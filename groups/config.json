@@ -1,8 +1,0 @@
-{
-  "databasePath": "../db.mdb",
-  "translatedFile": "translated2.txt",
-  "originalFile": "original2.txt",
-  "inputFile": "both.txt",
-  "propertyName": "GROUPDESC",
-  "tableName": "ETIMARTGROUP"
-}

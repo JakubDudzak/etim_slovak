@@ -1,0 +1,4273 @@
+Terminál zbernice
+Prúdový chránič (RCCB)
+Koncová objímka kábla
+Krycia doska pre inštalačné jednotky
+Krycí rám pre domáce spínacie zariadenia
+Odbočovacia jednotka pre prípojnicové vedenie
+Kladivová kotva
+Kombinácia stýkačov
+Ovládací prvok/krycia doska pre domáce spínacie zariadenia
+Systém drážkovaných káblových priechodiek
+Základná doska na zapustenú montáž
+Žiarovka v tvare trubice
+Nevýbušná zásuvka CEE
+Nevýbušná zásuvka/spojka CEE
+Vložka/kryt pre komunikačnú techniku
+Koaxiálny kábel
+Kombinovaný vypínač/zásuvka
+Konzola pre káblový nosný systém
+Kryt pre nástenný kanál/Inštalačný stĺp
+Inštalačná krabica pre podlahovú inštaláciu
+Stmievač
+Nízkonapäťový HRC pevný článok
+Závitová tyč
+Tlačidlo spínača
+Koncový spínač
+Zástrčka pre káblovú skrutkovú vývodku
+Inštalačný popruh
+Optický kábel
+Miniatúrna poistka
+Držiak miniatúrnej poistky
+Halogénová halogenidová výbojka bez reflektora
+Vysokonapäťová halogénová žiarovka
+Upevnenie v dutine
+Blok pomocných kontaktov
+Miniatúrny istič (MCB)
+Žalúziový spínač/tlačidlo
+Žiarovka v tvare sviečky
+Káblové viazanie
+Káblový žľab/širokorozponový káblový žľab
+Kotviaca skrutka
+Reťaz
+Žiarovka v tvare gule
+Spojka pre soklovú lištu
+Žiarovka s kruhovou hlavou
+Nízkonapäťová poistka HRC
+Rtuťová výbojka
+Prázdna skrinka
+Inštalačný kanál
+Kryt pre svetelnú signalizačnú jednotku
+Svetelný stĺp
+Svietidlo pre ulice a miesta
+Informačná svetelná signalizácia pre domáce spínacie zariadenia
+Kábel reproduktora
+Výkonový stýkač, spínanie striedavého prúdu
+Nízkonapäťová poistková základňa HRC
+Meterová doska
+Multimeter
+Mikrofón
+Montážny systém pre prípojnicový kmeň
+Spojovacia skrinka pre stenový kanál
+Ochranný istič motora
+Zásuvkové (nočné) svetlo
+Žiarovka štandardného tvaru
+Skrinka spotrebiča pre lištový kanál
+Povrchový kryt pre spínacie zariadenie namontované pod omietku
+Stropný profil pre káblový nosný systém
+Prechodový krycí profil pre inštalačný kanál
+Objímka pre zhutnený vodič
+Skrutkový adaptér systému D
+Zásuvka Perilex
+Kompaktná žiarivka bez integrovaného predradníka
+Kompletný svahový kanál
+Univerzálna zástrčka
+Zásuvka na vyrovnávanie potenciálu
+Prípojnicová kmeňová jednotka
+Skrutkovací hák
+Skrutkovací uzáver systému D
+Podstavec poistky systému D
+T-matica pre kanály
+Hammerfix
+Podložka
+D-systémová poistková vložka
+Poistkový kryt
+Svetelná stopa
+Žiarovka s reflektorom
+Klinec
+Bezdrôtový telefón
+Tepelné relé preťaženia
+Časovač pre domáce spínacie zariadenia
+Žiarivka
+Svietidlo s lištou
+Prepínač upevnenia
+Spojovacia krabica pre inštalačný kanál
+Spojovacia krabica pre podlahovú inštaláciu
+Vyrovnávací krúžok na omietku
+HiFi zosilňovač
+Podlahový inštalačný kanál pokrytý poterom
+Montážna krabica
+Na podstavci podlahového kanála
+Povrchová nádrž prázdna
+Napájacia jednotka pre zbernicový kmeň
+Zásuvka
+Sedlo
+Lepiaca páska
+Šesťhranná matica
+Signálny klaksón
+Zvonček
+Zvonček
+Snímač pohybu kompletný
+Spínač nízkeho napätia pre zvonček
+Tlačidlo nemocničného volania (závesné)
+Držiak lampy pre zvonček
+Motorová siréna
+Snímací prvok pre snímač pohybu
+Zástrčka CEE
+Označovací materiál pre domáce spínacie zariadenia
+Káblové nožnice
+Pravidlo na skladanie
+Krížový skrutkovač
+Vodováha
+Dláto
+Nôž na rúry
+Súprava náradia
+Kefa
+Zariadenie na kreslenie kriedou
+Tmeliaci nôž/špachtľa
+Nádoba na sadru
+Kľúč na poistné skrutky
+Nôž
+Dierovač
+Posuvné meradlo
+Skrutkovač na skrutky s drážkovou hlavou
+Šidlo na pichanie
+Nožnice
+Kladivo
+Krokový vrták
+Nástroj na odizolovanie káblov
+Kliešte na vodné čerpadlo
+Bočný rezač
+Dierovacie kliešte
+Systém na vyťahovanie káblov
+Krimpovací nástroj káblové koncovky, koncové objímky káblov, pripojenie sita
+Ručná píla
+Šabľová píla (elektrická)
+Rezací kotúč
+Nástrčný kľúč
+Kľúč na skrine/skrinky
+Škrabka (elektrická)
+Stenový sekáč (elektrický)
+Skrinka/kufor na náradie
+Pinzeta
+Elektrická spájkovačka
+Spájkovací hrot
+Spájkovací drôt
+Zásuvka na žiletku
+Značkovač
+Zapínacie relé
+Súmrakový spínač
+Čelná doska pre stenový kanál
+Navijak kábla
+Pamäťová karta PLC
+Dekoračný prvok pre domáce spínacie zariadenia
+Optické/akustické signalizačné zariadenie
+Stýkačové relé
+Ochrana proti prepätiu
+Modul zosilňovača pre stýkač
+Osvetľovacia vložka pre domáce spínacie zariadenia
+Kryt pre zariadenia riadiacich obvodov
+Zabudovaný panel pre zariadenia riadiacich obvodov
+Ochranný kryt pre tlačidlo kontaktného prvku
+Lampový transformátor pre zariadenia ovládacích obvodov
+Blok držiaka svetelného zdroja pre zariadenia riadiacich obvodov
+Inteligentný ovládací prvok
+Rozprašovač
+Protipožiarna ochranná zmes/viazač/pena/tesnenie
+Protipožiarna prepážka
+Vývodová doska pre malé rozvádzače/rozvodné skrine
+Montážna doska pre rozvádzač
+Malá rozvodná doska
+Fázová prípojnica
+Odpojovač spínačov
+Zmršťovacia hadička
+Zmršťovacia koncovka
+Opravné tesnenie
+Stenový kanál pre kábel
+Predný prvok pre tlačidlo
+Predný prvok pre prepínač
+Predný prvok pre kontrolku
+7 segmentový LED ovládač
+Kombinácia zariadení riadiacich obvodov v kryte
+Výkonový istič na ochranu trafo/generátora/inštalácie
+Rukoväť pre výkonový istič
+Spojovacia rukoväť dverí pre rozvádzač
+Kompletný nožný/palcový spínač
+Optický modul pre signalizačnú vežu
+Prázdny kryt pre závesnú riadiacu stanicu
+Závesná ovládacia stanica
+Zvýšenie výkonu
+Modul CPU PLC
+Pripojovací kábel PLC
+Modul simulácie PLC
+Obmedzovač prúdu
+Káblový vstup
+Ochranný kryt systému D
+Zástrčka s ochranným kontaktom
+Tlakový spínač
+Svorka na rozpätie vodičov
+Zásobník káblov
+Sada otočných koliesok pre zásobník káblov
+Špirálový kábel
+Nevybavená skrinka na merače
+Skriňa odpojovača ochranného spínača
+Kryt ochranného krytu kábla
+Káblové ochranné rúry pre podzemné aplikácie
+Regulátor rýchlosti
+Vysielač/diaľkové ovládanie pre domáce spínacie zariadenia
+Nízkonapäťová halogénová reflektorová žiarovka
+Nízkonapäťová halogénová žiarovka bez reflektora
+Štartér pre osvetlenie
+Skriňa/rozvádzač (prázdna)
+Vybavená skrinka s meracím prístrojom
+Panel meračov
+Panel pre rozvádzač
+Vysokonapäťová halogénová reflektorová žiarovka
+Ventilačné zariadenie
+Skrinka na vstup káblov
+Skrinka na pripojenie káblov pre vstupnú skrinku
+Zástrčkový model miniatúrneho ističa (MCB)
+Kontrolka kompletná
+Káblový strom
+Pripojovací káblový strom pre rozvádzače
+Koľajnicová svorkovnica
+Rozvodná svorkovnica
+D0-systémový odpojovač
+D0-systémové adaptérové puzdro
+D-systémový kruhový adaptér
+Systém Tubelight
+Podporný profil systému svetelnej linky
+Časovač osvetlenia schodiska
+Podlahové svietidlo
+Svietidlový stĺpik
+Stolové svietidlo
+Meracie/testovacie zariadenie pre komunikačnú techniku
+Slaboprúdový konektor
+Modul pre aktívny sieťový komponent/sieťovú jednotku
+Prevodník rozhrania
+Konektor telefónu/modemu
+Dátový prepínač
+Adaptér komunikačnej techniky
+Držiak dokumentov (rozvádzačová skriňa)
+Ventilátor (rozvádzačová skriňa)
+Svietidlo (rozvodná skriňa)
+Vedenie káblov pre skrine/rozvádzače
+Zámkový systém pre systémy rozvádzačových skríň
+Uzemňovacia lišta pre rozvádzače
+Viacnásobná zásuvka
+Ventilačná doska (rozvádzačová skriňa)
+Hodiny
+Vykurovací kábel
+Vykurovací kábel dokončovacej súpravy
+Predajný automat
+Monitor maximálneho odberu pre rozvádzač
+Motor garážovej brány
+Motor remeňa
+Motor namontovaný na rúrke
+Svietidlo na osvetlenie staveniska
+Ručné svietidlo
+Svietidlo pre stroje a pracovné stoly
+Funkčný modul pre komunikáciu s dverami
+Montážny rám pre dverovú stanicu
+Systémový telefón
+Montážny rám pre domovú stanicu
+Dverová stanica dverová komunikácia
+Batéria (nie nabíjateľná)
+Nabíjateľná batéria
+Univerzálna nabíjačka
+Štítok s číslom/textom pre svietidlo s číslom domu
+Spona na klince
+Skrutková kotva
+Dierovač
+Elektrický otvárač dverí
+Svorka na rúrky
+Vedenie kábla
+Telekomunikačná svorkovnica
+Montážna krabica LSA-Plus
+Príslušenstvo pre telekomunikačnú techniku
+Rozvádzač pre telekomunikačnú techniku
+Telefónny systém
+Montážna doska pre pripojovaciu skrinku optických vlákien
+Kombinácia zásuviek CEE
+Prístroj na meranie svoriek
+Zvodič bleskových prúdov pre napájacie systémy
+UPS
+Špeciálny nástroj pre telekomunikačnú techniku
+Nosná/profilová lišta
+Oddeľovacia doska pre povrchovú nádrž
+Prídavný ohrev
+Jednotka na varnú vodu
+Prietokový ohrievač vody
+Tepelné čerpadlo na teplú vodu
+Zásobníkový ohrievač
+Súprava vykurovacích prvkov pre zásobníkový ohrievač
+Kryt zásobníkového ohrievača
+Distribučná svorka pre transformátor
+Indikačné a signalizačné svietidlo
+Súprava dverovej stanice
+Držiak svietidla
+Vykurovacia rohož
+Tepelná izolácia
+Batéria pre mobilný a bezdrôtový telefón
+Posilňovač
+Ovládač nabíjania
+Merač luxov
+Vstavané svietidlo do inštalačnej krabice
+Píla na otvory
+Pozemná anténa
+Hlavná koncová stanica
+Kompaktná hlavová koncová stanica
+Modul pre hlavovú koncovú stanicu
+Diplexer/filter
+Odbočka a distribútor
+Multiprepínač pre komunikačnú technológiu
+CATV-zosilňovač
+Prijímač
+Napájací systém/LNB
+Satelitná anténa
+Ohrievač s rebrovanými rúrkami
+Čerpacia šachta - kontajner
+Skrinka pre zvonček na zabudovanie
+Nastavovač hladiny
+Anténny stĺp
+Držiak antény
+Snímač slnka/súmraku pre pohon rolety
+Rádiový prijímač
+Kryt pre obdĺžnikové konektory
+Kontaktná vložka pre obdĺžnikové konektory
+Zásuvka pre anténu
+Satelitná súprava
+Káblové vývodky
+Zabudovaný spínač a tlačidlo zariadenia
+Vložka pre detskú ochranu
+Šnúrový spínač/stmievač
+Svorka bez skrutky
+Svorka pre svietidlo
+Svorka rezistora
+Montážna základňa a prvok pre káblové pásky
+Skrinka na pripojenie spotrebiča
+Svorka na utesnenie káblovej zástrčky
+Ochranná zástrčka motora
+Nástroj na viazanie káblov
+Jednodielna rozperná svorka
+Škrupina pre káblovú svorku
+Predná doska (rozvádzačová skriňa)
+Konektor pre svietidlo
+Krycia doska pre inštalačný stĺp
+Perilexová zástrčka
+Upevňovacia svorka
+Teplom zmrštiteľné lisovacie spojenie
+Balun
+S-Hook
+Spojovací článok reťaze
+Svetelný systém optického kábla
+Núdzová jednotka pre svietidlo
+Základný prvok pre zariadenie na ochranu pred prepätím
+Záves pre trapézový strop
+Skrutková svorka
+Koncová krytka/kryt pre nosnú/profilovú lištu
+Listová schránka
+Piktogram pre núdzové svietidlo
+Orientačné svietidlo
+Montážny prvok pre nosnú/profilovú lištu
+Spojka pre nosnú/profilovú lištu
+Rozdeľovač energie pre stavenisko
+Neutrálna prípojnica
+Elektrická jednotka pre výbojku
+Osemhranný oceľový hriadeľ pre trubkový motor
+Krížová spojka pre svorkovnicu
+Príslušenstvo pre uzemnenie a bleskozvod
+Svorka uzemňovacej svorky
+Uzemňovacia tyč/profilová uzemňovacia tyč
+Svorka uzemňovacej rúrky
+Skúšačka napätia
+Skúšačka kontinuity
+Lokátor/triedič potrubí a káblov
+DIN VDE 0100 viacúčelový
+DIN VDE 0701 viacúčelový
+Skúšačka izolácie
+Merač dĺžky kábla
+Softvér na správu siete
+Svetelný/energetický stĺp
+Žiarovka v tvare gule
+Okrúhly vodič/drôt na ochranu pred bleskom
+Vzduchové koncové zariadenie na ochranu pred bleskom
+Zvodová uzemňovacia tyč na ochranu pred bleskom
+Držiak strešného vodiča na ochranu pred bleskom
+Držiak vodiča na ochranu pred bleskom
+Držiak tyče na ochranu pred bleskom
+Ochranné/izolačné iskrovisko na ochranu pred bleskom
+Uzemňovacia svorka na ochranu pred bleskom
+Odpojovacia svorka na ochranu pred bleskom
+Pripojovacia svorka na ochranu pred bleskom
+Konektor na ochranu pred bleskom
+Sieťový adaptér
+Okrúhla alebo plochá zástrčka/zásuvka
+Svorkovnica pre ochrannú hadicu
+Spínač odolný proti výbuchu
+Konvektor (elektrický)
+Montážna krabica na inštalačný a spojovací materiál
+Satelitný zosilňovač
+Pozemný zosilňovač
+Uzemňovacia doska
+Lepidlo
+Rozpúšťadlo
+Ventilátor
+Komponent systému riadenia osvetlenia
+Automatický regulátor pre systém riadenia osvetlenia
+Vykurovací žiarič
+Držiak kábla
+Kotúč na klince
+Prístroj na meranie krvného tlaku
+Masážny prístroj
+Parný čistič
+Vysávač
+Vysávač s dúchadlom (elektrický)
+Vrecková kalkulačka
+Zariadenie na opaľovanie
+Sušič vlasov/prípravok na úpravu vlasov
+Žehlička na vlasy
+Zvislý káblový rebrík
+Holiaci strojček
+Zariadenie na starostlivosť o telo
+Zastrihávač vlasov
+Nástenný sušič vlasov
+Osobná váha
+Elektrická prikrývka/poduška/ohrievač nôh
+Klinický teplomer
+Prístroj na starostlivosť o ústnu dutinu
+Univerzálny vysávač
+Mixér/mixér
+Otvárač na konzervy
+Ostrúhač nožov
+Ohrievač detskej stravy
+Kuchynská váha
+Stroj na krájanie
+Elektrický nôž
+Sušička potravín
+Vyžmýkač/odšťavovač
+Výrobník zmrzliny
+Sekáčik
+Kuchynský stroj
+Vákuová zváračka
+Súprava Raclette
+Gril
+Fondue/wok
+Kotol na vajcia
+Espresso stroj
+Parná rúra
+Jogurtovač
+Kuchynský časovač
+Stolová rúra na pečenie/gril
+Ponorný ohrievač (elektrický)
+Ohrievacia miska
+Mlynček na kávu
+Automatický konzervačný varič
+Varič na vodu
+Hriankovač
+Fritéza
+Vaflovač
+Rotačná žehlička
+Sauna na tvár
+Radiátor (elektrický)
+Stroj na pečenie chleba
+Sterilizátor
+Budík
+Kávovar
+Napájanie systému PLC
+Tester svetelných zdrojov
+Prístroj na meranie teploty a klímy
+Dátová lišta pre zbernicový systém
+Spojka dátovej koľajnice pre zbernicový systém
+Zvlhčovač vzduchu/osviežovač vzduchu
+Epilátor
+Etiketovacia páska
+Leštička
+Zariadenie na výrobu štítkov
+Rýchloschnúci cement/náplasť
+Oddeľovacia cievka na vnútornú ochranu pred bleskom
+Ovládacia jednotka žalúzií
+Obehnutý rebrík
+Vypínací blok pre výkonový istič
+Mlynček na mäso
+Dláta na tupo
+Skriňa so sortimentom skrutiek
+Tabuľka s legendou pre zariadenia riadiacich obvodov
+Lepiaca tyčinka pre lepiacu pištoľ
+Textová tabuľka pre zariadenia riadiacich obvodov
+Auto audio
+Chladnička
+Kombinovaná chladnička s mrazničkou
+Mraznička
+Súprava natáčok
+Ovládací spínač, joystick
+Umývačka riadu
+Spojka zbernice pre zbernicový systém
+Pripojovacia/odbočná svorka pre zbernicový systém
+Elektronická vložka pre domáce spínacie zariadenia
+Žehliaci stôl
+Pračka
+Sušička bielizne
+Softštartér
+Merací laser
+Odpovedací stroj
+Fax
+Prenosný CD prehrávač
+CD prehrávač/rekordér
+Rádio
+Rádiomagnetofón
+Reproduktor do auta
+Reproduktorová skrinka
+Diktafón
+Videokamera
+Odsávač pár
+Sušička bielizne
+Príslušenstvo pre odsávač pár
+Mikrovlnná rúra
+Sporák
+Slúchadlá
+Varná doska
+Výmena varnej dosky
+HiFi/TV nábytok
+Audio mixér
+HiFi prijímač
+HiFi tuner
+Prúdový zberač
+Dotykový snímač pre zbernicový systém
+Plošný/linkový spojovač pre zbernicový systém
+Rozhranie pre zbernicový systém
+Napájanie pre zbernicový systém
+Logický komponent pre zbernicový systém
+Displej pre zbernicový systém
+Diaľkové ovládanie
+Zariadenie na výrobu popcornu
+DVD prehrávač/rekordér
+HiFi súprava
+Súprava reproduktorov
+Modul prepäťovej ochrany
+Prehrávač gramofónových platní
+Binárny vstup pre zbernicový systém
+Časový spínač pre zbernicový systém
+Videoprojektor
+Zariadenie na odpudzovanie hmyzu
+Vykurovacie teleso (rúra na pečenie)
+Mini kuchyňa
+Ručný reflektor
+Lampa do vozidla
+Opakovač pre autobusový systém
+Centrálne zariadenie pre zbernicový systém
+Pásmový tlmič/dúchadlo pre zbernicový systém
+Otvárač okien
+Komunikačný stĺpik
+Jadrový vrták
+Súprava meracích prístrojov
+Konzola pre stenový kanál
+Chladiaci/mraziaci box, prenosný
+Zásuvka pre poštovú schránku
+Štvorhranná matica
+Prázdna skriňa pre rozvádzač
+Spojka prípojnice
+Zástrčka pre telekomunikačnú svorkovnicu
+Vodič pre pripojovaciu lištu LSA
+Označovacia krytka pre pripojovacie lišty
+Označovacia doska pre telekomunikačné svorkovnice
+Základňa/základný prvok (rozvádzačová skriňa)
+Podlahový inštalačný kanál
+Prachový štít pre zástrčkové prípojky
+Čistiaca kazeta/CD
+Koncová doska pre štrbinový systém káblových rozvodov
+Kryt pre systém štrbinových káblových rozvodov
+Kryt inštalačného kanála
+Vypúšťacia rúrka pre zásobník prepäťovej ochrany
+Sieťový rozbočovač
+Sieťový opakovač
+Sieťový prepínač
+Tlačový server
+Analógové pamäťové médium
+Vykurovanie (rozvodná skriňa)
+Modem
+Vložka pre uzamykací systém
+Horný/podlahový krycí prvok (skriňa/rozvádzačová skriňa)
+Dvere/obslužný panel (rozvádzačová skriňa)
+Pigtail
+Vertikálny ohyb pre systémy inštalačných kanálov pod podlahou
+Spojka pre podlahové inštalačné potrubie
+Indukčná lampa
+Spojka optických vlákien
+Rozdeľovač optických vlákien
+Kotviace puzdro
+Softvér pre zbernicový systém
+Svietidlo v zemi
+Držiak spojky
+Fréza na otvory pre plasty
+Označovanie svorkovnice
+Kazeta na spoje
+Ekvalizér linky (technológia prijímača)
+Kódovanie pre techniku dátovej komunikácie
+Multiplexor
+Modul pre telefónny systém
+Oddeľovacia doska pre meracie/rozdeľovacie dosky
+Krycia lišta (modulárna) pre meracie/rozdeľovacie dosky
+Hlavné hodiny
+Nevýbušný ručný reflektor
+Sortiment miniatúrnych poistiek
+Kryt pre rozvádzač
+Panvica
+Detská fľaša
+ISDN telefón so šnúrou
+Vnútorná stanica na komunikáciu s dverami
+Tesnenie pre hadicovú skrutkovú prípojku
+Jednotka kontroly prístupu pre zbernicový systém
+Signalizačný a ovládací panel pre zbernicový systém
+Stolový systém (rozvádzačová skriňa)
+Prípojka pre stenový kanál
+Kryt pre soklový kanál
+Slúchadlo pre bezdrôtový telefón
+Nabíjačka pre bezdrôtový telefón
+Slúchadlá
+Modul ovládača pre zbernicový systém
+Pohon pre zbernicový systém
+Analógový vstup pre zbernicový systém
+Rozširujúci modul pre inštalačný stĺp
+Kontakt pre priemyselné konektory
+USB-Hub
+Testovací kolík
+Držiak skrutkovej vývodky
+Krycia lišta pre stenový kanál
+Skrutkovač Torx
+Audio/video modulátor
+Rašple
+Navigačný systém
+Prenosný MP3 prehrávač
+Programovací a technický softvér
+Stojan na montáž PLC
+Elektrický požiarny komín
+Stropná vykurovacia fólia
+Vykurovanie z prírodného kameňa
+Závitové puzdro
+Automobilová anténa
+Prístupový bod WLAN
+Sieťový adaptér WLAN
+Šesťhranný kľúč
+Kompaktná žiarivka s integrovaným predradníkom
+Dopravná signalizačná lampa
+Vysokotlaková sodíková výbojka
+Nízkotlaková sodíková výbojka
+Halogénová halogenidová výbojka s reflektorom
+Ploché kliešte
+Okrúhle kliešte
+Telefónne kliešte
+Kombinované kliešte
+Napájací kábel >= 1 kV, pre pohyblivé aplikácie
+Termočlánkový kábel
+Opletený drôt
+Kľúč na rúrky
+Alarmový signál
+Bzučiak
+Vonkajší roh pre soklový kanál
+Koncový diel pre soklový kanál
+Vnútorný roh pre soklový kanál
+Plochý ohyb pre soklový kanál
+Sieťový káblový žľab
+Káblový rebrík/širokorozponový káblový rebrík
+Klimatizácia (rozvodná skriňa)
+Rohový prídavný diel pre káblový rebrík
+Rohová doska pre káblový rebrík
+Výsuvná doska pre káblový rebrík
+Rohový prídavný diel pre káblový žľab
+Vnútorný roh pre inštalačný kanál
+Vonkajší roh pre inštalačný kanál
+Plochý ohyb pre inštalačný kanál
+Tužka pre inštalačný kanál
+Koncový uzáver pre inštalačný kanál
+Vnútorný roh pre stenové potrubie
+Vonkajší roh pre stenové potrubie
+Koncový diel pre stenové potrubie
+Spojovacia spona pre stenový kanál
+Plochý ohyb pre stenový kanál
+Kryt pre plochý ohyb stenového kanála
+Krížový diel pre stenový kanál
+Objímka na vstup kábla
+Tesnenie
+Tesniaci drôt
+Nosné rameno profilu
+Prípojka pre nosné rameno
+Skrutka s okom
+Koncová doska a deliaca doska pre svorkovnicu
+Strojová skrutka
+Skrutka do dreva
+Závitová skrutka
+Závitorezná skrutka
+Servisná skrinka pre podlahovú inštaláciu
+Kryt pre podlahový inštalačný kanál otvorený
+Vybavená povrchová nádrž
+Stropná konzola pre káblový nosný systém
+Priechodná svorkovnica
+Indikačná svorkovnica
+Poistková svorkovnica
+Svorkovnica snímača/akčného člena
+Uzemňovacia svorkovnica
+(nožová) rozpojovacia svorkovnica
+Svorkovnica komponentov
+Svorkovnica tepelného páru
+Vypínač zemného zvodu
+90° pripojenie káblového rebríka ku káblovému rebríku
+Bočný profil pre vertikálny káblový rebrík
+Spodná koncová doska pre káblový žľab
+Akustická priečka pre stenový kanál
+Koncová svorka
+Prepínač voltmetra
+Prepínač ampérmetra
+Ovládací hriadeľ spínača
+Fyzikálny snímač pre zbernicový systém
+Snímač jasu pre zbernicový systém
+Infračervený prijímač
+Ohyb pre inštalačné rúrky
+Svorkové puzdro pre inštalačné rúrky
+Zväčšovací/zmenšovací krúžok
+Spojka pre inštalačné rúrky
+Zaisťovacia matica pre káblovú skrutkovú priechodku
+Zariadenie na ochranu proti prepätiu pre napájacie systémy
+Zariadenie na ochranu proti prepätiu pre koncové zariadenia
+Zariadenie na ochranu proti prepätiu pre dátové siete/MCR-technológiu
+Vrták
+Nevýbušné núdzové a bezpečnostné svietidlo
+Elektrická jednotka pre systém svetelného vedenia
+Svietidlo
+Vrecková baterka odolná proti výbuchu
+Ručné svietidlo odolné proti výbuchu
+Modul LED
+Oddeľovacia doska pre káblový nosný systém
+Montážna svorka pre oddeľovaciu dosku káblového nosného systému
+Svorka pre krycí káblový nosný systém
+Nástenná a stropná konzola pre systém na uchytenie káblov
+Montážna doska pre káblový nosný systém
+Montážny materiál pre káblový nosný systém
+Prídavný tŕň pre káblový žľab
+Redukcia pre káblový žľab
+Oddeľovacia doska pre stenový kanál
+Prídavné odbočky pre káblový rebrík
+Redukčný diel pre káblový rebrík
+Kryt pre vonkajší rohový stenový kanál
+Oddeľovacia doska pre inštalačný kanál v jednej rovine s podlahou
+Koncový diel pre inštalačný kanál pod podlahou
+Oddeľovacia doska pre inštalačný kanál
+Spojka pre inštalačný kanál
+Krížový diel pre inštalačný kanál
+Drôtová svorka pre štrbinový systém káblových žľabov
+Jednoduchá LED dióda
+Adaptér pre zariadenia riadiaceho obvodu
+Zvyškový prúdový spúšťač pre výkonový istič
+Podpäťová cievka
+Spúšťač bočného prúdu (pre istič výkonového obvodu)
+Adaptér na DIN lištu
+Indikátor vypnutia
+Akustický indikátor
+Potenciometer pre zariadenia riadiacich obvodov
+Tlačidlo, kompletné
+Prepínač, kompletný
+Motorový ovládač pre výkonový istič
+Elektronický kryt
+Držiak textovej tabuľky pre zariadenia riadiacich obvodov
+Fázová spojka pre zbernicový systém
+Základný prvok snímača pohybu
+Trojstupňový spínač
+Kombinácia spúšťač motora/spúšťač motora
+Predný prvok pre hríbové tlačidlo
+Odpojovač poistiek
+Koncová konzola pre svorkovnicu
+Kompletná signalizačná veža
+Cievka pre relé
+Mechanické blokovanie spínača
+Dokumentácia
+Podstavec pre radovú poistku
+Selektívny istič hlavného vedenia
+Redukčná objímka pre medené káblové koncovky a konektory DIN
+Montážna krabica so segmentmi teplom zmrštiteľných rúrok
+Krimpovacie káblové koncovky pre medené vodiče
+Rúrkové káblové koncovky pre medené vodiče
+Medené svorky bez spájkovania pre medené vodiče
+Krimpovacie káblové koncovky pre hliníkové vodiče
+Skrutkovacie káblové koncovky
+Zmiešaná svetelná lampa
+Štúdiová, projekčná a fotografická lampa
+Tunelové svietidlo
+Krimpovacie spojky pre medené vodiče
+Krimpovacie spojky pre hliníkový vodič
+Odbočná svorka
+Konektor na skrutku
+Krúžok pre skrutku na odbočku kábla
+Digitálne pamäťové médium
+Digitálna fotokamera
+Prenosný DVD prehrávač/rekordér
+Kryt/objektív pre zariadenia na ovládanie obvodov
+Kondenzátorový stýkač
+Elektronické relé preťaženia
+Izbová anténa
+Montážny materiál antény
+Prístroj na meranie antén
+Kliešte na dierovanie
+Polička na spájkovačku
+Spájkovačka (batéria)
+Pájecia stanica
+Napájanie dverí komunikácia
+Pohon výklopnej brány
+Pohon posuvnej brány
+Stmievací pohon pre zbernicový systém
+Riadiaca jednotka svetla pre zbernicový systém
+Analógový pohon pre zbernicový systém
+Spínací pohon pre zbernicový systém
+Systémové rozhranie/mediálna brána pre zbernicový systém
+Ovládanie snímačov pre zbernicový systém
+Regulátor izbovej teploty pre zbernicový systém
+Energetický manažment pre zbernicový systém
+Meracie zariadenie pre zbernicový systém
+Komunikácia s externou kamerou na dverách
+Spínač vypnutia
+Kompaktná inštalácia pre tepelné čerpadlo
+Solárna kompaktná inštalácia
+Kryt pre zásobníkový ohrievač
+Elektrické vykurovacie teleso pre zásobník teplej vody
+Modulárny konektor
+Optický konektor
+Ochrana spojov
+Spájkovač optických vlákien
+Nožnice na optické vlákna
+Sekáčik na optické vlákna
+Patch panel meď (krútená dvojlinka)
+Vkladací modul pre optický patch panel
+Patch panel optických vlákien
+Koaxiálny konektor
+Konektor D-Sub
+Kryt D-Sub
+Modulárna spojka
+Koaxiálna spojka
+D-Sub spojka
+Napájací kábel pre nadzemné vedenie
+Ventilátor pre vnútorné kúpeľne a kuchyne
+Okenný ventilátor
+Ventilátor zariadenia
+Ventilátor pre malé miestnosti
+Ventilátorová skriňa pre vnútorné kúpeľne a kuchyne
+Strešný ventilátor
+Ventilátor namontovaný na potrubí
+Priemyselný nástenný ventilátor
+Pripojovací modul pre signalizačnú vežu
+Nástenný držiak pre signalizačnú vežu
+Stojan pre signalizačnú vežu bez rúrky
+Rúrka pre signalizačnú vežu
+Stanica na odpájanie
+Náhradné vykurovacie teleso pre spájkovačky a - vane
+Spájkovacie tavidlo
+Odstraňovač tavidla
+Podpera prípojnice
+Záves pre rozvodné systémy
+Káblové živice
+Priamy priechodný spoj
+Rozbočovací spoj (sada)
+Spojka pre vlnité plastové hadice
+Kovová inštalačná rúrka
+Plastová inštalačná rúrka
+Vlnitá plastová hadica
+Skrutková spojka pre vlnitú plastovú hadicu
+Ochranná plastová hadica
+Skrutkové spojenie pre ochrannú plastovú hadicu
+Ochranná kovová hadica
+Skrutkové spojenie pre ochrannú kovovú hadicu
+Tesniaci krúžok
+Opletená hadica
+Nabíjačka batérií pre elektrické náradie
+Hydraulická pohonná jednotka
+Viacúčelové zariadenie (lisovanie/rezanie/piercing)
+Napájací adaptér pre akumulátorové náradie
+Bezpečnostné strihacie zariadenie
+Indikátor poradia fáz
+Prístroj na meranie parametrov prostredia
+Ručný merač otáčok
+Skúšačka podľa normy DIN VDE 0113
+Prístroj na meranie unikajúceho prúdu
+Analyzátor kvality elektrickej energie
+Príslušenstvo pre meracie prístroje
+DIN VDE 0751 tester
+Pásová brúska (elektrická)
+Zásobník na káblové krúžky
+Batéria pre elektrické náradie
+Zariadenie na testovanie sily a tlaku pre lisovacie nástroje
+Kontrolné zariadenie pre hydraulické agregáty
+Hydraulická spojovacia časť
+Vozík
+Umývačka so sušičkou
+Ovládací panel pre zapustenú varnú dosku
+Výrobník kociek ľadu
+Smotana do cappuccina
+Vodný filter
+Výrobník nápojov
+Sušička rúk
+Vykurovacie tepelné čerpadlo
+Modul KNX stavebná technológia
+Súprava na pripojenie/ montáž rúrky
+Montážna pomôcka stavebná technika
+Solárny montážny rám
+Konektor solárneho rámu
+Pripojovacia rúrka pre solárny systém
+Solárny kompenzátor/- vlnitá hadica
+Kvapalina na prenos tepla
+Zvuk pohlcujúca krytka/- kryt pre tepelné čerpadlo
+Montážna súprava pre tepelné čerpadlo so spodnou vodou
+Rozdeľovač podzemnej vody pre tepelné čerpadlo
+Svorkovnica na odpojenie neutrálu
+nožný spínač
+Stojan pre signalizačnú vežu s rúrkou
+Obojručné ovládacie zariadenie
+Akustický modul pre signalizačnú vežu
+Medený prepojovací kábel (krútená dvojlinka)
+Optický patch kábel
+Skrinka na pripojenie dátovej komunikácie meď (krútená dvojlinka)
+Súprava spájkovačky (batéria)
+Odpájkovačka
+Odspájkovacia šnúrka
+Odpájkovacia pinzeta
+Odspájkovacia pumpa
+Spájkovací hrot
+Plynová spájkovačka
+Súprava na spájkovanie plynom
+Spájkovací kúpeľ
+Absorpcia spájkovacej pary
+Spájkovacia súprava
+Držiak spájkovacieho hrotu
+Čistiaca špongia na spájkovací hrot
+Regulátor teploty pre spájkovací kúpeľ
+Vákuová pipeta pre SMD prvky
+Náhradný hrot pre odpájkovaciu pumpu
+Vložka pre káblové koncovky s krimpovacím nástrojom, koncové objímky káblov, pripojenie tienenia
+Priechodová svorkovnica na paneli
+Jednopólová a viacpólová svorkovnica
+Montážna lišta
+Pomocné zariadenie pre zariadenia rozvádzača
+Blokovacie zariadenie pre spínače
+Označovací materiál
+Vyrovnávač
+Automobilový zosilňovač
+Elektrická súprava pre zásobníkový ohrievač
+Zásuvka CEE na paneli
+Architektonický program CEE/SCHUKO (IP44)
+Zástrčka CEE na montáž na stroje a zariadenia
+Spojka CEE
+Zásuvka CEE
+Okrúhla zásuvka/zástrčka pre vysoké prúdy
+Zásuvka CEE, odpojiteľná, s poistkou
+Zásuvka s ochranným kontaktom montovaná na panel
+Zásuvka s ochranným kontaktom pre zariadenia
+Spojka s ochranným kontaktom
+Viacúrovňová inštalačná svorkovnica
+Uzatvárací pohon pre zbernicový systém
+Blikacie svietidlo
+Stroboskopické svietidlo
+Priebežné svietidlo
+Stroboskopické svietidlo odolné proti výbuchu
+Elektronický bzučiak odolný proti výbuchu
+Blikavé alarmové svietidlo odolné proti výbuchu
+Signálna húkačka odolná proti výbuchu
+Výstražný svetelný stĺp odolný proti výbuchu
+Monitorované LED signalizačné svietidlo
+Rotačné výstražné svietidlo s majákom
+Ventilátor odolný proti výbuchu
+Príslušenstvo pre dverovú komunikáciu
+Dverová komunikácia na tlačidlovom paneli
+Montážne príslušenstvo pre dverovú komunikáciu
+Svetelná signalizácia
+Elektronický generátor zvuku
+Nevýbušný semafor
+Generátor signálu odolný proti výbuchu
+Nevýbušný poplašný zvonček
+Rádiový vysielač
+Monitorovanie komunikácie s dverami
+PC-programovacia súprava pre ročný časový spínač KNX
+Univerzálna rezačka otvorov a komponenty
+Nožnice na plech (elektrické)
+Nitovací nástroj (batériový)
+Rotačné a búracie kladivo (elektrické)
+Rotačné kladivo (batériové)
+Rotačné kladivo (elektrické)
+Vŕtačka (akumulátorová)
+Vŕtačka (elektrická)
+Vŕtačka/skrutkovač (akumulátorový)
+Vŕtačka/skrutkovač (elektrický)
+Diamantový vŕtací stroj (elektrický)
+Trojhranná brúska na základné dosky (elektrická)
+Náhodná orbitálna kotúčová brúska (akumulátorová)
+Univerzálna píla (akumulátorová)
+Univerzálna píla (elektrická)
+Závitorezný stroj (elektrický)
+Ručná okružná píla (akumulátorová)
+Ručná okružná píla (elektrická)
+Pištoľ na horúce lepidlo (elektrická)
+Teplovzdušná pištoľ (elektrická)
+Hoblík (batériový)
+Hoblík (elektrický)
+Rezacia píla (akumulátorová)
+Stavebnicová pištoľ (batériová)
+Štiepacie kladivo (elektrické)
+Vysávač na mokré a suché vysávanie (elektrický)
+Vŕtacie kladivo (akumulátorové)
+Vŕtacie kladivo (elektrické)
+Príklepový skrutkovač (akumulátorový)
+Rázový skrutkovač (elektrický)
+Skrutkovač (akumulátorový)
+Skrutkovač (elektrický)
+Brúska (akumulátorová)
+Brúska (elektrická)
+Priamočiara píla (elektrická)
+Zošívačka/sešívačka (akumulátorová)
+Uhlová vŕtačka (akumulátorová)
+Uhlová vŕtačka (elektrická)
+Uhlová vŕtačka/skrutkovač (akumulátorový)
+Uhlová brúska (elektrická)
+Priamočiara píla (akumulátorová)
+PC kábel
+Skrinka na pripojenie dátovej komunikácie optické vlákno
+DCF-anténa pre časové spínače
+Súprava na povrchovú montáž rozvádzača
+Grafický panel
+Priemyselný počítač
+Panelový počítač
+Panel s tlačidlami
+Vizualizačný softvér
+Logický modul
+PLC programovacie zariadenie
+PLC digitálny I/O-modul
+PLC analógový I/O-modul
+PLC analógový/digitálny I/O-modul
+PLC funkčný/technologický modul
+Komunikačný modul PLC
+Textový panel
+Mobilný panel
+Zapustený monitor
+Stolný monitor
+Automatizačný softvér, iné
+Ochranné relé proti prerušeniu nápravy
+Spínacie relé
+Relé na monitorovanie napätia
+Časové relé
+Relé monitorovania prúdu
+Relé monitorovania fáz
+Relé monitorovania frekvencie
+Relé monitorovania efektívneho výkonu (cos phi)
+Relé na monitorovanie izolácie a zemných porúch
+Relé monitorovania zvyškového prúdu
+relé na monitorovanie teploty
+Relé monitorovania hladiny (náplne)
+Relé monitorovania otáčok/pohotovostného režimu
+Zariadenie na monitorovanie bezpečnostných obvodov
+Relé prekročenia
+Relé obojručného ovládania
+Zásuvka relé
+Kombinovaný prúdový chránič pre napájacie systémy
+Upevňovací uholník pre hadicovú armatúru
+Súprava na vetranie domu
+Pripojovacia svorka pre uzemňovacie tyče
+Zvodič bleskového prúdu pre dátové siete/MCR-technológiu
+Prevodník médií
+Plochá lišta na ochranu pred bleskom
+Adaptér na ochrannú hadicu
+Tyč na vyrovnanie potenciálov
+Kovový kábel
+Zariadenie na ochranu pred prepätím pre napájanie a informačnú tech.
+Kanál zo sklenených vlákien
+Spojka kanála zo sklenených vlákien
+Optické vlákno
+Sieťový smerovač
+Pevná uzemňovacia svorka
+Pohonná hlava pre polohové spínače/spínače závesu
+Spínací zosilňovač NAMUR
+Rotačný snímač
+Pohon pre polohový spínač so samostatným pohonom
+Rozvádzač pre systém detekcie narušenia
+Zásuvka pre požiarny hlásič
+Uzatváracia zátka pre inštalačnú rúrku
+Spojka pre káblovú ochrannú rúrku
+Ohyb pre ochranné rúrky káblov
+Rozpierka pre káblovú ochrannú rúrku
+Výstražná páska
+Predradník
+Hodnotová minca pre predajný automat
+Farebný prášok
+Transformátor pre nízkonapäťový svetelný systém/nízkonapäťovú halogénovú žiarovku
+Uzemňovacia súprava
+Optočlen
+Merač kilowatthodín
+Náhradná čepeľ
+Napájací zdroj pre výbojky
+Kamera pre monitorovací systém
+Vonná kazeta
+Adaptér na zástrčku
+Náhodná orbitálna kotúčová brúska (elektrická)
+Kondenzátor
+Detský telefón
+Príslušenstvo pre časový spínač
+Posuvný kontakt dverí
+Prípojnica
+Monitor pre monitorovací systém
+Videospínač pre monitorovací systém
+Centrálna poplachová stanica pre systém detekcie narušenia
+Rozvádzač pre systém detekcie narušenia
+Monitorovací kamerový systém
+Systém kódovania káblov
+Adaptér na zbernicu
+Príslušenstvo pre telefónny systém
+Nosný zásobník svietidiel
+Ohyb pre káblový rebrík
+Výstupok pre káblový rebrík
+Priečnik pre káblový žľab
+Výstupok pre káblový žľab
+Hlavný vypínač pre rozvádzač
+Tlačidlo pre rozvádzač
+Zvonkový transformátor
+Nosná konzola pre audio/video
+Príslušenstvo pre chladničku/mrazničku
+Filter pre odsávač pár
+Priečnik pre káblový rebrík
+Hlavová doska pre nosnú/profilovú lištu
+Kryt pre rohový prídavný diel pre káblový nosný systém
+Kryt spojky pre káblový nosný systém
+Koncový diel pre káblový rebrík
+Koncový diel pre káblový žľab
+Napájací kábel
+Hybridný kábel
+Príslušenstvo pre snímač pohybu
+Základný modul pre zbernicový systém
+Snímač pohybu pre zbernicový systém
+Príslušenstvo pre zbernicový systém
+I/O zariadenie pre zbernicový systém
+Multifunkčné zariadenie pre zbernicový systém
+Vykurovací pohon pre zbernicový systém
+Ručný/stenový snímač pre zbernicový systém
+Elektronický spínač
+Spínač
+Senzor pre žalúzie/časové spínače
+Izolačné relé žalúzie
+Časový spínač pre domáce spínacie zariadenia
+Fieldbus, decentr. periféria - analógový I/O modul
+Fieldbus, decentr. periféria - analógový/digitálny I/O modul
+Fieldbus, decentr. periféria - montážny rám
+Fieldbus, decentr. periféria - digitálny I/O modul
+Fieldbus, decentr. periféria - napájací/segmentový modul
+Fieldbus, decentr. periféria - funkčný/technologický modul
+Fieldbus, decentr. periféria - základné zariadenie
+Fieldbus, decentr. periféria - komunikačný modul
+Fieldbus, decentr. periféria - výkonový modul, motorový spínač
+Kombinovaný chránič pre dátové siete/MCR-technológiu
+Základňa pre vzduchové ukončovacie systémy ochrana pred bleskom
+Modul diaľkovej signalizácie pre bleskový prúdový/zvodič prepätia
+Nástroj na vjazd pre uzemňovacie tyče
+Objektív pre kameru/projektor
+Televízia
+Audio/video prenosový systém
+Príslušenstvo pre videokameru
+Príslušenstvo pre auto audio
+Príslušenstvo pre digitálnu fotokameru
+Ochranný kryt systému D0
+Hodinomer
+Poistková vložka systému D0
+Skrutkovací uzáver systému D0
+D0-systémová poistková základňa
+Súmrakový spínač pre rozvádzač
+Sieťové odpojovacie relé
+Inštalačné relé
+Inštalačný stykač pre rozvádzač
+Relé na vypnutie záťaže pre rozvádzač
+Kontrolka pre rozvádzač
+Príslušenstvo pre nízkonapäťovú poistku HRC
+Príslušenstvo pre nízkonapäťové poistkové spodky HRC
+Zásuvka pre rozvádzač
+Zásuvkové spínacie hodiny
+Regulátor teploty pre rozvádzač
+Relé monitorovania podpätia pre rozvádzač
+Poplachová jednotka pre rozvádzač
+Časové relé pre rozvádzač
+Centrálny riadiaci systém pre budovy
+Adaptér na zdieľanie káblov
+Tlačiareň
+Príslušenstvo pre pevný telefón
+Príslušenstvo pre bezdrôtový telefón
+Príslušenstvo pre fax/tlačiareň/MFC
+Distribútor ISDN
+Obmedzovač ohýbania káblov
+Telekomunikačný prepojovací kábel
+Koaxiálny prepojovací kábel
+Všetko v jednom (fax/tlačiareň/skener)
+Mikroskop na sklenené vlákna
+Adaptér pre mikroskop na sklenené vlákna
+Pec pre sklenené vlákna
+Forma na leštenie optických vlákien
+Smirková tkanina na leštenie optických vlákien
+Leštička na optické vlákna
+Analógový telefón so šnúrou
+Klávesnica
+Fax/tlačiareň/všetko v jednom
+Brána VoIP
+Telefón VoIP
+Forerun-/trail fibre (meranie sklenených vlákien)
+Bezdrôtová anténa
+Leštiaca podložka na optické vlákna
+Svietidlo s vysokým výkonom
+Závesné svietidlo
+Svietidlo typu downlight/spot/floodlight
+Fotovoltaický modul
+DC/AC sieťový menič
+Regulátor nabíjania fotovoltaiky
+Samostatný fotovoltaický menič
+Kompletná fotovoltaická súprava
+Fotovoltaické strešné/fasádne upevňovacie prvky
+Montážny systém pre fotovoltaiku
+Fotovoltaický spojovací a montážny prvok
+Solárny montážny profil
+Fotovoltaika veľký displej
+Fotovoltaický záznamník údajov
+Solárna batéria
+Indikátor rozbitia skla/vibrácie/mechanické vibrácie
+Detektor spínacieho kontaktu skrutky
+Detektor otvorenia pre systém detekcie vlámania
+Snímač pohybu pre systém detekcie vlámania
+Detektor požiaru
+Technický detektor pre systém detekcie vlámania
+Neautomatický detektor pre systém detekcie nebezpečenstva
+Zariadenie na prenos poplachu
+Ovládacie a zobrazovacie zariadenie pre systém detekcie narušenia
+Centrálna stanica na zamykanie dverí
+Permanentný magnet pre mechanizmus zamykania dverí
+Systém kontroly vstupu
+Elektronické dátové médium pre rozvádzač
+Maticová pamäť pre kamerový systém
+Ochranný kryt pre bezpečnostnú kameru
+Prevodník signálu pre monitorovací systém
+Kontrolný bod pre technológiu záchrannej trasy
+Objektív pre dohľadovú kameru
+Výstražná/označovacia tabuľka
+Napájanie spotrebnej elektroniky
+Tesniaca vložka pre zabudovanú inštalačnú krabicu
+Oddeľovacia doska pre prípojnú skrinku
+Nosič zariadenia pre izolované steny
+Prechod stena-strop pre betónovú konštrukciu
+Spojovacia krabica pre stropné svietidlo
+Farebný snímač
+Indukčný snímač vzdialenosti
+Snímač kontrastu
+Svetelný snímač, energetický
+Snímač luminiscencie
+Viacvrstvový testovací senzor
+Optický snímač vzdialenosti
+Modulárny polohový spínač
+Svetelná clona s jedným lúčom
+Svetelná clona s viacerými lúčmi
+Ultrazvukový snímač vzdialenosti
+Ultrazvuková jednopaprsková reflexná svetelná clona
+Ultrazvuková reflexná svetelná clona
+Ultrazvukový spínač priblíženia
+Elektrický motor
+Snímač cesty
+Prepojovací kábel snímač-aktuátor
+Frekvenčný menič =< 1 kV
+Chladnička na víno
+Rúra na pečenie
+Ohrievač príborov
+Zásuvka vysávača
+Vstavaná montážna súprava pre domáce spotrebiče
+Stohovacia súprava umývací/sušiaci stĺp
+Skriňa/skrinka pre vstavané domáce spotrebiče
+Vstavaný podstavec pre domáce spotrebiče
+Skrinka na umývadlo
+Prenosná skrinka pre vstavané domáce spotrebiče
+Príslušenstvo pre zariadenie na varenie/pečenie
+Úložný kôš pre mrazničku
+Príslušenstvo pre umývačku riadu, pranie a sušenie
+Systém na triedenie odpadu
+Súprava kameňov pre zásobníkový ohrievač
+Saunová pec
+Príslušenstvo pre saunovú pec
+Osciloskop
+Procesný kalibrátor
+Šabľová píla (batéria)
+Rozdeľovač s ochranou proti dotyku
+Zostava rozdeľovača pre povrchovú montáž zariadenia
+Rozdeľovacia zostava svorkovníc
+Prípojnice pre rozdeľovače
+Spínač rozdeľovača
+Elektroinštalačný pás
+Lepiaca tyčinka/sprej
+Systém prípojníc pre rozvádzače
+Podlahový inštalačný kanál otvorený pod podlahou
+Podlahový inštalačný kanál zapustená podlaha
+Vložka rozvodnej skrine pre podlahovú inštaláciu
+Výstup potrubia pre podlahový systém
+Montážny kryt pre podlahovú zásuvnú skrinku
+Stohovací rám pre podlahovú skrinku
+Kazetový rám s kazetou
+Montážna súprava na inštaláciu zariadenia pod kazetu
+Kryt pre kanálový vývod
+Zaslepovacia doska pre výstup z kanála
+Výstup kábla z rúrky
+Výstupná krabica na inštaláciu pod podlahou
+Rozvodný systém pre zvýšenú podlahu
+Montážna krabica s predpripraveným prúdom
+Deliaci prvok pre montážnu skrinku
+Odľahčenie ťahu pre montážnu skrinku
+Drážka v káblovom predĺžení pre inštalačné jednotky
+Predlžovacia jednotka pre podlahový inštalačný kanál otvorený v jednej rovine s podlahou
+Spojovacia jednotka pre podlahový inštalačný kanál zapustená do podlahy otvorená
+Krížový diel pre podlahové inštalačné kanály
+Podlahový vodiaci profil zapustený pre podlahový inštalačný kanál zapustený do podlahy
+Tesnenie krycej škáry pre podlahové inštalačné potrubie so zapustenou podlahou
+Svorka zemniaceho vodiča pre podlahové inštalačné potrubie
+Káblové príchytky pre inštalačný kanál
+Ochrana kábla pre inštalačný kanál
+Stenový inštalačný kanál
+Tužka pre stenový inštalačný kanál
+Prechodový kus pre podlahový kanál
+Inštalačný stĺpik
+Rohový kanál
+Vnútorný roh pre rohový kanál
+Koncový diel pre rohový kanál
+Tužka pre rohový kanál
+Prechodový diel pre rohový kanál / inštalačný kanál
+Ohyb pre sieťový káblový žľab
+Vkladacia doska pre káblový rebrík
+Nízkonapäťový káblový systém
+Pevná montáž nevýbušného svietidla
+Svietidlo s nápisom
+Núdzové svietidlo
+Svietidlo na osvetlenie letiska
+LED svietidlo/Multi-LED
+Neónové svietidlo
+Zapaľovací transformátor
+Skúšobné zariadenie pre núdzové svietidlá
+Predný panel/patch panel prázdny (rozvádzačová skriňa)
+Hygrostat (rozvodná skriňa)
+Odvod kondenzátu (rozvádzačová skriňa)
+Termostat (rozvodná skriňa)
+Zásuvková svorkovnica komponentov
+Pripojovacia lopatka/rozdeľovač fáz
+Svorka na pripojenie tienenia
+Konektor svorkovnice
+Slepý kryt pre zariadenia riadiacich obvodov
+Príslušenstvo pre zariadenia riadiacich obvodov
+Príslušenstvo pre regulátor frekvencie
+Príslušenstvo pre spínač núdzového zastavenia
+Príslušenstvo pre zariadenie na ochranu proti preťaženiu
+Prvok hlavy nožného a dlaňového spínača
+Základňa krytu nožného a dlaňového spínača
+Špeciálne náradie pre zariadenia riadiacich obvodov
+Spínač núdzového zastavenia ťahaním za šnúru
+Kompletné núdzové zastavenie
+Doska na oddelenie fáz pre vypínač výkonového obvodu
+Tlačidlo na prednom paneli
+Transformátor s premenlivým napätím
+Ochranný kryt pre zariadenia riadiacich obvodov
+Časť podvozku istič výkonového obvodu
+Stabilizátor napätia
+Napájací transformátor
+Transformátor prúdu
+Modifikačná súprava pre istič výkonového obvodu
+Súprava zapojenia pre výkonový istič
+Zábrana s visiacim zámkom pre vypínač
+Cievka s časovým oneskorením pod napätím
+Relé smeru napájania
+Polovodičové relé
+Chladiaci prvok pre polovodičové relé
+Výkonové relé
+Synchronizačné relé
+Blok časovača
+Príslušenstvo pre vykurovacie káble
+Koncový kryt rúrky zo sklenených vlákien
+Príslušenstvo pre spojovaciu kazetu
+Rozvádzač optických vlákien
+Mikrofónová tyč
+Statívový mikrofón
+Merač zemného odporu
+Tester uzemňovacích spínačov
+Lokátor porúch káblov
+Teplotná sonda
+Prachová vrstva
+Kombinovaná vesta
+Dýchacia maska
+Pracovné nohavice
+Pomôcky pre elektrotechniku
+Zátka do uší
+Košeľa
+Prikrývka odolná voči teplu
+Izolačná podložka/umývadlo
+Bunda
+Chránič sluchu
+Chránič nôh
+Nohavice s náprsenkou
+Kombinéza/bezpečnostný oblek
+Pulóver
+Ochranné okuliare
+Ochranné rukavice
+Ochranná prilba
+Ochranné nohavice
+Ochranná bunda/plášť
+Tvárový štít
+Ochranná obuv
+Ochranná obuv
+Protiprachová maska
+Vnútorné rukavice
+Kliešte na odizolovanie drôtov
+Sťahovák na kladky
+Štvorhran
+Sekera
+Kryt na ťahanie
+Bit na šesťhranné skrutky
+Bit pre skrutky s krížovou hlavou
+Bit pre skrutky s drážkovou hlavou
+Bit pre skrutky Torx
+Držiak bitov
+Bitový skrutkovač
+Sada bitov
+Sada dierovačov
+Nožnice
+Olovená ceruzka
+Ručný nitovač Draper
+Držiak vrtáka
+Kľúč na držiak vrtáka
+Vlnovec na vŕtanie
+Montážne škatule/šablóny na vŕtanie
+Páčidlo
+Kľúč
+Drôtená kefa
+Momentový kľúč
+Tommyho tyč pre krabicový kľúč
+Dierkovač
+Tampónovací nástroj pre kotviace puzdro
+Zemný vrták
+Písaci hrot
+Maliarsky valček
+Pilník
+Rukoväť pilníka
+Pištoľ na klince (s plynovým pohonom)
+Puzdro na uhlovú pílu
+Uhlová svorka
+Uhlomer
+Lešenie
+Posuvná rukoväť pre zásuvky
+Úchopové kliešte
+Ručné štiepacie kliešte
+Ručná metla
+Rukoväť pre nástrčné hlavice
+List ručnej píly
+Záves na kladkostroj
+Šesťhranný skrutkovač
+Vŕtačka s príklepom
+Výstružník/rozobľovačka
+Zásuvka pre šesťhranný skrutkovač
+Robertsonov skrutkovač
+Kontrolné zrkadlo
+Čerpadlo na ťahanie káblov
+Káblová pančucha
+Univerzálny kĺb pre zásuvky
+Pištoľ na utesňovanie
+Prachová misa
+Skladací kozlík
+Svorkovnica
+Stredový dierovač
+Krumpáč
+Zásuvka na skrutky s krížovou hlavou
+Rýchloupínací kľúč na nástrčné hlavice
+Odstraňovač laku
+Vyťahovač svetiel
+Strojový zverák
+Meracia páska
+Krížový kľúč
+Kombinovaný kľúč
+Stierka
+Pravítko
+Meracie koliesko
+Ohradzovacie kliešte
+Rukoväť na vyťahovanie NH-poistiek
+Kanister na olej
+Zverák na rúry
+Tesniace kliešte
+Čistiaca handrička
+Adaptér pre zásuvky
+Písačka
+Krúžkový kľúč
+Pružina na potrubie
+Nožnice na rúry
+Dvojhlavý krabicový kľúč
+Nastaviteľný kľúč
+Píla na železo
+Lopata
+Chránič rúk pre dláto
+Brúsny papier/šmirgľová utierka
+Zásuvka pre skrutky s drážkovou hlavou
+Rezná doska
+Stolová zvierka
+Lepiaca svorka
+Táčik na kolesá
+Zverák
+Zásuvka na šesťhranné matice
+Navijak
+Zdvihák
+Reťaz kladkostroja
+Olovnica
+Rýľ
+Sada nástrčných skrutiek
+Sada šesťhranných kľúčov
+Sifónové kliešte
+Nožnice na plech
+Zásuvka na skrutky Torx
+Kľúč Torx
+Lievik
+Stupienok
+Blok/koleso kladkostroja
+Ráčna
+Predlžovací diel pre skrutkovací bit
+Predlžovacia tyč pre nástrčné hlavice, kľúče a račne
+Visiaci zámok
+Kliešte na strihanie koncoviek
+Kliešte na umývanie
+Pracovný stôl
+Opasok na náradie
+Držiak závitorezného vrtáka
+Závitníkový kľúč
+Kliešte na poistné krúžky
+Pár kompasov
+Adaptér SDS-vŕtačky
+Adaptér pre skľučovadlo jadrového vrtáka
+Adaptér vŕtacieho skľučovadla pre pílu na diery
+Rotačná oceľová kefa
+Nástenná šachta
+Kotúčová píla
+Spájkovacia pištoľ
+Šabľový pílový kotúč
+Dierovací stroj
+Diamantový vŕtací stojan
+List priamočiarej píly
+Stolová vŕtačka
+Stolová kotúčová píla, polostacionárna (elektrická)
+Stolová brúska
+Stredová vŕtačka
+Prvok pre telesne postihnutú osobu pre domáce spínacie zariadenia
+Montáž na označovanie materiálu
+Infračervený spínač
+Prechodový adaptér pre domáce spínacie zariadenia
+Centrálny prvok pre klinickú inštaláciu
+Obvodová doska pre zbernicový systém
+Dotykový ovládač pre zbernicový systém
+Izolačná hadica kábla
+Skúšobná zástrčková svorkovnica
+Pripojovací ohyb pre inštalačné rúrky
+Uzemňovacia montáž pre káblové ochranné rúrky
+Výstup kábla pre ochranné rúrky kábla
+Montážny klin pre inštalačné rúrky
+Montážna spojka pre káblové ochranné rúrky
+Montážna doska pre inštalačné rúrky/káblové ochranné rúrky
+Rúrka s nátrubkom pre inštalačné rúrky
+Redukčná objímka pre inštalačné rúrky
+Ochranný kryt pre káblové ochranné rúrky
+Tužka pre káblové ochranné rúrky
+Odľahčenie ťahu pre káblové ochranné rúrky
+Krytka pre koľajnicovú svorkovnicu
+Príslušenstvo pre odbočovaciu jednotku prípojnice
+Príslušenstvo pre prípojnice
+Príslušenstvo pre prípojnicové rozvody
+Príslušenstvo pre prívodné jednotky prípojnicových rozvodov
+Fázová zábranná doska
+Kryt prípojnice
+Rozvádzačová zostava D-systémové poistkové systémy
+Zostava rozvádzača RCCB
+Poistková skriňa spínača
+Rozvádzačová zostava miniatúrny istič (MCB)
+Rozvádzačová zostava s hlavným vypínačom
+Rozvádzačová zostava s kombináciou RCCB/MCB
+Rozdeľovač s výkonovým ističom
+Rozdeľovač s vypínačom nulového napätia
+Distribučná zostava Nízkonapäťové poistkové systémy HRC
+Príslušenstvo pre malé rozvádzače
+Vybavenie malého rozvádzača
+Rýchloupínací uzáver pre kryty skríň
+C-svorka pre okrúhly vodič
+Svorka uzemňovacieho pásu
+Ampérmeter na inštaláciu
+Meter na inštaláciu
+Zabudovaný merač otáčok
+Príslušenstvo pre meracie prístroje na inštaláciu
+Príslušenstvo pre časové spínače
+Modul prúdového chrániča (RCCB)
+Čepeľová poistka
+Merač frekvencie na inštaláciu
+Merač impulzov na inštaláciu
+Multifunkčný merací prístroj
+Meracia stupnica
+Bočník
+Analogický časový spínač pre rozvádzač
+Digitálny časový spínač pre rozvádzač
+Voltmeter pre inštaláciu
+Rezistor
+Efektívny merač výkonu pre inštaláciu
+Adaptérová doska priemyselných konektorov
+Upevňovací prvok pre priemyselné konektory
+Kódovací prvok pre priemyselné konektory
+Nosný rám modulu pre priemyselné konektory
+Ochranný kryt pre zástrčky CEE
+Krytka pre priemyselné konektory
+Kryt visiaceho zámku pre zástrčky CEE
+Tesniaci kotúč pre káblovú skrutkovú priechodku
+Uzemňovacia koncovka pre káblovú skrutkovú priechodku
+Vyrezaný tesniaci krúžok pre káblový prívod
+Konektor kábla
+Tlaková svorka
+Nástenná montážna doska pre rúrkové svorky
+Káblový uzáver pre vstup kábla/inštalačnej rúrky
+Koncovka pre osvetľovací kábel
+Príslušenstvo pre odbočné krabice/odbočné skrinky na montáž do steny
+Rozperná objímka
+Klinová kotva
+Kotviaca tyč
+Skrutka proti krádeži
+Skrutka do dreva so šesťhrannou hlavou
+Slepý nit
+Slepá nitovacia matica
+Samovrtná závitová skrutka
+Kotviaca skrutka
+Nitovacia matica
+Rýchloupínacia matica
+Zubatá poistná podložka
+Skrutka s hríbovou hlavou
+Krídlová matica
+Plynová kazeta pre pištoľ na klince
+Skrutka so závlačkou
+Závitové puzdro
+Závitová rúrka
+Hák na klince
+Niť s okrúhlou hlavou
+Skrutka s T-hlavou pre kanály
+Vrchná matica
+Skrutka so šesťhrannou hlavou
+Podporný izolátor
+Štvorhranná matica s klietkou
+Tommyho skrutka
+Dlhá matica
+Skrutka s L-hákom
+Montážna svorka pre rozvodné skrine
+Živicová kapsula pre lepiacu kotvu
+Hřebík pre klincovaciu pištoľ
+Bezpečnostná skrutka
+Matica so zdvíhacím okom
+Skrutka s okom
+Skrutka so zdvíhacím okom
+Skrutka strmeňa tvaru J
+Stirpová skrutka tvaru U
+Svorka
+Výkyvný hák
+Vsuvka kolesa pre svietidlo
+Skrutka pre skrutkovač na stlačený vzduch
+Skrutka/krytka matice
+Skrutková rozeta
+Rozperný nit
+Zváracia matica
+Vysoko výkonný hák
+Skrutka so šesťhrannou hlavou
+Podložka so záložkou
+Zaisťovacia matica
+Upevňovací krúžok
+Pružinový kolík
+Skrutka do drevotriesky
+Matica príruby
+Samojistná skrutka
+Základová skrutka
+Nastavovací krúžok
+Nastavovacia skrutka
+Svorník
+Skrutka čapu
+Lepiaca kotva
+Štvorhranné kužeľové podložky
+Ramenná skrutka
+Nastavovacia skrutka so syrovou hlavou
+Nálevka pre káblový žľab
+Ohyb pre káblový žľab
+Prídavný kryt odbočky pre káblový nosný systém
+Kryt ohybu pre káblový nosný systém
+Kryt pre káblový nosný systém
+Krycí kríž pre káblový nosný systém
+Kryt redukčného dielu pre káblový nosný systém
+Kryt výbežku pre káblový nosný systém
+Príslušenstvo pre prúdový/datový kábel na montážnu lištu
+Prúdový/datový kábel pre inštalačnú lištu
+Profilový stĺpik pre káblový rebrík
+Držiak rúrky/kábla pre káblový nosný systém
+Stĺpik pre káblový rebrík
+Spojka pre káblový nosný systém
+Káblové vodiace reťaze
+Montáž na stenu pre konzolový káblový nosný systém
+Kryt podlahového kanála
+Izolačná doska montážneho krytu podlahového kanála
+Tvarová figurína pre podlahovú inštaláciu
+Príslušenstvo pre povrchovú nádrž
+Príslušenstvo pre systémy kanálov pre podlahovú inštaláciu
+Výškovo nastaviteľný krúžok/rámček pre podlahový inštalačný kanál
+Montážna objímka pre povrchovú nádrž
+Rúrkový vstup pre kanálový box pre podlahovú inštaláciu
+Krycí rám pre domové spínacie zariadenia soklový kanál
+Kryt pre rúrkový/kanálový vstup soklový kanál
+Tieniaci profil pre soklový kanál
+Prídavné odbočné hrdlo pre inštalačný kanál
+Pripojovacia krabica pre povrchovú montáž pre inštalačný kanál
+Doska na povrchovú montáž pre inštalačný kanál
+Rebrá pre nástenný kanál
+Podpera pre nástenný kanál
+Držiak krytu kábla pre podlahový kanál
+Káblový príchytka pre stenový kanál
+Káblový príchytka pre soklový kanál
+Káblový spojovací kus pre soklový kanál
+Spojovacia svorka pre krycí stenový kanál
+Vyrovnanie potenciálu pre stenový kanál
+Inštalačná rúrka/ vstup do inštalačného kanála pre soklový kanál
+Pílové jadro pre stenový kanál
+Podporná svorka pre stenový kanál
+Montáž pre inštalačný kanál s oddeľovacou doskou
+Prechodový diel pre inštalačnú rúru/inštalačný kanál
+Univerzálny vnútorný/vonkajší roh pre stenový kanál
+Podstavec pre soklový kanál
+Stenová upevňovacia svorka pre inštalačný kanál
+Prechodka stena-strop pre inštalačný kanál
+Stenová spojovacia žalúzia pre inštalačný kanál
+Kryt pre inštalačný stĺpik s predlžovacím modulom
+Stropná prípojka pre inštalačný stĺpik
+Podstavec pre inštalačný stĺp
+Detektor plynu
+Sklenená doska pre automatický hlásič požiaru
+Mechanická pripojovacia objímka pre telekomunikačný kábel
+Tlaková pružina
+Súprava na opravu plášťa kábla
+Zásuvka/zástrčka s ochranným kontaktom
+Príslušenstvo pre zásuvky/zástrčky s ochranným kontaktom
+Rozperná čiapočka
+Príslušenstvo pre koncovky káblov
+Konektor dotykového snímača pre zbernicový systém
+Reflektor pre svetelnú clonu
+Videospínač
+Príslušenstvo pre podlahový kanál
+Montážna svorka pre ochranné rúrky káblov
+Príslušenstvo pre montážnu skrinku svietidla
+Transformátor prúdovej hodnoty
+Transformátor hodnoty výkonu
+Transformátor hodnoty napätia
+Prevodník jalového výkonu
+Transformátor hodnoty činného výkonu (cos phi)
+Perilexová spojka
+Skrutkový adaptér systému D0
+Spínacia cievka pre výkonový istič
+Zvukový systém pre domáce spínacie zariadenia
+Trojfázový riadiaci transformátor
+Jednofázový riadiaci transformátor
+Nevýbušný telefón
+Generátor signálu pre nevýbušný telefón
+Telefón odolný voči poveternostným vplyvom
+Generátor signálu pre telefón odolný voči poveternostným vplyvom
+Kryt telefónu
+Nevýbušný reproduktor
+Kontrolka odolnosti proti výbuchu
+Signalizačné zariadenie s LED-multikolórovou lampou
+Meracie zariadenie na ochranu proti prepätiu
+Príslušenstvo pre napájacie systémy s prepäťovou ochranou
+Príslušenstvo na ochranu pred prepätím pre dátové siete/MCR-technológiu
+Príslušenstvo pre nízkonapäťovú spínaciu techniku
+Sieťový/serverový kryt
+Sieťová skriňa
+Telekomunikačná skriňa
+Skriňa/kryt pre PC, monitor alebo perifériu
+Nevýbušná skriňa/kryt
+Príkazový panel
+Kioskový systém
+Káblový rozvádzač (elektro/IT)
+Laboratórny stojan (elektro/IT)
+Laboratórny vozík (elektro/IT)
+Klimaticky riadená rozvodná skriňa
+Klimatické dvere (rozvádzačová skriňa)
+Klimatický bočný panel (rozvádzačová skriňa)
+Filter (klimatizácia rozvádzačovej skrine)
+Výmenník tepla vzduch/vzduch (klimatizácia rozvádzačovej skrine)
+Výmenník tepla vzduch/voda (klimatizácia rozvádzačovej skrine)
+Chladiaca jednotka (rozvádzačová skriňa)
+Skriňa na inštaláciu komponentov s modulárnym rozstupom 19 palcov
+Profil (rozvádzačová skriňa)
+Predná doska pre jednotku s modulárnym rozstupom 19 palcov
+Zásuvná jednotka pre modulárne rozmiestnenie 19 palcov
+Pohonná jednotka pre modulárne rozmiestnenie 19 palcov
+Montážny diel pre jednotku s modulárnym rozstupom 19 palcov
+Bočný/zadný panel (rozvádzačová skriňa)
+Deliaci panel (rozvádzačová skriňa)
+Okno (rozvádzačová skriňa)
+Dištančný rám (rozvádzačová skriňa)
+Zobrazovací panel (rozvádzačová skriňa)
+Horný montážny modul (rozvádzačová skriňa)
+Stĺp (rozvádzačová skriňa)
+Príslušenstvo pre stĺp (rozvádzačová skriňa)
+Aplikačný softvér pre automatizáciu
+Konfigurovateľný riadiaci komponent
+Napájanie jednosmerným prúdom
+Napájanie striedavým prúdom
+Napájanie AC/DC
+Magnetický bezkontaktný spínač
+Svetelná clona
+Laserový skener
+Stýkač napájania, spínanie jednosmerného prúdu
+Príslušenstvo pre domáce spínacie zariadenia
+Skúšobná zástrčka pre svorkovnice
+Elektrické príslušenstvo pre svietidlá
+Mechanické príslušenstvo pre svietidlá
+Svetelnotechnické príslušenstvo pre svietidlá
+Príslušenstvo pre svetelné stožiare
+Zásuvný konektor pre zásuvnú inštaláciu v budove
+Zmena smeru pre koľajnicový rozvádzač
+Prípojnicová jednotka pre stúpací kábel
+Cievka pre nízke napätie
+Filter pre nízke napätie
+Cievka filtračného obvodu pre nízke napätie
+Pripojenie zariadenia pre zásuvnú inštaláciu v budove
+Kompaktný rozvádzač pre inštaláciu v budove so zástrčkou
+Relé pre termistorovú ochranu (PTC)
+Zmluvný spínač
+Zariadenie na riadenie motora
+Zabudované pole pre telekomunikácie
+Rozvádzačová zostava pre sériovo zabudované zariadenie
+Plochý ohyb pre inštalačný kanál na podlahe
+Spojka pre podlahový inštalačný kanál
+Zariadenie na monitorovanie prietoku
+Súprava zariadení PLC
+Funkčný blok/knižnica
+Fieldbus, decentr. periféria - napájací modul
+Príslušenstvo pre ovládacie prvky
+Pasívne rozhranie snímač - akčný člen (s káblom)
+Príslušenstvo pre spínacie relé
+Patch kábel pre zásuvnú inštaláciu v budove
+Plochý káblový adaptér pre zásuvnú inštaláciu v budove
+Komunikačná pripojovacia skrinka
+Závesný spínač
+Polohový spínač so samostatným pohonom
+Polohový spínač s ochranným zámkom
+Príslušenstvo pre polohové spínače
+Oddeľovacia doska pre podlahový kanál
+Flexibilný systém vedenia káblov
+Skrinka na pripojenie dátovej komunikácie meď (krútená dvojlinka) priemysel
+Dátová komunikačná pripojovacia skrinka optické vlákna priemysel
+Patch kábel medený (krútená dvojlinka) priemysel
+Krabica/skriňa na povrchovú montáž na stenu/strop
+Krabica/skriňa na zabudovanie do steny/stropu
+Káblový vývod pre podlahový systém
+Vyrovnávacia kazeta na montáž do kanála, na vyvýšenú a podlahovú inštaláciu
+Hadica káblového zväzku
+Multifunkčná pripojovacia skrinka
+Vložka pre multifunkčnú pripojovaciu skrinku
+Patch kábel optické vlákna priemysel
+Príslušenstvo pre modulárny pripojovací systém
+Príslušenstvo pre techniku optických vlákien
+Príslušenstvo pre komunikačnú techniku
+Ovládací spínač
+Rozširujúci modul pre zariadenie na riadenie motorov
+Ovládací panel pre zariadenie na riadenie motora
+Príslušenstvo pre elektronické zariadenie na riadenie a ochranu motora
+Teplotný spínač
+Kryt / výplňový panel / identifikačná lišta (rozvádzačová skriňa)
+Súčasť na inštaláciu (rozvádzačová skriňa)
+Komponent na prepravu (rozvádzačová skriňa)
+Komponent na usporiadanie / systém radenia (rozvádzačová skriňa)
+Komponent na uzemnenie / vyrovnanie potenciálov (rozvádzačová skriňa)
+Komponent na vedenie káblov, káblový vstup, upevnenie káblov (skriňa/rozvádzačová skriňa)
+Montážne príslušenstvo (rozvádzačová skriňa)
+Komponent pre dvere (rozvádzačová skriňa)
+Monitorovací systém (rozvádzačová skriňa)
+Slot PLC (ovládanie pomocou PC)
+Kompletný systém (ovládanie na báze PC)
+Soft PLC (ovládanie na báze PC)
+Fieldbus, decentr. periféria - pneumatický modul
+Kruhový konektor pre montáž v poli (priemyselný konektor)
+Obdĺžnikový konektor, sada (priemyselný konektor)
+Konektor na doske s plošnými spojmi
+Káblový konektor
+RF konektor
+I/O konektor
+Modulárny konektor (priemyselný konektor)
+Konektor čipovej karty
+Terminál dosky s plošnými spojmi
+Príslušenstvo pre požiarny hlásič
+Náhradný diel pre domáce spínacie zariadenia
+Pripojenie pre tienené vodiče
+Optický vláknový senzor / optický vláknový zosilňovač
+Izolačný zosilňovač
+Vysielač koncového signálu
+Kryt pre skrinku/skriňu na povrchovú montáž na stenu/strop
+Kryt pre skrinku/skriňu na zabudovanie do steny/stropu
+Ohňovzdorné potrubie
+Vonkajší roh pre ohňovzdorné potrubie
+Koncový diel pre ohňovzdorné potrubie
+Plochý ohyb pre ohňovzdorné potrubie
+Vnútorný roh pre ohňovzdorné potrubie
+Káblové spony pre ohňovzdorné potrubie
+Krížový diel pre ohňovzdorné potrubie
+Spojka pre ohňovzdorné potrubie
+Oddeľovacia doska pre ohňovzdorné potrubie
+Spojka pre ohňovzdorný kanál
+Príslušenstvo pre ohňovzdorné potrubie
+Príslušenstvo pre požiarne deliace konštrukcie
+Uzemňovacie zariadenia
+Distančný držiak na ochranu pred bleskom
+Súprava na uzemnenie/ochranu pred bleskom
+Súprava pre vnútornú ochranu pred bleskom/prepäťovú ochranu
+Zariadenie na ochranu pred prepätím stredného napätia 1 - 36 kV
+Zariadenie na ochranu pred prepätím stredné napätie >36 kV
+Napájacia jednotka núdzového osvetlenia
+Príslušenstvo pre malé domáce spotrebiče
+Príslušenstvo na údržbu podlahy
+Príslušenstvo pre kuchynský stroj
+Hrniec na varenie
+Centrálny požiarny poplachový systém
+Inštalácia na odsávanie dymu
+Rozširujúci modul pre monitorovacie systémy
+Príslušenstvo pre teplovzdušnú pištoľ
+Stroj na rezanie skrutiek
+Ťahacia skrutka pre dierovač
+Príslušenstvo pre dierovačku
+Prúdový chránič (RCCB) s pomocným zariadením
+Miniatúrny istič (MCB) s pomocným zariadením
+Prúdový chránič s pomocným zariadením
+Príslušenstvo pre telefóny odolné voči poveternostným vplyvom a výbuchu
+Systémový medený patchpanel (krútená dvojlinka)
+Systémový patchcord medený (krútená dvojlinka)
+Systémový patchpanel optické vlákno
+Systémový patchcord optické vlákno
+Blu-ray prehrávač/rekordér
+Spojovacia svorka pre inštalačný kanál
+Vysávač pre centrálnu závesnú inštaláciu
+Valcová poistka
+Držiak na valcovú poistku
+Svetelná páska/ hadica/ pásik
+Príslušenstvo pre svetelnú pásku/ hadicu/pásku
+Svietidlo pre lekárske aplikácie
+Kryt pre žiarivku
+LED ovládač
+Filtračná cievka na korekciu účinníka
+Príslušenstvo pre predradník
+Svorkovnica
+Indukčný bezkontaktný spínač
+Kapacitný bezkontaktný spínač
+Jednosmerná svetelná závora
+Odrazová svetelná závora
+Svetelný skener s maskovaním pozadia
+Vidlicová svetelná závora
+Optický snímač rámu
+Spojovacia zmes
+Podlahová dlaždica pre káblový podlahový systém
+Podpera pre káblový podlahový systém
+Povrchové úpravy pre káblový podlahový systém
+Príslušenstvo pre káblový podlahový systém
+Spojovací prvok pre káblový podlahový systém
+Rozvodná skriňa pre káblový podlahový systém
+Kalibračný merací prístroj
+Príslušenstvo pre fotovoltaický záznamník údajov
+Príslušenstvo pre optické a akustické signalizačné zariadenia
+Mobilný telefón
+Príslušenstvo pre slúchadlá/náhlavnú súpravu
+Masážny prístroj Hotstone
+Mazivo
+Regulátor riadenia energie
+Stolová spojovacia jednotka
+Súprava káblov pre malú rozvodnú dosku
+Párty osvetlenie
+Rozvodná jednotka elektrickej energie (PDU)
+Podlahová nádrž
+Zdvihák svietidla
+Záhradný sekací stroj (elektrický)
+Záhradné nožnice (batériové)
+Záhradné nožnice (elektrické)
+Nožnice na trávu (batériové)
+Nožnice na trávnik (elektrické)
+Nožnice na živý plot (akumulátorové)
+Nožnice na živý plot (elektrické)
+Strojek na strihanie a krimpovanie
+Modulárny kryt z extrudovaného profilu
+Modul rozhrania
+Detektor napätia
+Reťazová píla (akumulátorová)
+Príslušenstvo pre bezpečnostné zariadenia
+Fázový komparátor
+Systém detekcie napätia
+Prevádzková tyč
+Izolačná ochranná clona
+Uzemňovacie a skratovacie zariadenie
+Pripojovací prvok pre uzemňovacie a skratovacie zariadenie
+Reťazová píla (elektrická)
+Reťazová píla (so spaľovacím motorom)
+Pevný guľový bod pre uzemňovač a skratovacie zariadenie
+Jednopólové uzemňovacie a vybíjacie zariadenie
+Súprava na čistenie elektrických zariadení
+Kosačka (batéria)
+Zariadenie na dopĺňanie koncových uzáverov
+Krycia plachta (bezpečnosť pri práci)
+Kosačka (elektrická)
+Kosačka (so spaľovacím motorom)
+Vyžínač trávy (akumulátorový)
+Vyžínač trávnika (elektrický)
+Rozrývač trávnika/aerátor (akumulátorový)
+Rozrývač trávnika/aerátor (elektrický)
+Príslušenstvo pre záhradné sekačky
+Príslušenstvo pre nožnice na trávu
+Príslušenstvo pre nožnice na živý plot
+Napínacie kliešte pre napínacie rukávy
+Predmontovaná uzemňovacia lišta
+Príslušenstvo pre nožnice na trávu
+Príslušenstvo pre kosačku
+Príslušenstvo pre vertikutátor trávnika/aerátor
+Ponorná fréza (elektrická)
+Polostacionárna rezacia píla (elektrická)
+Polostacionárna stolová, rezacia a pokosová píla (elektrická)
+Priama brúska (akumulátorová)
+Priama brúska (elektrická)
+Fréza na dlaždice (elektrická)
+Ponorná fréza (akumulátorová)
+Vibrátor na betón (akumulátorový)
+Vibrátor betónu (elektrický)
+Generátor energie
+Ručný vysielač
+Stĺpik pre stĺpik
+Podpery
+Nadstavec
+Jednorazové rukavice
+Strojové dláto
+Dokovacia stanica
+Výstupok pre sieťový káblový žľab
+Uhlový nástavec pre káblový kanál
+Príslušenstvo pre káblovú živicu
+Príslušenstvo pre zástrčky a zásuvky CEE
+Príslušenstvo pre batériu/nabíjačku
+Detektor oxidu uhoľnatého
+Detektor požiaru odolný voči výbuchu
+Interkomová stanica odolná voči poveternostným vplyvom
+Energetická dátová brána
+Indikácia spotreby energie
+Multikombinovaný vypínač/tlačidlo/zásuvka
+Príslušenstvo pre prístroje na starostlivosť o telo
+Príslušenstvo pre terminály
+Príslušenstvo pre brány/rollovacie pohony
+Príslušenstvo pre UPS
+Dutá nástenná inštalačná krabica s predmontovanými spínacími zariadeniami
+Písací stroj
+Skartovačka dokumentov
+Laminovacie zariadenie
+Pokladňa
+Zariadenie na špirálovú väzbu
+Uzemňovacia podložka
+Ochranná mriežka ohrievača s rebrovanými rúrkami
+Zrkadlový ohrev
+Vzduchový kompresor
+Príslušenstvo a náradie stlačený vzduch
+Príslušenstvo pre zásuvnú inštaláciu v budove
+Násobič krútiaceho momentu
+Káblový blok
+Príslušenstvo pre zvukové systémy
+Palivová nádrž (pre generátor energie)
+Zemná kontrolná jama
+Prijímač bezdrôtového mikrofónu
+Kombinácia kúpeľňového ventilátora a ohrievača so svetlom
+Diódový modul
+Nabíjacie zariadenie E-Mobilita
+Príslušenstvo E-Mobility
+Matica proti krádeži
+Príslušenstvo pre dohodovací spínač
+Ochranné zariadenie citlivé na tlak
+Príslušenstvo pre tlakovo citlivé ochranné zariadenie
+Regulátor nabíjania E-Mobility
+Centrálna riadiaca jednotka E-Mobility
+Stropné/nástenné svietidlo
+Skrinka na náradie
+Nabíjací kábel E-Mobility
+Nabíjací konektor E-Mobility
+Merací a testovací prístroj E-Mobility
+Súprava brúsny papier/šmirgľová utierka
+Pravouhlá brúska (batéria)
+Kábel na detekciu dopravy
+Príslušenstvo pre elektrický otvárač dverí
+Plastová inštalačná rúrka, vopred zapojená
+Viacnásobná vložka/kryt pre techniku dátového a komunikačného pripojenia
+Príslušenstvo pre stenový kanál
+Kontaktný materiál podľa špecifickej holandskej normy
+Skrutka do betónu
+Systém detekcie oblúka
+Úchytka na ťahanie vodičov
+Ručný čistič
+Bit pre skrutky so štvorhranným pohonom
+Pásová píla (akumulátorová)
+Ručná pásová píla (elektrická)
+Pásová píla
+Transformátor frekvenčnej hodnoty
+Vysielač teploty
+Megafón
+Téglik/kríž pre inštalačné rúrky
+Ovládač pre svietidlá
+Adaptér pre akčný člen snímača
+Generátor vetra
+Príslušenstvo pre výrobu energie z obnoviteľných zdrojov
+Oscilátor (elektrický)
+Oscilátor (batériový)
+Súprava elektrického náradia
+Ochranný kryt sporáka
+Príslušenstvo pre vodiace reťaze káblov
+Príslušenstvo pre systém na prenášanie káblov
+Príslušenstvo pre elektrické poistky/poistkové držiaky
+AV prepojovací kábel
+Príslušenstvo pre inštalačný a spojovací materiál
+Príslušenstvo pre pracovné odevy
+Filter pre dýchaciu masku
+Príslušenstvo pre poplašné systémy
+Príslušenstvo pre priemyselné konektory
+Tablet-počítač
+HFC-komponent
+Držiak pre modulárne domáce spínacie zariadenia
+Napájací zdroj USB
+Príslušenstvo pre LED ovládače a moduly
+Riadiaca jednotka vibrácií
+Rozširujúci modul pre jednotku kontroly vibrácií
+Snímač pre jednotku kontroly vibrácií
+UV lampa
+IR lampa
+Systém ochrany pred oblúkovým zlyhaním
+Systém merania bleskového prúdu
+Pištoľ na horúci vzduch (poháňaná plynom)
+Indikačný prvok klinická inštalácia
+Inštalácia terminálu kliniky
+Inštalácia systémového zariadenia
+Vyvolávacia/riadiaca jednotka klinická inštalácia
+Reproduktor odolný voči poveternostným vplyvom
+Signalizačné svetlo
+Ochranný kryt pre zvieratá pre elektrické izolátory/púzdra
+Lokátor pre káble a značky
+Elektronické označovanie káblov
+Zásobník na ochranu proti prepätiu
+Príslušenstvo pre inštalačný stĺp
+Systém riadenia priemyselného vykurovania
+Stojan na moduly pre systémy riadenia priemyselného vykurovania
+Digitálny modul pre systémy riadenia priemyselného vykurovania
+Analógový modul pre systémy riadenia priemyselného vykurovania
+Systém ovládania dverí
+Prevodový motor pre systémy ovládania dverí
+Pásová píla
+Prevodník diferenčného tlaku
+Prevodník manometra/absolútneho tlaku
+Magneticko-indukčný prietokomer
+Coriolisov hmotnostný prietokomer
+Kapacitný hladinomer
+Systém merania teploty procesu
+Mikrovlnný hladinomer
+Transpondér RFID
+Príslušenstvo pre RFID
+Čítačka RFID
+Čítačka maticových kódov
+Ponožky
+Ultrazvukový hladinomer
+Konektor na vyrovnávanie potenciálu
+Zošívačka (elektrická)
+Pásový pilník (elektrický)
+Pásový pilník (batériový)
+Pištoľ na horúce lepidlo (batéria)
+Príslušenstvo pre systém na ťahanie káblov
+Príslušenstvo pre rebrík/lešenie
+Príslušenstvo pre meracie nástroje
+Príslušenstvo pre závitové náradie
+Príslušenstvo pre dierovacie píly a vŕtačky
+Spojovací materiál (elektrický)
+Vlnité hmoždinky
+Piškótová spojka
+Príslušenstvo pre senzorovú techniku
+Pílový kotúč pre oscilátor
+Príslušenstvo pre vysávač
+Vykurovanie pre satelitnú anténu
+Príslušenstvo pre spojovaciu hmotu
+Delený/bezpečný kolík
+Systém seizmického vystuženia
+Kovanie s 1 prípojkou
+Kovanie s 2 prípojkami
+Tvarovka s 3 prípojkami
+Kovanie so 4 pripojeniami
+Infiltračná vpusť do betónového lôžka
+Infiltračná vpusť
+Kliková vpusť
+Mriežka vpuste
+Cestná vpusť
+Koncový uzáver kanalizačnej vpuste
+Mriežkový kanálový vpust
+Kanálový odtok s lapačom znečisteného vzduchu
+Kryt šachty
+Kanálový odtok žumpy
+Držiak vodomeru
+Držiak plynomeru
+Montážna/pripojovacia súprava pre navijak požiarnej hadice
+Horný kryt panelu chladiča
+Bočný krycí panel radiátora
+Zástrčka/zásuvka pre nákladné vozidlo/príves
+Príslušenstvo pre zástrčku/zásuvku pre nákladné vozidlo/príves
+Šesťcestný regulačný ventil
+Montážny materiál WC sedadlo
+Elektrický pohon s okrúhlym vzduchovým kanálom s klapkou
+Armatúra pre štvorhranné potrubie na dažďovú vodu
+Armatúra s 5 prípojkami
+Nástenná doska
+Zinkové potrubie
+Držiak proti šplhaniu
+Tlakový postrekovač
+Zástrčková poistka
+Dvojdielna štvorcová konzola
+Príslušenstvo pre potrubie na dažďovú vodu
+Tehla v konzole štvorhrannej
+A/V-spojka
+Oceľový C-profil
+Zatvárač dverí
+Montážne lepidlo
+Univerzálne kontaktné lepidlo
+Lepidlo na plasty
+Stavebné lepidlo
+Klin
+Prívodný ohyb meračskej skrinky podlahová doska
+Podlahová doska meracej skrine
+Gumový kompenzátor
+Kovový kompenzátor
+Prevzdušňovač kohútika
+Robotické rameno
+Podlaha sprchy
+Podlahová prípojka na prívod spalín/vzduchu
+Napájací kábel < 1 kV, na trvalú inštaláciu
+Dátový a komunikačný kábel (medený)
+Napájací kábel < 1 kV, na pohyblivé použitie
+Napájací kábel >= 1 kV, na trvalú inštaláciu
+Peletové kachle
+Izolačný kryt pre odlučovač vzduchu/špiny
+Držiak štítkov pre potrubia
+Kefa na riad
+Šupátko
+Obal konvektorového radiátora
+Inteligentný termostat
+Teleskopická rúrka syntetická jama
+Syntetická podlaha jamy
+Syntetická jama
+Syntetická šachta
+Servisný ventil
+Šesťcestný regulačný ventil s elektrickým servomotorom
+Pohon požiarnej klapky
+Krídlová skrutka
+Elektronický tlakovo nezávislý dvojcestný regulačný ventil s monitorovaním energie
+Vstrekovací ventil (batéria)
+Univerzálne nožnice (batéria)
+Presná vŕtačka/brúska (elektrická)
+Rotačné a búracie kladivo (batéria)
+Rezák na závitové tyče (batéria)
+Fréza na drážky (akumulátorová)
+Nožnice na kov (akumulátorové)
+Vysávač s dúchadlom (batéria)
+Vzduchové čerpadlo (batéria)
+Ihlový skalper (batéria)
+Uhlový kľúč (batéria)
+Príslušenstvo pre inšpekčnú kameru
+Vyhrievacie zariadenie pre obrobky (elektrické)
+Kefová brúska (elektrická)
+Diamantová píla (elektrická)
+Stroj na hmoždinky (elektrický)
+Sklápacie zariadenie na švy (elektrické)
+Súprava príslušenstva pre presnú vŕtačku/brúsku
+Súprava na presnú vŕtačku/brúsku (elektrická)
+Brúska s plochou hlavou (elektrická)
+Lis na spoje (elektrický)
+Fréza na závitové tyče (elektrická)
+Fréza na drážky (elektrická)
+Brúska na filety (elektrická)
+Reťazová hmoždinkovačka (elektrická)
+Fréza na tmel (elektrická)
+Fréza na laky (elektrická)
+Lineárna brúska (elektrická)
+Zásobníkový skrutkovač (elektrický)
+Multifunkčná brúska (elektrická)
+Ihličková brúska (elektrická)
+Brúska na mokré brúsenie (elektrická)
+Leštička (elektrická)
+Pásová brúska na rúry (elektrická)
+Renovačná fréza (elektrická)
+Škrabka (elektrická)
+Zváracia hrana (elektrická)
+Lanové píly (elektrické)
+Striekacia pištoľ (elektrická)
+Odstraňovač tapiet (elektrický)
+Odstraňovač kobercov (elektrický)
+Fréza na schodiskové pásy (elektrická)
+Presná vŕtačka/brúska (batériová)
+Súprava presnej vŕtačky/brúsky (akumulátorová)
+Jarná stupnica
+Penstock
+Baliaci hák
+Klapka ventilu
+Páskovacie zariadenie
+Čistič okien (batéria)
+Vysávač na zametanie
+Pletací stroj (poháňaný plynom)
+Štiepač matíc
+Zatĺkač betónu
+Nástroj na krútenie slučiek
+Kopáč na diery po stĺpoch
+Nožnice na živý plot (ručné)
+Hrable
+Srp
+Rukoväť na prenášanie
+Súprava ručných píl
+Postrekovač s vodnou hmlou
+Zdvihák na latky
+Rezačka laminátu
+Kľúč na umývadlo
+Súprava škrabiek/náradia
+(De)magnetizačné zariadenie
+Blok skrutiek
+Príslušenstvo pre zverák
+Súprava kief
+Obkladačská guma
+Hubka
+Konzola na zdvíhanie dosiek
+Kliešte na lámanie obkladačiek
+Kliešte na podkúvanie koní
+Kliešte na papier
+Kliešte na zárezy
+Štiepacie kliešte na oceľové pletivo
+Hoblík na štrbinové dosky
+Merač vlhkosti materiálu
+Teleskopická meracia tyč
+Prášok na rozprašovanie plameňa
+Fľaša s vodou na spájkovanie
+Štetec na spájkovaciu vodu
+Forstnerov bit
+Vrták na ľad
+Odsávač prachu z vŕtania
+Sada dlát pre vŕtacie kladivo
+Miešacia hlava
+Pílový kotúč pre pílu na penu
+Sortiment pílových kotúčov
+Reťaz pre reťazovú pílu
+Súprava ručnej brúsky
+Súprava rezných kotúčov
+Protihrot
+Systémové príslušenstvo pre farebný striekací systém (akumulátorový/elektrický/stlačený vzduch)
+Systémové príslušenstvo pre frézovanie (akumulátorové/elektrické)
+Systémové príslušenstvo pre hobľovanie (akumulátorové/elektrické)
+Systémové príslušenstvo pre brúsenie/rezanie (akumulátorové/elektrické/stlačený vzduch)
+Systémové príslušenstvo na osciláciu (akumulátorové/elektrické/stlačený vzduch)
+Systémové príslušenstvo na rezanie (akumulátorové/elektrické/stlačený vzduch)
+Systémové príslušenstvo na škrabanie (akumulátorové/elektrické/stlačený vzduch)
+Systémové príslušenstvo na brúsenie/leštenie (akumulátorové/elektrické/stlačený vzduch)
+Systémové príslušenstvo na odstraňovanie tapiet (akumulátorové/elektrické)
+Vŕtačka (stlačený vzduch)
+Kladivo (stlačený vzduch)
+ihličkový skener (stlačený vzduch)
+Oscilátor (stlačený vzduch)
+Priamočiara píla (stlačený vzduch)
+Pílka na plech (stlačený vzduch)
+Pásová brúska (stlačený vzduch)
+Náhodná orbitálna kotúčová brúska (stlačený vzduch)
+Pásový pilník (stlačený vzduch)
+Oscilačná brúska (stlačený vzduch)
+Inline brúska (stlačený vzduch)
+Uhlová brúska (stlačený vzduch)
+Uhlová brúska (stlačený vzduch)
+Rázový skrutkovač (stlačený vzduch)
+Sortiment držiakov nástrojov
+Systém na odvod dažďovej vody
+Úľový rošt
+Kanalizačná nádrž
+Lapač / filter fosforu
+Sekvenčný dávkový reaktor
+UV box
+Filter odpadových vôd
+Základná šachta
+Stúpačka/redukcia šachty
+Príslušenstvo pre infiltračnú jednotku
+Príslušenstvo infiltračnej vpuste
+PCM prvok
+Fréza na dlaždice (ručný model)
+Príslušenstvo pre navigačné systémy/tablety/mobilné telefóny
+Projekčná obrazovka
+Príslušenstvo pre reproduktor
+Nástroj na skosenie potrubia
+Strednonapäťová/vysokoprúdová poistka
+Komunálny stĺp
+Odpojovač vysokého napätia
+Hák na zavesenie kábla
+Príslušenstvo pre vysokonapäťový odpojovač
+Príslušenstvo pre úžitkový stĺp
+Príslušenstvo pre napájací kábel
+Vysokonapäťový izolátor
+Krížové rameno pre stĺp
+Príslušenstvo pre krížové rameno pre stĺp
+Káblový rozvádzač
+Káblové koncovky pre káble stredného a vysokého napätia
+Zástrčkové ukončenie pre káble stredného a vysokého napätia
+Distribučný transformátor
+Označovací stĺp
+Suché WC
+Kúpeľňová lišta
+Diskusná jednotka
+Termokamera
+Konvektomat kompletný bez mriežky
+Príslušenstvo pre distribučný transformátor
+Bezdrôtová riadiaca stanica
+Vypínač zariadenia
+Stĺpový radiátor
+Rám a dvierka pre skriňu skupinového rozvádzača
+Rám pre skriňu skupinového rozvádzača
+Dvere pre skriňu skupinového rozvádzača
+Európska zásuvka/zástrčka
+Konektor spotrebiča
+Príslušenstvo pre prvú pomoc
+Obalový materiál
+Obal na rozliaty olej/chemikálie
+Vodná bariéra
+Injektor/rozdeľovač PoE
+Riadiaca jednotka robota
+Príslušenstvo pre robotické rameno
+Exotermická zváracia forma
+Puzdro pre kruhové konektory
+Kontaktná vložka pre kruhové konektory
+Pasívne rozhranie snímač-akčný člen (bez kábla)
+Dynamický posilňovač výkonu
+Exotermický zvárací prášok
+Príslušenstvo pre exotermické zváranie
+Ovládač pre systém verejného rozhlasu
+Uzemňovacia kazeta
+Skratovacia lišta
+Vyvolávacia stanica pre systém verejného rozhlasu
+Zosilňovač pre systém verejného rozhlasu
+Príslušenstvo pre vykurovaciu rohož
+Kruhový konektor, montáž (PCB)
+Kruhový konektor, montážny (bez kábla)
+Kruhový konektor, montážny (s káblom)
+Automatický výrobník čaju
+Žehliaci systém
+Sukňa
+Mýtna brána
+Šaty
+Pokrývka hlavy
+Ochrana chrbta
+Bezpečnostné zrkadlo
+Spodná bielizeň
+Samočinný dýchací prístroj (SCBA)
+Súprava odevov
+Príslušenstvo pre elektromotor
+Výrobky osobnej starostlivosti
+Nápoje
+Respirátor na čistenie vzduchu (PAPR)
+Papierové uteráky
+Riadenie dopravy/cestné značenie
+Rohož na ochranu káblov
+Mikrometer
+Číselník
+Značka teploty
+Vidlica
+Valcový drážkovač
+Zariadenie na testovanie materiálu
+Priemyselný tester/meter
+Digitálny fotorámik
+Príslušenstvo pre spotrebnú elektroniku
+Príslušenstvo pre kameru (monitorovací systém)
+Aplikačný softvér pre konferenčný systém
+Tlmočnícky pult
+Ovládač pre konferenčný systém
+Interkom
+Príslušenstvo pre konferenčný systém
+Nástenný kanálový systém, integrovaný do steny
+Vodotesný kryt skupinového rozvádzača
+Káblový vývodový kryt
+Protišmyková podložka
+Vypínacia poistková vložka, stredné napätie
+Automatická sekcionizačná spojka (ASL)
+Pištoľ na klince (prášková)
+Zvukové rozhranie pre konferenčný/rozhlasový systém
+Závitový klinec
+Montážna skrinka prázdna
+Smerovač pre systém verejného rozhlasu
+Tvarovací diel pre inštalačné rúrky
+Senzor na analýzu kvapalín
+Nástroj na zbernicu
+Napäťovo riadené skratovacie zariadenie
+Príslušenstvo pre zariadenie na ochranu pred prepätím stredného napätia
+Konektor ventilu (poľná zostava)
+Radiátor na sušenie uterákov (elektrický)
+Nástenná vodiaca doska pre plastové potrubia
+Upevňovacia krytka, základová konzola
+Radiátorová vložka
+Ponorný termostat
+Domáci ventilátor
+Podlahová vzduchová mriežka, obdĺžniková vpredu
+Predhrievač oleja
+Elektrická vzduchová clona
+Plavákom ovládaný sifón
+Kryt dymovodu
+Kuchynský odsávací box
+Vanový výťah
+Základová konzola
+Kúpeľňové umývadlo
+Regulátor konštantného prietoku
+Jednoplášťový nadstavec na odvod spalín, 3 prípojky
+Uzemňovací hrot, základová konzola
+Predná podpera
+Termostat Fancoil
+Potrubie výmenníka tepla
+Storzova redukovaná spojka
+Príslušenstvo pre poplašný ventil
+Odvzdušňovač
+Mechanický splachovač pisoára
+Trojcestný zátkový ventil
+Sprchové/záchodové sedadlo
+Montážna súprava, rebrovaný upevňovací pásik
+T-kus, dvojitý okrúhly vzduchový kanál
+Káblový snímač teploty aktívny
+Predĺženie umývadla
+Pneumaticky ovládaný trojcestný regulačný ventil
+Tenkostenná oceľová rúrka
+Plastová posuvná doska, priechodná dlaždica
+Rohový vstupný sprchový kút obdĺžnikový
+Snímač relatívnej vlhkosti/teploty v miestnosti aktívny
+Výstupný upínací kus strešný žľab
+Snímač teploty spalín aktívny
+Okrúhla sprchová stena
+Laboratórny kohútik
+Posuvný kus
+Predĺženie vretena pre ventil
+Trojitý sifón
+Predĺženie splachovacej rúrky
+Nádrž na solárny ohrievač
+Päťhranná sprchová stena
+Odvzdušňovací ventil (CH)
+Príslušenstvo pre radiátorové armatúry
+Dvojdielna konzola kruhová
+Nástenná lišta, prispôsobené sanitárne armatúry
+Krížový diel, kruhový vzduchový kanál
+Kľúč na zástrčkový ventil
+Pripojovací kus strešného žľabu
+Ponorné fekálne čerpadlo
+Ohyb obdĺžnikového vzduchového potrubia
+Regulátor rádiografickej zóny
+Uzatvárací ventil (vodovodná voda)
+Sklenený teplomer
+Mechanické príslušenstvo, konvektor ventilátora
+Systém nastavenia výšky WC
+Ovládač splachovania splachovací systém mechanický
+Tlačidlo termostatu radiátora
+Kryt strešného vetracieho otvoru
+Vzduchová clona bez výmenníka tepla
+Príslušenstvo a diely sprchovej steny
+Plastová izolovaná hadica so špirálou
+Hliníková profilovaná rúrka
+Napúšťací a vypúšťací ventil
+Termostatický odvzdušňovač
+Súprava držiakov odpadového koša
+Štvorcestný kohút so zátkou
+Čerpadlo s normálnym blokom a základnou doskou
+Spodný H-blok
+Podpera toalety
+Príslušenstvo pre potrubný kanál
+Kýblový filter, jednoduchý
+Čistiaci prostriedok
+Elektrický kotol
+Zápustka pre držiak popolníka
+Žalúziový uzáver Storz
+Kryt, vkladací kanál
+Podpera parapetu radiátora
+Dvojstenná/vstavaná vaňová/sprchová batéria s dvojitým prvkom
+Nástenná ovládacia súprava pre podlahové vykurovanie
+Snímač relatívnej vlhkosti/teploty v kanáli aktívny
+Príslušenstvo, sprchový nosič/prebaľovací pult
+Hrniec, zabudovaný kanál
+Držiak dvojitého potrubia
+Dištančný rámček pre radiátor
+Strešný stojan prefabrikovaný komín pre rodinný dom
+Mriežka z gázy
+Šatňový stôl
+Koncentrický tvarovka na prívod spalín/vzduchu, 3 prípojky
+Štvorcestný guľový ventil
+Výstupná dýza, kruhový vzduchový kanál
+Kombinácia pripojenia radiátora s ventilom a spodným blokom
+Veniec
+Snímač hladiny kvapaliny
+Príslušenstvo pre membránový ventil
+Montážna konzola pre nástennú dosku
+Kombinácia posuvných tyčí
+Strešný kanál na odvod spalín
+Príslušenstvo pre spínač tlakovej diferencie
+Podlahová podpera pre konzolu potrubia
+Odbočka obdĺžnikového vzduchového potrubia
+Priechodná škridla
+Okrúhla bočná prípojka, vkladací kanál
+Odvzdušňovač
+Oddeľovací pás strešného žľabu
+Prívodná doska
+Guľový ventil
+Ohyb kruhového vzduchového potrubia
+Redukčný ventil
+Príslušenstvo pre meracie zariadenie pre regulátory prietoku a tlaku
+Zápustka pre odpadkový kôš
+Bezpečnostný rozvádzač pre detektory dymu
+Bidet
+Snímač absolútnej vlhkosti v potrubí
+Bočná strana pre vaňu a sprchu
+Dvojitý sifón
+Betónová väzba na osadenie lišty
+Prevzdušňovač
+Držiak ručnej sprchy
+Ventil VEWI
+Oddeľovacia priečka strešného žľabu
+Tesnenie pera, potrubie na odvod spalín
+Uzatvárací ventil radiátora
+Obdĺžnikové vzduchové potrubie
+Výmena dosiek CH
+Súprava vertikálnych radiátorových konzol
+Posuvná tyč
+Ohnisková rúrka na splachovanie
+Plavákový ventil splachovacej nádrže
+Vypúšťanie strešného zberača lístia
+Noha umývadla
+Dvojitá stena/vstavaný prvok závesná skriňa so splachovacou nádržkou
+Držiak na sklo/ zubnú kefku
+Šikmý roh, zabudovaný kanál
+Snímač relatívnej vlhkosti v potrubí
+Svorka nosníka koľajnice
+Y-filter
+Konvektorový radiátor
+Nosná doska
+Perforovaná mriežka
+Kontaktný snímač teploty
+Vkladací pásik
+Príslušenstvo pre termostatický regulačný ventil, teplá voda
+Ručná sprcha
+Nástenná doska na držiaku
+Šupátkový ventil
+Príslušenstvo pre spätný ventil
+Sprchový kút
+Konzola s manometrom
+Obdĺžnikový vzduchový kanál s voľnou prírubou
+Plénum pre vzduchotechnickú jednotku
+Predlžovací oblúk splachovacieho potrubia
+Redukčná súprava s kompresným krúžkom
+Pneumaticky ovládaný dvojcestný regulačný ventil
+Kľukový záchod
+Ohyb, dvojstenné kruhové vzduchové potrubie
+Snímač relatívnej vlhkosti/teploty v miestnosti
+Šatník s mlynčekom na fekálie
+Vonkajší snímač relatívnej vlhkosti
+Prvok práčky pre stavebnú stenu
+Prefabrikovaný komín, rodinný dom
+Kúpeľňová strana
+Venturiho vložka pre TČ
+Krycia rozeta, kruhové vzduchové potrubie
+Obklad z prírodného kameňa
+Krbové šupátko
+Zásobník kotla
+Snímač vonkajšej teploty
+Okrúhle vzduchové potrubie z T-Y-kusov
+Systém vysokého/nízkeho umývadla
+Okrúhly sedlový kus pre vzduchové potrubie
+Spínanie detekcie vody
+Kryt komína
+Konštrukcia držiaka komína
+Spojka vodovodnej batérie pre hornú časť
+Tepelný servomotor
+Príslušenstvo, sprchová/záchodová stolička
+P, S, sifón s kadičkou
+Konštrukčná doska pre montážnu lištu
+Radiátorová nástenná konzola
+Kotol s predohrevom
+Vedro s filtrom, dvojité
+Plavákový ventil
+Alarmový ventil
+Rozširujúci modul pre ohrievač vzduchu, nepriamy
+Obdĺžnikový vzduchový kanál s posunutým ohybom
+Príslušenstvo, sprcha/WC
+Jednolamelový regulačný ventil, oválny vzduchový kanál
+Rozstrekovač pre domácnosť
+Zabudovaná skrinka pre pisoár
+Regulátor objemu a tlaku vzduchu, okrúhly
+Vertikálna radiátorová konzola
+Elektronický splachovač pisoárov
+Príslušenstvo, zdvihák na WC
+Konvektorová konzola
+Trojcestný ihlový ventil
+Ovládač s pevnou aplikáciou
+Vkladacia doska pre konštrukciu s pevným bodom
+Konvektorový prvok
+Aktívny snímač povrchovej teploty
+Držiak bez studeného mosta
+Upevnenie odlučovača/odlučovača bahna
+Ponorný snímač teploty aktívny
+Viacvrstvové potrubie, hladké
+Storzova spojka/závit
+Závesný systém pre ohrievač vzduchu, nepriamy
+Hák na základový nosník
+Jednobodový spodný spojovací blok
+Prepadová mriežka
+Kotol, s priamym ohrevom
+Plynový ohrievač na stenu
+Zárez pre držiak mydla
+Pisoár
+Dezinfekčný prostriedok
+Náprstková predná doska
+Ihlový ventil
+Prírubové puzdro
+Tepelná izolácia potrubia
+Pripojovacia skupina kotla
+Odlučovač vzduchu/nečistôt pre systém CH/chladenie
+Elektromagnetický ventil
+Manometrický ventil
+Plochá rolovacia požiarna hadica so spojkou
+Navíjač požiarnej hadice
+Súprava plniacej hadice pre kotol
+Oceľové profilované potrubie
+Dávkovacie čerpadlo
+Ručné lopatkové čerpadlo
+Automatická expanzná jednotka
+Odlučovač oleja/benzínu/mastných látok
+Sálavé zariadenie, priamo vykurované
+Mriežka dýzy
+Vonkajšia lamelová mriežka
+Kyvadlové zavesenie potrubia
+Guľový záves
+Strešný vývod dažďovej vody
+Strešný výlevný lievik podtlakový systém
+Strešný žľab
+Oddeľovací posuvný strešný žľab
+Dekorácia strešného žľabu
+Vypúšťacia nádrž solárneho ohrievača
+Podlahový odtok s 1 prípojkou
+Odvodňovacia mriežka
+Odtokové vedro
+Kruhový prstenec
+Mobilný ohrievač vzduchu (plyn/olej)
+Riadiaca jednotka podlahového vykurovania
+Skriňa navijaka
+Izolačná spojka
+Ventil na nedostatok plynu
+Rozdeľovací ventil
+Hlavný postrekovač
+Regulačný ventil tlaku plynu
+Skupina pripojenia expanznej nádrže
+Rozeta postrekovača
+Trojcestný elektromagnetický ventil
+Štvorcestný elektromagnetický ventil
+Podporné puzdro
+Regulátor tlaku, riadený médiom
+Ohyb s montážnou podperou
+Prechodový uzáver, liatina bez rukávov
+Zváracia pätka
+Zváracie sedlo
+Čistiaci kus
+Spojka ventilu s kompresným krúžkom
+Hasiaca jednotka
+Samonasávacie horizontálne čerpadlo
+Riadiaci systém čerpadla
+Pevná príruba
+Plastové potrubie, rebrované
+Elektronický kohútik
+Základný panel vane a sprchy
+Spodná lišta na vaňu a sprchu
+Čerpadlo do studne
+Vzduchový filter na zachytávanie tukov
+Obdĺžnikové vzduchové potrubie pohlcujúce zvuk
+Mriežková mriežka
+Vanová mriežka
+Väzenská mriežka
+Solárny kolektor
+Žalúzia na inštaláciu potrubia
+Požiarna klapka, obdĺžniková
+Ventilový register
+Kruhová požiarna klapka
+Odparovacia vanička
+Posuvná mriežka
+Samočistiaci filter
+Filtračný prvok pre y filter
+Filtračný prvok pre vedrový filter
+Filter pre dočasnú inštaláciu
+Obojstranný stenový skriňový ohyb
+Armatúra so 6 prípojkami
+T-kus prepadového potrubia
+Montážna rohová podpera sanitárna
+Dištančný držiak sanitárny
+Pripojovacia lišta sanitárna
+Vystuženie voľne stojacej steny
+Upevňovacia svorka pre závitovú tyč
+Zvuková izolácia pre nástennú dosku
+Vypúšťacia zátka pre vaňu
+Spojka S
+Prenosný detektor plynu
+Zariadenie na kontrolu úniku plynu
+Príslušenstvo pre podlahové vykurovanie
+Rozdeľovač/zberač ústredného kúrenia pre radiátory/konvektory
+Príslušenstvo pre rozdeľovač/zberač ÚK pre radiátory/konvektory
+Montážny rám pre požiarnu klapku
+Izolačný balík, konštrukcia steny požiarnej klapky
+Ručné piestové čerpadlo
+Uličný hrniec
+Kľúč na závitové kohútiky pre uličný hrniec
+Teleso meradla
+Plynové potrubie
+Vrchný diel pre strešnú vpusť
+Výstužná doska UV-funnel
+Upevňovacia doska UV-funnel
+UV-funnel izolácia proti kondenzácii
+Súprava tesniacich krúžkov UV-funnel
+Súprava upínacej príruby UV-funnel
+Krúžok z plastovej fólie UV-funnel
+Strešné lemovanie, univerzálne
+Súprava zváracích/spájkovaných prírub pre UV lievik
+Núdzový prepad (bočný vývod)
+Hadicový ventil
+Teflónový kompenzátor s prírubami
+Akzo spojka/spojka hadice
+Spojka s vačkou a drážkou/spojka hadice
+Svorková spojka/spojka so závitom
+Guilleminova spojka/závit
+Guilleminova spojka, kompozitná hadica
+Závitová spojka kompozitná hadica
+Otočná spojka
+Klapková spojka / závit
+Rýchlospojka ventilu/ hadicová spojka
+Zásobník, beztlakový
+Látkový zachytávač oleja
+Hriadeľová objímka pre zachytávač oleja
+Koncový uzáver hriadeľového tesnenia
+Gumové olejové tesnenie
+Teflónová hrana pre teflónové tesnenie
+PTFE perové tesnenie
+Tesnenie rodaru
+Špirálová pružina pre zachytávač oleja
+V-krúžkové tesnenie
+Súprava katódového tesnenia príruby DIN
+Ochranný kryt príruby
+Lepené tesnenie
+Podporný krúžok pre O-krúžok tesnenia
+Kovové O-krúžkové tesnenie
+Tlakový krúžok mechanické tesnenie
+Pružinové mechanické tesnenie
+Mechanické tesnenie, dvojdielne
+Posuvný krúžok, mechanické tesnenie
+Pomocné tesnenie, mechanické tesnenie
+Rotor, mechanické tesnenie
+Stator, mechanické tesnenie
+Tesnenie vývodiek
+Protišmykový krúžok, mechanické tesnenie
+Výkyvné rameno pre hadicový bubon
+Hadicový bubon stroja
+Hadicový bubon, jednoduchá hadica
+Hadicový bubon, dvojitá hadica
+Hadica chladiacej kvapaliny pre sústruh/frézku
+Kompozitná hadica
+Kovová hadica, zvlnená
+Kovová hadica s háčikom
+AWG hadica
+1-dielna a 2-dielna hadicová svorka
+Skrútený krúžok pre kovovú hadicu
+Plastová guľa
+Tepelnoizolačná tkanina
+Tepelnoizolačná šnúra
+Očná/obličajová sprcha
+Kombinácia núdzovej očnej sprchy
+Podpera vane
+Nohy/rám vane
+Podpera podstavca sprchy
+Nohy/rám sprchovej základne
+Sprchové nosidlá
+Výška záchodového sedadla
+Umývadlová doska
+Kúpeľňová doska
+Teplomer s klipom na potrubie
+Podzemný hydrant
+Ručné membránové čerpadlo
+Kontrola úniku plynu, typ koncentrácie plynu
+Kontrola úniku plynu, princíp pretlaku
+Plynová blokáda
+Termočlánok pre horák
+Dvojitý manometrický ventil
+Nástavec pre podzemný hydrant
+Hák na poklop šachty
+Pripojovací kus na prívod vzduchu
+Závesná konzola pre nástenný kotol
+Súprava na nastavenie paliva
+Zabudovaný sifón
+Splachovacia rúrka pisoára
+Konzola tlakovej expanznej nádoby
+Lievik pre sifón
+Sifón pre vaňu/sprchovú základňu
+Spádové potrubie na odvod spalín
+Kryt na vtáky
+Pripojovacia súprava závesná skriňa
+Zabudované splachovacie potrubie
+Priechodka pre nádrž
+Kombinovaný posuvný uzáver
+Podlahový stĺpik pre šupátkový ventil
+Sprchová jednotka
+Sprchový záves
+Komfortná jednotka
+Kôš na bielizeň
+Úchytka pre nábytok
+Výmenník tepla spalín
+Tesnenie pera
+Príslušenstvo pre pripojenie na stenu, podlahová skriňa
+Sifón pre pisoár
+Ponorná rúrka
+Príruba potrubia pre snímač
+Súprava na pripojenie meracieho bodu kanála
+Stožiar pre meteorologickú stanicu
+Kabína snímača
+Prípojka pre tlakový spínač
+Kapilárna súprava pre tlakový spínač
+Lopatka pre prietokový spínač
+Priechodka pre závesný záves
+Štandardná montáž podlahového odtoku
+Nástavec a predĺženie pre podlahový odtok
+Hrana vodnej zábrany pre podlahový odtok
+Súprava na pripojenie splachovacieho potrubia
+Elektricky zváraná vložka s pevným bodom
+Trhací kotúč
+Odvzdušňovací ventil
+Súprava pevných prírub s príslušenstvom
+Opravná nástenná doska
+Odtokové potrubie s manometrom
+Konzolový plášť
+Vzduchové príslušenstvo pneumatického servomotora
+Šneková prevodovka pre ventily
+Zmontovaný poplašný ventil
+Odtok dažďovej vody
+Vodovodný ventil kus
+Mobilný elektrický ohrievač vzduchu
+Montážny držiak solárneho kotla
+Príslušenstvo pre solárny kolektor
+Čelný strešný žľab
+Vertikálny vodovážny spínač
+Pripojovacia rúrka manometra
+Elektronický riadiaci systém pre sprchu
+Mechanický riadiaci systém pre sprchu
+Zástrčka umývadla
+Dávkovač mydla
+Zrkadlo
+Držiak uterákov
+Háčik na uteráky
+Držiak na toaletný papier
+Držiak na náhradný toaletný papier
+Súprava záchodových kefiek
+Držiak na zubné kefky
+Držiak na mydlo
+Skrinka na úpravu vzduchu, vnútorná časť
+Odpadová jednotka umývadla
+Kombinovaný odtok vody z vane
+Držiak expanznej nádoby
+Samotesniaca spojka
+Výtok dažďovej vody
+Stojan pre strešný ventilátor
+Strešná krytina
+Podlahový odtok s niekoľkými prípojkami
+Šachta na odsávanie kalu
+Tenký rošt strešného žľabu
+Spojovacia nádoba
+Funkčný server CH
+Profilované potrubie z nehrdzavejúcej ocele
+Protimrazový prvok, dažďové potrubie
+Sedadlo vane
+Chladiaci prvok manometra
+Tlmič nárazov tlakomeru
+Bezpečnostné zariadenie proti pretlaku manometra
+Odlučovač vody, pary a stlačeného vzduchu
+Kužeľový vreckový filter okolo vzduchového potrubia
+Kryt kužeľového vreckového filtra okolo vzduchového kanála
+Elektromagnetický prietokomer kvapaliny
+Plastové O-krúžkové tesnenie
+Gumové O-krúžkové tesnenie
+Štvorkrúžkové tesnenie
+Prietokomer kvapaliny
+Prietokomer vzduchu
+Pneumatický uvoľňovací valec
+Uvoľňovací magnet
+Ventil stlačeného vzduchu
+Uvoľnená príruba dosky
+Spojovacia matica
+Dávkovač papiera
+Redukcia, obdĺžnikový/pravouhlý vzduchový kanál
+Nádrž solárneho ohrievača s integrovaným CH
+Spätná klapka typu Wafer
+Vyfukovací ventil
+Rohový profilový strešný žľab
+Prívodný nástavec
+Tlmič vodného rázu
+Šroubenie s ľavým a pravým závitom
+Redukcia, oválny vzduchový kanál
+Redukcia, oválne/okrúhle vzduchové potrubie
+Držiak s jedným popruhom, oválny vzduchový kanál
+Vyfukovací kohút
+O-krúžkové tesnenie s plášťom
+Tesnenie hydraulickej objímky
+Hydraulická tesniaca súprava, strešná forma
+Hydraulické stieracie tesnenie
+O-krúžkové aktivované tesnenie
+Tesnenie aktivované pružinou
+Rukáv pre tesniacu súpravu, strešná forma
+Podporný krúžok pre tesniacu súpravu, strešná forma
+Prítlačný krúžok pre tesniacu súpravu, strešná forma
+Hydraulický vodiaci krúžok (tesnenie)
+Hydraulické vodiace pásové tesnenie
+Tvarovka s dvojitými rozmermi
+Ochranný kryt drôtu
+Beztlaková spojovacia súprava nádrže
+Spojenie stenového kanála
+Vkladacia časť spojky
+Výplňový disk nástennej dosky
+Difúzor štrbiny
+Mriežka žľabu
+Grafitová páska
+Výtlačná mriežka
+Podlahová vzduchová mriežka, okrúhla predná časť
+Utesňovací krúžok drážky
+Utesňovacia šnúra vývodky
+Gumový T-diel
+Gumový U-diel
+Gumová časť žiarovky
+Sekcia upínacej pásky
+Gumová viacstranná/trapézová časť
+Gumový obdĺžnikový profil
+Gumová šnúra
+Gumová nárazová časť
+Gumová upínacia časť nosiča skla
+Gumový kľúč pre nosnú časť skla
+Gumová rohová časť
+Gumová rohová ochranná časť
+Pásik z bunkovej gumy
+Podložka pre PTFE tesnenie
+Gumová tyč
+Sťahovák tesnenia
+Hrot na sťahovanie tesnenia
+Odstraňovač tesnenia
+Kufrík so sortimentom sanitárnych tesniacich materiálov
+Kazeta s mechanickým tesnením
+Kazetové mechanické tesnenie (dvojité)
+Súprava tesnenia vretena
+Tepelnoizolačná páska
+Expandovaný teflónový tesniaci pás
+PTFE tesniaca páska
+Tesniaca podložka
+Plastová fólia
+Plastový zvárací drôt
+Gumové prírubové tesnenie (nenormalizované)
+Prírubové tesnenie z vlákien (nenormalizované)
+Gumové prírubové tesnenie (DIN)
+Prírubové tesnenie z vlákien (DIN)
+PTFE prírubové tesnenie (ANSI)
+Prírubové tesnenie z vlákien (ANSI)
+Gumové prírubové tesnenie (ANSI)
+Plastový uholníkový profil
+Plastový profil C
+Plastový profil U
+Plastový I-prierez
+Plastový H-prierez
+Plastový obdĺžnikový profil
+Doska z bunkovej a hubovej gumy
+Doska z vláknitej gumy
+Grafitová doska
+Doska z korkovej gumy
+Plastová doska
+Doska z vlnenej plsti
+Hliníková doska
+Mosadzná doska
+Meď
+Oceľový plech
+Doska z nehrdzavejúcej ocele
+Niklový plech
+Plech z oceľovej zliatiny
+Teflónová tesniaca doska
+Okrúhla plastová tyč
+Obdĺžniková plastová tyč
+Šesťhranná plastová tyč
+Grafitové prírubové tesnenie (DIN)
+Hrebienkové profilové prírubové tesnenie (DIN)
+Obalové prírubové tesnenie (DIN)
+Tesnenie príruby oválnej šachty (DIN)
+PTFE prírubové tesnenie (DIN)
+Tesnenie príruby RTJ (kruhový spoj)
+PTFE prírubové tesnenie (nenormalizované)
+Grafitové prírubové tesnenie (ANSI)
+Grafitové prírubové tesnenie (nenormalizované)
+Tesnenie príruby s hrebeňovým profilom (ANSI)
+Tesnenie príruby s hrebeňovým profilom (nenormalizované)
+Obalové prírubové tesnenie (nenormalizované)
+Obalové prírubové tesnenie (ANSI)
+Katódové prírubové tesnenie, ANSI
+Doska OPJ
+Ochranná lišta príruby
+Napínač reťaze aktivovaný pružinou
+Tekuté tesnenie
+Napínač remeňa aktivovaný pružinou
+Prepravné kolesá
+Prepravné koleso s pneumatikou
+Keramické vedenie lana
+Klzný profil valčekovej reťaze
+Klzný profil reťaze s ozubeným kolesom
+Klzný profil klinového remeňa
+Klzný profil kruhového remeňa
+Plochý klzný profil remeňa
+Klzný profil plastovej linky
+Blokové čerpadlo
+Ponorné čerpadlo na odpadovú vodu
+Plochá rolovacia hadica
+Spojka / závit so suchým lomom
+Vkladacia zarážka
+Tlaková jednotka
+Spojka s klapkou / klapka
+Plastová hadica s vložkou
+Špirálová hadica
+Ochrana špirálovej hadice
+Dvojitá gumová hadica
+Vedenie hadice
+Ochranné články pre hadicu
+Tesnenie pre storzovú spojku
+Kľúč na hadicovú spojku
+Guilleminova spojka/spojka na hadicu
+Guilleminova redukovaná spojka
+Guilleminova zátka
+Guilleminova spojka/zvar
+Tesnenie pre guilleminovú spojku
+DSP spojka/závit
+DSP spojka/ hadicová spojka
+DSP redukovaná spojka
+DSP zástrčka
+Tesnenie pre spojku DSP
+Tesnenie pre pazúrovú spojku
+Zásuvná spojka, 2 prípojky
+Zásuvná spojka, 3 pripojenia
+Vsuvná spojka/závit
+Vsuvná spojka, T a L/závit
+Svorková spojka/príruba
+Krytka/zástrčka pre suchú spojku
+Tesnenie pre suchú spojku
+Svorkové spojenie/zvar
+Otočný spoj pre hadicový bubon
+Hadicová kompresná spojka (2 prípojky)
+Upínací kotúč pre hadicu
+Ušná svorka pre hadicu
+Šneková skrutková svorka na hadicu
+Hadicová spojka
+Rýchlospojka ventilu
+Prírubové puzdro pre hadicovú spojku
+Akzo zarážka
+Akzo násuvná príruba
+Tesnenie pre Akzo spojku
+Kompresná spojka pre hadicu (3 prípojky)
+Kompresná spojka pre hadicu (4 pripojenia)
+Spojka s vačkou a drážkou/ závitom
+Spojka s vačkou a drážkou/zvar
+Spojka s vačkou a drážkou/príruba
+Vačková a drážková spojka/krývka
+Mriežka s puzdrom absolútneho filtra
+Vypúšťací kryt
+Mechanický regulátor konštantného objemu, okrúhly
+Mechanický regulátor konštantného objemu, obdĺžnikový
+Regulátor objemu a tlaku vzduchu, obdĺžnikový
+Vzduchotesný kontrolný poklop
+Vzduchotesné kontrolné dvierka
+Tesnenie pre vačkovú a drážkovú spojku
+Rýchlospojka TW/spojka hadice
+TW spojka/šroubenie
+TW zástrčka/krytka
+Tesnenie, TW spojka
+Tesnenie, svorkové spojky
+Hydraulická vsuvka, 2 prípojky
+Hydraulický závitový T-kus
+Hydraulický závitový krížový diel
+Hydraulická závitová zátka
+Hydraulický doraz rezného krúžku
+Hydraulická armatúra rezného krúžku s 2 prípojkami
+Hydraulický rezací krúžok T-kus
+Hydraulický rezný krúžok s krížovou prípojkou
+Hydraulická skrutková spojka rezného krúžku
+Hydraulický rezný krúžok, banjo spojka
+Rezný krúžok
+T-kus so závitom
+Krížová spojka s klapkou
+Spojka s klapkou a závitom
+Upínacie šupátko, rebrovaný upevňovací popruh
+TW upínací krúžok
+TW korunový krúžok
+Rukoväť s vačkou a drážkou
+Čap s vačkou a drážkou
+Vačkový a drážkový krúžok
+Vákuový podporný krúžok pre kompenzátor
+Sada skrutiek a podložiek pre kompenzátor
+Kohút na vypúšťanie sirupu
+Priemyselný odtokový kohútik
+Havarijný prepad (vertikálny)
+Montážna doska pre vaňovú batériu
+Pevný záves izolátora vibrácií
+Vertikálna spojka
+Krycia zátka otvoru na vodovodný kohútik
+Horná časť
+Kryt turbíny
+Súprava zobrazovacej zostavy
+Kábel pre ovládací prístroj s konektorom
+Zdvíhací pás pre hadicu
+Spojka s tromi svorkami
+Tesnenie pre trojitú svorku
+Špicatý kus, mliečna spojka/spojka hadice
+Rukoväť s vačkou a drážkou/čap/krúžok
+Spojka/príruba na suchý lom
+Svorka Tri Clamp
+Upevnenie s pevným bodom
+Podpera
+Lišta na obkladačky pre montážnu lištu
+Kombinácia vývodu a prívodu do vane
+Zvukotesná súprava pre zberné zariadenia
+Posilňovač odtoku
+Odtokové/infiltračné potrubie
+Predĺženie vretena
+Rúrková mriežka
+Okrúhla stanica na meranie objemu vzduchu
+Dvojkanálová zmiešavacia jednotka vzduchu
+Stanica na meranie objemu vzduchu, obdĺžniková
+Príslušenstvo pre radiátor
+Ohybná hliníková rúrka
+Čerpadlová jednotka na odpadovú vodu
+Teplovodivá pasta
+Vaňová zmiešavacia batéria
+Vkladacie potrubie
+Povrchová splachovacia nádržka
+Koncové veko pre liatinu bez rukávov
+Radiátorový nožný ventil
+Prechodová doska pre podlahové vykurovanie
+Plynový ohrievač vody
+Ohrievač teplej vody, nepriamo vykurovaný
+Koncentrický tvarovací kus na prívod spalín/ vzduchu, 2 prípojky
+Kotol pre predhorák
+Sprchové sedadlo
+Aktívny kontaktný snímač teploty
+Toaletná batéria
+Strešný kanál výmenníka tepla
+Výstupná dýza, obdĺžnikový vzduchový kanál, 45°
+Montážne príslušenstvo ventilu
+Izolačná prikrývka/-plocha
+Vysoká/nízka vaňa
+Závesný prvok, nosná časť potrubia
+Plastové potrubie, hladké
+Nástenný ventilátor (vstavaný)
+Držiak na umývacie rukavice
+Odtokový lievik
+Jednostenný nástavec na odvod spalín, 1 prípojka
+Príslušenstvo pre snímač tlakovej diferencie
+Bidetová zmiešavacia batéria
+Pneumatický zdvíhací systém splachovacia nádržka
+Montážna súprava na radiátor
+Sprchový kút na stenu
+Príslušenstvo pre postrekovače
+Montážna lišta
+Stúpačka pre hadicu na sprchovú batériu
+Ohyb, osadzovací kanál
+Koncentrické potrubie na prívod spalín/vzduchu
+Káblový snímač teploty
+Predĺženie nástennej skrine
+Sklo pre držiak skla
+Držiak závesného oka
+Sprchový spojovací diel
+Sada centrovacích dosiek
+Zápustka pre držiak na utierky
+Odľahčovací ventil so závažím
+Snímač teploty ponorenia
+Motýľový ventil
+Anemostat, okrúhla predná časť
+Redukcia, vkladací kanál
+Konvektorová šachta prázdna
+Pultová doska, prispôsobený systém
+Adaptér pre vzduchotechnickú jednotku
+Zásuvný ventil
+Objímka, vložkovací kanál
+Ohyb, oválne vzduchové potrubie
+Snímač intenzity svetla
+Nástavec vzduchového kanála
+Spojovacia skriňa výmenníka tepla, plochá strecha
+Prechodový kus obdĺžnikový/okrúhly vzduchový kanál
+Kryt vetracieho ventilu
+Základná doska na upevnenie konzoly
+Izbový termostat
+Bočný rohový spoj pre montážnu lištu
+Dvojitá stena/vstavaný prvok opierka na ruku
+Nástenný ventilátor (zabudovaný)
+Snímač absolútnej vlhkosti/teploty v potrubí
+Konzola koľajnice
+Redukcia, kruhové vzduchové potrubie
+Snímač kvality vzduchu v potrubí
+Posuvný diel, zabudovanie do potrubia
+Samouzatvárací kohútik - mechanický
+Nástenná konzola s dvojitým radiátorom
+Skladovací postrekovač
+Rohová podpera s pevným bodom
+Automatický vypúšťací systém pre sprchovú hadicu
+Plastová dilatačná objímka
+Snímač prietoku vzduchu
+Aktívny snímač vonkajšej teploty
+Termostatický odvádzač pary
+Chránič sifónu, prispôsobené sanitárne armatúry
+Opierka chrbta
+Snímač rosného bodu potrubia
+Potrubie z nehrdzavejúcej ocele
+Profilovaná rúrková spona
+Snímač kvality vzduchu v miestnosti
+Podstavec radiátora
+Jednostenný nástavec na odvod spalín, 2 prípojky
+Kombinovaný kotol pre odnímateľný horák
+Bezplatné programovateľné rozšírenie regulátora
+Membránová tlaková expanzná nádoba
+Vákuový ventil
+Koleno na spätné získavanie tepla
+Použitie pre voľne programovateľný regulátor
+Sprchové dvere
+Základový hák
+Sifónová rúrka
+Vidlica prepravného kolesa
+Redukcia výmenníka tepla
+Upevňovací prvok pre stavebnú stenu
+Programovacia jednotka pre servomotor/regulátor
+Suchý zips
+Príslušenstvo/diely pre ohrievač teplej vody
+Zápustka pre armatúru WC kefy
+Systém nastavenia výšky sprchového sedadla
+Držiak uzáveru
+Vonkajší senzor relatívnej vlhkosti/teploty aktívny
+Dvojitá nástenná konzola komína
+Pisoár s dvojitou stenou/vstavaným prvkom bez splachovacieho zariadenia
+Zabudované obehové čerpadlo
+Zvončekový sifón ovládaný plavákom
+Zberač prívodu spalín/vzduchu
+Držiak umývadla
+Vypúšťací ventil (radiátor a vodovod)
+Snímač relatívnej vlhkosti v miestnosti
+Plastová dvojitá hadica
+Vetrací krížový kryt
+Dvojstenný nástavec na odvod spalín, 1 prípojka
+Komínová dištančná konštrukcia
+Komínový tlmič hluku
+Odstredivý ventilátor
+Svorka nosníka typu T
+Pripojovacia konzola pre záves
+Nosič políc
+Plynová predpríprava
+Sanitárny profil systému
+Deliaca priečka pre pisoár
+Rozdeľovač studenej/horúcej vody
+Nástenné madlo/zábradlie
+Zápustka pre držiak poličky
+Kolík pre držiaky
+Špirálovo vinuté prírubové tesnenie (nenormalizované)
+Špirálovo vinuté prírubové tesnenie (ANSI)
+Čerpadlo na výkaly s normovaným motorom
+Spojka chladiča
+Ventilátor na streche, striedavý prúd (AC)
+Cirkulačný ventilátor
+Kanálový ventilátor
+Preťahovacie sedlo
+Plynový ventil
+Tlakový profil, obdĺžnikový vzduchový kanál
+Vzduchový regulačný ventil s jednou lopatkou, obdĺžnikový
+Žalúzia spätného ťahu pre strešný ventilátor
+Tlmič hluku, okolo vzduchového potrubia
+Plastová hadica, neizolovaná so špirálou
+Storzova spojka/spojka hadice
+Panelový radiátor
+Rúrkový radiátor
+Konvektorová šachta kompletná
+Opierka na ruku na WC
+Pomocná súprava podporných nôh bezbariérová sanita
+Sprchová stolička
+Madlo/zábradlie pre telesne postihnutých
+Kryt guľatej drôtenej mriežky
+Ohrievač vzduchu, nepriamo vykurovaný, závesný
+Výkyvná/stropná podpera
+Podlahový stojan bezbariérový sanitárny
+Chladivo
+Ventilátorová jednotka
+Elektrické príslušenstvo, konvektor ventilátora
+Sprchové WC sedadlo
+Systém nastavenia výšky, podpera na WC
+Príslušenstvo, vaňový výťah
+Príslušenstvo, záchodová podpera/rukoväť
+Mechanické príslušenstvo pre čerpadlá
+Kompresný krúžok
+Súprava kompresných krúžkov
+Pripojovacia vsuvka manometer
+Zemniaca svorka na elektrické zváranie
+Skúšačka kyselín v batérii
+Adaptér multimetra
+Kompresné skúšobné čerpadlo
+Kompresná skúšobná zátka
+Koncová zástrčka
+Merač nemrznúcej zmesi
+Metla
+Tyč
+Požiarna prikrývka
+Hasiaci prístroj
+Súprava na čistenie trysiek
+Rukoväť horáka
+Hlava horáka
+Predlžovací diel horáka
+Ohýbací blok
+Ohýbačka rúr
+Lisovacie kliešte na tlačné tvarovky
+Zdvíhací zdvihák
+Lisovacia hlava
+Rezák na závity
+Merač diferenčného tlaku
+Držiak elektród
+Vedro
+Rozširovacia hlava na rúrky
+Rozširovacie kliešte na rúrky
+Tester expanznej nádrže
+Obrubovací stroj (rúrka)
+Plynový zapaľovač
+Vozík na plynové fľaše
+Merač úniku plynu
+Merač nastavenia ohrievača vody
+Merač intenzity zvuku
+Kliešte na vačky
+Ručná odsávacia súprava analyzátor spalín
+Tvrdá spájka
+Zdvíhací stôl
+Ohýbačka uhlov
+Kefa na kotly
+Brúska na sedlá vodovodných kohútikov
+Rebríkový zdvihák
+Súprava zváracích/rezacích horákov
+Zváračské okuliare
+Zvárací drôt
+Zváracia elektróda
+Zváračská prilba/zváračská maska
+Zvárací rukáv
+Zvárací horák
+Zváračská zástera
+Zváracie zrkadlo
+Zvárací transformátor
+Koncový diel zváracieho horáka
+Kontrolná kamera
+Krab žeriava
+Merač vypúšťaného vzduchu
+Merač rýchlosti prúdenia vzduchu
+Merač vlhkosti vzduchu
+Ochranný kryt manometra
+Merač rýchlosti prúdenia vzduchu s meracou hlavou
+Odmrazovací transformátor
+Kľúč na vypúšťanie vzduchu
+Rezák na tesnenia
+Zariadenie na zmrazovanie potrubia
+Stroj na ohýbanie potrubia
+Podpera potrubia
+Pitotova trubica
+Propánová fľaša
+Zápustková hlava s račňou
+Zváracie a spájkovacie náradie redukčného ventilu
+Analyzátor spalín
+Sonda spalín
+Čistiaca kefa
+Súprava dierovačov na písmená/čísla
+Rezacia/chladiaca kvapalina
+Rezací horák
+Koncový diel rezacieho horáka
+Držiak výsekovej dosky
+Spájkovacie kliešte
+Svorka na oceľový drôt
+Zástrčka zváracieho kábla
+Inštalácia skúšobného plynového požiarneho poplachu
+Lano
+Odsávacia hlava
+Súprava extraktora
+Bezpečnostné lano
+Súprava prvej pomoci
+Predlžovacia tyč pre anemometer
+Prístroj na zisťovanie prekážok v rúrke
+Hasiaci prístroj
+Plniaca plynová fľaša
+Záručný kufor (NL výrobok!)
+Zvárací horák s ochranou proti vetru
+Bezpečnostná lišta, svorka nosníka modelu C
+Rúrkový hladinomer, horná a spodná časť
+Rúrkový hladinomer, spodná časť
+Hladinomerná rúrka, horná časť
+Hladinomerná rúrka, stredná časť
+Hladinomerná rúrka zo skla
+Meradlo, magnetické
+Prehliadacie/kontrolné zariadenie
+Hladinomer, plochý
+Polička
+Zrkadlová svorka
+Bimetalový teplomer
+Mano-teplomer
+Merač tlakového rozdielu
+Membránový tlakomer
+Membránový bubnový tlakomer
+Tlakomer s Bourdonovou trubicou
+Vonkajší termostat
+Potrubný termostat
+Kontaktný termostat
+Protimrazový termostat (vzduch)
+Izbový hygrostat
+Potrubný hygrostat
+Spínač prietoku vzduchu
+Plavákový spínač
+Spínač tlakovej diferencie
+Klapková spojka/ hadicová spojka
+Slepý uzáver pazúrovej spojky
+Tlaková objímka pre hadicu
+Hadicová spojka/prírubová spojka
+Prítlačná spojka pre hadicu/závit
+Kompresná spojka, hadica T a L/ závit
+Kompresná spojka Banjo pre hadicu
+Rýchlospojka ventilu/ závit
+Držiak popolníka
+Vedro na odpadky
+Kôš
+Akcentový farebný prvok
+Toaletná kefka pre súpravu
+Šnúra na bielizeň
+Prietokový spínač, kvapalina
+Zabudovaný prietokový spínač, tekutý
+Záchodové sedadlo
+Pneumatický servomotor pre ventily
+Stropná indukčná jednotka
+Indukčná jednotka na fasáde
+Pasívny stropný chladiaci konvektor
+Hladinový spínač pre parný kotol
+Elektronický hladinový spínač
+Opletenie hadice
+Strešný ventilátor s trvalým prúdom (DC)
+Oválny vzduchový kanál
+Dvojstenný kruhový vzduchový kanál
+Kryt, kruhový vzduchový kanál
+Spojovací diel, kruhový vzduchový kanál
+Revízny oblúk, kruhové vzduchové potrubie
+Výstupný ohyb, kruhové vzduchové potrubie
+Kryt, dvojstenný kruhový vzduchovod
+Pripojovací kus dvojstenného okrúhleho vzduchovodu
+Automatický horák
+Snímač povrchovej teploty
+Stropný snímač teploty
+Snímač teploty mrazu
+Snímač teploty spalín
+Prevodník signálu
+Prevodník signálu aktívny
+Zvuková izolačná mriežka
+Hadicová spojka/ závitová spojka
+Valcový filter
+Bunkový filter
+Okrúhly vzduchový filter
+Rám pre vzduchový filter
+Kazetový vzduchový filter
+Jednotka valcového vzduchového filtra
+Rám vzduchového filtra
+Kryt vzduchového filtra
+Stenové/strešné potrubie, kruhové vzduchové potrubie
+Napínací krúžok, kruhové vzduchové potrubie
+Zvuk pohlcujúci ohyb, kruhové vzduchové potrubie
+Zvuk pohlcujúci strešný kanál, kruhový vzduchový kanál
+Absorbér zvuku, oválny vzduchový kanál
+Prírubový krúžok pre kovovú hadicu
+Jednotka vzduchového filtra
+Kryt pre strešný ventilátor
+Strešná manžeta pre strešný ventilátor
+Akustický tlmič hluku pre strešný ventilátor
+Prírubový krúžok, kruhové potrubie
+Redukcia dvojstenného kruhového vzduchového potrubia
+Izolácia, krycí krúžok, kruhové vzduchové potrubie
+Voľná príruba, kruhové vzduchové potrubie
+Sací kužeľ kruhového vzduchovodu
+Revízny kus, kruhové vzduchové potrubie
+Montážny krúžok, hadica/ventil
+Teleskopická rúra, kruhový vzduchovod
+Výfukový zberač, kruhové vzduchové potrubie
+Spojovací kus, oválny vzduchový kanál
+Kryt, oválny vzduchový kanál
+Oválne sedlo pre vzduchový kanál
+Ventilačný kryt, kruhový vzduchový kanál
+Regulačný ventil, kruhový vzduchový kanál
+Svorková spojka/spojka hadice
+Pevná gumová doska
+Stropný nátrubok pre strešný ventilátor
+Prírubová doska pre strešný ventilátor
+Flexibilná prípojka potrubia
+Nastavovací diel pre strešný ventilátor
+Membránový ventil (okrúhly)
+Dymový ventil dvojstenný kruhový vzduchový kanál
+Vzduchový kanál s dymovým ventilom
+Regulačný ventil, dvojstenný vzduchový kanál
+Šupátkový ventil, kruhový vzduchový kanál
+Trojcestný ventil, kruhový vzduchový kanál
+Spätný ventil, kruhový vzduchový kanál
+Spätný ventil dvojstenný, kruhový vzduchový kanál
+Vzduchová mriežka na oddeľovanie piesku
+Mriežka dýzy v ráme
+Rekuperačná jednotka pre rodinný dom
+Rekuperačná jednotka
+Kontrolný poklop pre vzduchové potrubie
+Dvojbodový spodný spojovací blok
+Záchodová skriňa
+Elektrický servomotor
+Mriežka z dierovaného plechu
+Adaptér pre plochú strechu
+Kryt vetrania výmenníka tepla
+Zostavený kusový strešný stojan prefabrikovaný komín pre rodinný dom
+Termostatický regulačný prvok
+Pripojovacia kombinácia pre dekoratívny radiátor
+Teflónová hadica
+Spojovacia súprava pre generátor tepla
+Jednoplášťová rúra na odvod spalín
+Mriežka vedra
+Teplovodná vzduchová clona
+Zabudovaný preplachovací zásobník bez rámu
+Liatinové potrubie
+Kľúč na koncovú časť
+Pohyblivý elektrický plavák vretena
+Voľné komponenty, rukoväť pre prispôsobené sanitárne armatúry
+Príslušenstvo pre servomotor
+Príslušenstvo pre izbový termostat/hodinový termostat
+Izbový hodinový termostat
+Trojcestný regulačný ventil
+Bezpečnostný ventil
+Tlakovo kompenzovaný regulačný ventil
+Príslušenstvo pre regulátor rádiografickej zóny
+Gumová hadica
+Kuchynský drez
+Kombinovaná skriňa so skriňou
+Umývacia fontána
+Kombinácia WC
+Príslušenstvo pre regulátor prietoku a tlaku
+Meracie zariadenie pre regulátory prietoku a tlaku
+Upevňovacia lišta, izolačná doska, podlahové vykurovanie
+Kotviaca spona pre podlahové potrubie
+Teplovodivá doska, podlahové vykurovanie
+Inštalácia doplňovania CH
+Dištančný držiak pre flexibilnú vložku dymovodu
+Zabudovaná zmiešavacia batéria
+Umývadlová zmiešavacia batéria
+Sprchová zmiešavacia batéria
+Elektrický ohrievač vzduchu, závesný
+Kryt sifónu
+Slophopper
+Inline obehové čerpadlo so štandardným motorom
+Viacstupňové odstredivé čerpadlo
+Koľajnicový kĺb pre montážnu lištu
+Predná stena/vstavaný prvok nástenný záchod so splachovačom
+Obojstranný stenový/vstavaný prvok pisoár so splachovacou nádržkou
+Príslušenstvo pre sanitárne zariadenie s dvojitou stenou/vstavaným prvkom
+Príslušenstvo pre splachovaciu nádržku
+Keramický obklad
+Mozaiková dlažba
+Spojovací diel pre šatník
+Guľový ventil
+Uzatvárací ventil pre sanitárne zariadenia
+Uzatvárací ventil s kolenovým ovládaním
+Kuchynská ručná sprcha
+Technický plyn
+Plastová hadica bez vložky
+Príslušenstvo pre snímače
+Strešný odtokový lievik, bočný vývod
+Potrubný sifón 0, 90, 180 stupňov
+Upevňovacia podložka pre podlahové vykurovanie
+Hadicové sedlo
+Plochý vzduchový filter
+Odtok strešného žľabu
+Vírivá mriežka
+Rebrová mriežka
+Pružné potrubie na odvod spalín
+Kryt obdĺžnikového vzduchového potrubia
+Potrubie s výklenkom
+Dvojstenný nástavec na odvod spalín, 3 prípojky
+Spojovací kus, vložkovací kanál
+Upevňovací klin, nosná časť potrubia
+Regulátor VAV
+Dvojstenný/ vstavaný prvok bidetu
+Dvojstenný/ vstavaný prvok umývadlo
+Dvojstenný/vstavaný prvok pisoár so splachovacím ventilom
+Rozprašovací postrekovač
+Nástenný postrekovač
+Suchý postrekovač
+Centrálna zmiešavacia batéria
+Vodovodná batéria
+Otvorené a uzavreté postrekovače
+Dvojitý postrekovač s výstrahou
+Vonkajší kohútik
+Vložka pre vodovodný kohútik
+Ovládací prvok pre sanitárny kohútik
+Súprava kúpeľňového nábytku
+Spodná skrinka pod umývadlo
+Sprchová hlavica
+Umývadlová horná skrinka
+Koncentrický kus na prívod spalín/vzduchu, 1 prípojka
+Oceľové potrubie
+Nadzemný hydrant
+Búrkový golier, kruhové potrubie
+Štvorhranné potrubie na dažďovú vodu
+Stojatý kombinovaný kotol, integrovaný horák
+Kotol elektrický
+Kotol s nepriamym ohrevom
+Kotol, nepriamo vykurovaný, s riadiacim systémom
+Ohrievač teplej vody, nepriamo vykurovaný, s riadiacim systémom
+Ohrievač vzduchu, priamo vykurovaný, závesný
+Nástenný kombinovaný plynový kotol
+Stojanový kotol s integrovaným horákom
+Spodný vývod strešného lievika
+Flexibilná kovová spojovacia hadica
+Predexpanzná nádrž
+Príslušenstvo pre elektrický dvojcestný regulačný ventil
+Príslušenstvo pre kuchynský odťahový box
+Izolačná vanička, výmenník dosiek CH
+Odvzdušňovač pre dopravné potrubie
+Fasádna žalúzia
+Konzola pre servomotor
+Elektricky ovládaný dvojcestný regulačný ventil
+Jednodielna konzola
+Snímač teploty v miestnosti
+Vypúšťacia objímka WC
+Dvojplášťový nástavec na odvod spalín, 2 prípojky
+Nadstavec, riadiaca jednotka pisoára
+Závesné oko, závesný popruh
+Odbočovací kohútik
+Protipožiarny ventil
+Snímač prietoku kvapaliny
+Stropný snímač teploty aktívny
+Výstup pre sanitárne kohútiky
+Namontované prepravné koleso
+Centrálny odsávací systém sporáka
+Nástenná zmiešavacia batéria
+Výstupné koleno, obdĺžnikové vzduchové potrubie
+Membránový ventil
+Stomia Umývadlo
+Rohový nadstavec, podpera WC
+Umyvadlo na šmykľavku
+Kuchynská zmiešavacia batéria
+Rohový kus strešného žľabu
+Konzolový diel, liatina bez rukávov
+Palubný sanitárny systém s dvojitou stenou
+Dvojcestný regulačný ventil
+Príslušenstvo pre domácu riadiacu súpravu
+Vonkajší snímač relatívnej vlhkosti/teploty
+Základná doska pre voľne programovateľný regulátor
+Strešný kanál, kruhový vzduchový kanál
+Potrubný kanál
+Hliníkové potrubie
+Z-kus pre montážnu lištu
+Sprchová vanička
+Okrúhly vzduchový kanál
+Umývadlový stĺp
+Piestový ventil
+Držiak strešného žľabu
+Základový podlahový čap
+Skriňa skupinového rozdeľovača
+Vzduchová clona pre studenú aplikáciu
+Snímač rosného bodu v miestnosti
+Bimetalový odlučovač pary
+Obdĺžnikové vzduchové potrubie v tvare T (90 stupňov)
+Nožný ventil
+Umývadlový prvok pre stavebnú stenu
+Zásobník solárneho ohrievača s kolektorom
+Upínacia lišta, základová konzola
+Nožové šróbenie
+Regulačný ventil
+Snímač rýchlosti vetra
+Krycia doska, systém nastavenia výšky
+Pripojovacie príslušenstvo profilu sanitárne
+Trojcestný závitový ventil
+Snímač tlakovej diferencie
+Spätný ventil
+Sklenená tehla
+Kombinovaný kotol s odnímateľným horákom
+Plochá príruba, kruhový vzduchový kanál
+Uzáver odpadu pre základňu sprchy
+Prírubová objímka, osadzovací kanál
+Výsuvná spojka pre plastovú rúru
+Umývadlová zátka
+Hliníková laminátová hadica, neizolovaná so špirálou
+Prevodník tlaku
+Príslušenstvo pre ohrievače vzduchu
+Domáca regulačná súprava
+Výstupný medzikus strešného žľabu
+Nádržka na vypúšťanie dažďovej vody
+Fľaša pre dávkovač mydla
+Príslušenstvo pre vzduchovú clonu
+Snímač smeru vetra
+Voľne programovateľný ovládač
+Ochranná rúrka pre plastový potrubný systém
+Regulátor prepadového rozdielu tlakov
+Elektrické príslušenstvo pre čerpadlá
+Polica na vaňu
+Koľajnička na sprchový záves
+Príslušenstvo pre kotly
+Obdĺžniková bočná prípojka, vkladací kanál
+Príslušenstvo pre škrtiacu klapku
+Odvzdušňovací ventil
+Aktívny snímač teploty potrubia
+Kryt proti dažďu
+Snímač teploty mrazu aktívny
+Kombinovaný merací a regulačný ventil
+Pružinový poistný ventil
+Držiak skla/mydla
+Dvojitá stena/ vstavaný prvok šikmý drez
+Snímač teploty potrubia
+Spojka s upínacou lištou
+Aktívny snímač teploty v miestnosti
+Zberná vanička/nádoba
+Krycia rozeta, potrubie na prívod spalín/vzduchu
+Držiak skla
+Dosková súprava pre dvojitú stenu/vstavaný prvok
+Termostatický regulačný ventil, teplá voda
+T-Y-kus vložkovacieho kanála
+Elektrický zdvíhací systém preplachovací zásobník
+U-kus pre montážnu lištu
+Elektrické ovládanie splachovacieho systému
+Krycia doska pre vertikálnu základnú konzolu radiátora
+Spojovací prvok, nosná časť potrubia
+Nastaviteľné záchodové sedadlo (bezbariérové sanitárne)
+Dvojstenné potrubie na odvod spalín
+Vákuový prerušovač pre paru
+Špirálovo vinuté prírubové tesnenie (DIN)
+Podpera komína
+Snímač relatívnej vlhkosti/teploty v potrubí
+Medené potrubie
+Skriňový ventilátor
+Sprchová hadica
+Tlačidlová povrchová splachovacia nádržka
+Komínová veterná podpera
+Krúžok na zdvíhanie vodovodného kohútika
+Trojcestný guľový ventil
+Displej/obslužný panel
+Súprava na renováciu komína
+Ohyb potrubia radiátorového ventilu
+Stenový kanál na odvod spalín
+Anemostat, obdĺžnikové čelo
+Rozeta vodovodného kohútika
+Kombinovaný predhorák
+Pneumatický regulačný preplachovací systém
+Regulátor tlakového rozdielu
+Umývadlo
+Držiak na strešnú dosku
+Mriežková obuv pre vzduchové potrubie
+Protipožiarna manžeta pre potrubie
+Termodynamický sifón prúdu
+Súprava koľajničkovej konzoly
+Hliníková laminátová hadica, izolovaná špirálou
+Montážna hlavica, rebrovaný upevňovací pásik
+Umývacia rúra
+Základňa konvektora
+Ružica na potrubie
+Upínacie šupátko, základová konzola
+Zrkadlový prvok umývadla
+Tyristorový regulátor výkonu
+Mechanický splachovač WC
+Telesná sprcha (núdzová sprcha)
+Príslušenstvo pre ovládací ventil
+Slnečný senzor, aktívny
+Príslušenstvo pre univerzálny závesný systém
+Snímač teploty okna
+Klimatizačný split systém - jednoduchý split, kompletný
+Klimatizačný splitový systém - viacdielny, kompletný
+Klimatizačný split systém - vnútorná jednotka (výparník)
+Klimatizačný splitový systém - kondenzačná jednotka s jedným delením, chladená vzduchom
+Klimatizačný splitový systém - viacdielna kondenzačná jednotka, chladená vzduchom
+Klimatizačný splitový systém - jednosplitová kondenzačná jednotka, chladená vodou
+Univerzálny závesný systém
+Elektronický splachovač WC
+Príslušenstvo pre sprchový záves
+Systém kombinácie rukovätí, prispôsobené sanitárne armatúry
+Prívodná/odtoková súprava bezbariérová sanita
+V-šnúra
+Ohrievač kanálov, elektrický
+Ohrievač kanálov s nepriamym ohrevom
+Príslušenstvo pre ohrievač kanálov
+Súprava klimatizačného potrubia
+Príslušenstvo pre klimatizáciu
+Mobilné klimatizačné zariadenie
+Okenná klimatizácia
+Príslušenstvo pre ventilátor
+Príslušenstvo pre tepelnú izoláciu potrubia
+Otvorený rozdeľovač CH
+Kúpeľňa
+Systémová vaňa
+Príslušenstvo pre núdzovú sprchu
+Sprchový stĺp/panel
+Veľká kuchynská zmiešavacia batéria
+Veľká kuchynská batéria
+Súčasti pre sanitárne batérie
+Koncové čerpadlo
+Chladiaca jednotka pre rekuperačnú jednotku
+Príslušenstvo pre ihlový ventil
+Spodný ventil
+Toaletný výťah
+Príslušenstvo pre WC výťah
+Hydraulický pohon pre ventil
+Snímač vodivosti
+Reťazové koleso
+Ventil na zaslepenie potrubia
+Zvlhčovač vzduchu (para)
+Zabudovaná súprava pre ventil
+Parné čerpadlo kondenzátu
+Sľudová doska
+Pneumatický valec
+Regulátor vyfukovania
+Zmiešavač parnej vody
+Sľudové prírubové tesnenie
+Vstrekovač pary
+Pripojovací prvok kotla pre rekuperačnú jednotku pre rodinný dom
+Sústredná pripojovacia súprava prívod spalín/vzduchu
+Príslušenstvo analyzátor spalín
+Príslušenstvo pre spodný ventil
+Príslušenstvo pre protipožiarny ventil
+Príslušenstvo odlučovača pary
+Príslušenstvo snímač tlaku
+Príslušenstvo tlaková jednotka
+Príslušenstvo pre filter kvapalín
+Príslušenstvo hydraulický pohon pre ventil
+Príslušenstvo pre regulačný ventil
+Príslušenstvo pre guľový ventil
+Príslušenstvo upínacia spojka
+Príslušenstvo pre guľový ventil
+Príslušenstvo pre zvlhčovač
+Príslušenstvo pre elektromagnetický ventil
+Príslušenstvo pre manometer
+Príslušenstvo rozdeľovací ventil
+Príslušenstvo snímač hladiny kvapaliny
+Príslušenstvo pre hladinový spínač
+Príslušenstvo pre odvzdušňovač
+Príslušenstvo pre armatúry
+Príslušenstvo pre manometer
+Príslušenstvo ventil stlačeného vzduchu
+Príslušenstvo tanierový šupátkový ventil
+Príslušenstvo zástrčkový ventil
+Príslušenstvo piestový ventil
+Príslušenstvo Pneumatický servomotor pre ventily
+Príslušenstvo pre redukčný ventil
+Príslušenstvo pre šupátkový ventil
+Príslušenstvo vypúšťací ventil
+Príslušenstvo pre zmiešavač vody s parou
+Príslušenstvo pre teplomer
+Príslušenstvo pre prietokomer kvapaliny
+Príslušenstvo plavákový ventil
+Príslušenstvo nožný ventil
+Príslušenstvo pre storzovú spojku
+Príslušenstvo výmenník dosiek CH
+Príslušenstvo vodotesné spínanie
+Príslušenstvo šnekové prevodovky pre ventily
+Príslušenstvo tesnenie
+Príslušenstvo pre parné čerpadlo kondenzátu
+Príslušenstvo guilleminová spojka
+Príslušenstvo pre prehliadacie/kontrolné zariadenie
+Príslušenstvo pre zaslepovací ventil potrubia
+Príslušenstvo pre bezpečnostné zariadenie
+Skrinka na mazivo
+Tlmič vibrácií
+Ohrievač teplej vody s priamym ohrevom a riadiacim systémom
+Systém ohýbacích rúrok pre podlahu/stenu
+Ohybné kovové spojovacie potrubie (s možnosťou vyťahovania)
+Predizolované plastové potrubie
+Chladič potrubia studenej vody
+Piktogram Sanitárna miestnosť
+Lepidlo na dlaždice
+Profil na obkladačky
+Škárovacia hmota na dlaždice
+Sprchový výmenník tepla (rekuperácia)
+Príslušenstvo pre predizolované plastové potrubie
+Čerpadlo na kondenzovanú vodu
+Príslušenstvo regulátor tlakovej diferencie prepadu
+Tlmič nárazov
+Rohož na tlmenie vibrácií
+Vrchnák dymovodu
+Prechodový kus
+Vlhkomer
+Plynové ohnisko / plynový oheň
+Sprchový odtok
+Príslušenstvo pre tlakový spínač
+Príslušenstvo mliečna spojka
+Teplomer s tlakovou pružinou
+Mriežka pre sprchový odtok
+Odvlhčovač vzduchu
+Príslušenstvo pre centrálne plynové ohrievače
+Výmena olova
+Príslušenstvo pre výmenník tepla
+Rekuperačný T-kus
+Zmäkčovač vody
+Montážna súprava skrutiek
+Odsávacia misa pre pisoár
+Prechodový krúžok na odvodnenie
+Výmenník tepla so zväzkami rúrok
+Odtokový žľab
+Príslušenstvo pre odtokový žľab
+Dezinfikátor splachovača
+Ventilačný hrniec
+Nepriamo vyhrievaný sálavý panel
+zinok
+Olovo
+Odpadová zátka
+Zlý kontrolný poklop
+Ochranný štít proti striekajúcej vode
+Plynová vzduchová clona
+Nástenná doska pre vonkajší kohútik
+Močová zástena
+Kupolové svetlo
+Strešný stojan pre kopulové svetlo
+Merač tepla
+Kaskádový balík
+Cuniferové potrubie
+Odlučovač kriedy
+Rozširujúci automat riadiacej jednotky
+Výsuvná podpera pre flexibilné potrubie odpadového plynu
+Dávkovací ventil pre montáž na potrubie
+Vykurovací systém na utesnenie netesností
+Oheň na polená
+Montážny rám nástenného plynového ohrievača
+Lievikový prepadový ventil
+Textilný systém rozvodu vzduchu
+Izolačná doska podlahového vykurovania
+Hranica izolácie podlahového vykurovania
+Rohož s kapilárnymi rúrkami
+Príslušenstvo kapilárna rúrková rohož
+Dokončovacie panely vykurovanie/chladenie
+Nástenný držiak klimatizácie
+Strešná montážna lišta vonkajšia jednotka klimatizácie
+Prieduch pre klimatizačnú jednotku
+Chladič vody
+Asfaltový pás
+Asfaltový strešný šindeľ
+Jednotka pasívneho domu
+Revízna šachta na odpadové vody
+Priama expanzia kanálového chladiča (DX)
+Tepelné čerpadlo (voda/voda)
+Kryt pisoára
+Mazacie a údržbové médium
+Vodný ťahač
+Bidetové sedadlo
+Mikrokogeneračný kotol
+Modul sanitárneho príslušenstva
+Súprava sanitárneho príslušenstva
+Vozík na náradie
+Vkladací krúžok pre treciu račňu
+Trecia západka
+Hákový kľúč
+Príslušenstvo pre skrutkovače
+Príslušenstvo pre momentové náradie
+Súprava skrutkovačov
+Sada kľúčov
+Sada klieští
+Kľúč s otočnou hlavou
+Príslušenstvo pre skrinky na náradie, kufre, vozíky a pracovné stoly
+Príslušenstvo ku kľúčom
+Príslušenstvo pre kliešte a svorky
+Príslušenstvo pre rezné nástroje
+Príslušenstvo pre ohýbacie nástroje
+Príslušenstvo pre obrubovacie nástroje
+Sada dlát a unášačov
+Príslušenstvo pre momentové nástroje
+Kladivová hlava
+Rukoväť pre kladivo
+Príslušenstvo pre kladivo, sekáč a dierovač
+Sťahovák pre automobilový priemysel
+Príslušenstvo pre sťahovák
+Súprava sťahovákov
+Nástroj na čistenie rúr
+Kľúč na závitové skrutky
+Multifunkčný nástroj
+Súprava pilníkov
+Záhlbník
+Súprava zápustných hĺbení
+Vyťahovač skrutiek
+Súprava vrtákov
+Elektrické membránové čerpadlo
+Pocitové meradlo
+Elektricky ovládaný trojcestný regulačný ventil
+UV filter na čistenie vody
+Sponka
+Ponorný pílový kotúč
+Fréza pre frézku
+Základňová stanica pre prenosný detektor plynov
+Oceľový uholníkový profil
+Šesťhranná kovová tyč
+Okrúhla kovová tyč
+Obdĺžniková kovová tyč
+Požiarna obruba
+Batéria
+Geotextília
+Betónová doska
+Infiltračná jednotka
+Oceľový HP profil
+Oceľový T-profil
+Hliníkový T-profil
+T-profil z nehrdzavejúcej ocele
+Oceľový U-profil
+Hliníkový U-profil
+U-profil z nehrdzavejúcej ocele
+Mastiaca vsuvka
+Absorpčné zrno
+Páka na pneumatiky
+Kliešte na brzdové pružiny
+Vyvažovacie kliešte
+Kliešte na pružinu dverí
+Nástroj na pružiny ventilov
+Kliešte na piestny krúžok
+Špeciálne úchopové kliešte / kliešte na konektory
+Ofsetové kliešte s dierovačom
+Kliešte na hadicové spony
+Hlavné kliešte na pílenie
+Kliešte na príruby
+Kliešte Kľúč
+Plocháč
+Príslušenstvo pre rovinu
+Škrabka
+Manipulačný nástroj
+Odstraňovač sponiek
+V-blok
+Hliníkový HP-profil
+Ostrička vrtákov
+Výstružník na zavlažovanie
+Kľúč s T-tyčou
+Brúsny kameň
+Fréza
+Lamelový kotúč
+Brúsny blok
+Oxidový blok
+Držiak pásu
+Prípravok na brúsny kotúč
+Príslušenstvo pre brúsny kotúč
+Oceľová vlna
+Merač tlaku v pneumatikách
+Príslušenstvo pre dlaždice
+Škrabka na okná
+Rezačka na sklo
+Aplikátor obkladov stien
+Miešadlo (elektrické)
+Kovadlina
+Stetoskop pre mechanikov
+Špeciálne náradie pre automobilový priemysel
+Miešací stroj na betón
+Nabíjačka batérií
+Výstavný stojan
+Kanistre
+Príslušenstvo pre kanistre
+Odmerka
+Kolík (štvrťotáčkový uzáver)
+Ozubené koleso
+Kľúč (klin)
+Kľučka s vrúbkovaním
+Kardanový kĺb
+Vidlicový kĺb
+Kĺbová svorka
+Príslušenstvo pre kĺbovú svorku
+Vodiaca tyč s aretáciou
+Blokovacia lišta pre západku
+Upevňovacia pružina
+Pružinová doska (štvrťotáčkový uzáver)
+Záchytná svorka (štvrťotáčkový uzáver)
+Oceľový H/I profil
+Súprava na vyťahovanie skrutiek
+Zvárací horák GMAW
+Zvárací horák GTAW
+Príslušenstvo pre zváracie zariadenia
+Príslušenstvo pre ručný vysielač
+Súprava vrtákov
+Pružinový piest
+Pílový kôň
+Viacnásobný tyčový konektor
+Kompenzátor tolerancie (štvrťotáčkový spojovací prvok)
+Montážny materiál pre upevňovaciu škatuľu
+Guľový kĺb
+Brúsená vrstva
+Skrinka na kľúče
+Fľaša na umývanie očí
+Držiak na fľašu na umývanie očí
+Príslušenstvo na osobnú ochranu
+Uhlový profil z nehrdzavejúcej ocele
+Hliníkový uhlový profil
+Nástroj na vkladanie poistných prúžkov
+Plastová šnúrka na nosnú časť gumového kľúča na sklo
+Ozubené čerpadlo
+Tepelné čerpadlo (vzduch/voda) monoblokový typ
+Tepelné čerpadlo (vzduch/voda) splitový typ
+Mazacia pištoľ
+Zariadenie na zachytenie pádu
+Bezpečnostný postroj
+Hádzacie lano
+Príslušenstvo na ochranu proti pádu
+Svorka na lano
+Bezpečnostný hák na ochranu proti pádu
+Súprava na ochranu proti pádu
+Ochranná čiapka
+Lisovacia čeľusť pre tlačné kovania
+Lisovacia reťaz pre lisovacie čeľuste
+Súprava na osobnú ochranu
+Príslušenstvo pre pištoľ
+Napínač
+Zdvíhacia svorka
+Príslušenstvo pre stojan
+Rukoväť stroja
+Príslušenstvo pre brúsny kameň
+vyhadzovač kvapaliny
+Plniaca dýza
+Magnetický palivový filter
+Odstraňovač hmly
+Príslušenstvo pre systém upevnenia nábytku
+Hák Pelikán
+Drôtené pletivo
+Držiak reťaze
+Karabína
+Šošovka proti rozstreku/odlupovaniu
+Sieťová mriežka
+Ochranné puzdro
+Zarážka dverí
+Toaletná sprcha
+Závitová vložka
+Bit pre skrutku proti krádeži
+Trojuholník
+Príslušenstvo pre sieťovú mriežku
+Ochranná zástera
+Vysokotlaková podložka
+Príslušenstvo pre napínacie zariadenie
+Zabezpečovací popruh/reťaz
+Príslušenstvo pre tlakový čistič
+Príslušenstvo pre televízor
+Vypúšťanie štrku zo strechy
+Zvárací filter
+Aerosólová hasiaca jednotka
+Príslušenstvo na hasenie požiarov
+Skriňa pre hasiaci prístroj
+Skriňa pre hasiace zariadenia
+Kombinovaná nabíjačka batérií/invertor
+Lodný hák
+Nárazník pre záchodové sedadlo
+Bimetalový zvárací spoj
+Kapustnica
+Stropný záves
+Príslušenstvo pre žeriav
+Príslušenstvo pre tepelné čerpadlo
+Výplňový tmel
+Zdvíhacie oko
+Ochranná krytka plastového odtokového potrubia
+Úložný box
+Hliníkový Z-profil
+Príslušenstvo pre ložisko
+Sondážna páska
+Mop
+Hliníkový I-profil
+Tlmič plameňa
+Vrecko na odpadky
+Mriežka pre konvektor
+Vzduchové potrubie s oloveným rámom
+Zásobník
+Príslušenstvo tlaková expanzná nádoba
+Príslušenstvo automatická expanzná jednotka
+Snímač plynu automatická expanzná jednotka
+Podlahový stojan pre zásobnú nádrž
+Montážny kľúč
+Jednotka diaľkového vykurovania
+Príslušenstvo pre sprchový odtok
+Príslušenstvo kúpeľňové príslušenstvo
+Podpera na podlahu sprchy
+Náhradné diely pre čerpadlá
+Bezpečnostná sieť proti zaťaženiu
+Polkruhová kovová tyč
+Polkruhová plastová tyč
+Náhradné diely a príslušenstvo pre plynové ohnisko/plynový krb
+Orifice

@@ -1,0 +1,137 @@
+Cables___Káble
+Installation pipes/cable protection tubes___Inštalačné rúry/ochranné rúrky pre káble
+Protective hose systems___Ochranné hadicové systémy
+Cable carrying systems___Systémy na prenášanie káblov
+Sub-floor systems___Podlahové systémy
+Installation ducts for wall and ceiling___Inštalačné kanály pre steny a stropy
+Slotted Cable trunking system___Systém drážkovaných káblových kanálov
+Installation column systems___Systémy inštalačných stĺpov
+Cable and wire entry systems___Systémy na zavedenie káblov a vodičov
+Installation material for cables and tubes___Inštalačný materiál pre káble a rúrky
+Cabinet enclosures___Skrinky na rozvodné skrine
+Terminal blocks___Svorkovnice
+Domestic switching devices___Domáce spínacie zariadenia
+Industrial socket/plug applications___Priemyselné zásuvky/zástrčky
+Energy distribution systems___Energetické distribučné systémy
+Low-voltage industrial components___Nízkonapäťové priemyselné komponenty
+Relays___Relé
+Circuit breakers and fuses___Ističe a poistky
+Earthing, lightning and surge protection___Uzemnenie, ochrana pred bleskom a prepätím
+Meter panels___Meracie panely
+Distribution boards___Rozvádzače
+PLC's___PLC
+Sensors___Senzory
+Luminaires___Svietidlá
+Lamps___Svietidlá
+Light control___Ovládanie svetla
+Accessories for lighting___Príslušenstvo pre osvetlenie
+Installation bus systems___Systémy inštalačných zberníc
+Antenna and satellite technique___Anténna a satelitná technika
+Gate operators, pumps and ventilators___Pohony brán, čerpadiel a ventilátorov
+Optical and acoustic signalling equipment___Optické a akustické signalizačné zariadenia
+Communication technique___Komunikačná technika
+Data and telecommunication___Dátová a telekomunikačná technika
+Telecommunication equipment/office devices___Telekomunikačné zariadenia/kancelárske zariadenia
+Large domestic appliances___Veľké domáce spotrebiče
+Small domestic appliances___Malé domáce spotrebiče
+Consumer electronics___Spotrebná elektronika
+Hot water appliances___Zariadenia na prípravu teplej vody
+Residential heating___Vykurovanie obytných priestorov
+Measuring instruments and tester___Meracie prístroje a testery
+Meters___Merače
+Protection material and work clothes___Ochranný materiál a pracovné odevy
+Installation, isolation and connection material___Inštalačný, izolačný a spojovací materiál
+Connection devices___Pripojovacie zariadenia
+Fasteners___Spojovací materiál
+Hand tools___Ručné náradie
+Power tools___Elektrické náradie
+Tools (Press, cut and isolate)___Nástroje (lisovacie, rezacie a izolačné)
+Batteries, chargers and power cords___Batérie, nabíjačky a napájacie káble
+Alarm installations, emergency call and signalling___Alarmové zariadenia, núdzové volanie a signalizácia
+Renewable energy___Obnoviteľné zdroje energie
+Fire protection systems___Systémy požiarnej ochrany
+Pluggable building installation systems___Zásuvné inštalačné systémy budov
+Connectors___Konektory
+Safety devices___Bezpečnostné zariadenia
+Auxiliary material___Pomocný materiál
+Soldering and welding equipment___Spájkovacie a zváracie zariadenia
+Devices for distribution board-/surface mounting___Zariadenia na rozvodnú dosku/povrchovú montáž
+Consumable tools___Spotrebné nástroje
+Auxiliary tools___Pomocné nástroje
+Lifting equipment___Zdvíhacie zariadenia
+Work equipment___Pracovné zariadenia
+Accommodation/storage space___Ubytovacie/skladovacie priestory
+Test equipment___Skúšobné zariadenia
+Products other sectors___Výrobky iných odvetví
+Maritime products___Námorné výrobky
+Gutters/tanks___Žľaby/nádržky
+Storage tanks/vessels___Skladovacie nádrže/plavidlá
+Drains___Odtoky
+Filters/separators___Filtre/separátory
+Air treatment___Úprava vzduchu
+Boilers and heaters___Kotly a ohrievače
+Heat exchangers___Výmenníky tepla
+Cooling systems___Chladiace systémy
+Air inlet/extraction units___Jednotky na prívod/odvod vzduchu
+Pressure increase/decrease___Zvyšovanie/znižovanie tlaku
+Spare parts for boilers and heaters___Náhradné diely pre kotly a ohrievače
+Distributors/collectors___Distribútory/zberače
+Distributors___Distribútori
+Hoses and cabinets___Hadice a skrinky
+Hose couplings___Hadicové spojky
+Pipes___Potrubia
+Fittings, flanges and connectors___Spojky, príruby a konektory
+Duct and pipe for flue gas and air___Potrubie a rúry na odvod spalín a vzduchu
+Accessories for flue gases and air___Príslušenstvo pre spaliny a vzduch
+Compensators and expansion pieces___Kompenzátory a expanzné kusy
+Covers, hatches and hoods___Kryty, poklopy a odsávače pár
+Valves/taps/controls___Ventily/odbočky/regulátory
+Spare parts for fittings___Náhradné diely pre príslušenstvo
+Air (control) valves and fire valves___Vzduchové (regulačné) ventily a protipožiarne ventily
+Accessories for valves and cranes___Príslušenstvo pre ventily a žeriavy
+Radiators/convectors___Radiátory/konvektory
+Measuring and control devices___Meracie a regulačné zariadenia
+Electric and pneumatic sensors___Elektrické a pneumatické snímače
+Measuring instruments (recording/registration)___Meracie prístroje (záznam/registrácia)
+Stats, switches and controllers___Štatistiky, spínače a regulátory
+Signal processing controls___Ovládacie prvky na spracovanie signálov
+Accessories for measurement and control devices___Príslušenstvo pre meracie a regulačné zariadenia
+Spare parts for measurement and control instruments___Náhradné diely pre meracie a regulačné prístroje
+Seals___Tesnenia
+Ceramics and wheels___Keramika a kolesá
+Technical synthetics___Technické syntetické materiály
+(Wastewater) reception devices___Zariadenia na príjem (odpadových) vôd
+Flush tanks___Splachovacie nádrže
+Mounting frames for reception devices/taps___Montážne rámy pre prijímacie zariadenia/ kohútiky
+Spare parts for flushing systems___Náhradné diely pre splachovacie systémy
+Bathroom and washroom accessories/fittings___Kúpeľňové a umývadlové príslušenstvo/komplety
+Inlet and outlet fittings___Prívodné a odtokové armatúry
+Sanitary taps___Sanitárne batérie
+Spare parts for sanitary taps___Náhradné diely pre sanitárne batérie
+Accessories for sanitary taps___Príslušenstvo pre sanitárne batérie
+Sanitary showers___Sanitárne sprchy
+Accessories for sanitary devices___Príslušenstvo pre sanitárne zariadenia
+Sanitary partitions and cabins___Sanitárne priečky a kabíny
+Furniture___Nábytok
+Construction systems for washrooms___Stavebné systémy pre umyvárne
+Thermal isolation___Tepelná izolácia
+Silencers___Tlmiče hluku
+Vibration dampers___Tlmiče vibrácií
+Radiator mountings___Upevnenie radiátorov
+Tiles___Obklady
+Roofing materials___Strešné materiály
+Profiles___Profily
+Sheet material___Plechový materiál
+Staff, band, wire material___Tyčový, pásový, drôtený materiál
+Wall/roof feed-through ducts___Priechodné kanály na stenu/strechu
+Technical gases___Technické plyny
+Drive belts___Hnacie remene
+Factory equipment___Továrenské zariadenia
+High voltage distribution systems___Vysokonapäťové rozvody
+Accessories for power tools___Príslušenstvo pre elektrické náradie
+Building - Finishing materials___Stavebníctvo - dokončovacie materiály
+Building - Fastening material and tools (incl. consumable material)___Stavebníctvo - Upevňovací materiál a náradie (vrátane spotrebného materiálu)
+Building - structural steel and profiles___Stavebníctvo - konštrukčná oceľ a profily
+Building - chemical products___Stavebníctvo - chemické výrobky
+Building - Civil infrastructure___Stavebníctvo - stavebná infraštruktúra
+Building - insulation material___Stavebníctvo - izolačný materiál

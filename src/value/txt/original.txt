@@ -1,0 +1,11994 @@
+Thread holding
+Desoldering iron
+Cartridge with dispense needle
+Dial
+RJ45 8(8)
+RJ45 8(4)
+RJ11 6(4)
+Continuous
+4-5
+F3000
+With rail
+Universal
+Inner lying
+Spanned
+Cover one-sided bevelled
+Cover double-sided bevelled
+Angular
+Moulded hood
+Structured
+Centronics
+NH00
+1-pole
+3
+4
+Surface mounting
+Aluminium
+Asymmetric
+B
+B15d
+B22d
+Basic element
+Concrete
+Blue
+Blind
+Bronze
+Brown
+C
+Capacitive
+Complete
+D01
+D02
+D03
+Direct
+Turn button
+3-fold
+E10
+E14
+E27
+E40
+Electronic
+1-fold
+Fa4
+Flange
+Flood
+G12
+G4
+G53
+Galvanized, yellow chromium plated
+Anodised
+Lacquered
+Screwed
+Closed
+Cast iron
+Plain
+Gold
+Green/yellow
+GU5.3
+GX16d
+GX5.3
+GY6.35
+GZ4
+Clear
+Hollow wall
+Horizontal and vertical
+Wood
+I-profile
+Iron
+Built-in
+Inductive
+Cable
+Clamp
+Copper
+Plastic
+Plastic-coated
+L
+Lamella
+Light
+Lead
+Normally open contact
+Matt
+Mechanical
+Multiple
+Brass
+Open
+Ceiling bracket
+Other
+Parallel
+Polyethylene (PE)
+Pin
+PG12
+Steel plate
+Countersunk head
+Porcelain
+Polyvinyl chloride (PVC)
+Straight
+Ring
+Stainless steel
+Round
+R7s
+Rubber
+RX7s
+RX7s-24
+Switch
+Screw
+Light signalling unit
+Key
+Fast (F)
+Mirror
+Spot
+Steel
+Symmetric
+Telephone
+Time-lag
+Transparent
+Two-part
+2-fold
+Rigid
+Breaker contact
+Chromium-plated
+Control light
+Nickel-plated
+Galvanized
+Countersunk
+Quadrangular
+4-fold
+Fork
+Wall console
+Duct installation
+Rocker
+Change-over contact
+White
+Hexagon
+Wall bracket
+Silver
+Black
+Colour
+Ethernet
+DIN
+Fixed
+IEC
+Twinax
+Centre
+Cross (X)
+Ceiling
+Coupler
+Plug
+Bus
+Glass
+Rectangular
+Chain
+Single-sided
+Double-sided
+DII
+DIII
+DIV
+DV
+Curved
+NDZ
+Loose
+With film hinge
+Slotted
+Red
+Yellow
+Green
+Orange
+Clip
+Wall socket
+Pull cord
+Incandescent lamp
+Modular
+DIN rail
+Manual
+Automatic
+Contact less
+Spring-rod
+K
+Bimetal
+Lengthwise
+Turn/push button
+Potential equalization socket
+Sendzimir galvanized
+Hot dip galvanized
+Natural colour
+Pink
+Red-brown
+Sliding knob
+ADo
+ST
+BNC
+GU4
+GY4
+BA15d
+Grey
+Light grey
+Drop
+Reflector
+Beige
+Mushroom
+Ellipsoid
+Continuously galvanized
+Platinum
+Chrome
+Stainless steel
+Titanium
+Medium time-lag
+Acrylic glass
+Gilt
+Anthracite
+Single rocker
+Single push button
+Infrared receiver
+Central cover plate
+Aluminium die-cast
+Opal
+Electronic ballast standard
+F
+Angle
+GX24d-2
+GX24d-3
+G23
+2G11
+2G10
+2G7
+Case
+G24d-1
+G24d-2
+G24d-3
+External
+Crystal
+Tubular shape
+PG12-2
+BA9s
+P13.5s
+S14s
+S14d
+Blind cap
+Loudspeaker connection
+TAE
+D-Sub 25-pole
+BNC/TNC
+Socket outlet
+Square
+Flush mounted (plaster)
+Surface mounted (plaster)
+Alternating current
+Direct/alternating current
+Light metal
+Battery
+Electromechanical
+Aluminium/plastic
+Red cast iron
+Oval
+Off switch
+Reverser
+Acoustic
+3P+N+E
+Polyamide (PA)
+Thermoplastic
+Bottom mounting
+Push button
+Cable screw gland
+Angled
+Device plug
+Switch/push button
+Indication plate
+D
+Plug-in connection
+Screw connection
+Earth leakage switch
+Plug-in lamp holder
+Toggle
+Infrared
+Single
+Phillips
+Optic
+Pointed
+LED
+LCD
+Sheet metal
+Bag
+Toothed
+Sliding joint
+Installation tube
+Sub-floor duct
+Hydraulic
+Accu
+Sleeve
+Natural stone
+Zinc die-cast
+Empty
+LSA Plus
+230 V
+AC
+DC
+1 make contact (NO)
+2 make contacts (NO)
+1 change-over contact
+2 change-over contacts
+Built-in light sensor
+Separate light sensor
+Separate light sensor/cable
+Socket outlet for wall duct, 2-fold
+Socket outlet for wall duct, 3-fold
+Built-in device with framework
+Devices with central plate
+60x60 mm
+4 make contacts (NO)
+2 breaker contacts (NC)
+Motor protective circuit-breaker
+Day
+Week
+Day/week
+Quartz
+1 breaker contact (NC)
+Without cable
+None
+CEE devices 60 mm mounting distance
+1-pole switch
+2-pole switch
+1-pole push button
+2-pole push button
+RAM
+EPROM
+EEPROM
+AC/DC
+PNP
+Relay
+Cylindrical
+Fixing clamp
+Eye hook
+Double hook
+Distributor board mounting
+Plunger
+Roller cam
+Roller lever
+Rotary lever
+Actuating rod
+Quick-break switch
+Square roller lever
+Flash light
+Blinker light
+Continuous light
+RC-suppressor
+Diode-suppressor
+Varistor (voltage-sensitive resistor)
+Top mounting
+Contacts
+Printed circuit boards
+Plastic surfaces
+Electrical systems
+Precision mechanics
+Corrosion protection
+Mechanical locking
+Continuously variable
+Push button
+"Symbol "" I """
+"Symbol ""0"""
+Left/right
+T-shape
+Metal/plastic
+STOP
+Ceiling installation
+Intermediate mounting
+Suspension cable
+D-system
+D0-system
+NH
+Ceramics
+Swivelling
+I
+II
+Polycarbonate
+PG12-1
+Radio control
+Continuous tone
+Slider with 2 inlets
+1
+2
+0
+"Symbol "" II """
+Wall build in
+Aeration
+De-aeration
+Roof shape
+Plain ends
+With hang-in
+Rotating current
+Self-acting
+Mounting plate
+Thermostat
+Candle
+With clamps
+With bus bar
+1-story
+2-story
+Narrow
+W2x4.6d
+Busbar
+Pictogram
+For 1-story support plates
+For 2-story support plates
+1-rows
+2-rows
+3-rows
+2- and 4-rows
+3xbrown / 1xblue
+3xbrown / 1xgreen/yellow
+3xbrown / 1xblue / 1xgreen/yellow
+Above
+Below
+Miniature circuit breaker (MCB)
+E
+Two-way switch
+With bus bar 3-pole
+With bus bar 2x3-pole
+GX4
+UV filter
+High-gloss
+G13
+Semi round
+Corner connector
+T-connector
+Cross connector
+Toroidal core transformer
+Electronic transformer
+Distance piece
+G11
+Variable
+5x2.5 mm²
+End cap
+Knot chain
+Mains
+Fabric
+Metal/wood
+Two-sided
+Black and white
+Makrolon
+Marble
+Screw mounting
+Without cover
+Floor
+Ground spike
+Supporting bracket
+Mounting bracket
+N-Connector
+RJ45
+RJ12 6(6)
+D-Sub 9-pole
+D-Sub 15-pole
+Centronics 35-pole
+Diode, 5-pole
+Mini DIN 6 pole
+IBM data plug
+SC
+Cable eye
+LED/LCD
+Ivory
+FDDI
+D-Sub bus 9-pole
+D-Sub bus 15-pole
+D-Sub bus 25-pole
+D-Sub plug 25-pole
+F-Connector
+Solder
+Crimping
+Screwing
+Elbow plug
+21-pole Scart
+HD-D-Sub 15-pole
+DIN 5-pole
+Rear panel
+Roof
+482.6 mm (19 inch) mounting
+DIN A4
+DIN A5
+Rail base
+Mounting rail
+Fibre optic cable guide
+Cable bracket
+Dehumidification
+G5
+AS4
+Banana plug
+Polyester
+Protective tube reflector
+Copper braiding
+Sub-clock
+Analogue, arabic figures
+Analogue, bars
+Gutter/roof
+Pipe heating
+Heat shrinking technique
+Dry adhesive technology
+Heating cable/connection cable
+Heating cable/heating cable
+Heating cable end piece
+T-branch
+Heating strip/housing
+Equipped with closing
+Provided with 3 connection sets
+Without accessories
+Value coin
+Time-dependant
+Consumption dependent
+Microprocessor
+3 digit display
+230/400 V
+Adhesive magnet
+Screw-on plate
+Table clamp
+Grey cast iron
+G2
+Diode
+Outdoor station
+Wall mounting
+Wall model
+Free standing model
+Alkali manganese
+Zinc/coal
+Mono
+Baby
+Mignon
+Micro
+Flat
+Duplex
+Flat-Pack
+Halogen lamp
+Alkali manganese/zinc
+Lithium/manganese dioxide
+Mercury oxide/zinc
+Pocket calculator
+Mounting bracket
+SC duplex
+Connection terminal
+A
+With thread tap
+With ceiling hooks
+Bare
+Large head
+Rounded head
+Video
+Sealing flange
+Conduit inlet
+Standard door opener
+Escape door opener
+Door code opener
+Silver oxide/zinc
+Metal
+Without indication
+Manual testing device
+Cat-5 testing device
+Attenuation measuring device
+Reflection meter
+PC-cable tester
+LAN Function testing device
+Inner corner
+Outer corner
+T-piece
+Polystyrene
+Separating partition
+Inside
+Interface testing device
+DIN rail (top hat rail)
+Series switch
+Dimmer
+Surface mounting
+Connection strip
+Earthing strip
+Separating strip
+Solder/solder
+Screw/solder
+Screw/screw
+Screw/solder - screw/solder
+Earthing rail
+Audio module
+Charge module
+Automatic change over switch
+Tariff time switch
+Tele control head-set
+Locking device
+Power-current switch
+Telephone ringer side-unit
+96 mm
+170 mm
+96/170 mm
+Pay phone
+Wall
+Buzzer
+Manual/automatic
+Angular bus
+Single push button
+D-Sub/Centronics 25-pole
+Surface mounted plug
+Cabling panel
+Analogue/digital
+Flexible
+Built-in installation box
+Optic/acoustic
+Screwed terminal
+ISDN
+Plastic, metallized
+Cover
+Corner joint
+Plug/plug
+Plug/bus
+Bus/bus
+IIC
+Switch module
+High-speed heater
+Screwable heating element
+Heating flange
+1/N/PE/230 V
+2/N/PE~400 V
+3/N/PE/400 V
+3 handles
+Plastic-covered
+Wall storage tank
+Vertical storage tank
+Built-under
+Over sink
+Single circuit
+2 steps
+3 steps
+4 steps
+Bare wire
+Tube heating element
+Thermal
+Thermostatic tap
+Washbasin
+Standard accumulator
+Flat storage
+Baseboard storage heating
+High storage
+Kitchen accumulator
+1/N/PE~230 V, 3/N/PE~400 V
+Sledge hammer
+Telephone cable shears
+Electrician's shears
+Clamping console
+Over sink/under sink
+Steel, galvanized
+Clamp piece
+Silicone
+Label removal
+Tight
+Foamed PE
+Socket outlet with protective contact, straight
+Cable end sleeve
+Polyolefin
+Fc2
+Metal halide lamp
+High pressure sodium-vapour lamp
+Metal halide/sodium lamp
+M13 x 1
+M10 x 1
+End piece
+Edison lamp holder
+Reduction lamp holder
+Hanging lamp holder
+Ceiling lamp holder
+Illumination lamp holder
+Solar vertical storage tank
+Floor sensor
+Nickel cadmium
+Serial
+Forward control
+Backward controller
+Forward-/backward control
+Time control device
+Group controller
+G4/GX5.3/G6.35
+Drilling template
+FM
+UHF
+VHF
+Receiver diplexer
+F-bus
+Splitter
+Distributor
+Repeater amplifier
+Feed-in amplifier
+Amplifier substation
+In-house distribution amplifier
+Distribution amplifier
+Line amplifier
+Return path amplifier
+DiSEqC
+Single LNB
+Twin LNB
+Quatro LNB
+Dark brown
+Heat pump
+Single cable system
+Active
+Passive
+0/22 kHz
+Multi-band amplifier
+Active/passive
+Above floor shaft
+Sub floor shaft
+Active return path module
+ESB
+Double flange plug
+Plastic/aluminium
+Telescopic mast
+Plug-in mast
+Mast pipe
+Stand pipe holder
+Wall mount
+Rotational speed controller
+Wall-/conduit mounting
+Coaxial (IEC)
+Remote sensor
+Sideways
+Bus insert
+Pin insert
+Electric white
+Loop-through socket
+Temperature controller
+Basic device for multi switch system
+FM amplifier
+Light sensor
+Presence sensor
+Test point adapter
+Surface mounted/recessed mounted
+Push button, normally open
+2x1-pole
+Soldering connection
+Rocker lever
+Insert socket outlet protection
+Self adhesive socket outlet protection
+End switch
+Dark grey
+D-Sub 36-pole
+Data processing technique
+Stick and screw
+Coaxial cable testing device
+Patch cable tester
+Thermal release
+Thermal/magnetic release
+Push button switch
+Rotary toggle
+Mounting set
+Bushing
+Partially isolated
+Fully isolated
+Connector (male)
+Distribution terminal block
+Hot-dip galvanized
+Cable duct
+Vertical
+Full rubber
+Duroplast
+Pressed material
+Insulation displacement connector
+Vertically sideways
+Link chain
+Hanger for trapezoidal ceiling (for chain suspension)
+Hanger for trapezoidal ceiling (trapezoidal shape)
+F-plug
+Mast base
+VHF/UHF
+Double profile
+Back perforated
+3 sides punched
+Exit
+Push button
+Smoke detector
+Manual T-Switch/X-Switch
+Manual X-Switch
+Manual T-Switch
+Automatic/manual T-Switch
+Automatic T-Switch
+Flat coupler
+Interior coupler
+D-Sub, serial 25-pole
+Monitor/keyboard T-switch
+Test receiver
+Level tester
+LCD/monitor
+LED/LCD/analogue
+Chromated
+Quick-lock
+Cable entry distribution cabinet
+End distribution enclosure
+For cast-in-place concrete
+For slab ceiling
+Surface mounted lamp holder
+Through-feed lamp holder
+Covering cap
+Mounting kit
+Universal anchor plug
+G3/8 A
+Cylinder
+N
+Trolley
+Round/flat conductor
+Impact head
+Impact pin
+Malleable cast iron
+Earthing lug
+Equipped with connection lug
+With steel strip
+With tappet/bore hole
+GU10
+D-Sub, parallel 25-pole
+Earth rod
+HP open View/Unix
+Crimp technology
+In line power supply
+Handle
+Telephone/fax/modem switch
+Front ring
+Tinned
+Petrolatum
+Self-adhesive
+Sandwich cable guide
+Temperature sensor
+Card telephone
+G10q
+2G13
+W4.3
+Fa6
+With grip clamp
+With screw clamp
+Flat roof
+Round conductor
+T-/cross-/parallel connector
+Parallel connector
+Sleeve connection
+Clamp screw
+Hexagon screw
+Flat round screw
+Transistor
+LCD/acoustic
+With snap clamp
+Yellow/black
+G5.3-4.8
+GX6.35
+Integrated
+Extendable
+RS-232
+ISA
+PCI
+PCMCIA
+Turquoise
+Equipped with closing and clamps
+GZ6.35
+Socket outlet with protective contact
+Freestanding-/wall model
+Convector frame
+Assembly aid
+Measuring instruments
+Electrical modules
+Electronics/mechanics
+0/14/18 V
+Carton
+MSV4
+SAT IF amplifier
+Plasterboard plug
+Fireproof partition box
+CEE devices 70 mm mounting distance
+7
+Long-slot
+Polypropylene
+IR sensor
+Multi-sensor
+Free standing ventilator
+Table fan
+Flat conductor
+Clamp connector
+Double clamp screw
+Signal amplifier
+Signal converter
+Mini constant
+Control unit
+Tracer dimmer/IR-controller
+Coupling plug
+Wall radiator
+Free standing radiator
+Lamp holder for in-wall installation cable
+Small lamp holder
+Ceiling-/wall emitter
+GR10
+GR8
+Z-element
+Blood pressure measurement
+Blood pressure/pulse measurement
+Upper arm
+Wrist
+Foot massage bath
+Steam iron
+Stick vacuum cleaner
+Canister-cylinder cleaner
+Solar operation
+4 lines
+8 digits
+10 digits
+Wall-/desk type model
+Facial tanner
+Upper body tanner
+Total body tanner
+Sun lamp
+Handheld hair dryer
+Travel hair dryer
+Curl brush
+Curl staff
+Hair styler
+Drying hood
+Desk type device
+Mechanical/electronic
+Low weight flat-iron
+Travel iron
+Steam brush
+Steam generator
+Aluminium sole
+Ceramic sole
+Stainless steel sole
+Dry shaver
+Wet-/dry shaver
+Accumulator/mains
+Dry lady-shave
+Wet-/dry lady-shave
+Razor foil
+Double razor foil
+2 razor heads
+3 razor heads
+Manicure set
+Pedicure set
+Haircutter
+Beard trimmer
+Beard styler
+Nose hair trimmer
+Infrared proximity switch
+Time switch
+Thermal under blanket
+Thermal over blanket
+Electric pad
+Heated carpet
+Foot warmer
+With DIN rails (top hat rails)
+Toothbrush + mouth shower
+Children toothbrush
+Toothbrush
+Mouth shower
+Hard floor cleaner
+Textile
+Coated
+Back-/neck thermal pillow
+Surface mounted/partially recessed mounted
+28
+Hand mixer
+Standing blender
+Hand blender
+5 steps
+1- and 2-rows
+Hand tin opener
+Standing tin opener
+Knife sharpener
+Knife-/shears blade sharpener
+Universal sharpener
+Table scales
+Wall scales
+Citrus press
+Spin juicer
+Screwable
+Characters 0 and 1
+Plug/connector
+Non-stick coated
+Table grill
+Grill station
+Contact grill
+Coated grill plate
+Coated grill grid
+Grill grid aluminium die-cast
+Chrome plated grill grid
+Espresso machine
+Espresso/cappuccino
+Coffee/espresso/cappuccino
+Steam pressure system
+Thermo block system
+Pumping system
+Baking oven
+Baking grill
+Top heat/bottom heat
+Top heat/bottom heat/grill
+Fan heating/grill
+Household immersion heater
+Travel immersion heater
+Hinged mast
+Warming tray
+Tea light
+1 step
+Accu/battery
+Coffee mill
+Espresso grinder
+Stone-mill system
+Fly cutter
+Coax
+Automatic preserving cooker
+Electric soup pan
+2-slice toaster
+Long slot toaster
+4-slice toaster
+Permanent grease filter
+Charcoal filter
+Mounting base
+Waffle maker
+Croissant maker
+Glass jug
+Water filter
+Floor standing rotary iron
+By movement
+Coffee maker
+Double coffee maker
+Coffee-/tea maker
+Coffee maker/water cooker
+Zinc/air
+Satellite signal meter
+Espresso/coffee
+With bus bar 4-pole
+Chrome sole
+Foldable rotary iron
+Steam rotary iron
+G4/GZ4
+G6.35
+G4/G6.35
+Various symbols
+Heating cartridge system
+Rail support
+Coffee-/espresso grinder
+Application framework
+Sandwich toaster
+Air humidifier
+Air cleaner
+Air cleaner-/humidifier
+ISDN installation testing device
+Safety lock opener
+Battery/mains
+Face massager
+QWERTY keyboard
+Turning wheel
+Print process
+Thermal printer
+1-2
+Inside/outside
+TNC
+Hand blender
+Hair straightener
+Micro filter
+Motor safety filter
+Mobile end-distributor
+Crepes maker
+Donut maker
+Enamelled
+Toaster/mini oven
+Discharge lamp
+Connection lug
+Module
+Automatic grill
+Grill
+Grease/odour filter
+Portable black and white TV
+4:3
+16:9
+KS screw
+Viewing window
+Console
+S
+Snap mounting
+Z-profile
+"Symbol ""unlock"""
+"Symbol "" + """
+"Symbol "" - """
+"Symbol "" arrow """
+EIN
+AUS
+AUF
+AB
+DIN A3
+START
+BACKWARDS
+Lift
+SENKEN
+ZU
+VORWÄRTS
+Charge-/switch module
+Code
+VHS
+S-VHS
+Available
+Built-in device
+Instantaneous water heater
+Protective hose
+Holder for protective hose
+S-VHS/VHS
+Built-in accessories
+Support bracket
+TFE module
+Standing blender with kitchen scales
+Glow lamp
+Triac
+Front load
+Top load
+Cable guard rail
+Ceiling radiator
+Control tableau
+Corner piece
+Handgrip
+Compact
+Flame
+Wall/floor
+Wall/ceiling
+Wall/ceiling/suspension
+Rail system
+Micro cassette
+Standard paper
+Compact cassette (analogue)
+VHS-C
+S-VHS-C
+Coaxial
+Optic and coaxial
+Radio receiver
+World receiver
+Cassette receiver
+CD/cassette receiver
+2-way system
+3-way system
+CD receiver
+Perforated plate
+Capacitor microphone
+Dynamic microphone
+Cardioid
+Round/globe
+Air extraction
+Inversion fitting
+Inversion fitting with flex pipe
+Inversion fitting with pipe support
+Nonwoven fabric
+Acrylic
+Carbon filter
+Vapour filter
+3 lines
+12 digits
+Mains power supply
+Equipment panel
+Loudspeaker mixing panel
+Glass ceramic
+Steel enamelled
+Catalytic
+Pyrolytic
+Standard hotplate
+High-speed hotplate
+Automatic hot plate
+Capillary tube controller
+Television/video table
+HiFi rack
+Built-in lamp holder
+Line amplifier
+Pre-amplifier
+Combination amplifier
+G4/GU 5.3
+Adapter kit
+GY6.35/GU5.3
+HiFi system
+HiFi Midi-system
+HiFi Mini-system
+HiFi Microsystem
+Surround system
+HiFi loudspeaker system
+Fax selector
+S0-Modul
+ISDN phases testing device
+S-Bus tester
+LED/LCD/acoustic
+24 digits
+LSA Profile
+Horizontal
+Under frame
+Fully-automatic
+Programmable pocket calculator
+Desk calculator
+Energized electrode
+Active substance tips
+Sound pressure
+Adhesive film
+Semi automatic
+Evaporation
+CEE built-in installation box
+PC
+Clamping/screw mounting
+5
+6
+9
+GZ4/GX5.3
+Plug-in mounting
+Ceramics/metal
+Bus connection terminal
+Group push button
+Single/double-sided
+H1
+H3
+P14.5s
+PK22s
+GZ10
+Direct/indirect
+Application segment
+Revolving contact
+Conical
+Cosmetic mirror
+Clothes shaver
+Grease deflector
+1 razor head
+Mains/Battery/Accu
+Circuit breaker installation unit, 4-fold
+Haircutting kit
+Foot massager
+Chrome-nickel steel
+Metallic sole
+Impulse insert
+Automatic grill with 2 hotplates
+Extension module
+Main module
+Steel nickel plated grill grid
+All-purpose countersunk screw
+Semi round head all-purpose screws
+Semi round head wood screws
+Distance holder
+Corrosion protection tape 50 mm
+Corrosion protection tape 100 mm
+Construction/installation
+Cable pulling system
+5x6 mm²
+Cleaning/degreasing
+Cleaning
+Dissolve glue
+Insulation
+Greasing
+Protection/lubrication
+Refrigeration
+PC-work stations
+Galvanized surfaces
+Electrical connections
+Contact grease
+Slide contacts
+Foam pistol
+Not possible
+Base station
+Single conductor terminal
+Double conductor terminal
+Service clamp
+Light control system set
+Plastic box
+Metal box
+Fluorescent lamp
+Cinch
+Jack plug
+Scart
+LED/acoustic
+Wall-mounted distributor
+Light controller/light sensor
+Interception tip
+Interception rod
+Gutter
+Clamp trestle
+Clamping shoe
+Wall text plate
+Fire protection plate
+Sealing plate
+Wind sensor
+Dry vacuum
+Steam cleaner
+Wet vacuum
+Damp vacuum cleaner
+12 V DC
+Plaster spatula
+Palette-knife
+Push fit plug
+Push button, normally closed
+Roll
+Free standing distributor
+Distributor enclosure
+Permanent filter
+1 to 0
+A to L
+1 to 100
+2x 1 to 0
+1 to 10
+Single
+Distributor box
+ISDN testing device
+Electronic light controller
+Twisted Pair cable tester
+Cat-6 certification set
+Fibre optic certification set
+Imprinting software
+S-VHS-C/VHS-C
+Video recorder
+E2000
+Connection tester
+8x20, 230 V (F-shape)
+8x8, 230 V (G-shape)
+6x8, 230 V (H-shape)
+Mini Disc
+6x8, 230 V (H-shape, 3-pole)
+Nickel metal hydride
+PC-CD-recordable
+Audio CD-recordable
+PC-CD-rewritable
+8x13, 230 V, 3-pole
+8
+Circuit breaker installation unit, 9-fold
+PVC-U
+5x4 mm²
+Double bit
+Three-square
+Modular Jack
+Fibre optic confection
+BNC plug
+Protective contact (SCHUKO)
+CEE
+Fibre optic laser generator
+MT-RJ
+Separate
+Removable
+Steel plate/plastic
+Dimming actuator
+Double LC display
+1 digit LED
+R20
+R14
+R6
+2R10
+3 R 12
+6 F 22
+LR 20
+LR 14
+LR 6
+LR 03
+6 LR 61
+4 R 25
+6 F 100
+4 LR 61
+4 R 25/2
+LR 1
+R20 P
+R14 P
+R6P
+6 F 22 P
+3 R 12 P
+2R10 P
+R20 S
+R14 S
+R6S
+6 F 22 S
+3 R 12 S
+R6NM
+R03NM
+7 R 22 NM
+CR 2430
+LR 54
+SR 41
+SR 59
+SR 43
+SR 58
+SR 55
+SR 44
+SR 54
+SR 48
+SR 42
+SR 57
+SR 60
+4 SR 44
+LR 55
+LR 43
+LR 44
+CR 1620
+CR 2025
+CR 2032
+4 LR 44
+SR 45
+SR 66
+CR 2016
+CR 12600
+2 CR 5
+CR-P 2
+CR 17345
+SR 67
+SR 62
+SR 65
+SR 64
+SR 69
+D/UM-1
+C/UM-2
+AA/UM-3
+D/AM 1
+C/AM 2
+AA/AM 3
+AAA/AM 4
+6 AM 6
+J/7 K 67
+G 10
+LR 9
+RW 37/SR 41 SW
+RW 411/SR 726 W
+RW 311/SR 726 SW
+RW 34/SR 43 SW
+RW 310/SR 721 SW
+RW 30/SR 1120 SW
+RW 42/SR 44 SW
+RW 39/SR 1130 SW
+RW 49/SR 1130 W
+RW 48/SR 754 W
+RW 47/SR 41 W
+RW 44/SR 43 W
+RW 40/SR 1120 W
+RW 32/SR 44 W
+RW 36
+RW 313/SR 927 SW
+RW 320/SR 621 SW
+4 G-13
+G 8
+RW 33/SR 936 SW
+RW 329/SR 626 SW
+RW 413/SR 927 SW
+RW 38/SR 754 SW
+RW 316/SR 716 SW
+SR 516 SW/RW 326
+RW 321/SR 616 SW
+SR 527 SW/RW 335
+RW 315/SR 920 SW
+SR 68
+RW 317/SR 916 SW
+RW 327/SR 521 SW
+SR 63
+CR 1220
+CR 1616
+PR 48
+CR 2320
+CR 2450
+PR 41
+RW 415/SR 920 W
+PR 44
+PR 70
+Steam curl brush
+Steam curling tong
+Multi mode/single mode
+Spiral plug
+Expanding plug
+T-profile
+Air circulation operation
+Lamp holder with NSS bus contact
+Connection element and lamp holder
+Token ring
+Reflection meter OTDR 850 nm
+Reflection meter OTDR 1300/850 nm
+Cat-5 certification set
+Thermo-splice protection
+Crimp splice protection
+Unprinted
+Spray extraction cleaner
+6 mm
+AS 400
+19 mm
+50 mm
+BNC, 50 Ohm
+BNC, 75 Ohm
+IBM 3270
+BNC, 93 Ohm
+XLR
+Duct slider
+Plant light
+Steel wire grid
+Fibre silicate plate
+Closed with prestamping
+a/b-module
+Power failure module
+Answering machine module
+Remote control device
+2 wings
+Empty housing
+Cover disc
+Radiator valve
+Fondue
+Wok
+Fondue/wok
+G8.5
+Floor console
+Circuit breaker installation unit, 3-fold
+Stick
+1-way system
+Galvanic copper plated
+Corrugated sheet roof
+"Symbol ""tip"""
+Power-cut-out switch
+Exterior coupler
+Lithium
+CR 123 A
+CR 1/3 N
+Wide Flood
+4 mm
+With bus bar 5-pole
+Round connector M 12
+Rotating toaster
+a/b-/System telephone module
+Multi device connection
+Multi device-/system connection
+System port
+S0-Port
+Natural gas
+Propane gas
+Toaster/sandwich toaster
+Electronic label maker
+Electronic cable labeller
+CD labelling system
+Printer dependent
+10x3 mm
+Solder/plug-in
+Adjustable
+Surface mounted/recessed mounted/partially recessed mounted
+Signalling panel
+Series push button
+Middle part
+Cover
+Base unit
+Leakage sensor
+Trunk line (local loop) module
+Duct installation unit
+50x50 mm
+Duct outlet socket/switch
+Data-/telecommunications duct socket outlet
+Name-plate with cover plate
+Roll baker
+Headset
+Over-the-ear headset
+Pancake maker
+Duct fire partitioning
+Wall duct
+Hotel card
+2x socket outlet with protective contact
+4x socket outlet with protective contact
+1x change over switch
+1x series switch
+2x socket outlet with protective contact and overvoltage protection
+2x RJ45 8(4)
+2x TAE 2x6 NF
+2x antenna connection
+Steel sliding-sole
+Installation housing
+Lance
+Ni
+4-fold crown
+Waffle
+30° point
+Au
+Flat head
+Polyoxymethylene (POM)
+Single room temperature regulator
+G22
+Media coupler
+Banana bus
+Signalling group terminal
+Grounding block double
+Double shielded
+Torx
+ESCON
+Corner
+Compact fluorescent lamp
+C2.4W
+EP10
+C0.6W
+Hose
+Screw lamp holder
+Earthing block
+Wet-/dry shaver/epilator
+M
+XL
+XXL
+50
+54
+Headband
+4-pole
+Clamp/busbar
+S-profile
+GZX4
+X511
+H4
+P43t
+4 R 25 P
+Combi
+Silver oxide
+CR 2
+SR 731 SW
+SR 626
+SR 936
+8 LR 932
+G3
+Emergency lighting lamp holder
+G24q-2/GX24q-2
+Smart Media Card
+Pull switch lamp holder
+Double lamp holder
+G24q-3/GX24q-3
+G24d-1/GX24d-1
+G24q-1/GX24q-1
+G24d-2/GX24d-2
+G24d-3/GX24d-3
+Closing cap
+Support angle
+Signalling and operating panel
+R 03
+BA20s
+Earthing connection
+Roof antenna
+GY9.5
+GX9.5
+GY16
+G38
+Cold adhesion method
+Chain hoist door opener
+Tube mounting
+"Symbol ""III"""
+T-distributor
+STÖRUNG
+HS3
+PX13.5s
+Tubing kit
+Plug - protective housing
+60
+110
+24
+26
+XXXL
+NPN
+Clamping bracket
+BA7s
+Soapstone
+Cable tie
+Galvanic/electrolytic zinc plated
+Caoutchouc
+Stand-by starting automatic
+Fax switch
+Bridging lip
+Retractable antenna
+Window clip-mount antenna
+Automatic antenna
+Television antenna
+Rear mount antenna
+Permanent metal filter
+With round duct flag
+2 sides punched
+3/8 inch
+3/4 inch
+1 inch
+1 1/4 inch
+Bitumen
+Rust solution
+Fluid temperature monitoring
+Brass/copper
+Module rack
+Freestanding model suitable for built-in
+Duct shears
+IEEE 802.11
+Z
+Plastic bag
+42
+R-SMA
+Mini OTDR 1310/1550 nm
+Touch screen
+Mini OTDR 850/1300 nm
+OTDR, basic device
+Fa8
+R17d
+R18s
+90-100
+80-89
+70-79
+60-69
+40-59
+20-39
+PG12-3
+G5.3
+G24
+GY5.3
+Tube, single-ended
+E40-POS
+KX10s
+KY10s
+X515
+B22d3
+Medium Flood
+E12
+BA20d
+S15s
+Twisted
+Double
+Foil
+Braiding
+Pozidriv PZ
+Violet (lilas)
+Gold-bronze
+Loudspeaker
+Primed
+Low
+High
+Positions
+Venetian blind
+Push button/touch control button
+SAT
+Bore hole
+With perforation
+Round/square
+Plastic sheathed
+Nail
+Nail screw
+Tube shape (closed)
+Profile (open)
+For plug-in
+Drive in type
+Polyurethane
+45°
+90°
+Post top
+Floor standing
+Ball cylinder
+Domed head
+Inner square
+Bus connection
+Red-leaded
+Surface tank
+Anodized
+Mini circuit breaker
+Screw fuse
+Electrical
+Pneumatic
+Stone
+PTT
+Y-branch
+Through branch
+Double branch
+Illuminated (on)
+Control (off position)
+End
+Numbers
+Pipe
+Partial door
+Inner door
+PG
+T-handle
+Out folding crank
+Paper
+Bayonet
+Cable/tube
+Single locking lever
+Double locking levers
+Central clamp
+Metric
+Gas-thread
+NPT
+Silver-plated
+Diaphragm
+Rubber ring
+Cut-out ring
+Membrane
+Knife blade fuse (NH)
+Central conduit box
+Brush
+RS-422
+RS-485
+Connector
+Thread end
+Double clamp
+Half clamp
+Angular profile
+U-profile
+Stainless steel A2
+Stainless steel A4
+With inner thread
+C45 (steel)
+AG3 (aluminium)
+AG5 (aluminium)
+Insert
+Impact
+Axle shaft
+Straight ladder
+Scaling ladder
+Telescopic ladder
+Hinged ladder
+Induction lamp
+RX7
+PGX12-2
+Indirect
+Sticker
+Insert sheet/plate
+Acrylic plate
+Escape route
+Side entry
+Post top/side entry
+Central
+Peripheral
+Surface mounting/recessed mounting
+Line lighting system
+Only single-sided
+Junction
+S-shaped
+Stripe
+Multi colour
+H7
+H8
+H9
+H10
+H11
+D1R
+D1S
+D2R
+D2S
+SV7-8
+SV8.5-8
+W2x4.5d
+W2.5x16d
+W2.5x16q
+W4.3x8.5
+BAY9s
+BAX9s
+B8.4-12.5
+B8.5d
+B8.3d
+B8.7d
+B10d-14.5
+BAU15s
+BAY15d
+BAZ15d
+P26s
+PX14.5s
+PX26d
+PGJ19
+PGJ19-1
+PGJ19-2
+PGJ19-5
+PY20d
+PX29t
+PX43t
+P20d
+P22d
+P29t
+P32d-2
+P32d-3
+PU43t
+P45t
+L-profile
+Slide-in bracket
+Claw
+Face out bracket (C-bracket)
+Right-angled
+EVA
+Solid PE (HD-PE)
+Ethylene tetrafluoroethylene (ETFE)
+Polytetrafluoroethylene (PTFE)
+Fluorinated ethylene propylene (FEP)
+PA
+Grooves
+Fork shape
+Pin shape
+Nickel
+Hook shape
+Special shape
+Up to 15 kV
+Up to 10 kV
+Shrink insulation PE
+End connector
+Polyethylene
+Thread
+Plug-in
+Pliable corrugated
+Pliable
+Clean room
+Cooling chamber
+Aquarium/seawater
+Aquarium/fresh water
+Terrarium
+Food
+Ex-proof environment
+Hardening
+ESX
+BAB
+FRB
+FMW
+EXT
+EXZ
+EXN
+FNV
+BBF
+FTB
+FTD
+FTH
+FTE
+GBA
+GBD
+GBE
+GBF
+GBB
+GBC
+GBG
+GBH
+GBJ
+GBK
+Aluminium plated glass
+Up to 30 kV
+Lighting for plants
+Ring shape
+Special angle
+Reversing safety
+Star-delta contactor
+PCB connection
+Front fastening
+Side mounting
+Integrable
+Adjustable roller lever
+Flat plug-in connection
+Separate positioning
+Direct attachment
+Wedge Base W 2x4.6d
+Neon lamp
+Pull-release
+Turn-release
+Key-release
+Delayed
+Undelayed
+RC-element
+Front installation
+Magnetic drive
+Motor drive
+Without button plate
+Surface mounting housing
+Insulation displacement connection
+With switch disconnector compact
+With safety switch disconnector
+NH000
+NH1
+NH2
+S27
+S33
+Reversing starter
+Direct starter
+Star-delta starter
+NH3
+NH4a
+UP
+Swivel
+ISO 12
+ISO 16
+ISO 20
+ISO 25
+ISO 32
+ISO 40
+ISO 50
+ISO 63
+Ratchet model mechanical
+Hydraulic cutter head
+Hydraulic cutter head with foot pump
+Hydraulic cutter head with electrical pump
+Mechanic one hand
+Mechanic two hands
+Funnel
+Spiral spring
+Support clamp
+Door side panel
+Triangle
+Rectangle
+Control module
+Connecting-/branching terminal
+USB
+Equipment mounted sensor
+Movement sensor
+Humidity sensor
+Presence detector
+Visualization
+Product data bank
+Application software
+Planning-/put into operation software
+German
+English
+Multi-lingual
+IR-interface
+Fibre optic interface
+LAN-systems interface
+Telecommunications interface
+Light system interface/Dali
+Energy meter
+Max. monitor
+Convertible
+Current module
+Signalling lamp
+ON
+OFF
+DOWN
+CLOSE
+FORWARD
+REVERSE
+RAISE
+LOWER
+RIGHT
+LEFT
+FAST
+SLOW
+SCHNELL
+TEST
+HALT
+ENTSPERREN
+Short thumb-grip
+Long turning handle
+TWIN end socket
+End socket
+Magnet mount antenna
+Glass mount antenna
+Bumper antenna
+Arbour antenna
+Fix
+23 mm
+40 mm
+VHF/UHF/FM
+Plug
+5E
+Crimp
+Single mode
+Multi mode
+FC
+LC
+VF-45
+MT/MPO
+Epoxy
+Fusion splice
+Mechanical splice
+Via the core
+Via the cladding
+CATV
+Mini-UHF
+FAKRA
+SMB
+MCX
+MMCX
+FME
+7/16
+SMA
+Male
+Female
+Crimp/crimp
+Solder/crimp
+Crimp/solder
+RG 58
+RG 59
+RG 62
+Snapable
+2x RJ45
+2x RJ12
+2x RJ11
+2x RJ10
+2x RJ9
+RJ45/RJ12
+RJ12/RJ10
+Insulated mounting
+Pulse tone
+Slow-action switch
+PROFIBUS
+Adjustable rotary lever
+Bus (jack)
+Without colouring
+No
+In accordance with EN 50265-2-1
+E 30
+E 60
+E 90
+Rings
+Triple
+Quad
+Polyurethane (PUR)
+Rubber - ethylene propylene rubber (EPR)
+Rubber - ethylene-vinyl acetate (EVA)
+Rubber - silicone rubber (SIR)
+Corrugated metal
+Rubber - polychloroprene (CR)
+Class 1 = solid
+Class 2 = stranded
+Class 5 = flexible
+Class 6 = very flexible
+Sector-shaped
+NiFe
+Aeration and de-aeration
+Window
+Duct
+Door
+G1
+F5
+F6
+F7
+F8
+F9
+Dust filter
+Outside
+Foot mounting
+Base mounting
+Continuous soldering tip
+Cartridge with dispense brush
+Can
+Lap-screen
+PE/air
+Loose tube
+Simplex
+Tape
+FE 180
+Hemp
+Aramid fibre
+Al/PE/PA
+NiCr
+Copper, bare
+Copper, tinned
+Unfilled polyether-urethane resin
+Filled polyether-urethane resin
+Unfilled epoxy resin
+Filled epoxy resin
+Unfilled polyurethane resin
+Filled polyurethane resin
+0.6/1 kV
+3.6/6 kV
+6/10 kV
+12/20 kV
+18/30 kV
+Transition
+Cast resin
+Heat-shrink
+Cold-shrink
+Glass fibre texture
+Carbon-paper
+Crepe paper
+Foam material
+Magnet
+Texture
+Sector-shaped 90°
+Sector-shaped 120°
+Not isolated
+Round 4 mm
+Round 5 mm
+Flat 2.8x0.5 mm
+Flat 2.8x0.8 mm
+Flat 4.8x0.5 mm
+Flat 4.8x0.8 mm
+Flat 6.3x0.8 mm
+Flat 7.7x0.8 mm
+Flat 9.5x1.2 mm
+Insulated cable connections
+M10
+M12
+Up to 230/380 V
+Press fit
+Screwed connection
+"Symbol ""light"""
+"Symbol ""bell"""
+"Symbol ""key/door"""
+D-sub-miniature
+UAE/IAE (ISDN)
+Safety power supply (green)
+Supplementary safety power supply (orange)
+Additional safety power supply (red)
+Full cover plate
+Plug-in end socket
+Control of electrical users
+Chip card
+Tronic
+Auxiliary post
+MOSFET
+Direct/transformer
+Hotel card system
+(Alarm) clock
+Thermometer
+Top control unit
+Ceiling mounted receiver
+Basic element with control top unit
+Y-piece
+Steel (mild steel rolled)
+Steel (strip steel rolled)
+Rigid threaded
+Rigid non-threaded
+Heavy (class 4)
+Extra heavy (Class 5)
+Extra light (125 N)
+Light (Class 2)
+Medium (class 3)
+Polyamide 6
+Polyamide 12
+V0
+V1
+V2
+HB
+Not sheathed
+Steel braided
+Stainless steel braiding
+Pliable, self recovering
+No thread
+External thread
+Internal thread
+Snap connection
+PG11
+PG16
+PG21
+PG29
+PG36
+PG42
+PG48
+PG7
+PG9
+PG13.5
+No sealing
+TPE
+Without coil
+PVC-sheathed spring steel
+Plastic-sheathed spring steel
+Helix of rigid plastic
+Very flexible
+Extremely flexible
+Steel wire, galvanized
+Stainless steel wire
+Megolon, flame retardant
+PVC, oil resistant
+PVC, flame retardant
+Special fibre sealing
+Not specified
+With conducting characteristics
+With electrical insulating characteristics
+With conducting- and insulating characteristics
+O-ring
+Flat sealing
+PET (PolyEthyleenTerephtalate)
+Through bore hole
+Copolymer, cross-linked (XPE)
+Foil + braiding
+Double spatula
+Multifunctional shears
+Smith hammer
+Grooved hinge
+Power diagonal cutting nipper
+Arbour clamping
+Notching
+Trapezoid compression
+Square compression
+Roll compression (shrinking)
+Four mandrel compression
+Universal (exchangeable inserts)
+Pipe cable lug and connectors
+Cable compression lugs and connectors
+Hand hydraulic
+Accumulator-hydraulic
+Hydraulic compression head
+Blade saw
+Hack saw
+SDS-max
+SDS-plus
+Hexagon holder
+Cylindrical plug-in axle
+Multi mode 50/125
+Multi mode 62.5/125
+NiAl
+Graphic
+Counter
+Conductivity measurement
+Delay time measuring
+Mechanic measuring
+Pt100
+Folding ladder
+V-shape
+1/2 inch
+1 1/2 inch
+2 inch
+3 inch
+Hydraulic foot pump
+Pneumatic pressure transducer
+Hydraulic universal head
+With current clamp meter/clamp adapter
+Direct current measuring
+220V/accu
+2 mm
+2 mm safety plug
+4 mm safety plug
+6 mm safety plug
+Max. 50 V AC/120 V DC
+Double mounting bracket
+Under-roof mast
+SAT-analogue-TV (PAL)
+SAT-digital-TV (QPSK, DVB-S)
+Terrestrial-analogue TV (PAL)
+Audio/Video (AV)
+Force and pressure test equipment
+Force transducer
+Universal measuring device
+Two-hand safety control
+Foot switch
+Hydraulic hose
+Coupling sleeve
+Double nipple
+Video-camera microphone
+Kitchen radio
+Plasma
+Stereo
+Conventional
+Multimedia card
+SD card
+Memory stick
+Flash card
+MICROMV
+MiniDV
+Digital8
+With cord
+Mixer
+Home cinema system
+CD
+DVD
+Cassette
+Hi8
+Monitor
+Digital videocassette (DV)
+Suitable for built-under mounting
+Fully integrable
+G
+Without time preselection
+One preselected time
+Exhaust air
+Condensation
+Microwave solo
+Microwave + grill
+Microwave combination
+Suitable for built-in
+Inbuilt
+Yes
+Switch-off function
+1-door
+2-doors
+3-doors
+4-doors
+Side-by-side
+Free-standing
+Possible with accessories
+Possible and included
+T
+Left
+Right
+Sliding connection
+Fixed mounted with hinge hole
+12 V
+24 V
+Gas
+Visible
+Audible
+Both visible and audible
+No signal
+Fridge
+Freezer
+Fully extendible
+Cooking cart
+Telescopic shelf
+Swing door
+Glass front
+7-step
+12-step
+Free standing grill
+Grill table
+Lithium battery
+Solar
+Non-stick
+Hygienic filter
+Turbo
+Electro
+Concealed
+Storage heater
+Peripheral ventilation heater
+Ventilation-storage heater
+Radio remote control
+Cable remote control
+2 steps manual
+2 steps automatic
+Pressure switch-off
+2 handles
+1 lever
+Integrated tap
+PU foam
+Soft foam
+Water tap
+Hot water tank
+Bidet
+Surface mounted battery
+Hot water-free standing storage tank
+Vertical heating boiler
+Hanging boiler
+Combi accumulator
+Universal storage
+Hard foam
+Moulded parts
+Electro central heating
+Spread controller
+Universal controller
+Central controller
+1/N/PE~220-240 V
+Freeze protection convector
+Low-temperature convector
+Floor warming
+Thin-bed heating
+Floor direct heater
+Floor storage heater
+Sewed
+Pasted
+Element connectors clamped
+Central air supply and -exhaust
+Peripheral supply and exhaust
+Peripheral supply/central exhaust
+Cross counter current unit
+Open air
+Set electro storage heater
+Cradle radiator
+PCB
+Heating cable
+Horizontal/vertical
+Charging time >8h
+Charging time <8h
+Heating circuit
+Hot water heating
+Tube collector
+Flat collector
+Integrated into roof plane
+Die-casting
+Approach electronics
+Double-/single circuit
+Universal flange
+Heat exchanger
+3/N/PE~400 V
+Water
+Brine
+R407 C
+R290
+R404 A
+R410 A
+Split
+Circulation reversal
+Hot gas bypass
+Temperature sensor
+Climate installation
+Solar systems
+Heat pump systems
+Ventilation systems
+Buffer storage tank
+Brine distributor
+Brine mounting kit
+Installation kit
+Hot water preparation
+Partial load range
+Electrical reheating
+Hydraulic instantaneous water heater
+Electronic instantaneous water heater
+Connection kit
+Mounting kit hot water preparation
+Mounting kit electro reheating
+Air conditioner
+Air heater system
+Repair aid
+Flat-/tube collector
+Mineral wool
+Copper, zinc plated
+Sound-muffling cover
+Fundament sound-absorption
+Wall-sound insulation
+FRA
+Soft
+Double-envelope
+Tube, double-ended
+S15
+S30
+S45
+S90
+S105
+S120
+S135
+h15
+h30
+h45
+h120
+h135
+se90
+se30
+P-90+45
+P4
+P20
+Any
+Pear-shape
+Insects
+Croco
+Wind gust
+Top
+S5.7
+General
+W2.1x9.5d
+Lens-shape
+Sphere-shape
+Olive-shape
+G3.9
+GX7.9
+G9.5
+GZ9.5
+GY9.6
+P28s
+P15
+S130
+BDM
+BRL/BCD
+BTL
+BTP
+BTR
+BVM
+CYX
+DDS
+DED
+DNF
+DWZ
+DXX
+DZA
+DZJ
+EFM
+EFP
+EGR
+EGY
+EHA
+EHJ
+EHE/ETA
+EJA
+EJL
+EJM
+EKE
+EKM
+ELC
+ELC/FA
+ELD/EJN
+ELH
+EME
+EMG
+ENH
+ENX
+EPZ/DJT
+ERV
+ESA/FDH
+EVB/BRJ
+EVC/FGX
+EVD
+EVM
+EVX/GX
+EWF
+EXJ
+EXR
+EXW
+EYB
+FAD
+FCM
+FCR
+FDS/DZE
+FDT
+FEL
+FGP/EMG
+FHM
+FHS
+FHX
+FJX
+FKB
+FKK/FKP
+FKY
+FKZ
+FLK
+FLKW
+FLT
+FNT
+FTL
+FTM
+FRH
+FRJ
+FRL
+FSK
+FSL
+FVA
+FVB
+FVC
+FWP
+FWR
+FKD
+FKH
+FKJ
+FWS
+FWT
+FXL
+GAB
+GAC
+GAD
+GCV/GVH
+GCW/GCJ
+GCK/GCT
+GCL/GCS
+GED
+GJT
+GKV
+GLA
+GLB
+Biplane
+M-shape
+Double filament
+Mono-plane
+Single filament
+Halogen metal
+Cool beam reflector
+BA15s
+W2.5x9.5d
+C21W
+C5W
+H6W
+H12
+H21W
+HB3
+HB3A
+HB4
+HB4A
+HS1
+HS2
+R2
+P21/4W
+P21/5W
+P21W
+P27W
+PY21W
+PY27/7W
+R5W
+R10W
+S1
+S2
+S3
+T4W
+W2.3W
+W3W
+W5W
+W16W
+W21W
+W21/5W
+WP21W
+WPY21W
+WY2.3W
+WY5W
+Without ECE-category
+P27/7W
+Yellowish
+Bluely
+Only ON
+On or off
+Without hood
+Transport - hoist
+RUNNING
+FAULT
+RESET
+LANGSAM
+BETRIEB
+EINRICHTEN
+ADR
+Antenna/satellite technique
+1 BNC Video
+1 BNC Audio
+1 F-Connector
+1 Cinch Audio
+2 BNC Video
+2 BNC Audio
+1 HF
+IBM AS400
+1-2/3-6
+3-6/4-5
+1-6/5-9
+LC-Duplex
+E2000 compact
+FC/PC
+Conductor pigtail
+Cable pigtail
+Put-on
+RJ10 4(4)
+RJ9 4(2)
+1:1
+Crossed
+Moulded-on
+4x2
+2x2
+1x4
+2x4
+GLC
+Piezo
+Flintstone
+Soldering iron direct
+Workstation
+Viscose
+Steel wool
+Inside and outside
+Touch operated lock
+Key lock
+Chisel shaped
+Skirting convector
+Measuring adapter
+Screens
+Glass surfaces
+Printer mechanics
+Tubes
+Support
+Welds
+Insulated tube cable lug and connector
+Cutting insert
+Inclined
+DIN rail (top hat rail) 35/15 mm
+DIN rail (top hat rail) 35/7.5 mm
+G-rail
+Direct mounting
+Special profile
+5V
+Pluggable
+Cu/CuNi44
+Fe/CuNi44
+NiCr/CuNi44
+NiCrSi/NiSi
+NiCr/Ni
+E-Cu/A-Cu
+S-Cu/E-Cu
+Sliding
+3x10 mm
+6x6 mm
+5x20 mm
+Bichromated
+Round hole
+1/N~230 V
+5x25 mm
+6.3x32 mm
+Cs
+gL/gG (cable protection/equipment protection)
+aM (switchgear protection)
+gR (general purpose semiconductor protection)
+aR (accompanied semiconductor protection)
+NHC00
+000
+DI
+Sorted
+With inscription
+Round duct
+Metal housing
+Plastic housing
+Ceiling mounting
+Pitched roof
+1/N/PE~230 V
+DN 15
+DN 20
+DN 25
+DN 30
+Ex-proof
+3/4 inch external
+UV
+PSFc20-6
+2G11 (4-pins)
+G23 (2-pins)
+GY6.35-15
+K23s
+KX23d
+Ring mirror
+2-pole
+Equipment mounted socket outlet
+Combination
+400 V
+Screw less terminal
+Anti-kink sleeve
+75x75 mm
+130x130 mm
+CEE 16 A
+CEE 32 A
+Wall mounted socket
+Equipment mounted socket outlet (under plaster)
+Flush mounted socket with UP box
+Double socket outlet
+Closed cover
+Cover with text label
+Cover with text label and lock
+Low voltage
+Built-up device plug
+Switchable wall socket
+Without on/off switch
+With on/off switch, without locking
+Electrical locking
+Electronic locking
+Auxiliary contacts
+Special switch
+Mixed
+Resistor
+Suppressor diode
+Gas tube conductor
+Free configurable
+Screw less
+Transverse connector
+Box connector
+Vertical connector
+Cable bridge
+Push-in type jumper bar
+Wire commoning chain
+Separating bridger
+Switching bridge
+Reducing connector
+Blade fuse
+G-fuse 5x25 mm
+G-fuse 5x20 mm
+G-fuse 5x30 mm
+DIN rail (top hat rail) 35 mm
+DIN rail (top hat rail) 15 mm
+DIN rail (top hat rail) mounting rail 75 mm
+15x6 mm
+Bus system
+1+n system
+Multi-wire system
+SN
+Standing
+Wall lead-through
+Plug-in
+Switch (connect)
+DECT-module
+UPO-module
+Fast beat
+Slow beat
+Single beat
+Alternating
+2-wire
+Tunnel
+Radio antenna
+Radio-/television antenna
+One-wing, left and right
+One-wing, left only
+One-wing, right only
+Gate stop
+Internal end switch
+230 V AC
+SAT audio sub carriers
+Cable-digital-TV (QAM, DVB-C)
+Green/clear
+Xenon
+Terrestrial-digital TV (COFDM, DVB-T)
+Horn
+Sound generator
+Digital
+Offset
+Twin universal
+Single universal
+1 Cinch Video
+Halogen
+Fresnel lens
+Glass optics
+T1 to T2
+T1 to T3
+T1 to T4
+T1 to T5
+T1 to T6
+Distribute
+Convert
+Expand
+Signalling
+Controlling
+AM
+Chamfered
+Pencil point
+Side
+Adapter set for covers
+1x16A3p230V
+2x16A3p230V
+3x16A3p230V
+>4x16A3p230V
+1x16A5p400V
+2x16A5p400V
+3x16A5p400V
+4x16A5p400V
+>4x16A5p400V
+1x16A xp xxxV
+2x16A xp xxxV
+1x32A5p400V
+2x32A5p400V
+3x32A5p400V
+4x32A5p400V
+>4x32A5p400V
+1x32A xp xxxV
+2x32A xp xxxV
+3x32A xp xxV
+4x32A xp xxxV
+1 cable (branch line)
+2 cables (ring line)
+Built-up plug
+Feeder cable with plug
+Portable
+Hangable
+Sub floor
+Energy bollard
+Roof feed-through
+Sealing for roof feed-through
+Mast clamp
+Mast covering cap
+Mast mounting set
+Sealing plug
+Mast spacing support
+Analogue
+Pointer
+Forehead
+Ear
+Décolletage
+R134A
+Gypsum fibre board
+Spline shank
+SDS-max socket
+SDS-plus socket
+SDS-top socket
+Square
+>4x32A xp xxxV
+1x63A5p400V
+2x63A5p400V
+3x63A5p400V
+4x63A5p400V
+>4x63A5p400V
+1x63A xp xxxV
+2x63A xp xxxV
+3x63A xp xxxV
+4x63A xp xxxV
+>4x63A xp xxxV
+1x125A5p400V
+2x125A5p400V
+3x125A5p400V
+4x125A5p400V
+>4x125A5p400V
+1x125A xp xxxV
+2x125A xp xxxV
+3x125A xp xxxV
+4x125A xp xxxV
+4x16A3p230V
+>4x125A xp xxxV
+Over current switch
+Over current switch/D0-system
+Earth leakage switch with IFN 30 mA (standard)
+Earth leakage switch with IFN 300 mA
+Earth leakage switch with IFN 500 mA
+12-24 V AC/DC
+8-18 V DC
+Via digital time switch
+External power adaptor required
+External power adaptor not required
+Electronic with switching-off pre-warning
+3 and 4 wire configuration
+3 wire configuration
+4 wire configuration
+Flickering
+Dimming up to 50 %
+Dimming up to 0 %
+Flickering and dimming
+Repetitive
+Repetitive + continuous light
+Repetitive + continuous light + time extension
+Electronic switch
+Mechanical switch
+Electronic series switch
+Mechanical series switch
+Electronic group switch
+Mechanical group switch
+Electronic for centralized control
+Mechanical for centralized control
+Electronic with release delay
+PLC - extension
+PLC - PC
+PLC programming device
+PLC - PLC
+PLC - other devices
+Optional
+Not available
+Spring clamp connection
+Screw-/spring clamp connection
+Wrapped connection
+Clip connection
+Soldering flag connection
+Insulation piercing connection
+Weld
+TFT
+STN
+Box
+Rack
+Tower
+Desktop
+Intel Pentium 3
+Intel Pentium 4
+Athlon XP
+Cyrix
+Windows 9x
+Windows NT
+Embedded Windows NT
+Embedded Windows XP
+Windows 2000
+Windows XP
+Windows ME
+Windows CE
+Linux
+SMATV-system
+Portable device
+Notebook
+Line oriented
+Graphic oriented
+Not required
+Enclosed
+0/14/18 V 22 kHz
+0/14/18 V DiSEqC
+Premiere
+Viaccess
+Irdeto
+PC interface
+Module rack extension
+Broadband amplifier
+OPC server
+Active X
+PCI+
+14/18 V, DiSEqC, 0/22 kHz
+0/12 V
+Vacuum fluorescence
+LCD with background illumination
+LCD without background illumination
+Sat range diplexer/filter
+Feed-in diplexer SAT/terrestrial
+Remote feed diplexer
+Trap filter
+CRT
+1-channel
+2-channel
+3-channel
+Polarized
+Polarity free
+Mono stable
+Bistable
+Remanence
+Simple contact
+Double contact
+For AC-current system
+For three-phase supply system
+For DC-current system
+For mixed system
+Type III A
+Type III B
+Type III C
+IBM cabling system
+Hinged lid
+20x5 mm
+DIN rail (top hat rail) 32 mm
+U
+Rod
+Standard
+Shutter
+Without imprint
+Without protective contact
+Earthing pin
+M12 x 1.5
+M16 x 1.5
+M20 x 1.5
+M25 x 1.5
+M32 x 1.5
+M40 x 1.5
+M50 x 1.5
+Polyamide, glass-fibre reinforced
+With thread
+Telco 50-pole
+PVC, oil durable
+45°-Bend
+90°-Bend
+45°-elbow
+90°-elbow
+M 10 x 1.0
+Fibre optic conductor
+DN 32
+Supply-/exhaust air set for central air supply
+Supply-/exhaust air set for decentralized air supply
+Exhaust air set
+Exhaust-/open air set
+10 mm
+Armouring
+Metallic
+Rotating axis
+Without actuator
+Incremental encoder
+A+B
+A+B+0
+Desk type
+Wall duct installation
+CuNi
+Printer heads
+Anti-static
+Field/field
+Cabinet/cabinet
+Housing/housing
+Audio-CD-RW
+Subwoofer
+Cassette recorder
+Pendant
+Floor heating
+Untreated
+Countersunk rounded head
+Set
+Downwards
+Cable entry cabinet
+Entry/end distributor enclosure
+T1
+1 change over switch
+2 change over switches
+1 daily/weekly contact
+Trunk line (local loop) extension
+Audio recorder
+Point-to-point connection module
+Mobile module
+Substation extension
+Software package
+Substation change over switch
+System display
+Dialling device
+Installation module
+Colour PAL
+In branch box
+In junction box
+Single-/quad picture
+Single picture
+Vibration alarm unit
+Granulate
+ABC-keyboard
+Leather
+Leather/metal
+Outdoor surface heating
+Cubic
+PNP/NPN
+Magnetic
+Wire
+Stripper/skinner
+Concrete building
+Tube
+Coins
+Steel varnished
+Sand-proof
+Watertight
+Twofold
+Fourfold
+Six fold
+With terminal strip
+With solder eyelets
+With cutting-clamp strip
+Pliable corrugated with synthetic sheath
+Slot
+EPR
+Parallel branch
+III
+Phase cut-on
+Phase cut-off
+Conductor bar
+Safety transformer
+1-phase electronic adapter transformer
+3-phase electronic adapter transformer
+Phase cut-off/cut-on
+1 mounting rail
+2 mounting rails
+3 conductors AWG 12
+Round conductor/copper band
+Round conductor/laminated copper rail
+Laminated copper rail
+3 conductors AWG 10
+3 conductors AWG 10/3 clamps 10 mm²
+Electronics cabinet
+Shelf
+Swing frame
+Connection system
+Network cabinet
+CTG G
+UNEF
+1/4 inch
+5/16 inch
+1 3/4 inch
+1 3/8 inch
+1 7/16 inch
+15/16 inch
+5/8 inch
+7/8 inch
+IEEE 802.11 b
+Bluetooth
+Push cart
+Roll board
+C-profile
+Control switch
+Venetian blind switch
+Standard bell ringing transformer
+Mains transformer
+Parallel capacitor for L-lamp
+Series capacitor for L-lamp
+Motor operating capacitor
+Iron core transformer
+Key switch
+100 g
+200 g
+500 g
+1 kg
+Socket outlet with protective contact, right-angled
+Cable lug
+Cold device plug (IEC 320)
+EURO plug
+Double slot plug, female
+Euro-plug, female
+Hot device plug, 115 °C
+Cold device plug angled, female
+Small device plug, female
+Coupler with protective contact
+Hot device plug, female
+Bundle
+Colour + rings
+Rubber - chlorinated/chlorosulfonated polyethylene (CPE/CSP)
+Rubber - Hard grade Ethylene Propylene Rubber (HEPR)
+Class D = flexible
+Class E = very flexible
+Semi tight
+Layers
+Magenta
+In accordance with IEC 60332-3-22
+Pairs
+PE / polyamide
+PH 120
+PH 15
+PH 30
+PH 60
+PH 90
+Crosslinked polyethylene (XLPE)
+Al/PE
+1 make contact (NO), 1 breaker contact (NC)
+10x2.5 mm²
+12x2.5 mm²
+13x2.5 mm²
+15x2.5 mm²
+3-pole
+3x1-pole
+4 breaker contacts (NC)
+4x1-pole
+Acoustic sensor
+American National Standard
+AMP-ACO
+Surface mounted housing
+Surface mounted housing presence indicator
+Surface mounted frame
+Surface mounted frame with loose bottom plate
+Off switch 2x1-pole
+Off switch 3x1-pole
+Basic element with central cover plate
+Basic element with adapter plate
+Basic element with housing top
+Basic element with complete housing
+Basic element with full cover plate
+Control end-piece
+Control element
+Mounting with claw
+Mounting with claw and screw
+Mounting with screw
+Lighting cap flat
+Lighting bonnet high
+Imprintable sheet
+Imprintable label snap-in in intermediate ring
+Imprinting aid
+Biometric
+Aperture
+Bluetooth interface
+Bottom plate for wall sender
+British Standard
+CO2-Sensor
+Code lock
+Data
+Data rail cover
+Continuance
+Ceiling-/installation bracket
+Dimmer incl. transformer
+3-pole switch
+Three-part rocker
+Dupline
+Corner adapter
+EDP (Electronic data processing)
+One
+Miniature fuse
+Remote control
+Blade terminal
+Radio module
+Radio interface manufacturer specific
+For data connection housing
+For spacer ring
+Galvanized
+Housing base
+Glossy
+Glass-breakage sensor
+Manual transmitter
+Manual transmitter for movement sensor
+Brightness sensor
+HNA
+IHC
+Inductive load
+IP00
+IP20
+IP21
+IP23
+IP24
+IP2X
+IP30
+IP31
+IP32
+IP34
+IP3X
+IP40
+IP41
+IP42
+IP44
+IP54
+IP55
+IP65
+IP66
+IP67
+Capacitive load
+No special power supply
+Clamp mounting
+Combination switch/button
+Complete housing
+Complete device
+Control
+Intermediate switch
+Laser
+Print panel-solder connection
+Mast fastening
+Several
+Several closing devices
+Multiple interface
+Multiple sensor
+With indication plate
+Mounting housing
+Mounting frame
+NEMA
+Rain sensor
+Resistive
+Resistive load
+Without indication field
+Orientation
+PHC
+DRA (DIN-rail adapter)
+Relay and HVAC-relay
+Template
+Switch/dimmer
+Circuit 0 - 1- 1+2 - 1+2+3
+Circuit 0 - 1 - 2 - 3
+Circuit 2 - 1 -3
+Slide
+With pull relief and suspension
+Normally open contact with feedback contacts
+Ethernet interface
+Protective cover
+Transmitter insert
+Other indication
+Memory medium
+Plug clamp
+Level switch
+SV
+"Symbol ""1"""
+"Symbol ""rotational speed"""
+"Symbol ""3-level switch"""
+"Symbol ""arrows"""
+System-insert
+Button
+Button, alternating
+Tracer push button
+1-pole switch and push switch
+2-pole switch and push switch
+TCP/IP
+TERKO
+Inkjet
+Inkjet and laser
+Supporting plate
+Foot controller
+UIP
+Ultrasonic
+Vending aid/display
+Extended pipe in-lead
+Wall-mounted transmitter
+Wall-mounted transmitter complete
+Wall-mounted transmitter insert
+Alternating-/alternating switch
+Rocker/button
+Rocker with mouth rod guiding
+WSV
+Pinching contact
+Decorative square
+Decorative ring
+ZSV
+Support antenna
+Two-part rocker
+Adapter plug
+Multi mode 200/300
+Multi mode 980/1000
+0 V ... 10 V
+0 V ... 10 V / 0 mA ... 20 mA
+0 mA ... 20 mA
+0 mA ... 20 mA / 4 mA ... 20 mA
+-10V ... +10V
+4 mA ... 20 mA
+Active tristimulus method
+Anticoincidence
+AS-Interface
+AS-Interface Safety at Work
+ATEX gas-ex-protection, Cat. 1G
+ATEX gas-ex-protection, Cat. 2G
+ATEX gas-ex-protection, Cat. 3G
+ATEX dust-ex-protection, Cat. 1D
+ATEX dust-ex-protection, Cat. 2D
+ATEX dust-ex-protection, Cat. 3D
+Bit parallel
+Blue light
+Bus cap
+CANOpen
+CuSn
+CuZn
+Roof plunger
+DeviceNet
+DeviceNet Safety
+Double-layer
+Rotary current asynchronous motor
+Rotary current synchronous motor
+Dark switching
+One-way system
+Single cores
+Receiver
+Direct current motor
+Green light
+Light-/dark switching
+Light switching
+High pressure gas discharge lamp
+Infrared light
+INTERBUS
+IP10
+IP12
+IP22
+IP33
+IP43
+IP45
+IP50
+IP52
+IP53
+IP56
+IP57
+IP58
+IP64
+IP68
+IPX0
+IPX4
+IPX7
+Cable axial
+Cable with connector
+Cable radial
+Class 1
+Class 2
+Class 3
+Capacitor motor
+Spherical plunger
+Laser diode, infrared light
+Laser diode, red light
+Light delay time
+Linear motor
+Magnetostrictional
+Manual adjustment
+Multi-core
+Multi-coloured LED
+Multilayer
+Metallic Target
+NAMUR
+Ni/Au
+Not flat
+Low-pressure gas discharge lamp
+NPN/NPN
+Breaker contact (NC)
+Optocoupler
+Parameterization
+Passive tristimulus method
+PNP/PNP
+Potentiometric
+Profile
+PROFIsafe
+Programmable/configurable
+PTE/FEP
+PUR vulcanized
+Quartz glass
+Quasi-flat
+Reflection system
+Relay contact
+Polarized red light
+Polarity free red light
+S 232
+SafetyBUS p
+Normally open contact (NO)
+Stepping motor
+Safety class 0
+Safety class 1
+Safety class 2
+Safety class 3
+Transmitter
+Transmitter and receiver
+Transmitter and receiver separated
+Transmitter and receiver in one housing
+Sine-shaped
+Sn
+Special construction
+Split pole motor
+SSD
+SSI
+Axial plug
+Radial plug
+Connector 1/2 inch
+Connector 3/4 inch
+Connector 7/8 inch
+Connector M12
+Connector M8
+Teach-In
+Transponder
+Triangulation
+Universal motor
+UV LED
+Valve connector
+Change-over contact (NO/NC)
+White light
+Vaulted cam
+Zinc
+Forced contact opening
+Two-wire
+Cylinder plain
+Cylinder, screw-thread
+Cream-white
+EPDM
+Galvanic tinned
+N(A)2XY
+N(A)2YY
+N(A)YCWY
+N(A)YY
+Eightfold
+Polished
+PVC, UV-stabilized
+Single module length
+2G10 (4-pins)
+2G7 (4-pins)
+2GX13
+Double module length
+Triple module length
+Dimming/screen
+Amber
+Balance weight
+Decor element
+Through-wiring
+Power supply system
+Electronic ballast 1-10 V
+Electronic ballast multiwatt
+Colour filter
+Filter
+G9
+Perforated
+Glass clear
+Glass opal
+Glass structured
+Glass transparent
+GX24q-5 (4-pins)
+GX24q-6 (4-pins)
+HV halogen lamp
+IK01
+IK02
+IK03
+IK04
+IK05
+IK06
+IK07
+IK08
+IK09
+Plastic, clear
+Plastic, opal
+Plastic, structured
+Plastic, transparent
+Coupler/connector flexible
+Coupler/connector straight
+Coupler/connector L-shape
+Coupler/connector T-shape
+Food products filter
+Empty tube
+Luminaire connection adapter
+Fluorescent lamp D=16 mm
+Fluorescent lamp D=26 mm
+Fluorescent lamp D=38 mm
+Fluorescent lamp D=7 mm
+Fluorescent lamp ring-shaped
+Lens
+Magnifier luminaire
+Magnetic transformer
+Mixed light lamp
+Low pressure sodium-vapour lamp
+LV halogen lamp
+Without reflector
+P13.5
+P30
+P45
+P60
+PAR reflector
+Pendant adaptor
+Mercury vapour lamp
+Grid
+RGB
+R-butt/reflector lamp
+Tube light complete
+Screen
+Screw ring
+Desk luminaire
+Protective basket
+Protective tube
+Stand (base)
+Socket outlet element
+Symmetric/asymmetric
+T4.6
+T5.5K
+T6.8
+Closure
+Living room luminaire
+2 1/2 inch
+3 1/2 inch
+4 inch
+Continuously galvanized and coated
+Galvanic/electrolytic zinc plated and coated
+Galvanic/electrolytic zinc plated and hostaflon coated
+GRP
+Wet
+Wet varnished
+Clear white
+Stainless steel V4A
+Stainless steel V2A
+Stone grey
+System independent
+Hot-dip galvanized and coated
+Base unit and cover
+Copper-plated
+0.01 µA
+0.01 mV
+0.01 Ohm
+0.01 Ix
+0.1 µA
+0.1 mV
+0.1 Ohm
+0.1 Ix
+0/5 V
+0 degrees
+1 µA
+1 1/4 inch external
+1 1/4 inch internal
+1 mV
+1 Ohm
+1 modular spacing
+1 inch external
+1 inch internal
+1/2 inch external square
+1/2x20 inch UNF
+1/4 inch external square
+1/4 inch internal hexagon
+10 µA
+10 Mbit
+10 mV
+254 mm (10 inch) mounting
+10/100 BT
+10/100 Mbit
+10/100/1000 Mbit
+100 µA
+100 mV
+1024x768
+10 Ix
+16 mm
+19 mm internal hexagon
+482.6 mm (19 inch)
+482.6 mm (19 inch) housing
+482.6 mm (19 inch) device
+1-fold and 2-fold
+1-fold and 3-fold
+1-fold with overvoltage protection
+1 Ix
+2 modular spacing
+2x 1-fold
+2x 2-fold
+2x TAE F
+2nd antenna
+20-30 mm
+20 mm
+21 mm internal hexagon
+25 mm
+2-fold and 1-fold with overvoltage protection
+2-fold and 2-fold with overvoltage protection
+2-fold with overvoltage protection
+2-fold-cinch
+2x RJ11 6(4)
+2x RJ12 6(6)
+2x RJ45 8(8)
+3 modular spacing
+3/4 inch external square
+3/8 inch external square
+3/8x24 inch UNF
+32 mm
+3N, 400/230V
+3-phase
+4 modular spacing
+40-bit WEP
+5 modular spacing
+5/8x16 inch UNF
+55 mm
+5-pole
+6 modular spacing
+64-/128-bit WEP
+640x480
+7 mm
+7 modular spacing
+7/16 (DIN)
+7/16 Connector
+72.5 mm
+8 modular spacing
+Single mode 9/125
+90 mm
+95 mm
+A+
+A++
+Removable work top
+Trimmable (cut away)
+Distance ring
+AC 3 processor
+Adapter
+Additive operating and release delay
+Additive operating delay
+ADo 4
+ADo 8
+Maple
+AI
+Active glass-breakage indicator
+Acoustic and optic
+Acoustic glass-breakage indicator
+Aluminium/copper
+Aluminium case
+Aluminium alloy
+Analogue with single function
+Analogue with multi function
+Moulded-on push fit plug
+Connection sleeve
+Terminal bracket
+Operating and release delay
+Operating delay
+Antenna connection
+Antenna cable
+Antenna coax plug
+Wrist watch
+Astro clock
+Atlas Copco
+On basic element
+Surface mounting fix
+Surface mounting modular
+Surface and panel mounting
+Snap on
+Snapped on
+Screw-on
+Table top
+Aluminium/stainless steel (V2A)
+Correction blind
+Off switch with control lamp
+Passing break contact
+External positioning
+Dump
+B10
+B12
+B16
+Telescopic guide rail
+Baking plate
+Basis
+Basis/terminals
+Cotton
+Shape of cup
+Mounting lug
+Mounting angle bracket
+Petrol engine
+Cutlery basket
+Beaver tail
+Up to 40 mm
+Blue tempered
+Lead link element
+Dummy plug
+Strobe shoe adapter
+Bottom perforation
+Bend horizontal
+Bend vertical falling
+Bend vertical rising
+Bore hole with M thread
+Bosch
+Fire protection foam
+Beech
+Camcorder
+Cardbus
+Cardbus Card
+CAT I
+CAT II
+CAT III
+CAT IV
+CE 2 wire
+CEE 60x60 mm
+CEE 70x70 mm
+Cobra
+Compact Flash
+Computer Associates
+Connector/cable adapter
+CT 1+
+D II
+D III
+Roof surface pitched
+Gutter clamp
+Data net connection
+PC interface and satellite/air/cable
+Data medium
+DCF 77 radio controlled
+Cover clamp
+Ceiling ventilator
+DECT
+DECT/GAP
+DECT-basis
+DECT-basis station
+DECT-repeater
+DECT-beam antenna
+Decor-correction blind
+Decor frame
+Zinc/aluminium flake coating
+Diamond
+Digital with single function
+Digital with multi function
+DIN-strips
+Double wall bracket
+Double floor
+Double floor outlet
+Double nozzle
+Double door
+Double shell
+Double bracket
+Spagnolet
+Print foil
+Print head
+Fragrances
+Thin-film
+Duplex printing unit
+Through-feed hinge
+DVD+R
+DVD+RW
+DVD-R
+DVD-RAM
+DVD-RW
+Corner duct
+Oak
+Bucket
+Installation mounting set
+Installation scale
+Single shielded
+Singular profile
+Built-in sensor
+Hang in
+Hang in and screw tight
+Inserting
+Snap in
+Insert
+On/off-switch wiping relay
+On-switch wiping relay
+Single-line
+Single bucket
+Single device
+Electronic beam/analogue
+Electronic with multi function
+EMS
+Energy technology
+Natural gas and propane gas
+Screed-covered
+External motor
+External device
+F05-PCF
+F05-POF
+F07-PCF
+Rebate clamp
+Mushroom-shaped interceptor
+Interception rod chamfered
+Interception rod with connection flange
+Interception rod with thread
+Interception rod with tripod
+Interception rod tapered
+Coloured ribbon
+Hue control
+Colour/digital
+Colour cartridge
+Facade
+Spring cover
+Spring steel
+Television set
+Finished fire partition
+Hard disc
+Grease pan
+Hot dip galvanized and coated
+Fire brigade alarm (red)
+Fibre silicate
+Filter set
+Ridge/hip
+Surface
+Flat cable
+Flat profile
+Button head
+Button head with square
+Bottle cage
+Photo camera
+F-Quick
+Frequency
+Frequency shunt
+Front blind
+Panel mounting 72x72 mm
+FSMA
+FSMA-POF
+FTZ-123 D12
+For device cups
+For equipment inset
+GBIC
+Counter shell
+Gel
+Vertical adjustable bend element
+Vertical adjustable bend complete
+Device cup
+Wall ducts
+Sound filter
+Apart
+Thread connection
+Thread-forming
+Thread-cutting
+Thread-cutting screws
+Glass holder
+Fibreglass
+Fibre optics/aluminium
+Gold/nickel
+Gold/rhodium/nickel
+Large spline shaft intake
+Basic module
+Group switch
+Belt clip
+H05RR-F
+H05VV-F
+H07BQ-F
+H07RN-F
+Hook blade
+Half hard
+Retaining collar
+Hammer inserts
+Hammer guiding rider
+Hammer stage
+Hanging
+Hard rubber
+Hard metal
+House alarm (blue)
+Hilti
+Hollow floor
+Hollow floor outlet
+Hollow ceiling
+Hollow head
+HomeRF
+Handset
+HP open View/Windows
+DIN (top hat) rail/combination-rail/C-rail
+DIN rail (top hat rail)/G-rail TH35/G32
+Hydraulic compression head with aggregate
+Hydrolytic
+Hygrometer for sauna
+IBM NetView
+IBM-LAN-Connector
+IEEE 802.11 a
+IEEE 802.11 g
+IEEE 802.11 h
+In housing
+In concrete
+Pulse former
+Impulse controlled operating delay
+Impulse day clock
+Impulse clock
+Impulse week clock
+In plaster
+Induction
+Information technology
+Infrared/microwave (Dual)
+Inside positioning
+Internal hexagon socket 1 1/8 inch
+Internal hexagon
+Decorative (isle hood)
+Integrated connector
+Ionisation
+ISO
+Thermos flask
+Insulated
+Year
+Year clock
+Cable tray
+Cold
+Coldness
+Calcium silicate
+Duct outlet
+Duct joint cover
+Duct system screed-covered
+Kango socket
+Card
+Cartridge
+Gore
+Without open listening
+Fire protection pad
+Flap
+Class B
+Class C
+Class L
+Adhesive
+Self-adhesive and floor perforation
+Stick/burs
+Clampable
+Clamp block
+Clamping
+Burs and brace
+Burs
+Burs/clamp
+Climate measurement
+Coax type
+Combination fuse status indicator
+Combi grate
+Construction clamp
+Basket for glasses/cups
+Mechanical vibration indicator
+Crossing
+Fridge/freezer
+Plastic, sheathed
+Copper sheathed
+Copper/plastic
+Copper/stainless steel (V2A)
+Copper/stainless steel (V4A)
+Copper/red bronze
+Copper/steel
+LAN connection
+Length- and angle joint
+Lengthwise cover
+Longitudinal joint
+LAN module
+Lip
+Claw hammer
+Loudspeaker cover grill
+LCD viewfinder
+Empty chassis
+PCB-module
+Installation duct
+Flashlight
+Line-interactive
+Left, interchangeable
+Lithium-ions
+Hole-/slot punching
+LON bus
+LSA
+LSA 2, 1-pole
+LSA 2, 2-pole
+LSA-plus plug-in
+Fibre optic coupling
+Fibre optic types
+M14
+M18 x 2.5
+Chisel hammer
+M-bus
+Mechanical analogue
+Multiple cassette
+Multiple lines
+Multi purpose connecting clamp
+Metal roof
+Metal fabric
+Microwave
+Mini GBIC
+Mini PCI
+Minutes/hours
+Mixing tube
+With covering cap
+With plug
+With hammer-drive pin
+With pointed wood screw thread
+With plug-in socket
+With and without battery
+With central disc
+Included connector
+Centre fuse status indicator
+MK1
+MK2
+MK3
+mm
+MMS
+Modular fire partition
+Monochrome/digital
+Mono crystalline
+Fireproof mortar partition
+Motor in housing
+Motor in chimney
+Waste sorting system
+Needle
+Nail strip
+Tack (with nails)
+Mains voltage
+Mains synchronous
+Power adaptor
+Power adaptor/Power over LAN
+NH-covering cap
+NH-contact cover
+NH-contact cover for slider parts
+NH-safety cover
+NH signal indicator
+NiCd
+NiCd/NiMh
+NiCd/NiMh/Lithium ions
+Non removable worktop
+Not washable synthetic fabric
+NiMH
+Emergency call transmitter
+N-ST
+Only clamp
+Only mould
+Only punch
+Above/under
+Joint cover for cover
+Octo LNB
+Offline
+Without covering cap
+Without worktop
+From test object (without battery)
+Without motor
+Without start time preselection
+Without door
+Without connector
+Ear plug
+Online
+Oval pressing
+Paper roll
+Paper feed
+Passive infrared
+Passive infrared/ultrasonic (dual)
+Passive glass breaking detector
+PC-Card
+PC-card
+Pendant bar
+Pan
+Fireproof plate partition
+Graphic plotter
+PlusMinus
+Polyamide/stainless steel
+Poly crystalline
+Potential free change-over contact
+Power over LAN
+Profile rail
+Projector
+PS 2
+Without cover frame
+Knurled tappet
+Snap
+Grid size 45
+Right, interchangeable
+Reducing to the left
+Reducing to the right
+Reducing symmetrical
+Rain pipe
+Repeater
+RG 11
+RG 174
+RG 213
+RG 214
+RG 223
+RG 6
+RG 71
+RG 8
+Rhodium
+Rhodium/nickel
+RJ45-bus
+RJ-type
+Pipe/cable
+Stainless steel V2A/synthetic
+R-TNC
+Release-delay
+Round 10 mm
+Tubular cable
+Round head
+Round conductor Rd 8-10 / flat conductor Fl 30-40
+Satellite/air/cable
+Sauna control device
+Switch strip
+Foam blocks
+Foam stopper
+Slate
+Rail fastening
+Shingle
+Key hanger
+Snow catcher clamp
+Quick-acting
+Ladle
+Screw cap
+Screw or spread out
+Screw less connector
+Screw slot
+Screwing set
+Screw connector
+Protective contact with overvoltage protection
+Protective strip
+Socket outlet with safety contact
+Protective bag
+Protective bag with belt clip
+SC-compatible
+Hexagon with Plus Minus
+Seconds/minutes
+Seconds/hours
+SFF-compatible
+Signal controller
+Signal signalling insert
+Sine
+SMS
+SN-ST
+SN-T
+Base
+Plinth plate
+Baseboard ducts
+Special telephone
+Stretchable
+Stretch
+Memory expansion
+Speak/ring
+Spread
+Die-casting part
+ST/SC-Duplex
+Thermo galvanized steel
+Thermo galvanized steel/plastic
+Steel/Plastic
+Cast steel
+Standpipe
+Rod clamp
+Rigid/flexible
+START + STOP
+Tripod
+ST-Duplex
+Plug cover
+Socket outlet strip
+Plug-in system
+Rim perforated
+In-wall installation cable
+Seamed joint zinc
+Stones
+Profile console
+Top fuse status indicator
+ST-compatible
+ST-POF
+Distance
+Current surge switch with delay on de-energization
+Trimmable step membrane
+Hour
+Hour-day clock
+Hour clock
+D-Sub
+HD-D-Sub
+SUN NET manager/UNIX
+Super fast (FF)
+Super slow (TT)
+System 71
+TAE F/RJ
+TAE N
+TAE NFF
+TAE NFF/RJ11
+TAE NFN
+TAE NFN/RJ11
+TAE F
+TAE N/F/N
+TAE-connector
+Day-/day clock
+Day-/week clock
+Day clock
+Timer starting with impulse
+Timer starting with pause
+Separable
+Partially electronic
+Telephone connection
+Telescope
+Plate holder
+Temperature meter
+Thermal colour tape
+Thermo sensitive
+Thermo transfer
+Thermo transfer paper
+Inkjet cartridge
+Table
+Desk type device/wall mounted
+Toner
+Toner/drum
+Toner cartridge
+Carrying handle
+Support shape
+Supporting ring
+Carrier bag
+Tear plate
+Trapezoid
+Trapezoid mounting
+Trapezoidal plate
+Trapezoidal blade
+Dry
+Drum
+T-piece horizontal
+T-piece vertical falling along
+T-piece vertical falling crossed
+Tube cable outlet for floor duct
+Tunnel branch pipe
+Door interface
+Door diversion duct
+Twinax-connector
+Twinax-cable
+Type 1
+Type 1 + 2
+Daisywheel/ball
+> 40 mm
+Fader
+UHF connector
+Modifiable
+Unix
+Built-under mounting set
+Sub-floor outlet box
+Underfloor installation duct flush floor open
+Girder
+Base unit cover
+Joint cover base unit
+Underwater housing
+UPO-port
+U-profile double-sided
+USB-A
+USB-B
+Ventilation-lag switch
+Connector
+Screw tight
+Distributor case
+Distribution strip
+Iron wire, galvanized
+VGA
+Square branch pipe
+Curtain
+Pre-mounted in housing
+Front side
+Front and top
+Wacker
+Dialling/remote control device
+Wall- and profile console
+Wall-/support console
+Wall connecting angle
+Wall chimney
+Warm
+Washable synthetic fabric
+Interchangeable
+Soft
+Fireproof partition (soft)
+Corrugated asbestos cement
+Windows
+Week clock
+Zinc/nickel
+Zinc/nickel alloy
+Zinc/steel galvanized
+To hang in
+Screw model
+Support bell
+Two
+Adapter plug with socket outlet
+Cheese head
+Enamelled sole
+Plastic-coated sole
+Completely electronic
+3xgrey / 1xblue / 1xgreen/yellow
+Sand-cast
+Internal toothing
+External toothing
+Burs tape
+Knotted tie
+Pen light
+Button cell
+Build-in accu
+Two-part button
+0-10 V
+0-20 mA
+10
+10 inch
+100 %
+100 m
+1000 m
+12
+16
+431.8 mm (17 inch)
+16/19 mm
+20
+20 min.
+200 m
+2000 m
+533.4 mm (21 inch)
+584.2 mm (23 inch)
+609.6 mm (24 inch)
+30
+300 m
+32
+4-20 mA
+50 Hz
+50/60 Hz
+500 m
+60 Hz
+75°
+Alkaline
+Aluminium foil
+B10d
+Bracket
+Internal- and external thread
+Cyan (blue-green)
+Concise
+BX10d
+Pressure
+Laminated
+Profiled
+Groove
+Heavy
+Weak
+1.25 d
+1 d
+6F22/6LF22/6LR61
+AA
+AAA
+Acetylene
+Earth leakage circuit breaker
+Adapter plate
+Cover ring key switch
+Sealing
+Ampere
+Antenna
+Contact protection end piece
+Contact protection rail
+Contact protection support
+Bevel
+AMP CO
+One and a half
+Ball pen
+Astronomical disc
+BA5s
+Oxygen
+Clear white
+IPX/SPX
+Mast
+Potentiometer
+Series
+Pull
+Anti twisting nut
+Protective door
+Mounting nut
+Internal hexagon with pin
+Bottom adapter
+Pipe shears
+External plunger
+Inner plunger
+Butane
+Central installation box/built-in installation box
+Housing mounting
+Cylinder with knurl
+Cylinder hexagon
+Coding plate
+Combination double socket outlet
+Communication module
+Capacitor block
+Connector remote control
+Connector transition
+Connector mounting
+Constantan alloy
+Constant power parallel
+Contact element puller
+Contact set
+Contact amplifying bracket
+Continuous-/flashing light
+Cream
+DD
+Cover with hook
+Door contact
+DIN-rail-adapter
+Diode bloc
+Diode element
+Continuous C-profile
+Continuous DIN-rail
+Continuous other profile
+Feed-through block
+Single-coloured
+Eccentric
+Hole
+Sensor
+Sisal
+Transformer
+Pull contact
+Pull cable
+Foot
+Volt
+Hexagon with pressed ring
+Change-over
+Wireless
+Watt
+04 (steel)
+10 (steel)
+10.9 (steel)
+100 (steel)
+12.9 (steel)
+14H (steel)
+3.6 (steel)
+4.6/5.6 (steel)
+4.8 (steel)
+4/5 (steel)
+45H (steel)
+5 (steel)
+5.6 (steel)
+5.8 (steel)
+5-2 (steel)
+6 (steel)
+6/8 (steel)
+8 (steel)
+8.8 (steel)
+8.8/10.9 (steel)
+8/10 (steel)
+90/100 (steel)
+A193 B7/A194 2H (steel)
+A320 L7/A194-4 (steel)
+C15 (steel)
+Triangle/delta
+C-profile double-sided
+Cross
+1 lip
+EX 10
+Fixing groove
+Phosphor bronze
+Holdall
+Front
+Front mounting
+Waved
+Conductive
+Equal
+Closed internal toothing
+Closed external toothing
+Bulged
+Hand
+Hand tap
+Hard
+Externally
+Internally
+Cable box
+Cone point
+Tool box
+Clamping ring
+Clamp spring
+Snapper mounting
+Cobalt zinced
+Ball head
+Bowl
+Copper sheath
+Copper-/nickel sheath
+Crosshead with pin
+Cross piece
+Deep countersunk head
+Countersunk hexagon
+Flat cylinder
+Letters
+Left-handed
+Right-handed
+LPG
+LR61
+Air/air
+Air/water
+M8
+Machine tap
+Massive
+Knife
+Medium
+Nut
+Nuts
+Mounting cover
+Nails
+Narrow beam
+Normal
+Not applicable
+Oil
+One way
+Uneven
+P40 (aluminium)
+P60 (aluminium)
+P65 (aluminium)
+PA 6 (synthetic)
+PA 6.6 (synthetic)
+Prism
+Polyester resin
+PS (synthetic)
+Pneumatic/hydraulic
+Perilex
+Multi-purpose ladder
+RJ
+Quiescent current
+SQ45 / SQ45
+SQ50 / RD50
+SQ50 / SQ50
+Flat ends
+Brush head
+Facing brickwork
+L-hook screw
+Screw hook
+Screw eye
+Extending ladder
+D-system fuse link
+Snap lock
+Die nut
+Thread cutting die
+Steel nail
+Strain relief
+TRI-WING
+Thermo maximal
+Thermo differential
+Temperature
+2 holes
+2 lips
+Bottom
+Raised
+Self-limiting parallel
+Very strong
+Soft iron
+Reduction
+Spring
+T-star (Torx) with pin
+Cordage
+Telex/ADo
+Stud
+Strong
+Strongest
+Stainless steel 304 (1.4301)
+Stainless steel 316 (1.4401)
+All round
+Rail
+R1/N
+R10
+R14/C
+R20/D
+Print mounting
+Flat
+Plate material
+Pan head
+Suspend
+Layed on
+Operating delayed
+Time-delay dropped out
+Open internal toothing
+Open external toothing
+On cable tray
+Mounting box
+Mixing amplifier
+Hand driven generator
+Cup point
+Epoxy acrylic resin
+Single nozzle
+Stainless steel A1
+Stainless steel A193 B8/gr8
+Stainless steel A193 B8m/gr8m
+Stainless steel A2-70
+Stainless steel A4-70
+Stainless steel A4-80
+Moving coil
+Rotatable
+Double toothing
+Block
+Working current
+1/4 inch (8)
+1/8 inch
+2 3/4 inch
+2x internal thread
+2x external thread
+Warm white <3300 K
+For hinged lid
+Float
+Spark cap
+Valve A
+Valve B
+Valve B1
+Valve C
+Connecting bridge
+Connecting cable
+T1 3/4 MG
+T4.5
+T5.5
+Single core
+Dual core
+Single phase
+EMERGENCY STOP
+Regulating combination
+Control panel
+Protective collar
+Blocking equipment
+Mounting set cooker group
+Mounting set power current group
+Contour plug
+DY
+YD
+YY
+Extension part
+GX10
+Front installation set
+Programmable
+Reducing ring
+Breaking resistance
+Breaking unit
+Straightening wrench
+Reset contact
+Front ring for flat mounting
+Hammer head profile
+"Symbol ""I-0"""
+"Symbol ""I-0-II"""
+K23d
+Cable mounting
+Cable clip
+Cable support
+Room luminaire
+Room luminaire/buzzer
+Clamp with wire
+Daylight white >5300 K
+LED puller
+Lens puller
+M5
+Male (plug)
+Mounting foot
+Network adapter
+NH0
+NH4
+OM1
+OM2
+OM3
+OS1
+Fitted ring
+Potentiometer holder
+PK30d
+Mounting set pull cord
+Mounting plate push button
+Mounting wrench
+Neutral white 3300-5300 K
+Telephone/ISDN
+Twisted Pair
+Zener-diode
+Base side set
+Base intermediate plate
+Star profile
+Base complete
+F/FTP
+Female (bus)
+Power current connection
+Inlet plate
+Isolation cap phase busbar
+Cap for EMV-filter
+Pulley
+Coupler hinging
+Lamp test
+LED and diode
+Surface mounting set
+Fitted screw
+Complete set
+SF/FTP
+U/FTP
+S/UTP
+U/UTP
+Software tool
+Counter support star profile
+Contact block dummy
+Suitable for data link
+Miniature- / earth leakage circuit breaker
+Flashing element
+Coupling piece for protection switch disconnector
+Loose strip
+Midget flanged
+Midget grooved
+Pulse tone/continuous tone
+Filler strip
+Perforated profile
+Imperforated profile
+R/C element
+Stainless steel sheath
+Signalling set
+Reactance coil
+SNEL
+Base stabilization profile
+Base front/back
+Strengthening plate for push-button
+For surface tank
+Resistor block
+Round flashing light
+Cold device plug straight
+Cold device plug angled
+Cold device plug straight, female
+Bottom side
+Body massage
+Pin-on
+Head microphone
+Supercardioid
+Hypercardioid
+8 (Bidirectional)
+Power amplifier
+Heating board
+Free-hanging
+Bypass
+Reduction/enlargement piece
+00
+Sickle-shaped
+Rubber hammer
+Plastic hammer
+Wooden hammer
+Round compression
+Slit
+Cable shears
+Cable knife
+Universal knife
+Bar-shaped lamp
+Indoor station
+Wall-/ceiling clamp trapezoid profile
+Face out bracket overhead
+Flat profile
+Ascending
+Falling
+Rising/descending
+Adjusting clamp
+Sealing for installation duct box
+Cable harness
+Side profile
+Duct connector
+Flange clamp
+Fluorescent lamp circular D=16 mm
+Fluorescent lamp circular D=32 mm
+Fluorescent lamp U-shaped
+Steel wire
+IK10
+Quadruple module length
+Zamac
+Installation frame
+Coupling piece
+Elevation ring
+Installation set
+One fold
+Mounting pin
+For 2-core cables
+For 3-core cables
+For 4-core cables
+For 5-core cables
+VovaNet
+LON-Works
+WAP
+BACnet
+Modbus
+N2
+Turn
+Curved
+Tappet
+Flat oval
+Key-ring
+Plastic base
+Hinged handle holder
+Natural hair
+Full face mask
+Half face mask
+Bell transformer connection block
+Red/green
+Without housing
+Hexagon slotted
+Phillips slotted
+Semi round head
+Round profile
+Symbols
+Grinding
+X-branch
+Terminal box
+Aluminium duct tape
+Textile duct tape
+Clap cap
+Pull cord side
+Pull cord front
+Gland nut connection
+Snap socket
+Bolt connection
+3x16A xp xxxV
+4x16A xp xxxV
+>4x16A xp xxxV
+Bronze green
+Screw head plate
+Clamp head plate
+Nikobus
+Marker strip
+Marking fork
+110x110 mm
+Moulded-on push fit plug (double)
+Screw hole
+Hexagonal
+Glass fuse
+Ceramic fuse
+Cover for screw mounting
+Test button
+Protective housing
+Cream white (electro white)
+Toggle handle
+Powder coating
+FFP1
+FFP2
+FFP3
+Exchangeable filter
+With twilight switch delayed
+With adjustable delay switch
+With electric louver
+With moisture- and earth circuit
+With base load circuit
+With interval control
+With automatic louver
+With delay switch
+With delay switch and electric louvre
+With delay switch and automatic louvre
+With safety low voltage
+With pull switch
+100x200 mm
+2-components
+Bolting
+Knurled screw
+Earth rod/circular conductor
+FLASH EPROM
+IP65/IP67
+Pentium M
+VIA C3
+VIA EDEN
+Direct attachment/single positioning
+CLASS 10
+CLASS 20
+Back side
+With cover
+With door
+ISDN/Token ring/telephone
+Pipe in-lead
+Cover
+Number
+Small letter
+Capital letter
+Digits assortment
+Letter assortment
+AAN
+ACHTERWAARTS
+BEDRIJF
+DICHT
+HEBEN
+LANGZAAM
+LINKS
+OMLAAG
+ONTGRENDELEN
+OPHIJSEN
+STORING
+VOORWAARTS
+Iso-set
+Flat shield
+Built-under model
+Touch control button
+G-fuse 6.3x32 mm
+Connection rail
+Cable clamp
+NH0, NH1
+NH000, NH00
+NH1, NH2
+NH2, NH3
+Clamp bracket
+Low shoe
+Sandal
+High model
+Felt pen
+Blackboard chalk
+Face cleaning device
+Hair colouring device
+Personal care set
+Conax
+Cryptoworks
+Twilight sensor
+Antenna technology
+1x data box
+Click
+Reset push button
+Reset-input
+Reset push button/-input
+Not included
+Quartz controlled
+Roller shutter-/Venetian shutter module
+Sensor module
+Clock module
+Weather sensors
+<50 V DC grey
+>250 V DC grey
+>50-250 V DC grey
+>50 V grey
+110 V (50+60 Hz) yellow
+20-25 V (50+60 Hz) violet
+20-25 V / 40-50 V (>400-500 Hz) green
+20-25 V / 40-50 V (100-200 Hz) green
+20-25 V / 40-50 V (300 Hz) green
+20-25 V / 40-50 V (400 Hz) green
+230 V (50+60 Hz) blue
+400-440 V (50+60 Hz) red
+400 V (50+60 Hz) red
+40-50 V (50+60 Hz) white
+500 V (50+60 Hz) black
+50-500 V (>300-500 Hz) green
+50-500 V (100-300 Hz) green
+600-690 V (50+60 Hz) black
+After isolating transformer
+External mounting
+Inner lying mounting
+70x70 mm
+Socket outlet 1-position
+Socket outlet 2-position
+Installation bus
+Scanable symbol / barrier free
+Satinized
+Cover plate
+Central cover plate for intermediate ring
+Central component
+Amplifier
+Voltage supply unit
+Control unit
+Voice recording
+VoIP
+L, N, PE
+1, 2, 3
+2, N, PE, 1
+3, N, PE, 2, 1
+L, N, PE, -, +
+3, 2, 1, N, PE, L
+1+, 2-
+1+, 2-, N, PE, L
+1+, 2-, 2, N, PE, L
+3, N, PE, 2, 1, 1-, 2+
+1, 2
+L, N
+1, 2, PE
+1, 2, 3, PE
+1, 2, 3, 4, 5
+L, N, PE, 1, 2
+Black/green
+Blue/black
+Built-in part/plug-in connection
+Snap-in/screw-in device
+M2
+M2.5
+M3
+M3.5
+M4
+M6
+M16
+M20
+M25
+M32
+65
+>12
+0°/180° (horizontal)
+125x115 mm
+125x125 mm
+135° (upwards inclined)
+180° (horizontal)
+482.6 mm (19 inch) mounting bracket
+482.6 mm (19 inch) mounting angle bracket
+482.6 mm (19 inch) mounting set
+482.6 mm (19 inch) profile
+482.6 mm (19 inch) profile set
+482.6 mm (19 inch) angle profile
+482.6 mm (19 inch) angle set
+482.6 mm (19 inch) model
+225° (downwards inclined)
+270° (downwards vertical)
+30x30 mm
+30x45 mm
+3-phase current converter set
+4th pole
+45°/135° (downwards inclined)
+48x48 mm
+64x64 mm
+65x65 mm
+66X66 mm
+67x67 mm
+72x72 mm
+88x88 mm
+90° (upwards vertical)
+90°/270° (BUS)
+90x90 mm
+96x96 mm
+Leakage resistance
+Terminal panel
+Adapter plug
+Adaptation for wiring systems
+Addressing plug
+Analogue module
+Housing extension
+Stop door
+Connecting contact
+Connection technique
+Operating current principle
+Asymmetrically divided double wing door
+Surface mounted device
+Top mounting and integrable
+AUI
+Switch off time delay
+Axial (adhesive tape for axial inlet)
+Axial screw connection
+Bar graph
+Baseband (frequency)
+Base controller
+Battery/accumulator
+Fastening according to EN50047
+Fastening profile
+Fastening parts/-set
+Shock protection cover
+Beryllium copper
+Imprintable label
+Labelling strip/-sign
+Actuator with horizontal mounting
+Actuator with vertical mounting
+Bag
+Blind cover frame
+Blister girdle (for SMD)
+Floor fastening
+Floor plate
+Bolt
+Celeron M
+Coding profile
+Coding switch
+Coding part
+Comfort controller
+Crimp connection
+Roof structure
+Dahlander switch
+Continuous tone/pulse tone
+Cover with LED
+Cover without LED
+Cover grip
+Digital module
+DIMM
+Direct connection
+Direct circuit
+Direct converter
+Wireless
+D-RAM
+Through-feed
+Through-feed current converter
+Through-feed technique
+Self powered
+One- and two-channel
+On/Off switch
+Built-in device slide-in technique (withdrawable)
+Built-in device fixed built-in technique
+Built-in device plug-in technique
+Inserted
+Press-in connection
+Press-in
+Engage (snap)
+Screwable fitting
+Slide-in technique
+Single-sided (adhesive tape for radial inlet)
+Connection clamp
+Insert connection
+Adjustable
+One-tariff
+Electronics module
+EMV-interference suppression module
+End plate
+Earth fault module
+Expansion device
+Extreme high frequency 30 - 300 GHz
+Panel door
+Spring connection
+Field device
+Remote potentiometer
+Fixed connector
+Flat ribbon cable
+Flat rail
+Flange connection
+FLASH
+Flexible PCB-connector
+Shape A2/A3
+Shape A4
+Shape B1-B3
+Shape C1-C3
+Free connector
+Free wheeling diode
+Front plate
+FS 10
+FS 5
+G 1/2 inch
+Gas compression spring
+Housing flange
+Housing shape
+Device bottom
+Device labeling system
+Scaffold
+Screened 2-wire conductor
+Glass optical fibre
+Incandescent lamp/LED
+Basic device
+Rubberized
+H
+Semiconductor
+Retaining bracket
+HBF
+HBF1
+HBF2
+Tack
+Hermaphrodite
+Auxiliary conductor plug and socket device
+High frequency 3 - 30 MHz
+Hollow shaft
+Audible frequency approx. 0 - 20 kHz
+In the field
+INTERBUS-Safety
+IP66/IP67
+IP67K
+IP69K
+Insulating plate
+I converter
+I converter, machine-commutated
+I converter, self-commutated
+IV
+Cable to cable
+Cable entry
+Cable entry metrical
+Cable entry PG
+Cable space
+Cable rebuilding current converter
+Cable trough
+Jumper comb
+Capillary tube
+Carton (for SMD)
+Clip
+Coding pin
+Communication and measuring function
+Complete device in housing
+Components for lace up technique
+Configuration dependant
+Contact
+Copper-iron-phosphor
+Copper-nickel-silicon
+Copper-nickel-zinc
+Cupola lever
+Coupling box for plug-in connection
+Coupling housing
+LCP
+LED + diode + reverse polarity protection diode
+Printed circuit board to cable
+Printed circuit board to printed circuit board
+PCB fastening
+PCB-plug-in bridge
+L-shaped
+Arc explosion chamber (arc chute)
+M23 horizontal
+M23 vertical
+M8-Snap-In
+Magazine
+Ground strap
+Micro controller
+With permanent frame
+With holder
+With cable preassembled
+With swing frame
+Centre frequency 300 - 3000 kHz
+Monitor frame
+Mounting clip for DIN rail (top hat rail) mounting
+Mounting flange
+Mounting material
+Mounting bar
+Mounting tool
+Line filter
+Neutral terminal
+NH00, NH1
+NiCr-NI
+Low frequency 30 - 300 kHz
+Riveting
+NTC
+NVRAM
+Surface mounting
+Normally closed contact and normally open contact
+Without integral bearing
+Without contacts
+Palladium
+Parallel wiring
+Parametrise cable
+Passband
+PBT
+PCF fibre optic
+PC cable
+Pole switch
+Polymer optical fibre
+PROFINET
+Test device
+Push Pull
+Cuboid
+R 1/2 inch
+R 1/4 inch
+R 3/8 inch
+Radio frequency 3 kHz - 300 GHz
+Radius actuator left
+Radius actuator left/right
+Radius actuator right
+Frame clamp
+Edge connector
+Grid profile
+Reflection tape
+Reset device
+Ring cable connection
+RISC
+Pipe connection
+Pipe stick current converter
+Quiescent current principle
+Set with several colours
+Switch element
+Wiring diagram compartment
+Wiring diagram holder
+Wiring diagram desk
+Wiring diagram pocket
+Switching cycle counter
+Switching piece
+Slide bolt profile
+Rail-/direct mounting
+Rail connection
+Slow-action switch with overlapping
+Slow-action switch and quick-break switch
+Lock adapter
+Lock door
+Key actuation
+Snap mounting support rail
+Fast change device
+Enclosure thread strip
+Protection cap
+Single-phase current converter
+Welding
+Swivel drive
+Swing frame detent
+Safe disconnection
+Fuses
+Protection switch separator
+Fuse switch disconnector
+Fuse base
+SMD-connection
+Socket case
+Other copper alloys
+Other not-copper alloys
+Voltage detector
+Storage module
+Sensor probe
+Standard actuator
+Foot for worktop
+Dust protection cover
+Plug insert technique
+Plug case
+Plug set
+Plug clamp connection
+Connector bracket
+Plug-in connection M12
+Plug-in connection M14
+Plug-in connection M8
+Plug-in connection others
+Star-delta switch
+Star-delta switching
+Star-point bridges
+Control cable connection
+Control board
+Summation current converter
+Super high frequency 3 - 30 GHz
+Symmetrically divided double wing door
+Systemic
+Hinged keyboard drawer
+Telescopic rail
+Temperature module
+Thermomagnetic
+THR connection
+Depth bracket
+Component for supporting bracket
+Supporting plate for monitor
+Support rail
+Transport lug
+Feed roll
+Transport bracket
+T-rail
+Grommet
+Door adapter
+Door detent
+Door stopper
+Door coupling rotary drive
+Bridgeover
+Ultra high frequency 300 - 3000 MHz
+Converter without intermediate circuit
+Uncoated
+Universal actuator
+U converter
+Varistor + LED
+Connector / partition piece
+Coupling set, top
+Coupling set, side
+Coupling set, bottom
+Coupling piece, top
+Coupling piece, side
+Coupling piece, bottom
+Wiring set
+Crank
+Screw-fastened
+Pinned
+Very high frequency 30 - 300 MHz
+Very low frequency 3 - 30 kHz
+Video frequency circa 0 - 20 MHz
+Full shaft
+Front and rear
+VTM0
+VTM1
+VTM2
+W2 x 4.6
+Wall surface mounted
+Wedge-Base
+Reversing Dahlander switch
+Reversing switch
+Reversing switching
+Turnaround star-delta switch
+Wound primary current converter
+Windows 2003 Server
+Windows Vista
+Corner set
+Y
+Time module delayed release
+Time module on delay
+Time module on/off wiper
+Time module multifunction
+Tin
+Two-tariff
+Intermediate frequency range
+2:1
+3:1
+4:1
+Elastomer (PES)
+Kynar (PVDF)
+Polyolefin (PO-X)
+1/16 inch
+10 Gigabit Ethernet
+100 V
+1-10 V
+12 V / 230 V
+14 V / 18 V
+14 V / 18 V / 22 kHz
+16 Ohm
+180°
+1-component
+1-part
+20 mm round
+20/25 mm
+20mA (Current Loop)
+24 V / 230 V
+2-part
+3/16 inch
+3/32 inch
+3/64 inch
+45 mm
+5 V from receiver
+5-30 MHz
+5-65 MHz
+60 mm
+60 V
+60/67.5 mm
+67.5 mm
+6A (IEC)
+7 segments
+7A (IEC)
+7x2.5 mm²
+8 Ohm
+83.5 mm
+Cover plate with signing plate
+Branch
+Adapter for draw bolt
+Cable end sleeves
+ADo/VDo
+Active/passive/switchable
+Alcohol-dispenser
+Slicing machine
+Alphanumeric
+Old copper
+Oldbrass
+Adjacent to bundle
+At testing device
+Ammonia
+Lace up set
+Connecting element
+Connection cable
+Connection set
+Shunt release (for power circuit breaker)
+Locking disc
+At distance
+At earthing clamp block
+Suspension bracket
+Supporting profile
+Overlay
+Top-piece
+Output module
+Read-out possible
+Off switch 1-pole
+Outer side ribbed, inner side grooved
+Outer side ribbed, inner side plain
+Outer side plain, inner side ribbed
+Outer - and inner side ribbed
+Outer - and inner side plain
+Exterior area
+Outer sleeve
+Outdoor cable
+Circuit breaker installation unit, 2 x 3-fold
+Automatic self test
+Automatic cut off
+Bayonet latch
+Ball latch
+Ribbon cable (fibre optic)
+Continuously galvanized zinc-aluminium
+Base module
+Construction protective cover
+Control element with cover frame
+Fastening ring/-nut
+Power adaptor included
+Manual/documentation set/permit
+Already assembled
+Standby switching
+Label shield
+Indication element
+Up to 35 kV
+Up to 600 V
+Blind cover
+Blind module
+Block magazine
+Blu-ray
+Carpeting rim profile
+Bottom plate
+Fire-proof paint
+Fire-proof cement
+Fire-proof spackling compound
+Tanning appliance
+Breakout
+Wide angle beam reflector
+Bridge
+Ironing device
+Ironing machine
+Bus-module
+CEE socket outlet 3-pole 16 A
+CEE socket outlet 3-pole and 5-pole 16 A
+CEE socket outlet 5-pole 16 A
+CEE socket outlet 5-pole 32 A
+CEE socket outlet 5-pole 63 A
+CEE socket outlets 5-pole 125 A
+C-shape
+CSN-Norm
+Roof truss holder
+DALI
+Steam oven
+Continuous circuit/emergency circuit
+Cover with hook and clamp
+Cover with socket outlet
+Cover contact
+Cover switch
+Ceiling surface mounting
+Decor blind
+Decor-enabled
+Design adapter
+Sterilizer
+Peripheral (individual battery)
+DIBt
+Seal membrane
+Sealing ring
+Sealing set
+Sealing strip
+Thick-walled
+Diffusor
+DIN-version
+Distance frame
+Double lock head
+Food dehydrator
+Turn handle
+Trilateral
+D-Sub plug 15-pole
+D-Sub plug 9-pole
+Dowel
+Thin-walled
+Through-wiring clamp
+Nozzle
+Nozzles
+E 2000
+eHZ
+KNX
+Built-in flange
+Built-in installation
+Built-in fuse
+Inlet piece
+Single-conductor connector
+Ice cream mixer
+Ice cream maker
+Electro-hydraulic
+Electro-hydraulic pump
+Electric knife
+End-feed
+Endless tape
+Energy technology/Information technology
+Discharge lamps
+According to UL94 HB
+According to UL94 V0
+According to UL94 V2
+Earthing frame
+Earthing frame set
+Spare spring
+Substitute blade
+Spare bushing
+Spare rockwool plate
+Spare fuse
+Spare part
+Expansion
+Expansion kit
+Adhesive label
+Ex-Zone 0
+Ex-Zone 1
+Ex-Zone 2
+Ex-Zone 20
+Ex-Zone 21
+Ex-Zone 22
+F/UTP
+Fibre left-over box
+Fast Ethernet
+Fault-signal switch
+Window frame
+Remote drive
+Remote release
+Remote turn-on switch
+Earth leakage circuit breaker
+Earth leakage circuit breaker and miniature circuit breaker (MCB)
+Clinical thermometer
+F-compression connector
+Flat pin bushing
+Meat grinder
+Vacuum sealer
+Form hole punch
+Photo paper
+Hands free kit
+Deep fryer
+Fruitpress
+Guide rail
+For surface mounted tank
+For built-in of installation devices
+For cassette
+For cable outlet
+Foot pump
+Galvanic/electrolytic zinc plated zinc-nickel
+Gas discharge conductor
+Gas cartridge
+Housing
+Gel cast
+Vegetable slicer
+Built-in installation box (device box)
+Device connection box (round/square)
+Drinks maker
+Corn mill
+Thread and closing membrane
+Thread and prestamping
+Stud bolt
+Threaded rod adapter
+G-shape
+GG45
+Gigabit Ethernet
+Glass fibre enforced light concrete
+Glass fibre connection sleeve
+Glass fibre reflector
+Glass fibre pin
+Granite
+Large (65 l and larger)
+Base plate
+GSM/UMTS
+Cast iron cooker plate
+Half built-in
+Manual actuation
+Hand coder
+Hand pump
+Booklet shape
+Electric blanket/electric pillow
+Shirt ironing system
+Auxiliary switch
+Auxiliary switch / fault-signal switch
+High current cable lug and connector
+Hollow form
+IEC 61076-2-101-A1 M12-D
+IEC 61076-3-106 variant 1
+IEC 61076-3-106 variant 4
+IEC 61076-3-106 variant 5
+IEC 61076-3-106 variant 6
+IEC-PAS 61076-3-117 variant 14
+Interior area
+Internal sleeve
+Inner lying analogue
+Inner lying digital
+Insect repellent device
+IP2XC
+IP-module
+IPX1
+IPX3
+IPX5
+Yogurt maker
+Cable reservoir
+Cable lugs and connectors
+Cable lugs and -connectors DIN model
+Cable lugs and -connectors normal model
+Cable junction box for light pole
+Limestone
+Cold zone
+Calcium silicate plate
+Edge clip
+Edge protection tape
+Carbonate rock
+Card shape
+Card lock
+Chain suspension
+Small (12 l - less than 35 l)
+Velcro fastener
+Razor blade block
+Dough hook
+Complete (with draw bolt)
+Contact pin
+Contact clip
+Locknut
+Headphone
+Cross box
+Ball bearing nut
+Cooling
+Plastic with metal pigments
+Plastic lip/-cam
+Coupler/connector bended
+Coupler/connector X-shape
+Coupler/connector Y-shape
+Short
+Insulated varnish wire-cable lugs and connectors
+Insulated varnish wire connector
+Lamella foot
+LAN
+Long
+LED-illumination
+LED-module
+Cable outlet
+Elbow box
+Piercing pinch
+Soldering flag
+Soldering reflector
+Air cooling
+Ventilation element
+Magnetic heads
+Manual clipping
+Massager
+Matrix
+Matrix and punch
+Signalling group module
+Metallic silver
+Methane
+Mineral fibres
+Mineral fibres plate
+With notch
+With blind cover
+With handle
+With cable outlet
+With cam clamps
+With hinge
+With screen
+With screws
+With bearer ring/bearer bracket
+With tube cable outlet for floor duct
+With pull cord
+Medium (35 l - less than 65 l)
+Medium-walled
+Centrical
+Blender
+Modem box
+Module frame
+Monochrome
+Mounting bracket
+Mounting clip
+Mounting holder
+Mounting template
+MPO-F
+MPO-M
+MRJ21
+MTP-F
+MTP-M
+MU
+Multi function
+All-in-one device
+In accordance with EN 60332-1-2
+In accordance with IEC 60332-1-2
+Wedge set
+Nano coated
+Neoprene
+Not isolated cable connections
+Standard version
+NTSC
+Surface sealing
+Resistive users
+Resistive users/discharge lamps
+Without profiling
+Without screen
+Without toothing
+Olefin
+Olive
+Power adaptor optional
+PAL
+Passivated
+PCF
+Care products
+Phase busbar
+PLCC type
+Seal
+Pedestal luminaire
+POF
+Polish set
+Bollard luminaire
+Polyamide flame retardant
+Polyamide/polyethylene PA/PE
+Polyester (PET)
+Polyester fibreglass-reinforced
+Polyester/copper
+Polyethylene fibreglass-reinforced
+Potential equalization
+Potential equalization set
+PP
+Test adapter
+Test/measuring case
+PUR-sheathed spring steel
+Quad LNB
+Shunt pen
+Snap mounting (engagement)
+Ratchet
+Reduction piece
+Reducing nose
+Cleaning under present voltage
+Detergent
+Cleaning set
+Cleansing tissue
+Relay module
+RJ12 6(4)
+Pipe pendulum suspension
+Pipe socket
+Roller shape
+Roller shutter box
+Roll compression
+Rustproof and acidproof steel
+Stainless steel 304 (V2A)
+Stainless steel 316 (V4A)
+Stainless steel others
+Rotating
+Mixer/blender
+Mixing bowl
+Hole punch
+Round bar
+S/FTP
+Squeezer/juicer
+Juice centrifuge
+Deflection nozzle
+Formwork adapter
+Hinged
+Disc
+Razor foil and razor blade block
+Razor head
+Screen connector
+Slot grid
+Eggbeater
+Cutting unit
+Interface KNX Powernet
+Interface KNX/LON
+Interface module
+Cord switch
+Screw/snap in
+Screwless
+Screw thread
+Shrink tape
+Shrink cast
+Socket outlet with protective contact 16 A
+Socket outlet with protective contact 16 A and CEE socket outlet 5-pole 16 A
+Socket outlet with protective contact 16 A and CEE socket outlet 3-pole 16 A
+Auxiliary switch / relay
+Welded stut socket
+Swiss norm type 12
+Swiss norm type 13
+SC-RJ
+Selftest, automatic reclosing and auxiliary switch
+Semi-tight fibre
+SF/UTP
+Safety glass
+Safety catch
+Visible analogue
+Visible digital
+Signalling cover
+Signalling switch
+SMD-desoldering tweezers
+Energy-saving lamp
+Rafter holder
+Spiral cord
+Split band amplifier
+Split anchor
+Expanding rivet
+With shortbread cookies attachment
+Steel plate ST 37
+Die-cast steel
+Steel nose
+Steel armor cord
+Standard domestic switching device
+Vacuum cleaner bag
+Plug-in anchor/plug-in cam
+Socket outlet 3-pole 10 A
+Socket outlet 3-pole 10 A and CEE-Socket outlet 5-pole 16 A
+Socket outlet 3-pole 13 A, Type 13
+Socket outlet 3-pole 16 A
+Socket outlet 3-pole 16 A, Type 23
+Socket outlet 3-pole 16 A, Type 23 and CEE-Socket outlet 3-pole 16 A
+Socket outlet 3-pole 16 A, Type 23 and CEE-Socket outlet 3-pole 32 A
+Socket outlet 5-pole 10 A, Type 15
+Socket outlet 5-pole 15 A, Type 15
+Socket outlet 5-pole 16 A, Type 25
+Socket outlet 5-pole 16 A, Type 25 and CEE-Socket outlet 3-pole 16 A
+Socket outlet 5-pole 16 A, Type 25 and CEE-Socket outlet 3-pole 32 A
+Socket outlet BS1363 13 A
+Plug/clamp
+Plug holder
+Stele
+Pin connection clamp
+Joint clip bar
+Percussion connector
+TAE 2x6/6 NFF
+TAE 3x6 NFN
+TAE 6 NF
+Key extension
+TDO
+Tebis TX
+Teddy-plush
+Carpet protection frame
+Tera
+TFT-displays
+Table holder
+Titanium coated
+T-box
+Toaster
+Supporting ring angular
+Supporting ring round
+Separating plug
+Dry mortar
+Trolley
+TTL level
+UAE/TAE 8(6)/6 NF
+Via interface
+Safety module for monitoring (central feeded system)
+Monitoring unit
+Monitoring unit with automatic reclosing
+U-shape
+UL model
+Flanging
+Sheathed
+Universal front piece
+Universal cable
+Sub-floor box surface mounting
+Under frame for telephone hood
+Under voltage coil
+VDo 2x4pole
+VDo 4 pole
+VdS
+Cable junction box
+Set of expendable items
+Extension claw
+Interlocking
+Various applications
+Muff slider
+Muff slider 2-fold
+Stranded loose tube
+Vertically declining
+Vertically rising
+Fluorelastomer rubber (FKM)
+Distant from bundle
+Preembossing
+Wall-/ceiling mounting
+Wall connection collar
+Bulkhead fitting
+Water repellent material
+Water cooling
+Two-way switch with control lamp
+Weather station
+Curler
+Combination lock
+Dental floss
+Central (central battery)
+Centre mounting
+Central tube
+Chopper
+Extraction proof
+Tongue cleaner
+2-component polyurethane resin
+Second receiver
+Twin cable end sleeve
+CEE plug
+CEE coupling
+CEE angular coupling
+Rubber coupling
+IP25
+IP13B
+Wall inlet/sweep nozzle
+Pipe system
+Laundry drop
+OP1
+OP2
+Spiral
+Amnioscope
+Anal speculum
+Bronchoscope
+Colorimeter
+Endoscope
+Headlight
+Laryngoscope
+Microscope
+OR-luminaire
+Ophthalmoscope
+Otoscope
+Proctoscope
+Rectoscope
+Retinoscope
+Welded
+Blind rivetted
+Suspended
+482.6 mm (19 inch) mounting rack
+Drawer
+Swing frame mounting
+Adapter for lamps
+Hold-up trigger device
+Axle lead-through
+Coil
+Converter
+Triangular
+Square hole
+Immune against magnetic DC- and AC-field
+Immune against magnetic DC-field
+Immune against magnetic AC-field
+Stainless steel V2A coppered
+Thermo galvanized steel/die-cast zinc
+Thermo galvanized steel/stainless die-cast zinc
+Up to 30 mm
+Connecting vane
+Copper plated aluminium plate
+Copper plated aluminium sleeves
+Bushing for roofs, walls and earthing electrodes
+Expansion strap
+Expansion piece
+Wire dresser device
+Earthing pipe
+Inspection door
+Support
+Support pipe
+Inspection housing
+Bridgeover tape
+Bridgeover cord
+Pipeline
+Fastenings
+Cherry tree
+Decorative foil
+Background fade-out
+Foreground fadeout
+10x38 mm
+14x51 mm
+22x58 mm
+27x60 mm
+4-pins
+6.35x32 mm
+Connection cable with europlug
+Connection cable systemplug
+Switch off
+B12.3d
+B24s
+B8.4d
+BA15d/17
+BA15d/19
+BA15s/19
+BA21d
+BA21d-3
+BA21s
+BA22d
+BA9d
+BA9s/13
+BAX
+BAX10s
+BAX10y
+BAX15d
+BAX8.4d
+BAX10d
+Bi-pin
+BX22d
+BX22d/32
+BX8.4d
+BX8.5d
+DIN-rail/screw
+Direct connection luminaire
+Power current -/alternating current distributor
+Dynamic
+E10/14
+E11
+E14/17
+E16
+E17
+E19
+E26
+E5
+E5/8
+EBS
+EBS-L
+ENL
+EYC
+EYF
+FB-2Y
+Festoon
+FMT
+FMV
+FPF
+Free conductor end
+FTA
+FTC
+FTF
+G16
+G17t
+G8
+GAX
+Encapsulated
+Clicked
+Device connection cable
+H05V2V2-F marinacable
+H05VV-F/ L03VV
+H05Z1Z1-F
+Impregnated
+No thread connection
+Active carbon
+Combi distributor block
+L03 VV-U
+L03 Z1Z1-U
+L1
+L1-L3
+L2
+L3
+Lens meter
+Litz wire 50x0.25
+LiYY
+MF
+MFHZ
+MFJF
+MFSL
+With insert clip
+With edge clip
+With wedge socket
+With lamella foot
+With welded stut socket
+With expanding rivet
+With plug bolt/expanding bolt
+With push fit plug
+N2GMH2G
+Neo-wedge
+Power cord
+Mains plug
+Without (PCB mounting)
+Without adapter piece
+Oilflex classic 100
+Oilflex classic 110
+P15d
+P21d
+P22s
+P25d
+P25d/4
+P25s
+P26
+P30d
+P30s
+P36d
+P36S
+P36T
+P40s
+P44S
+P47D
+PG13
+PG16x20
+PG22
+PGJ13
+PKX22S
+PKX30d
+Potential distributor
+PSB
+PX15d
+PX15d/3
+PX29
+PY16-1.25
+PY28d
+Rigid loop
+S05HH-F
+S05Z1Z1-F
+S05Z1Z1-F/ L03Z1Z1
+S25
+S6
+S7
+S8.5
+Screw and rivet
+Series circuit
+SF6
+AG/Sn20
+SP-base
+Static
+Control
+SX15s
+System plug
+T10
+T2.25
+T3
+T3.8
+T4
+T4.2
+T4.7
+T6.5F
+T6.8G
+T6.8K
+Tracer switching
+Ultrasonic compressed wire ends
+Conversion kit
+Unpreassembled connection cable
+U-inter-coupling
+Extension circuit
+Fully revited
+WE
+Two-way switching
+X513
+X514
+X514SP
+Intermediate coupling
+Spiral hose
+Zipper hose
+2-fold telescopic guide rail
+3-fold telescopic guide rail
+Blind plate
+GX53
+With distance holder
+Earthing pliers
+Long shell
+XS
+Selectable
+5x30 mm
+Swiss norm type 15
+Swiss norm type 23
+Swiss norm type 25
+Swiss norm type 30
+Swiss norm type 34
+Australian standard AS/NZS 3112
+4x16A2p42V
+4x16A2p24V
+1x16A2p42V
+1x16A2p24V
+2x16A2p42V
+2x16A2p24V
+3x16A2p42V
+3x16A2p24V
+Chart paper
+Clamp cover
+Measured value memory
+Buffer battery
+Reset key
+10 modular spacing
+Halogen free plastic
+Profile cylinder
+Knife cassette
+Lifting cart
+Vinylester resin
+Door handle
+Basic tile
+Cable outlet tile
+Earthing tile
+Accessory support tile
+Built-in tile for cover set
+B2
+Stop end for plenum space
+Outer corner for plenum space
+Ramp
+Fixing bracket surface tank
+Partially submerged unit square
+Fully submerged unit square
+Fully submerged unit universal data
+GST18
+Multi meter
+Installation tester
+Insulation tester
+Clamp meter
+Earth ground tester
+NEN 3140 tester
+High voltage tester
+Machine tester
+Voltage tester
+Power analyser
+Micro-ohmmeter
+Calibrator
+Scope meter
+In accordance with EN 60332-3-24
+Bundles and layers
+Ag
+Pimples
+Welding chipping hammer
+DIN flange
+Leakage detection
+Junction box
+"Symbol ""venetian blind"""
+30°
+35°
+CEE 125 A
+CEE 63 A
+M40
+0, 1, 2
+20, 21, 22
+21, 22
+RJ12
+RJ11
+254 mm (10 inch)
+Candybar (standard)
+Clamshell phone
+Slider phone
+Swivel phone
+Ear-cushions
+Hookswitch
+Adapter cable
+Connection plug board
+Circular connector
+Camera case
+Fluid
+FE 90
+In accordance with EN 60332-3-22
+Energy saving gas-discharge lamp
+Power quality
+Energy saving motor
+Easy-zip
+Push in
+X830R
+X528
+PGZ12
+PGJ5
+h5
+MG 5.7s/9
+2G8-1
+GR8q-2
+AB9s
+Fluorescent lamp D=26/38 mm
+PG11-connector
+HR03
+HR14
+HR20
+HR22
+HR6
+KR03
+KR1
+KR14
+KR20
+KR21
+KR6
+R 20
+R 3
+R 6
+TT83
+TT89
+2x TT83
+TT87
+0.001 mV
+Polyamid 11
+Sucupira
+Illumination cable set
+Curtain light
+Chainlight
+Candlestick
+Cable connection strip
+Rubber profile
+B+
+Network technique
+Local
+C20
+C14
+Tunnel terminal
+Backside screw connection
+Repair switch
+Corresponds to basic unit
+0 + 1
+1-channel or 1- and 2-channel
+Attachable current transformer
+IP05
+Dry reed contact
+Neoprene/leather
+2 make contacts (NO), 2 breaker contacts (NC)
+Swiss norm type 13a
+Swiss norm type 15a
+Swiss norm type 15/25
+Swiss norm type 13/23
+French norm NF
+Roll
+Spiral cutter
+Radio control/infrared
+Skin and crimp
+Cut to length
+Skin
+PCB terminal
+Interior and outdoor installations
+Interior installations
+Switchgear and power cable for overhead lines
+Power cable for overhead lines
+LRM
+Voltage display device
+Testing device 230 V for voltage indication device
+Measurement adapters HR - LRM
+Interface test device
+Spindle with cross pin
+Spindle with hexagon
+Insulating rod
+Shift rod
+Fuse tongs
+Saving rod
+Hard PVC
+A4
+A1
+A2
+A3
+Spherical head bonnet 20 mm
+Spherical head bonnet 25 mm
+Universal clamp 20/25 mm
+Universal clamp 25/30 mm
+Multimedia end box
+Petrol
+Mixture
+For circular conductor
+With thread bolt
+With connector lug
+Weldable
+Fixed ball point 20 mm
+Fixed ball point 25 mm
+Radial groove 16 mm
+HR
+Fixed ball point 30 mm
+T-connection
+Dry cleaning set
+Wet cleaning set
+Dry and wet cleaning set
+Up to 36 kV
+Up to 1000 V
+Crystal clear
+Plastic knife
+Sickle knife
+Spindle knife
+3x2.5 mm²
+Without clamp
+OS2
+Diesel
+Band steel galvanized
+2GX53
+Vertical cutting blades
+Aerator springs
+Combination device
+Covering hood
+Collection container
+Spare blade
+Telescopic handle
+Shearing blade
+Shrub shear blade
+KM
+Wheel set
+Spool
+Thread for trimmer
+Grass catcher box
+Under blade
+Spare claw
+Claw carrier
+Spring steel teeth
+Blade guard
+Care quiver
+Care spray
+P.t.o shaft
+Large spline shaft
+Small spline shaft
+Hexagon 10 mm
+Hexagon 13 mm
+Hexagon 1/2 inch
+Hexagon 1/4 inch
+Hexagon 3/4 inch
+Hexagon 3/8 inch
+M18
+Galvanic zinc coated
+Galvanic zinc-iron coated
+Galvanic zinc-nickel coated
+Bronzed
+Duplex coated
+A+++
+Latex
+Flat chisel
+Grooving chisel
+Spade chisel
+Pointed chisel
+Key-type
+Rectangular (for flat cable)
+Round (for round cable)
+Energy saving
+Slide (before mounting)
+Mounting cover data connector
+Junction box insert for underfloor installation
+Clamp set
+6A (TIA)
+7A (TIA)
+OM4
+Distance band
+Rough fibre strip
+Pressure bandage
+Inlet valve
+Injection valve
+Distance triangle
+Cable centering
+Plug adapter
+Phase converter adapter
+Contact parts
+Intermediate flange
+Suspension
+CEE all amperages
+Battery terminal
+Battery clamp
+S-Video
+USB/jack plug
+HDMI
+Cinch/S-Video
+Substructure
+Linoleum
+Black/natural colour
+Pause button
+Bottom and side
+Locator switch
+GU6.5
+GY22
+K12s-36
+PGZ18
+(P)SFC
+GZ5.3
+GR14q-1
+GRY10q-3
+GY38
+GZX9.5
+GZY9.5
+GX8.5
+IIA
+IIB
+Roller cam straight
+Roller cam crossed
+Outdoor installations
+Current
+Heat
+GSM
+Powerline
+WM-Bus
+KNX radio control
+Series switch + Swiss norm type 13
+Series switch + Swiss norm type 23
+Two-way switch + Swiss norm type 13
+Two-way switch + Swiss norm type 23
+Water connection set
+Sensor adapter
+Sensor interface
+Suction hose
+Heated mangle
+Cold mangle
+Door release (green)
+Extinction (yellow)
+Electrodes for voltage detector
+Holding device
+Handle extension
+Test rods for voltage detector
+Test probes for voltage detector
+Direct measurement
+Measurement transformer
+Effective power
+Blind power
+Effective power and blind power
+Multi-tariff
+Internal
+Internal/external
+Measuring Instruments Directive
+Domestic
+S0
+D0
+EN 62056-21
+Blind terminal
+Insulating sleeve
+Insulating bridge
+Short circuit plug
+Test plug
+Test plug socket
+Reducing plug
+Washer
+Three conductor
+Four conductor
+Purchase/supply
+Plug-in technique
+8.5 mm (1/3 inch)
+12.7 mm (1/2 inch)
+19.1 mm (3/4 inch)
+UMTS
+16:10
+Level a
+Level b
+Level c
+Level d
+Level e
+Decor
+GU9
+GY29.3
+Candle/tea light
+Bulb luminaire
+Lampion
+Guide arm
+Emergency release
+Slotted iron strip
+Claw bearing
+Converter module
+Redundancy module
+Network interface
+SNMP/web adapter
+Cable set
+For plug
+Combustion engine
+Pulsed
+DVI
+Windows 7
+DMX
+GPRS
+RF
+LineSwitch
+Sine Wave Reduction
+Touch and Dim / push-button dimming
+Zigbee
+Metal halide lamp/High pressure sodium-vapour lamp
+Not dimmable
+Sealing
+Attachment
+Intel Core i7
+Intel Core i5
+Intel Atom
+SQ70 / SQ70
+SQ64 / RD54
+Purchase
+Acrylic-based
+Silicone-based
+Typebars
+Type cylinder
+Daisy wheel
+Snippets
+Journal roll
+E-Journal
+Mouse shelf
+Sliding rail
+Hinge
+Miniature fuse 10.3x38 mm
+Nebulizer
+Blow gun
+Inflating valve
+High pressure gun
+Connection at separate chassis part
+1.06/HSP1
+1.06/HSP2
+1.06/HSP3
+Microphone connection cable
+Speaker connection cable
+Rack mounting kit
+Paper shears
+Leather shears
+11/16 inch
+13/16 inch
+19/32 inch
+Right-angled grip
+1 11/16 inch
+1 1/18 inch
+11/32 inch
+2 13/16 inch
+2 15/16 inch
+2 3/16 inch
+2 5/8 inch
+2 7/16 inch
+25/32 inch
+9/32 inch
+9x12 mm
+14x18 mm
+5/32 inch
+5/64 inch
+7/64 inch
+9/64 inch
+3 7/8 inch
+4 1/8 inch
+3 3/4 inch
+Square (male)
+Square (female)
+Hexagonal (male)
+Hexagonal (female)
+BSF
+BSPF
+BSPT
+BSW
+UNC
+UNF
+Tr
+NPTF
+Rd
+NPSN
+Belt
+Acetate
+Tempered glass
+XXXS
+CR 1216
+CR 1632
+Mode 1
+Mode 2
+Mode 3
+Mode 4
+Mounting post
+Cu2/Cu3 (brass)
+Bronze (Rg 12)
+Spring cotter
+Clevis
+Safety closure
+Mineral oil-based
+Water glass-based
+Welding materials
+Kit
+Fluid pressure systems
+Gas and compressed air systems
+Metal surfaces
+Finish
+Anti-spat
+Crack research
+Tin/copper
+Tin/copper/silver
+Tin/lead
+Tin/silver
+4.6 (steel)
+Corrosion resistant
+Conical plug-in axle
+Liquid sprayer
+Paint sprayer under
+Paint sprayer above
+Corrosion protection pistol
+Sand blaster
+Pneumatic tacker
+Ratchet wrench
+Power cutter
+Saw
+Multi cutter
+Chain hoist
+Dowel pin puller
+Bridge handle
+Gear lever handle
+Bottom part
+Anti-sabotage option
+Protective sleeve
+Bumper
+Contact edge
+Safety mat
+Connection plug with resistor
+Gluing set
+Charging socket outlet
+Water drain hose
+GSM antenna
+Outside hexagon
+CLASS 10 A
+Earth leakage switch with IFN 10 mA
+Copolyester
+For protruding Torx screw
+For recessed Torx screws
+1000 µA
+0.001 °C
+0.01 °C
+0.1 °C
+1 °C
+0.00001 µF
+0.0001 µF
+0.001 µF
+0.01 µF
+0.1 µF
+1 µF
+0.001 Hz
+0.01 Hz
+0.1 Hz
+1 Hz
+NBR (nitrile rubber)/cotton
+Latex/cotton
+Polyester/cotton/latex
+Acrylic/cotton
+Aramid fibre/elastomer
+Polyester/EVOH
+4-point
+6-point
+Pin lock
+180
+220
+240
+260
+280
+320
+340
+400
+450
+500
+550
+600
+650
+700
+800
+900
+380
+Cellulose propionate
+Polyethylene terephthalate glycol (PETG)
+Cabinet
+200-250 V (50+60 Hz) blue
+380-415 V (50+60 Hz) red
+Lead acid
+5-fold
+Suitable for snap-in connector (brand specific)
+On central conduit box
+Connector connection
+Six-fold module length
+IK00
+Anchor winch
+Tow/anchor winch
+Fishing winch
+Self tailing winch
+Wire/rope winch
+h10
+P10
+Dichroid plated glass
+E39
+High frequency
+IM 1001 (B3)
+IM 1011 (V5)
+IM 1031 (V6)
+IM 1051 (B6)
+IM 1061 (B7)
+IM 1071 (B8)
+IM 2001 (B35)
+IM 2011 (V15)
+IM 2031 (V36)
+IM 2051
+IM 2061
+IM 2071
+IM 2101 (B34)
+IM 2111 (V15)
+IM 2131 (V36)
+IM 2151
+IM 2161
+IM 2171
+IM 3001 (B5)
+IM 3011 (V1)
+IM 3031 (V3)
+IM 3601 (B14)
+IM 3611 (V18)
+IM 3631 (V19)
+IE1
+IE2
+IE3
+S4
+S5
+S9
+Ex d
+Ex e
+Ex ia
+Ex ib
+Ex m
+Ex n
+Ex o
+Ex p
+Ex q
+Key
+Shrink
+Epoxy hybrid
+Epoxy anhydride
+Catalysed epoxy
+Polyesterimide
+GX12-1
+Cable connection, cable not included
+Rope ladder
+Ametal
+Glue spatula
+Insulation cover
+Weather-dependent control
+Left and centre
+Right and centre
+Free-standing/mobile
+Incable-Controlbox (ICCB)
+RFID card
+Fastening set
+AC single phase
+AC 3-phase
+Type 1 CCS
+Type 2
+Type 2 CCS
+GB AC
+GB DC
+CHAdeMO
+Protective contact plug
+Spirally
+Vehicle inlet
+Charging connector
+Charging plug
+Protective contact
+Type 3
+LED exchangeable
+LED not exchangeable
+GX24d-1
+G24q-1
+G24q-2
+G24q-3
+G24q-4
+GX24q-1
+GX24q-2
+GX24q-3
+GX24q-4
+Low-loss ballast inductive
+Low-loss ballast compensated
+LED operating device current-controlled
+LED operating device voltage-controlled
+Double asymmetric
+Wide beam 41-80°
+Narrow beam 11-20°
+Medium beam 21-40°
+Extreme narrow beam 5-10°
+Extreme wide beam >80°
+Open beam/diffuse
+Parallel beam <5°
+> IK10
+650 °C - 30 s
+RGBW
+Rotating and swivelling
+Not adjustable
+GX22
+Composite material
+Group control
+Network control
+Stand-alone control
+1/2 inch external thread
+3/4 inch inside thread
+Remote signalling
+Pressure control
+External readout module
+SD card reader
+Signal output module Analogue
+Membrane breakage sensor
+60°
+PGJX50
+Block-Heater
+District and block heater
+Sanding set
+Sealing tape
+Sealing paste
+Sealing cloth
+Seaworthy
+Hygiene bags
+Soap
+Screw cap
+Hairdryer socket
+Wi-Fi
+Text
+Speech
+Composite
+Impulse
+Escutcheon plate for mounting without release handle
+Manual unlock seal-label
+PC plate for mounting on mesh door
+Anchor plate
+Cellular rubber filling
+Tongue
+IEEE 802.11 b/g
+IEEE 802.11 b/g/n
+IEEE 802.11 n
+Cap for breaking resistance
+Protection hood connection terminals
+Encoder input module
+68x68 mm
+104x104 mm
+Label space
+Control and orientation
+"Symbol ""stop"""
+"Symbol ""socket outlet"""
+Space sensor
+Black/white/red
+Automatically controlled on dT
+Time indication
+Docking station
+Loudness control
+Multi function element
+eNet
+Plug (male connector)
+Coupling (female connector)
+Bend rigid
+4XL
+5XL
+6XL
+Flat 5.2x0.8 mm
+Flat 9.8x1.1 mm
+Cyan
+Separation wedges
+Pressure cast
+Wall openings
+Core holes/tubes
+Network
+Y-adapter
+Male/female
+Laces
+Zipper
+Floor mounting grid
+S19
+Gr10q-3
+6.8 (steel)
+gPV (photovoltaic protection)
+gB (Mining protection)
+gTr (Transformer protection)
+8.5x23 mm
+17.5x63.5 mm
+10x85 mm
+11x79 mm
+8.5x31.5 mm
+8x40 mm
+Italian type P11
+Italian type P17
+Italian type P30
+Italian type Bipasso
+Guide bushing
+Cylindrical fuse
+Darrieus rotor
+Downwind rotor
+Upwind rotor
+Photovoltaic
+Solar thermal energy
+Wind energy
+Reversing pole-switch
+Dots
+Cable protector plate
+Pedestal (in-ground mounting)
+EX39
+PGZX18
+Decorative image
+High-temperature environment
+DDL
+EFN
+EFR
+EFP/5H
+EHJ-X
+ELC/5H
+ELC/10H
+ELD
+EVC
+EVD-X
+FCS
+FLW
+JCR
+Magnet, uncoded
+Magnet, coded
+GX23-2
+GX32d-2
+GX32d-3
+2GX7
+GX10q-4
+G23-2
+GU24
+Lopper
+Half moon
+Class 4
+Class 5
+Helmet attached
+Behind the head
+Under the chin
+Wall collar
+Fuse cartridge
+Toslink
+3.5 mm stereo jack
+2.5 mm stereo jack
+6.35 mm stereo jack
+DIN-connector
+Diode connector
+Magnetic-inductive
+Variable area flow
+Stagnation pressure
+Coriolis-mass
+Sealing insert (star shape)
+Inserting sole
+Hammer loop
+Filter pad
+Spare glass
+De-mounting tool
+Levelling base
+Grinding plate
+Android
+iOS
+Mini-USB
+Micro-USB
+Mini-HDMI
+Micro-HDMI
+Ear protection
+Helmet/head protection
+Respiratory protection
+Face/eye protection
+Foot and leg protection
+Arm and hand protection
+Wire transition conduit
+Frame part
+Door part
+Screened cables
+Overhead line connection
+Earthing conductor
+Straightening tool
+Dowel for rigid foam plates
+Heat-shrink tubing
+Rivet
+Bracket clamp
+Connection plate
+Clamping bell
+Eave support
+Grip head
+Sealing gaiter
+Saddle roof
+Peaked roof
+Stainless steel V4A coppered
+Round conductor Rd 8-10 / flat conductor Fl 20-40
+Connection component
+Separating module
+Anchor cage
+Connection bracket
+Spring ring
+Pressure plate
+Flat washer
+Insert hook
+Earthing handle
+Test rods for phase comparator
+Switching stick head
+Assembly support
+Contacting aid for operating head
+Spare parts for cleaning set
+Insulating part
+Hand grip
+Display device
+Test prod
+Terminal part
+Electrode
+Fall protection
+Spare parts for refilling device
+Protective clothes
+Fixed clamping point for busbars
+NH1-3
+E33
+Camera
+Real glass
+Plastic glass
+Oxidised
+Modular device for domestic switching devices
+Apple 30-pin (till 4th generation)
+Apple Lightning (from 5th generation)
+Breakout cable
+Assembly kit
+Individual part
+Top side front
+Above rear
+Above centre
+Centre central
+Centre rear
+Bottom centre
+Bottom front
+Bottom rear
+Mounting accessory
+Control device
+IP51
+Vibration acceleration
+Piezo-quartz recorder with integrated evaluation electronics
+Piezo-quartz recorder
+Multiplexer of analogue signals
+Piezo-electrical sensor
+Micro-electromechanically sensor
+IEPE
+MEMS
+Via basic device
+GR10q
+Swimming pool
+UV-A
+UV-B
+UV-C
+SE (2-pins)
+SE (4-pins)
+DE (4-pins)
+C10.5L
+C10.5s
+C14X
+C22
+CU (socket)
+G10.2q
+G17x10
+G5.4x17q
+GX23
+Reflector E19.5
+Reflector E21.9
+RX15sp
+Single Pin
+SK32
+Compact Power Lamp (CPL)
+BA10s
+MG
+Optical accessory
+Jacket
+LR
+Fundament
+Shield terminal
+free@home
+Gender changer
+With accessory unit
+One-way communication
+Two-way communication
+Call
+Presence
+Emergency call
+Bed call
+Toilet call
+Gateway
+Area coupler
+Quit call
+Activate call
+Activate/quit call
+Pear push button
+Diagnostic device
+Universal and LED Retrofit
+Energy and weather station
+Adapter for electronic household meter
+LAN adapter
+Energy adapter
+Power supply unit
+Power meter
+Gas meter
+Ambient air sensor CO2
+Both sides open
+One side open
+Brass-plated
+Screw connector with shear-off head
+Press-/crimp connector
+M63 x 1.5
+Three conductor/four conductor
+Without locking
+Insulation piercing connector IPC
+Integrated in plug-in connector
+L, N, PE, D1, D2
+With separate adapter
+H03VV-F
+H03V2V2-F
+Partial stripped
+Skinned
+Switching distributor
+IEEE 802.11 i
+WPA
+WPA2
+WEP
+IEEE 802.11 a/c
+IEEE 802.11 a/d
+2.4 GHz
+5 GHz
+2.4 GHz and 5 GHz
+2.4 GHz or 5 GHz
+Mast mounting
+IPv4
+IPv6
+IPv4 and IPv6
+802.3 af (PoE)
+802.3 at (PoE+)
+Via a/b-port
+Via LAN (IP)
+Fixed connection
+Band loop
+10 mm (3/8 inch)
+12.5 mm (1/2 inch)
+20 mm (3/4 inch)
+25 mm (1 inch)
+6.3 mm (1/4 inch)
+EU10 (Ceramic bar)
+K-FIT
+GX58
+GZZ9.5
+ID3000
+SID
+Heat Sink
+PGJ41
+PGJX28
+PGJX36
+SFC10-4
+SFC-11
+SFC15.5-6
+Side contacts
+h90
+Electrode Rod-Coil
+Cable cleaning set
+Orange/black
+Wastewater
+Noise insulation
+Fire protection
+Radiation protection
+Back vacuum cleaner
+Hip vacuum cleaner
+Evaluation unit
+Frosted
+PC/ABS
+Counter plate for end piece
+Counter plate for outer corner
+Counter plate for flat bend
+Counter plate for inner corner
+Counter plate for cross piece
+Counter plate for coupler
+Counter plate for tee
+For distance mounting
+Collision protector
+Slot nut
+Adapter stabilizer
+Rubber base
+Half-wave control
+Self-ventilation
+External ventilation
+Sub frame
+Semiconductor output
+Relay output
+Current and voltage recording module
+Voltage recording module
+Current recording module
+Decouple module
+Typical +/-1 K
+Ventilator module for industrial heating control systems
+Service tool
+Software kit
+Deflector unit
+Door clutch holder
+Rubber-metal anti-vibration mount
+Toothed belt
+Mounting rail holder
+Threaded rod set
+Signing plate
+Tension band
+Insulator
+Event counter
+With fibre optic cable
+1 x 1 inch
+2 x 1 inch
+1 x 2 inch
+2 x 2 inch
+ISO 15693
+ISO 18000-3
+ISO 18000-6C
+EPCglobal Class-1 Gen 2
+FRAM
+FRAM/EEPROM
+IP60
+Documentation
+Quick-change holder
+R 3/4 inch
+R 1 inch
+Compact version, sensor integrated
+Separated version, sensor separated
+Separated version, transmitter separated
+Compact version, transmitter integrated
+Two chamber housing
+Single chamber housing
+With flange cover
+With hinged cover, low
+With hinged cover, high
+With screw cap
+Slated roof
+Hollow wall set
+Text/symbols
+Robot vacuum cleaner
+Table vacuum cleaner
+For earth leakage switch type A, F
+For earth leakage switch type A, F and type B, B+
+0.0001 mV
+0.001 µA
+0.0001 µA
+0.0001 Ohm
+0.001 Ohm
+0.001 mA
+0.01 mA
+0.1 mA
+Shower floor carrier
+Elevation element
+Press ring seal
+Fire protection switch
+Connection piece for switch operating shaft
+Floor installation
+Segment saw blade
+Plunge-cutting saw blade
+Collection bag
+Directional
+Omnidirectional
+Holder/table top holder remote control
+Church pew heating
+Round/sector-shaped
+Mixing nozzle
+Cartridge nozzle
+Working platform
+Ladder foot
+Ridge throw-over bow
+Orange/yellow
+Windows 8
+B22s
+Electronic ballast dimmable
+Connecting piece fin for wall duct
+Cu-DHP (CW024A)
+CuZn39Pb2 (CW612N)
+Manilla
+Floating ball
+Lead (wet cell, battery empty)
+Lead (wet cell, battery filled)
+Pipe and fastening profile
+Casing
+Steel/brass
+Cross piece 45°
+Right-angled double T-piece 90°
+Right-angled double T-piece 45°
+#12
+#18
+#36
+#48
+woven
+Non-woven
+Street drain
+Side walk drain
+Tile path drain
+Street gutter drain
+Closed (blind)
+Fan shape
+Top and side
+PVC-A
+Polymer concrete
+PE-PP
+Slot grille
+Mesh grille
+Hole grille
+Bottom side
+Protective bracket
+Drawn
+Mirrored
+G 4/G 6
+G 10/G 16
+Qn 1.5
+Qn 2.5
+Qn 3.5
+Qn 5
+Qn 10
+Bending yoke
+Bending die
+Laminated
+Toilet rim block holder
+Aerated concrete
+Mineral
+Double-head
+Positioner
+ISO 1185 (black interior)
+ISO 3731 (white interior)
+ISO 12098
+ISO 7638
+Open/close
+Class 0
+Ball piece
+Continuous right-angled
+Continuous parallel
+Rabbet
+Tongue and groove
+Plasterboard
+Woodwool cement slab
+Kraft paper
+Aluminium craft
+Blanket/mat
+XPS
+Phenol resin
+Cellular glass
+Single glass
+Double glass
+Three-layer glass
+Four-layer glass
+Sawing
+Sanding
+Plaster axe
+Stainless steel 444 (1.4521)
+Stainless steel 439 (1.4520)
+Lead 35
+Euroconus
+Spin-formed
+80 x 80 mm
+100 x 100 mm
+70 mm
+Wall hook
+FireWire
+Pair
+Rack and pinion
+Scissor arm
+0 Not suitable for fire doors
+1 Suitable for fire doors
+0 None
+1 Less
+2 Average
+3 High
+4 Very High
+Primer
+Chalk
+Fluent
+Straight/upwards
+Downstairs right
+Upstairs right
+Downstairs left
+Upstairs left
+Roof accessing
+Ventilating
+Three-walled
+Four-walled
+Polycarbonate sun-resistant
+Waterborne
+SMP polymer
+Porous - Porous
+Porous - Non porous
+Non porous - Non porous
+Colourless
+D1
+D2
+D3
+D4
+Cyanoacrylate
+PVC glue
+PVC C glue
+ABS glue
+Polyvinyl acetate
+Polymer
+Grade profile
+VI
+VII
+VIII
+Lower bracket
+Upper bracket
+Lightweight concrete
+H-profile
+UNP
+350
+Fire stop tape
+St E190 (1.0031)
+SN10
+SN12
+SN16
+SN20
+SN22
+PVC-O
+DN 60
+DN 160
+DN 315
+DN 630
+Spigot reducer
+Cross pair
+Double flat
+Ms 58
+Ms 70
+M23
+Double bridge
+P/S-siphon
+Capacitive multitouch
+Resistive touch
+Infrared touch
+Thrust screw
+Drilling
+PN 24
+DN 63
+DN 355
+DN 560
+DN 180
+DN 225
+DN 280
+Real hair
+Ductile iron socket
+BAIO
+16 V
+425 mm
+1 1/2 inch external
+2 inch external
+Mechanical coupler PVC
+Mechanical coupler copper
+Mechanical coupler cast iron
+Mechanical coupler ductile iron
+Mechanical coupler PE
+Mechanical coupler
+BACnet MSTP/IP
+MP-bus/BACnet/2-10 V
+2-10 V
+Bus connection / 2-10 V
+Direct on drive
+Equal percentage / linear (adjustable)
+PT500
+IP67/IP69K
+28 mm internal hexagon
+30 mm internal hexagon
+160x120
+Camera cable
+Extension cable for camera cable
+M1.6
+Windows Embedded Standard 7
+Windows Embedded 8
+Windows 10
+Ribbing groove (groove coupling)
+Hybrid
+Hydrogen
+Flat wall
+Plastic pipe
+Concrete pipe
+Steel pipe
+Over water surface
+Below water surface
+Fine-step rail
+Preselection of clamping force
+Angle drive
+Browned/phosphatised
+Service valve
+Gate valve
+Butterfly valve
+Cm
+Cm/inch
+Dm
+Inch/mm
+Mm/cm
+EG-class II
+150
+Basic (B)
+Rutile (R)
+Rutile (R, RR)
+Rutile-basic (RB)
+Rutile-acid (RA)
+Rutile-cellulose (RC)
+Cellulose (C)
+UNS
+#2
+#3
+#4
+#5
+#6
+01
+02
+Colour cup
+Router carriage
+Planer blade
+Cutting oil
+Stamp
+Scraper
+Saw blade guide
+Grinding strip
+Joint scraper
+Blade
+Clamping disc
+Steam shield
+Pistol shape
+Claw coupling G 1/2 inch
+Claw coupling G 3/4 inch
+Claw coupling G 1 inch
+Perforation type 1
+Perforation type 2
+Perforation type 3
+Perforation type 4
+Fully perforated
+Top perforated
+Grate
+Fire hydrant
+Manhole cover
+District cooling
+Pressure-sewer
+Beehive grate
+S235JR
+S275JR
+S355J2
+Red-leaded red
+Red-leaded grey
+Iron-based
+Aluminium-based
+Peat
+Bark
+CR 2477N
+B1ca
+B2ca
+Cca
+Dca
+Eca
+s1a
+s1b
+a1
+a2
+a3
+Aca
+Fca
+Electro polished
+Water / fluid
+Buffer baseplate
+Infiltration baseplate
+Side plate
+Shear connector
+Infiltration unit clip
+Paraffin
+Salt hydrate
+Grains
+3.5/12
+Coax 12
+TL 3
+TL 6
+Top side right
+Back wall mounting
+Liquid soap
+Foam soap
+Liquid soap/foam soap
+BE
+Dual-core
+Quad-core
+Hex-core
+Map data
+Front frame
+41 x 62 mm
+Mineral casting
+Stainless steel duplex (1.4517)
+3 x 500 V
+IPX4D
+ModBus/BACnet
+Creosote
+Copper-salt impregnation
+Breaking whip
+Breaking chamber
+Vacuum insulated
+Gas insulated
+Air insulated
+Cable disconnector
+Switchgear disconnector
+Earthing disconnector
+Overhead line disconnector
+EN-GJS-450-10
+CuZN40Pb2
+Fusegear switch
+Cable switch
+Loadbreak switch
+Line switch
+Contact pole
+Fuse disconnector poles
+Contact whip
+Downwards contact extension pole
+Cable connection bracket
+Assembly kit, manual
+Assembly kit, motorized
+Switchgear shaft
+Shaft support
+Service rod
+Connector Fe/Al
+Connector Cu
+Connector Al/Cu
+Flexible connection bracket
+Bracket, surge arrestor
+Extension bar
+Fuse protection tube
+Clutch rod
+Insulator rod
+Hand drive
+Pole root brace
+Rock bolt
+Toothed plate
+Support pole bracket (hinge)
+Bottom pin
+Base brace (straight)
+Base cover
+Cross brace (bended)
+Pole cap
+Q
+RB (Rear Backward)
+Touchless
+Crushed marble
+Console and plug bolt
+Pin insulator
+Support insulator
+Tension insulator
+Suspension insulator
+Strain insulator
+Cap and pin insulator
+Stay wire anchor
+Stay wire fastener
+Stay wire tightener
+Stay wire base plate
+Stay wire marker
+Stay wire link
+Stay wire brace
+Extension eye
+Thimble
+Dead end tie
+Automatic joint
+Eye rod
+Insulating thimble
+Rock eye bolt
+Stay wire set
+Automatic dead end
+RHS (Rectangular Hollow Section)
+Support cross arm
+Deadend cross arm
+Angled cross arm
+One pole
+two pole
+One pole and two pole
+Cross arm mounting set
+Suspension insulator clevis
+Suspension insulator y-clevis/ball
+Suspension insulator socket/ball
+Suspension insulator oval eye/ball
+Cross arm support
+Insulator pin
+U-bracket
+PE-Xa
+PE-Xb
+Suspension/tension insulator
+DN 40 - DN 50
+0.6/1 (1.2) kV
+3.6/6 (7.2) kV
+3.8/6.6 (7.2) kV
+6/10 (12) kV
+6.35/11 (12) kV
+8.7/15 (17.5) kV
+12/20 (24) kV
+12.7/22 (24) kV
+18/30 (36) kV
+19/33 (36) kV
+20.8/36 (42) kV
+36/63 (72.5) kV
+40/69 (72.5) kV
+52/90 (100) kV
+64/110 (123) kV
+76/132 (145) kV
+87/150 (170) kV
+130/225 (245) kV
+160/275 (300) kV
+200/345 (362) kV
+230/400 (420) kV
+290/500 (550) kV
+Hybrid-shrink
+Paper/plastic
+NHC
+With
+Penetrable
+80//80 mm
+Ductile iron
+Desk built-in device
+225
+230
+180/230
+AFNOR NFS 87500 / IRIG B
+Network Time Protocol (NTP) - wired RJ45
+Network Time Protocol (NTP) - wireless WLAN
+ASCII RS 485
+Hours, minutes
+Hours, minutes, seconds
+Programming circuits
+CR 2354
+Starter
+Traction
+Semi-traction
+Cyclic
+Deep cycle
+Back-up / floating
+OLED
+Standard HB enclosure
+UL94-VO / FR enclosure
+Ultra HD
+Full HD
+HD Ready
+Wires and connector
+Faston 4.8
+Faston 6.35
+Faston 4.8 (-) and 6.35 (+)
+Female insert M5
+Female insert M6
+Female insert M8
+Male insert M6
+Male insert M8
+Metric bolt M5
+Metric bolt M10
+PP-SU
+PE-Xc
+PE-RT I
+PE-RT II
+80x60
+120x90
+220x165
+240x180
+260x195
+320x240
+480x360
+1280x960
+1920x1536
+2048x1536
+1280x800
+A (250 A)
+B (400 A)
+C (630 A)
+D (1250 A)
+E (1600 A)
+F (2500 A)
+Lifting lug
+Earthing terminal
+Oil drying agent
+Insulator adapter
+Fixing flange
+Arc protection device
+Surge arrester bracket
+Compact camera
+System camera
+Reflex camera
+CMOS sensor
+CCD sensor
+Animal guard
+Italian type P17/11
+Italian type P10
+Net / Mesh
+AA, free air gap
+AD (EN 1717)
+BA
+CA
+DA
+DB
+DC
+EB
+EC
+ED
+GA
+GB
+HA
+HC
+HD
+LA
+LB
+M34 x 1.5
+C spout
+L spout
+J spout
+Double jointed spout
+14
+18
+Brass / Plastic
+Not continuous with offset
+Wall surface mounted / ceiling surface mounting
+GQ9.5
+P5
+h60
+2GX11
+GU7
+Ending
+A1 BAT
+A2 BAT
+B1
+CLASS 30
+Class 1M
+Class 2M
+Class 3R
+Class 3B
+AluPEX
+Push-Open
+Quadruple
+Barbs
+Steel / EPS
+Aluminium / EPS
+IP68/IPX9K
+Complete module
+Isolated female 6,35 connectors
+Crocodile clip
+Foolproof double connector
+Double connector with fuse
+4-pins connector
+Without galvanic separation
+CR 2325
+CR 1225
+CR 1025
+M22x1,0
+M20x1,0
+M24x1.0
+53 mm
+Front-opening freezer
+Top-opening freezer
+Lead (dry cell, gel)
+Z-rail
+Brushed/grinded
+Earthquake kit
+Electronic release
+Single direction
+NH0, NH1, NH2
+Mechanical combi indicator
+Mechanical top-plate indicator
+Capsule
+Rope tensioner
+SDCM1
+SDCM2
+SDCM3
+SDCM4
+SDCM5
+SDCM6
+SDCM7
+RG0
+RG1
+RG2
+RG3
+RG4
+Intel Core i3
+Intel Xeon
+12K
+3R
+3RX
+3S
+3SX
+3X
+4X
+6P
+Applied automatically
+Printed serial code
+Electronic serial code
+Month
+Non expiring
+Absolute encoder
+Connector M23
+Fixing clip
+Actuator pin
+Code strip
+Flange plate
+Optic fibre
+Mechanic clutch
+Objective/lens
+Probe
+Fix mounted
+CEE socket outlet 3-pole 32 A
+MA
+6x23 mm
+8x23 mm
+8x32 mm
+10x26 mm
+10x32 mm
+Three-part button
+Socket outlet
+Basic element with holder/support
+LR 11
+MR 9
+1/2 AA
+2/3 AA
+6 LP 3146
+xComfort
+Lady
+Mini
+3 LR 12
+4 LR 25 Y
+4 R25 Y
+8 R 25
+FR6
+AAAA
+6HR61
+9V
+AS/NZS 2 pin plugtop
+AS/NZS 3 pin plugtop
+AS/NZS 4 pin plugtop
+AS/NZS 5 pin plugtop
+NEMA turn-locking plug
+Swiss norm type 11
+AS/NZS 3 pin socket
+AS/NZS 4 pin socket
+AS/NZS 5 pin socket
+NEMA-straight blade coupler
+NEMA turn-locking connector
+Multi-standard socket
+5-30
+6-30
+7-30
+5-50
+6-50
+7-50
+5-15
+6-15
+7-15
+5-20
+6-20
+14-20
+14-30
+14-50
+14-60
+15-20
+15-30
+15-50
+15-60
+Touchpad
+Thread size
+Radius
+Thickness
+Depth
+Round nose tree
+Pointed tree
+Ball nose cone
+Pointed cone
+Cylinder with end cut
+Ball nose cylinder
+Natural sponge
+Recessed mount device plug
+ML-1
+ML-2
+ML-3
+Mounting with nail
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+C10
+C11
+C12
+C13
+C15
+C15A
+C16
+C16A
+C17
+C18
+C19
+C21
+C23
+C24
+Bandage
+Respirator
+Cardiopulmonary resuscitation mask (CPR)
+Defibrillator (AED)
+Medicated cleanser
+Antiseptic wipes
+Triangular sling
+Disposable syringe
+Gauze
+Dry ice pack
+Sharps container
+Sterile pad
+Medicine tablets
+Cotton bud
+Tongue depressor
+Safety pin
+Elastic bands
+Strapping buckle
+Laminating pouch
+Air cushion
+Wrap
+Strapping
+Envelope
+Translucent
+Opaque
+Chemicals
+Spill kit
+Spill pallet
+Floating boom
+Sock
+Pad
+Compressed air
+Bosun chair
+Elbow protector
+Elbow sleeve
+Wrist protector
+Arm sleeve
+Pull-on
+Ambidextrous
+Blended fabric
+Natural fibre
+Keyway mounting
+605
+610
+DIN 3-pole
+Typ PG11
+611
+1x 431a
+2x 610
+3x RJ12 6(6)
+610 + RJ12
+123 mm
+LC-Quad
+ANSI A
+ANSI C
+Standard (EN/IEC/ANSI-B)
+Multimode 50/125 and 62.5/125
+U-link
+2x 431a
+S0-/UP0-Port
+200 mV
+340 mV
+400 mV
+60 mV
+200 µA
+400 µA
+50 µA
+600 µA
+Rubber (EPDM)
+Button and button hole
+Unisex
+7XL
+8XL
+Short fit
+Long fit
+Regular fit
+1/1 long
+3/4 long
+Knee length
+Synthetic fibre
+Polo-collar
+Turtle neck
+Boat neck
+Button collar
+V neck
+Fibre based material
+1/2 length
+3/4 length
+1+1+3 finger
+1+2+2 finger
+Mitten
+5-finger
+Deer skin
+Cow skin
+Pig skin
+Goat leather
+3/4 coating
+1/2-coated
+Palm coated
+Fully coated
+Elastic cuff
+Crisscross
+Fishscale grip
+Wrist length cuff
+Forearm length cuff
+Cap style
+Full brim
+Bump cap
+Buckle
+550 °C - 30 s
+750 °C - 30 s
+850 °C - 30 s
+960 °C - 30 s
+Beard net
+Bow tie
+Tie
+Lanyard
+Sleep mask
+Hard hat liner
+Neck guard
+Taping knife
+Ball pein hammer
+Rip saw
+Fretsaw
+Hacksaw
+Jab / drywall saw
+Wax crayon
+Truck mount
+Axis for drum
+Bar with rolls
+Frame with drums
+Platform ladder
+4 1/2 inch
+Spokeshave
+Hatchet
+Block splitter
+Splitting wedge / Splitter
+Normal axe
+NPSM (National Pipe Straight Mechanical)
+Scribing height gauge
+API (American Petroleum Institute)
+Wire rope
+Fibre ribbon
+End cut
+Shear cut
+Centre cut
+Torq-set
+Spanner (Two-holes)
+Inch
+Depressed-centre
+SJO (CA/US)
+SJOOW (CA/US)
+SJOW (CA/US)
+SJT (CA/US)
+SJTW (CA/US)
+SOOW (CA/US)
+SVO (CA/US)
+SVT (CA/US)
+Straight shank
+With hole
+T-Shank
+U-Shank
+Diffuser lens/optic/panel
+Focal lens
+Refractor lens
+Fluorescent lamp D=13 mm
+Glass matt/satinized
+Plastic matt/satinized
+RSC
+Electronic ballast
+Hydraulic hand pump
+2/0
+3/0
+4/0
+G26
+6:1
+Flat 5.2x0.5 mm
+Flat 6.3x0.5 mm
+Flat 8.0x0.8 mm
+Round 2 mm
+1/0
+1000 kcmil
+250 kcmil
+300 kcmil
+350 kcmil
+400 kcmil
+500 kcmil
+600 kcmil
+750 kcmil
+Flat-pin shape
+Double elbow 45° with enclosure
+Bend type L (Canada)
+Plug-in to threaded
+WL (Wire Lead)
+4.5x15 mm
+5x15 mm
+DII, DIII
+CC
+K5
+M (Midget)
+RK1
+RK5
+AC 500 V
+AC 600 V / DC300 V
+Escape route lighting
+Escape route signage
+Escape route lighting/signage
+Tandem
+Bottle/skittle
+Adjustable trim
+Non-adjustable trim
+Connection cable with mains plug (2P+E)
+BSP
+Solvent-Based
+Start capacitor
+Sensor (unit)
+Desk type device (fixed)
+Desk type device (free standing)
+T6
+T6.5
+T7
+T8
+BD17
+BT37
+BT56
+E25
+ED17
+ED18
+ED23.5
+ED25
+ED28
+ED37
+EDX17
+T12
+T14
+T15
+T17
+T21
+T25
+T3.5
+T9
+TD
+TD6
+TD7
+A19
+B11
+BA11
+BT15
+F10.5
+F15
+G16.5
+G25
+T2 3/4
+T2 7/8
+T2.5
+B10.5
+B13
+B8
+B9.5
+BA9
+BA9.5
+CA10
+CA11
+CA5
+CA7
+CA8
+F10
+F20
+S11
+A23
+BT28
+R40
+R60
+A17
+A20
+A21
+A25
+K16
+PS25
+PS30
+PS35
+PS40
+S14
+2D
+T5
+BR20
+BR30
+BR38
+BR40
+ER30
+PAR36
+PAR38
+PAR46
+PAR64
+R16
+R125
+T2
+EYJ
+EYP
+EYR
+EYS
+MR11
+MR16
+ES16
+PAR16
+PAR20
+PAR25
+PAR56
+R111
+BX8.5d
+E14s
+E5.5
+G1.27
+G2.54
+G3.17
+MF6s/8
+MM3s/6
+MP screw terminal
+S15
+S4S/8
+S5.5
+S7d
+SM4s/7
+SM5s
+SV8.5
+SX3s
+SX6s
+T6.0
+TS1
+TS2
+TS3
+TS5
+W2.1x4.9d
+G19
+G30
+G40
+B3 1/4
+G3 1/2
+G4 1/2
+G6
+HB2
+R12
+T1 3/4
+T2 1/2
+T3 1/4
+TL3
+A16
+G10
+G20
+PAR30
+R30
+SLS
+T16
+T19
+T20
+T23
+T24
+DC Bay
+ED23
+A-type
+H40
+BDTH
+BCA
+CYV
+EBV
+EBW
+ECA
+EHD
+EHP
+EPT
+ETC
+EVW
+C-ring
+E-ring
+Basic ring
+Self-locking nut
+Panoramic
+Spring pin dual-sided
+Linchpin
+Split pin
+R-shaped spring type
+Graphics card
+Address card
+Licence key
+IPX8
+IP69
+Docking frame
+Rail bracket
+Counter frame
+Terminal block/plug-in
+C-rail
+Nickel/gold
+Liquid crystal polymer
+Polybutylene terephthalate
+Locking bolt
+Rolled
+Jaw
+Chromium molybdenium vanadium alloy
+Foundation box
+Transmission arm
+Siren
+Dome
+Wall mount box
+Pan-Tilt-Zoom
+Standard (Fixed)
+Reader
+Enrolment device
+Biometric and code
+Data medium and Biometric
+Data medium and Code
+Data medium, biometric and code
+iClass/iClass SE (13.56 MHz)
+Magnet strip
+MIFARE (13.56 MHz)
+Prox/EM (13.56 MHz/125 KHz)
+Intel Celeron
+Decoder
+Encoder
+Diagnostic/Installation tool
+I/O or audio device
+Input device
+Corrugated metal sheet
+DW
+Compressor
+Filter drier
+Turned (lathe)
+Cable to ground rod
+Cable to rebar
+Cable to steel
+Cathodic protection
+Crankcase heater
+Screw rivet
+Percussion rivet
+Cable to lug or busbar
+Grounding
+Industrial
+Ground rod to busbar
+Busbar to busbar
+Lug or busbar to steel
+Pole
+Test terminal
+Wire reel
+Cross-shaped keys
+Plastic/stainless steel V2A
+Aluminium magnesium silicon alloy
+Copper/bronze
+1.5 modular units
+4.5 modular units
+IPX4W
+1.6/5.6 plug / 1.6/5.6 socket
+Terminal/RJ45
+LSA/RJ45
+27 mm
+Electronic ignitor
+Flint ignitor
+Hammer support
+Optical remote display
+Earthing clip
+Sealing device
+Voltage limiting device
+Mast adapter for voltage limiting device
+Impulse counter
+Earthing ring
+Interior and exterior area
+Earthing module
+Railway systems
+Power cables for overhead lines and outdoor switchgears
+Switchgears
+S / L
+Measuring impedance LRM - XC
+Measuring adapter LR-LRM
+Operating rod
+Earthing rod
+Earth connecting element with wing nut M12
+Earth connecting element with wing nut M16
+Earthing clamp
+Screw clamp
+T-connection for earthing cartridge
+USB-Stick
+Earth-side
+Phase-side
+Silicone cable, red
+Copper alloy
+Mast adapter
+Lock-out device
+Screw-in earthing insert
+Operating head
+Oil reservoir
+Cleaning material
+Lock-out element
+Extension prod
+Remote control panel
+DIN rail mounting
+Neck strap
+In-ear headphone
+Half-In-ear headphone
+On-ear headphone
+Over-ear headphone
+Freely positionable
+H-adapter
+T-adapter
+Degree of protection (IP)
+Stainless steel/plastic
+Max. 33 V AC/70 V DC
+Radio clock
+Solid-state drive
+microSD
+Action camera
+12/24 V
+Current/gas
+Ironing station
+Blowing function
+Suction function
+Blowing/suction function
+HDR10
+Dolby Vision
+Manufacturer specific
+Loop amplifier
+Earthing mortar
+G-fuse 4.5x15 mm
+G-fuse 5x15 mm
+Microphone clamp
+Microphone boom arm
+End of line module
+Barrier boom
+Fire dome
+Weekly timer
+1/2 long
+Beanie
+Beret
+Bouffant cap
+Bandana
+Hat
+16/19/20 mm
+Message manager
+Audio expander
+Quarter sphere-shape
+Eighth sphere-shape
+Underpants
+Singlet
+Bra
+Bodysuit
+Fire service
+Thread M45
+Rounded thread
+Brake pad
+Terminal block
+Brush (for commutator)
+End shield
+Fan cover
+Shaft key
+Sanitary napkin
+Deodorant
+Body moisturizer
+Skin-Sanitizer
+Body cleanser
+Contact lens cleaner
+Lip balm
+Perfume
+Barrier cream
+Shampoo
+Sunscreen
+Tampon
+Solid material
+Gel/lotion
+Foam
+Squeeze action tube
+Pouch/bag (disposable)
+Soft drink
+Coffee
+Milk
+Tea
+Hot chocolate
+Freeze pop
+Foil pack
+Bean
+Helmet
+Belt strap
+Facepiece
+Facial tissue
+Bathroom tissue
+Paper towel
+Wipers
+Napkin
+Toilet seat cover
+Barrier chain
+Barrier fencing
+Rewindable barrier
+Foldable barrier
+Flagged cord
+Guide barrier/separation wall
+Barrier cone
+Barrier bar
+Barrier post
+Speed hump
+Barrier sleeve
+Hand-held traffic signal
+Emergency push button
+Network splitter
+Microphone transmitter
+Call station module
+Call station keypad module
+Roughness of the surface
+Hardness of the material
+DC-load meter
+Belt tension meter
+ph-value-tester
+Coating thickness gauge
+IC tester
+Vibration tester
+3D glasses
+Protocol converter
+#8
+#10
+IPX2
+Info-module
+Call-display
+Mailbox
+Video-module
+Audio-module
+Fingerprint reader
+Card reader
+PSTN
+Main station
+Sub station
+Half-duplex
+Full-duplex
+Anti reflection foil
+Name card holder
+Induction loop neckband
+I-shape
+L-shape
+Pocket receiver
+Wall connection
+Middle profile
+Cover for outer corner
+Tablet computer
+Screen protector foil
+Stick
+A++, A+, A (LED)
+E button
+0°
+135°
+Single-Cut
+Double-Cut
+Rasp-Cut
+Curved-Cut
+Hand file
+Flat file
+Knee high
+Ankle high
+Calf high
+High leg
+Gutter set
+Lockup frame
+#14
+#7
+Flat smooth
+Flat profiled
+Flame shaped
+Telecommunication
+AR37
+AR48
+AR56
+AR70
+AR111
+MR8
+Suitable for through wiring
+Through wiring included
+Middle clamp
+Termination clamp
+Profile connector
+Slide-system middle element
+Slide-system end element
+Blue/white
+NH01
+NH02
+NH03
+NH1C
+NH2C
+NH3C
+UL
+IEEE
+Full-range
+Back-up
+General purpose
+Fixed buttonhead
+Removable buttonhead
+Double tail
+Busbar cutter
+Busbar bender
+CSA
+TL
+TC
+SL
+Card encoder
+Transliteration foot pedal
+three pole
+Hot plate
+Gas flame
+Heating coil
+IP66/IP67/IP69
+Data slide line protection
+"Quick selection disc ""Personenschutz"""
+Drawing template
+Electrical schematic
+Electrical symbols
+Housing symbols
+AUS (AS/NZS 3112) (type I)
+CH (SEV 1011 type 13) (type J)
+BE/DE/NL/RU (SCHUKO) (type F)
+BE/DE/NL/RU/CH (Euro) (type C)
+FR (earth pin) (type E)
+IT (S/P 11)
+IT (S/P 17) (type L)
+IT (P 30)
+UK/HK (BS 1363) (type G)
+USA/CA/CN (NEMA 1-15) (type A)
+USA/CA (NEMA 5-15) (type B)
+Short-time delayed
+Selective
+Isolating transformer
+Termination plug
+Cable splitter
+Glass fibre interface
+Call station kit
+Feedback suppressor
+Reference electrode
+Glass electrode
+Combination electrode
+pH
+Redox
+Steam-sterilisable glass
+High-alkaline glass
+High-temperature glass
+Universal glass
+Platinum tip
+Gold tip
+Screw head PG 13.5
+Plug head
+Fixed cable head, plain
+Fixed cable head PG 13.5
+DIN plug
+PTFE ring
+Zirconium dioxide
+Annular gap
+Conductive
+0.01
+0.1
+Stainless steel 1.4435
+G 2 inch
+Screw connection PG 13.5
+°C
+Flat round
+Auxiliary transformer protection
+Primary side transformer protection
+Switchgear protection
+Potential equalisation terminal
+Disconnector
+Clamp connection
+Earthing cable lug
+G24d
+G24q
+Baby changing
+Light signal
+Oil-/fluid-filled
+Radiant panel
+Bend type LB (Canada)
+Bend type LL (Canada)
+Bend type LR (Canada)
+Tile
+Handle
+Glued sleeve
+Sleeve
+Hand wheel
+Linear
+Ball
+Plate
+11
+21
+22
+33
+Right-angle coupling
+Knee with side gutter
+Cross piece 90°
+Nipple
+Straight coupling
+Hose pillar
+Knee
+Fins
+Inner thread gas conical (BSPT)
+Modulating
+Sheet steel
+Cor-Ten steel
+1-sided
+2-sided
+Thermostatic
+Storz
+Turnbuckle
+Negative pressure
+Steam
+2-sided corner
+Centrifugal
+Axial
+Double-size
+Mulden, flat
+Tuille du nord
+Wrong right-angle
+Rim
+Welding neck flange
+Welding plate flange
+Saddle
+Soldered flange
+Compression
+Threaded flange
+Offset
+Bend
+Push-on flange
+Hose socket
+Segmental bend
+Pressure sleeve
+Electro welded sleeve
+Adhesive
+5 inch
+6 inch
+Cap
+Blind flange
+30 min.
+60 min.
+90 min.
+120 min.
+St 33 (1.0035)
+St 35 (1.0308)
+ABS
+PVC-C
+PVDF
+Glued end
+Plastic welded end
+Stained
+Blasted
+Laminate
+Stainless steel 304 L (1.4306)
+Stainless steel 316 L (1.4404)
+Thermal oil
+Thermoelectric
+High/low
+80
+Contrarotating blades
+With mixing tap
+Without mixing tap
+15 mm
+80 mm
+100 mm
+PN 2.5
+PN 6
+PN 10
+PN 16
+PN 25
+PN 40
+PN 63
+PN 100
+DN 6
+DN 8
+DN 10
+DN 40
+DN 50
+DN 65
+DN 80
+DN 100
+DN 125
+DN 150
+DN 175
+DN 200
+DN 350
+DN 400
+DN 450
+DN 500
+DN 250
+12 mm
+22 mm
+8 mm
+28 mm
+63 mm
+G 3/4 inch
+G 1 inch
+56 mm
+110 mm
+125 mm
+160 mm
+200 mm
+250 mm
+150 mm
+300 mm
+M22
+M24
+PN 8
+PN 12.5
+PN 3.2
+PN 4
+300
+Straight with bend
+Sections
+Boiler tube
+400 mm
+450 mm
+500 mm
+800 mm
+900 mm
+1000 mm
+18 mm
+Gas-filled
+Liquid-filled
+Filled with washing
+Covered
+Etched
+Sanded
+Fibre-reinforced plastic
+PE-40
+PE-50
+PE-80
+PE-100
+PVC-CPE
+PVC recycled
+St 34.2 (1.0034)
+St 37 (1.0254)
+St 44.0 (1.0256)
+St 50.2 (1.0050)
+St 52.0 (1.0421)
+St 60.2 (1.0060)
+St 70.2 (1.0070)
+Bronze (Rg 5)
+Zinc-poor bronze (Rg 10)
+Zinc-free bronze (90/10)
+Aluminium bronze
+Dezincification resistant brass (DZR)
+Cast iron GG 20 (GJL-200)
+Cast iron GG 25 (GJL-250)
+Cast iron, nodular
+Cast iron GGG 40.3(GJS-400-18)
+Stainless steel 321 (1.4541)
+Stainless steel 316 Ti (1.4571)
+Brushed
+Threaded pipe
+Boiler pipe
+Low-temperature pipe
+Construction pipe
+Steam pipe
+Greenhouse pipe
+Stepped
+1 x 230 V
+3 x 230 V
+3 x 400 V
+Capillary
+Cord
+1/8 inch (6)
+3/8 inch (10)
+1/2 inch (15)
+3/4 inch (20)
+1 inch (25)
+1 1/4 inch (32)
+1 1/2 inch (40)
+2 inch (50)
+2 1/2 inch (65)
+3 inch (80)
+4 inch (100)
+5 inch (125)
+6 inch (150)
+8 inch (200)
+10 inch (250)
+12 inch (300)
+Drain
+2-speed
+3-speed
+Inner thread gas cylindrical (BSPP)
+Inner thread metric
+Inner thread conical (NPT)
+Outer thread gas conical (BSPT)
+Outer thread gas cylindrical (BSPP)
+Outer thread metric
+Outer thread conical (NPT)
+Compression ring
+Pressure-free
+PN 20
+PN 32
+Hand chain
+Button
+3-part
+EPDM-rubber
+Monoflange
+Semi-monoflange
+Wafer type
+Lug type
+Double flange
+Replaceable
+T-shaped
+Hydrant
+Deviating
+Leaf
+Stool
+Ridge
+Cross piece with branch
+T-piece with double branch
+57
+115
+Quick response
+Fast response
+206
+360
+DN 12
+DN 70
+L-bore
+T-bore
+T piece with side gutter
+T piece 45 degrees
+Allen
+Worm gearbox
+Rubber/plastic
+Soldered end
+Soldered sleeve
+Fire valve
+Cast iron GGG 50(GJS-500-7)
+Rubber-sealing
+Plastic density
+Metal-sealing
+Felt
+Silicon
+Collar
+Sleeve with seal
+Connecting cord with plug
+Terminals
+RU (Rear Under)
+PS (Pipe short)
+SH (S shape hidden)
+MU (Middle Under)
+Deep-flush toilet
+Flat flush
+Glued neck flange
+Laminating flange
+Groove coupling flange
+Union nut
+Plastic welded sleeve
+Support flange (split)
+150 mbar
+Polybutylene (PB)
+PTC
+Pt1000
+Ni1000
+Absolute
+Relative
+0-20V
+0 - 1 bar
+Forged/cast steel
+Alloyed steel
+Inner thread/outer thread
+Coach screw pin
+Clamping bolt
+Tapping pin
+M8/M10
+M10/M12
+Ceramic/ceramic
+Ceramic/plastic
+Pull button
+Stainless steel/Stainless steel
+Friction
+Deactivated when open NO
+Deactivated when closed NC
+Insert end
+Duct end
+Beaded edge
+Angle profile
+Standard fuse
+Electric motor
+Pneumatic motor
+Unlocking magnet
+Unlocking cylinder
+Handle
+Low-lifting
+High-lifting
+Proportional
+Dual plate
+Classic white
+Agais
+Jasmin
+Manhattan
+Pergamon
+Sunrise
+Glass wool
+Star White
+Edelweiss
+Natura
+Disc
+Swing type
+Tube end
+Press
+Reducing sleeve
+PE-reinforced
+Cross piece 88.5°
+Horizontal connection
+Vertical connection
+Vert./vert. incomplete
+Vert./vert. complete
+Horizontal/horizontal
+Smooth bend
+Wrinkled bend
+Strap
+Bracket/wall bracket
+Hanger
+Nail point pin
+High-calorific natural gas
+Low-calorific natural gas
+HBO 1
+Thermosiphon
+Back-flow
+Towards wall
+Towards floor
+Long flame
+Short flame
+Biogas
+Ionisation electrode
+UV cell
+Hexagon
+Pentagonal
+Cylindrical glass/plastic
+Gauge body with pipes
+DN 18
+Reflex glass
+Coloured glass
+Rear
+mbar
+kPa
+MPa
+mmwc (mm water column)
+mwc (meter water column)
+mmHg
+bar/psi
+Pascal
+Window glass
+Front flange
+Wall flange
+Single-action
+Dual-action
+Quadruple action
+Double-valved
+Mobile
+Stationary
+Gas volume
+Gas composition
+O2
+CO2
+CH4
+Pressure switches
+Gas sensors
+Lying
+HBO 3
+Hair element
+Outer thread flare (UNF)
+W
+Air valve
+District heating
+Mulden, concave
+Utrechter
+RBB/Neroma
+Steinfelder
+Screw holes
+Clamped in
+Steel coated
+Double right angle left
+Double right angle right
+X port
+Continuous plate
+Blade edge
+V-shaped
+Flare internal thread (NPT)
+Inner thread flare (UNF)
+Flare external thread (NPT)
+On a corner
+Centric
+Every 20 cm
+Every 10 cm
+Every 5 cm
+Every cm
+Bolt nut combination
+Slotted hole
+Holes spread out over surf.
+Steps of 5 mm
+Zinc colour
+Self-supporting
+Self-supporting, solid
+Clamps with screw
+Plasterboard
+Calcium silicate (watertight)
+Eight-shaped
+18/40 mm
+Bracket system
+Belt system
+Click system
+45 degrees
+90 degrees
+Chromium-plated metal
+Flash gilt
+Aranja
+Satin
+Gloss chromium-plated
+Flush bend
+Out in front
+Out at rear
+Continuous straight
+Continuous with offset
+FPM (FKM)
+PFPM
+NBR (nitrile rubber)
+CR (neoprene)
+13 x 8 cm
+11 x 6.5 cm
+9 x 6.5 cm
+Square acc. to DIN
+Square acc. to ISO
+According to DIN
+According to ISO
+14 mm
+24 mm
+Screwed
+Bricked in
+R
+Graphite 98%
+Minerals (Flexite)
+ASME B16.47A(MSS0SP 44)
+ASME B16.47B(API 605)
+Thin-walled steel pipe end
+Toilet
+Urinal
+Pipe in PVC pipe
+Pipe in sleeve
+Pipe in PE pipe
+Extension flush bend
+Reservoir connection bend
+In urinal
+P-siphon
+Cup siphon
+S-siphon
+Bend 180 degrees
+H-shaped
+7.6/ 15.3/ 30.6 cm
+7.6 cm
+15.3/ 7.6 cm
+7.6/ 5.3 cm
+15.3 cm
+30.6 cm
+10 cm
+120 mm
+100/120 mm
+76.5 mm
+76.5/153 mm
+153 mm
+Against wall
+On base
+Potential-free contact
+ASME B16.21
+Perforated/nail gusset
+Cold and hot water
+Red/A
+Red/PTFE
+Red/St
+Black/CR
+IIR (butyl)
+NBR black
+NBR white (supply)
+CSM (Hypalon)
+NR (natural rubber)
+MVQ (silicons)
+Armide
+Nomex
+Steel galvanised
+Octagonal
+PE diffusion-tight
+Matt chrome
+Three-point
+Sendzimir-galvanised steel
+DN 600
+DN 700
+DN 800
+DN 900
+DN 1000
+DN 1200
+DN 1400
+DN 1600
+DN 1800
+DN 2000
+S-trap
+Pigtail
+PN 160
+PN 320
+PN 400
+PN 64
+T-bar
+PN 10/16
+PN 6/10
+Top
+Single tap
+2 taps
+3 taps
+4 taps
+5 taps
+Mixing tap
+Mixing and cold water tap
+Steel-treated
+Manually operated
+Medium-controlled
+With 1 sphere
+With 2 spheres
+Support pipe section
+"M10/1/2"""
+Vertical profile
+Hanging gutter (semi-round)
+Gutter box (straight)
+Wedge
+20 * 20 mm
+25 * 25 mm
+25 mm round
+30 mm round
+Rubber with textile inlay
+Steel primed
+Coal
+Wood blocks
+TTB
+Oxy pilot
+Kitchen water heater
+Kitchen/shower water heater
+Bath water heater
+100/100 mm
+130 mm
+63/69 mm
+60/90 - 70/70 mm
+Loose set of taps
+Group I,<= 20 dB(A)
+Group II, <=30 dB(A)
+Tail bracket
+Cross-tail bracket
+Chair bracket
+Half cover bracket
+Funnel gutter (bevelled)
+Square A flange
+Not replaceable
+Profile-less
+Fixed setting
+Radar
+Washbasin/top structure
+Photocell
+Conductivity
+Soft-touch
+180 degrees
+Foam jet nozzle
+Removable hose connection
+Fixed hose spigot
+Fixed hose spigot, 45 degrees
+Removable hose spigot
+Removable hose spigot, 45 degrees
+6 mm compression
+Cap bracket
+One-sided with offset
+Electromotor 24 V
+Electromotor 230 V
+Electronic on bath rim
+Pneumatic on bath rim
+Chromium-plated brass
+Chromium-plated plastic
+S spout
+U spout
+Duct connection profile
+Spout
+Water film
+Double-eccentric
+Primer
+Slots
+Self-locking
+Fixed setting
+Spiral-folded
+Longitudinal folded joint
+Longitudinal welded joint
+Blown bitumen
+SBS modified bitumen
+APP-modified bitumen
+Bitumen combination
+Jute fabric
+Glass fabric
+Glass fleece
+Perforated glass fibre
+Polyester sheet
+Polyester/glass
+Polyethylene film
+Metal film
+Fine mineral
+Coarse mineral, UV-resistant
+Coarse mineral, vapour-pressure distributing
+Extra coating
+VB class A
+VB class B
+VD class A
+VD class B
+BD class A
+BD class B
+Freely drawing-in
+Chromium steel
+With collar
+With hexagonal
+Asphalted
+EN AW-6060 T5(AlMgSi)
+EN AW-6082 T6(AlSi1MgMn)
+EN AW-1070 A (AL 99.7)
+Powder coating
+Soldered
+Ground
+L shape left
+L shape right
+L shape left/right
+Wall mirror
+Shaving mirror / cosmetic mirror
+Mirror tile
+Full-length mirror
+Tilting mirror
+Wall mirror/groove decor
+Folding mirror
+Rectangular / 2 round corners
+Rectangular / 4 round corners
+Arc shape
+Trapezoid 2 round corners
+Hexagon
+Arc with 2 side panels
+Rectangular with 2 side panels
+Rectangular with point above
+Wood plastic covered
+Left and right
+Removable
+Fixed/upwards folding
+Removable/upwards folding
+Rockwool
+ACM
+ECO
+FMVQ (fluorosilicones)
+HNBR
+SBR
+PU (Polyurethane)
+PEEK
+Siliconised
+Molykoted
+Talced
+PTFE coated
+Graphited
+Satinised (smooth)
+PN 250
+Thermostatic element
+Slide end
+Folded joint
+Cast
+HBO 2
+RBB fast cover/Weerter git
+Sleeve
+Re-improved double-size
+Sleeveless-slide transition
+Reducing socket
+Collector
+Z-shape
+Lead 20
+Lead 25
+Lead 30
+Liquids
+Gases
+Weight load
+Spring load
+Axially limited
+Differential
+Hinge
+Thermostatic with button
+Thermostatic without button
+XNBR
+PFA
+Hard fabric
+Monel 400
+Hastelloy
+Incology 825
+Welded end
+Welded sleeve
+PP-GF
+PP-C
+PP-R
+PP-H
+PP-S
+St 45 (1.0408)
+Gasket grooves
+O ring groove
+Electric weld
+Welded-on flange
+Ribbed
+Outer thread (NPT)
+Gas internal thread (BSPP)
+Inner thread (NPT)
+Chemical
+Synthetic resin
+One-sided
+Holes
+Pulse
+U shaped
+NTC resistance
+Triangular star
+14 inch
+On-off
+Rapid coupling
+Glass-fibre reinforced
+L coupling
+ANSI
+Air scoop
+Fin
+Labyrinth
+Screws and junction box
+Junction box and tie rod
+3-sided
+4-sided
+Aramid
+Carbon fibre
+Vegetable fibre
+Aramid fibre
+Graphite fibre
+PTFE, graphite-filled
+PTFE, talc-filled
+PTFE, extended
+Aramid stacking yarn
+Aramid monofilament
+Graphite, expanded
+Graphite, pure
+Rameh
+PTFE fibre
+PTFE, pure
+Concentric braiding
+Simple braiding
+Cross-braiding (one mat.)
+Zebra braiding
+Longitudinal braiding
+Wound
+Folded
+Extruded
+Bound carbon
+Metal carbide
+Metal oxide
+Elastomer, sheathed
+Non-elastomer
+P
+U1
+U2
+U3
+Q1
+Q2
+Q3
+Q4
+J
+V
+Y1
+Y2
+Shrunk
+Glued
+Two button
+FPO
+PIB
+TPO
+ECB
+PVC-P
+Sponge rubber
+Cellular rubber
+E1
+E2
+E3
+DN 300
+Fully enclosed
+Multi-spring
+Single-spring
+Graphite
+Flat with cut
+Spiral-wound
+Lens-shaped
+Ceramic fibre
+Braided
+Mineral fibre
+8 inch
+12 inch
+16 inch
+18 inch
+20 inch
+22 inch
+26 inch
+28 inch
+30 inch
+32 inch
+34 inch
+36 inch
+38 inch
+40 inch
+42 inch
+44 inch
+46 inch
+48 inch
+50 inch
+52 inch
+54 inch
+56 inch
+58 inch
+60 inch
+H13
+H14
+U15
+U16
+U17
+Active carbon
+Fibreglass paper
+MDF
+Chipboard
+Cardboard
+Inorganic fibre
+Pure
+Expended
+Filled
+Extended
+PCTFE
+PEI
+PETP
+PF
+PI
+PPS
+PSU
+Hard paper
+PES
+Extended plate
+Half hard 1S
+Soft 1S
+Half hard 57S
+51 ST
+Ms 63
+Ms 64 hard
+Ms 64 half hard
+Ms 64 soft
+F 22
+F 24
+F 25
+Stainless steel 430 (1.4016)
+Hastelloy B-2
+Hastelloy C-4
+Hastelloy C-22
+Hastelloy C-276
+Incoloy 800/H/HT
+Inconel 600
+Inconel 625
+Glass wool-reinforced plastic
+Double round
+Clover-leaf
+Triangle, 80 degrees
+Triangle, 90 degrees
+M/F
+Blade and groove
+DIN 2690 (RF/FF)
+DIN 2691 (blade and groove)
+DIN 2692 (m/v)
+U-round
+U-square
+V-Sliced
+Fibre
+Phenolic
+Spring-activated seal
+Fine flat
+Fine round
+Coarse flat
+Coarse round
+Punched
+Spiral with inside ring
+Spiral with outside ring
+Spiral with inside and outside ring
+Spiral ring
+ASME B16.20
+BS 3381
+Wall (180 degrees)
+Angle (90 degrees)
+Free-standing (360 degrees)
+5S
+10S
+100
+120
+140
+160
+40
+STD
+XXS
+Monodirectional
+Bidirectional
+RF/FF
+Sintered PTFE
+Expended PTFE
+Soft iron, galvanised
+Soft iron, cadmium-plated
+R-oval
+R-octagonal
+RX
+BX
+1 13/16 inch
+2 1/16 inch
+2 1/8 inch
+2 9/16 inch
+"3.1/16"""
+"3.1/8"""
+"4.1/16"""
+"5.3/4"""
+"7.1/16"""
+"13.5/8"""
+"16.3/4"""
+"20.3/4"""
+"21.1/4"""
+9 inch
+11 inch
+Rubber with fabric
+Stainless steel/graphite
+Cover
+17 mm
+31 mm
+Guide block
+Chain sprocket
+Chain guide
+Plain bearing
+Ball bearing
+Needle roller bearing
+Single D-section
+Double D-section
+UHMWPE
+X
+ASTM
+Under pressure
+Elastomer
+Flanged wheel
+Pneumatic tyre
+Solid with rim
+Rigid caster
+Castor, without brake
+Castor, with brake
+Pipe clip
+Inner tube
+Tyre
+Aluminium oxide
+Pigtail
+Rim
+C-section with fastening strip
+Encapsulated on two sides
+Encapsulated on three sides
+Daily program
+Temperature/daily program
+Temperature/weekly program
+Weekly program
+3 x 440 V
+Pole-reversible
+With cast-on float
+With external float
+With internal float
+Steel, chromium-plated
+9/16 inch
+Thin wall
+Medium wall
+Thick wall
+NBR2
+NBR3
+CIIR
+PE-X
+NR/SBR
+SBR/EPDM
+SBR/NBR
+UPE
+NBR/CR
+NBR/EPDM
+NBR/PVC
+NR/NBR
+Fibreglass PVC coating
+Fibreglass silicone coat.
+Fibreglass neoprene coat.
+Polyester/AU
+Tank unit (male)
+"4.1/2"""
+"5.1/2"""
+Switching
+V-snare
+Horsehair
+Aluminium/zinc
+1 1/8 inch
+13/32 inch
+ANSI sch 10
+ANSI sch 40
+Sinking ball
+Ball, spring-loaded
+Banjo coupling
+DIN 2642/ PN 16
+DIN 2655/ PN 25
+DIN 2656/ PN 40
+DN 4
+Double ball
+Double ball, spring-loaded
+Double plug
+E-motor with gearbox
+Hose unit (female)
+Sleeve weld
+Stainless steel 301 (1.4310)
+Partition coupling, square
+Partition coupling, straight
+Butt weld
+Spring-loaded
+Internal thread JIC
+Internal thread JIS
+Internal thread SAE
+Outer thread JIC
+Outer thread JIS
+Outer thread SAE
+Housing
+PN 10/ DN 50
+PN 10/ DN 80
+Pre-pressed
+7/16 inch
+1 1/16 inch
+1 3/16 inch
+1 5/16 inch
+1 5/8 inch
+1 7/8 inch
+Internal dairy thread (DIN 405)
+External dairy thread (DIN 405)
+EN
+SAE
+Coupler (female)
+Cladding
+Packing
+Liquid (Gel)
+Single screw
+Double screw
+Single click
+Double click
+Drawing-in
+Exhausting
+Glass fibre fleece
+Beech wood
+DIN 2642/PN 10
+VK (male)
+MK (female)
+MB (female) cap
+VB (male) plug
+Lateral
+PTFE with carbon (black)
+PTFE without carbon (white)
+Partition coupling
+Cutting edge
+Metal ring
+Soft ring
+Inside cone, 60°
+Inside cone, 45°
+Inside cone, 37°
+Outside cone, 45°
+Outside cone, 37°
+Face-sealing
+Inside cone, 24°
+Steel, yellow, galvanised
+Steel, phosphated
+LL (very light)
+L (light)
+S (heavy)
+Right-angle bulkhead coupling
+Straight bulkhead coupling
+Cutting ring coupling
+Two ridges
+Gripping edge
+Flare coupling
+Knee, 45°
+Knee, 90°
+VKS (male)
+MKS (female)
+Coach screw
+1/2 inch up to and incl. 3/4 inch
+1.1/4 inch up to and incl. 2.1/2 inch
+"3"" up to and incl. 4"""
+Slide tube
+Half-high
+One button
+Claw coupling
+Double D
+Key way
+Gland nut and pipe
+Sleeve, high tensile strength
+Zirconium oxide
+Circular belt
+V-belt
+Flat belt (round)
+Flat belt (edge)
+M6/M8
+M8/M12
+Lip ring
+Clamping strip
+9-pole male
+9-pole female
+25-pole male
+25-pole female
+Silver metallic
+Anti-splash jet nozzle
+Foam jet nozzle
+Internal foam jet nozzle
+Steel PP coating
+Galvanized steel
+Polyester PVC coating
+PA PVC coating
+Monel
+Canvas NBR coating
+Steel PVC coating
+0.2-1 bar
+Welded-on
+Adapter (male)
+PTFE/FPM
+PTFE/NBR
+PTFE/MVQ (Silicons)
+PTFE/EPDM
+Plug (male)
+Cap (female)
+"3"" up to and incl. 5"""
+2 1/4 inch
+DN 165
+DN 205
+DN 38
+DN 45
+DN 135
+DN 76
+DN 89
+DN 102
+DN 108
+DN 133
+DN 159
+DN 194
+Ball with clamp ring
+Ball without clamp ring
+Cup with clamp ring
+Cup without clamp ring
+JIS
+TTMA
+DIN 2817
+DIN 2826
+44 mm
+51 mm
+59 mm
+66 mm
+81 mm
+89 mm
+105 mm
+115 mm
+133 mm
+148 mm
+159 mm
+188 mm
+220 mm
+278 mm
+41 mm
+42 mm
+Plug (male)
+Coupling (female)
+Quarter round
+Foot wall pedal
+Foot floor pedal
+1 button manual operation
+2 button manual operation
+DN 75
+DN 90
+DN 110
+Flat ring
+34 mm
+50.5 mm
+64 mm
+77.5 mm
+91 mm
+106 mm
+119 mm
+155 mm
+183 mm
+18 cm
+23 cm
+18 cm and 23 cm
+30 degrees
+60 degrees
+Side angle left
+Side angle right
+Side angle left and right
+Blind plate/service hatch
+600 * 600
+600 * 300
+1200 * 300
+All patterns
+W-shaped
+Flat plate
+Visible screw
+Hidden screw
+Hidden clamp
+Wall hand button
+Wall foot button
+Floor foot pedal
+Plaster reinforced with fibres
+Forged steel
+Cast iron GGG 40
+Blasting and welding primer
+Welding primer
+Mint green
+SN1
+SN2
+SN4
+SN8
+One-sided sleeve
+Cold strip
+Hot strip, stained
+Hot strip, black
+Cold-manufactured
+Hot-manufactured
+Scaffolding pipe
+Plastic with wood core
+Solid wood
+Layered wood
+Beech
+Cherry
+Mahogany
+Alder
+Ash
+Birch
+Wengé
+St 37.2 (1.0037)
+St 44.2 (1.0044)
+St 44.3 annealed (1.0144)
+St 44.3 unannealed (1.0431)
+St 52.3 annealed (1.0570)
+St 52.3 unannealed (1.0553)
+Coconut fibre
+Infiltration pipe
+Drainage pipe
+Drainage/infiltration pipe
+Triple-eccentric
+Butterfly screw valve
+Ball valves
+Membrane valve
+Ust 37.2 (1.0036)
+Rst 37.2 (1.0038)
+Rst 37.3 U (1.0114)
+Rst 37.3 N (1.0116)
+TT St 35 N (1.0356)
+St 35.8 (1.0305)
+Class A pipe
+Hydraulic pipe
+Slide valve
+Flap valve
+24 V AC
+24 V DC
+230 V AC
+400 V AC
+0-5 V
+Painted
+Delivery flange
+Clamping flange
+Steel C 22.8 (1.0460)
+Steel C 22.3 (1.0427)
+Rst 37.2 (1.0114)
+Sliding cap
+Pins inserted In lid
+Sycamore
+With cogwheels
+Two-point
+PN 10/ DN 65
+DN 52
+Variable volume
+Constant volume
+Variable volume induction
+Pressure controls
+Vacuum tube
+0 - 0.6 bar
+0 - 1.6 bar
+0 - 2.5 bar
+0 - 4 bar
+0 - 6 bar
+0 - 10 bar
+0 - 16 bar
+0 - 25 bar
+0 - 40 bar
+0 - 60 bar
+0 - 100 bar
+0 - 160 bar
+0 - 250 bar
+0 - 400 bar
+0 - 600 bar
+0 - 1000 bar
+0 - 1600 bar
+-0.6 - 0 bar
+-1- 0.6 bar
+-1 - 1.5 bar
+-1 - 3 bar
+-1 - 5 bar
+-1 - 9 bar
+-1 - 15 bar
+-1 - 24 bar
+-1 - 0 bar
+0.1 %
+0.25 %
+0.6 %
+1 %
+1.6 %
+2.5 %
+Built-in bracket
+Roller head
+V-head
+Air
+Bulb type
+0 - 4 bar and 0 - 120 °C
+0 - 6 bar and 0 - 120 °C
+0 - 10 bar and 0 - 120 °C
+0 - 16 mbar
+0 - 25 mbar
+0 - 40 mbar
+0 - 100 mbar
+0 - 160 mbar
+0 - 250 mbar
+0 - 400 mbar
+0 - 60 mbar
+0 - 6 mbar
+0 - 10 mbar
+-400 - 0 mbar
+-250 - 0 mbar
+-100 - 0 mbar
+-60 - 0 mbar
+-40 - 0 mbar
+-25 - 0 mbar
+-16 - 0 mbar
+-10 - 0 mbar
+-6 - 0 mbar
+0 - 2500 bar
+0 - 7000 bar
+Small model (100 mm)
+Medium-sized model (150 mm)
+Large model (200 mm)
+Resistance sensor
+Plastic element
+Vane
+Bellows
+Extension pin
+Al 99.5 (3.0255)
+Seamless
+Shrink end
+AlMgSi 0.5 (3.3206)
+Blue-annealed
+Internally coated
+Externally coated
+Internally and externally coated
+Air cavity
+Overlap
+60 / 100 mm
+70 / 110 mm
+80 / 110 mm
+100 / 150 mm
+130 / 180 mm
+80 / 125 mm
+Al 99.0 (3.0205)
+PP, not readily flammable
+Aluzinc
+Collar
+130 / 200 mm
+150 / 200 mm
+Hinged flaps
+Hidden hinged flaps
+Inspection piece, straight
+Inspection piece, square
+Inspection piece, bend
+Draught limiting device
+Condensate drain segment
+Sliding piece segment
+87 degrees
+42 V DC
+Equal percentage
+Deactivated when open
+Deactivated when closed
+0.2 - 0.6 bar
+0.6 - 1 bar
+3 - 9 psi
+9 - 15 psi
+42 V AC
+2 - 10 V
+Complementary
+3 - 15 psi
+Single-walled
+Concentric
+Double-walled
+60 / 60 mm
+80 / 80 mm
+100 / 100 mm
+130 / 130 mm
+150 /150 mm
+Diagonal
+Seamless weld (butt)
+Longitudinal weld (overlap)
+Open with overlap
+Cap/lid
+Wall chair
+Top plate
+Recess support
+Round air duct
+Rectangular air duct
+CR/SBR
+PP/EPDM
+Polyester/CSM
+PTFE/fibreglass
+110 V AC
+0 - 22 mbar
+15 - 120 mbar
+100 - 250 mbar
+AlMg3 (3.3503)
+Fibreglass cloth
+Vapour inhibition layer
+50 %
+SMS internal thread
+SMS external thread
+Expanded metal
+Gutter model
+DIN 24154-R2
+MP bush
+Oval air duct
+15 degrees
+DIN 2673/PN 10
+DIN 2676/PN 40
+Separate coils
+Dahlander
+Double triangle/double star
+F 300
+F 400
+F 600
+F 842
+Ex d IIC T4
+Suitable for
+Flange ring
+3000 2 pole
+1500 4 pole
+1000 6 pole
+750 8 pole
+500 12 pole
+F 200
+Servomotor
+Round connection
+Flat connection
+DIN 24154-R5
+DN 216
+Check valve
+Insert end with washer
+Cover flashing
+Self-adhesive cover piece, bitumen
+Suction side above the roof
+Suction side below the roof
+Delivery side
+Suspended above the pit
+Standing in the pit
+One-sheet
+Split valve butterfly
+600 mm
+Finkenberger/Frankfurter
+Neuwwieder/Rhein-Ruhr
+Red (terracotta)
+Square bend
+Single with lid
+Double with lid
+Single branch
+Double branches
+80 mm
+1-pipe
+2-pipe
+80 / 80 mm
+100 / 100 mm
+70 / 110 mm
+63 / 95.5 mm
+Concentric / parallel
+Parallel / concentric
+1 x 230 V AC
+1 x 12 V DC
+1 x 24 V DC
+RA-plug connecting cord
+Perilex connecting cord
+Steel, lined
+3 * 400 V AC
+T-piece 90° fluent
+200
+Niche pipe cover
+Stoneware pipe reduction
+111 mm
+350 mm
+24 V AC/DC
+Guide
+Pressure difference
+Rotation
+Electromagnetic
+T-piece, 90° right-angled
+Clamping bush
+PIR (polyisocianurate)
+PTF
+Central heating
+Air treatment
+CH/air treatment
+Readjustment
+Tap water
+CH/tap water
+CH/air/tap water
+Special applications
+Room air
+Inlet air
+Return air
+Humidity controls
+Heating readjustment
+Cooling readjustment
+Frost protection
+Night ventilation
+Reheater
+Summer/winter
+Temp. switch functions
+Tap water pump
+Climate ceiling
+Fan coil units
+EU 3(G3)
+EU 4 (G4)
+Single-strap
+Base plate
+Double base plate
+Legs
+Brace
+Threaded sleeves
+Square duct
+Flue
+Air inlet / flue gas outlet
+Brass-look
+Aluminium-look
+Round tube
+Flat rod
+Oval tube
+Round rod
+Rack/bracket
+Rotating holder
+Fixed holder
+Plateau
+Plateau with grab rail
+Round ring
+Oval ring
+Trapezoid ring
+Rectangular ring
+Insert card
+Condensate drain
+Sliding piece
+Draught controller
+On/Off
+Stainless steel-look
+Wood look
+Transparent blue
+Transparent green
+Matt chrome/gold
+Chrome/gold
+Bisque
+Blue moon
+Glacier
+Horizontal sides
+Matt glass
+Matt plastic
+700 mm
+1200 mm
+1400 mm
+1600 mm
+1800 mm
+2000 mm
+175 mm
+750 mm
+1500 mm
+1250 mm
+Phenol foam
+PIR foam
+Cement
+Corner model
+Vertical sides
+ASME B16.5 R1
+ASME B16.5 R3
+EN 1514-2
+Bent forwards
+Bent backwards
+Straight closed
+Straight open
+Gold-look
+Duct connection profile 20
+Duct connection profile 30
+Duct connection profile 40
+Upward
+Sideward
+550 mm
+Column
+Bronze-look
+Eccentric in height
+Eccentric in width
+Eccentric in height/width, left
+Eccentric in height/width, right
+Insulation plate duct
+Facing side inwards
+650 mm
+850 mm
+950 mm
+1050 mm
+1100 mm
+1150 mm
+1300 mm
+1450 mm
+1350 mm
+Aluminium laminate
+Fibreglass-reinforced aluminium
+Fibreglass PU coating
+1-layer
+2-layer
+3-layer
+Aluminium laminate with spiral
+Plastic with spiral
+1/2 inch / 3/4 inch
+D profile
+Half round
+Quarter round
+Slightly bent
+Natural stone granules
+On wall
+At right angles to wall
+On column
+Steel/steel
+Steel/aluminium
+Top
+Top/front
+Varnished
+Merbau
+Collapsible
+Towel
+Wardrobe
+Glass shelf
+Piece of furniture
+Electrical element
+Ivory-look
+Silver-look
+Toilet support
+Polyamide with steel core
+PMMA (Acrylate)
+Rilsan
+Shower seat
+Single leg
+Double leg
+Wall rail
+Wall attachment
+Bath attachment
+Movable
+Frame bracket
+Corner wall bracket
+Grab rail
+Switch box
+Speed controls
+Maintenance-/service switch
+Room thermostat
+Frost protection thermostat
+Construction thermostat
+Console set
+Mounting set/coupling set
+1 suction section
+2 suction sections
+Filter section
+Exhaust section
+Material own colour
+Wall
+Hanging (bath edge)
+Toilet supports
+Standing toilet
+Upwards folding
+Removable and upwards folding
+Damper
+Spindle
+Wall-hung WC pan
+Suction section
+Mixing section
+Fan sealing plate
+Condensate collector
+Front exhaust conversion set
+Exhaust plenum
+Gearbox
+Suction grille
+Outlet grille
+Outlet corner piece
+Room thermostat with position controller
+Floor build-in
+Supply unit
+Heating/cooling selector
+2-way control valve
+3-way control valve
+Flexible air connection
+Front wall
+Parrot
+Triangle
+Foot control
+Self mover
+Seat
+Stretcher
+Bath bottom
+Rotating and transfer aid
+Adapter for battery lift
+Seat filler stop
+Telescopic legs
+Toilet bucket holder
+Footrest/footboard
+Leg support
+Bottom insert
+Brake
+Armrest locking device
+Loose back cover
+Loose seat cover
+Soft lay-on seat
+Toilet raiser
+Connecting bracket
+Stabilising bracket
+Splash guard
+Decorative piece
+Sliding plate
+Front gate
+Side gate
+Fold
+Two-grip
+Elbow
+Pendulum
+Shower/toilet seat
+Rotating tray
+Battery charger
+One-piece turn
+Two-piece turn
+Turn with fixed panel
+Chrome-look
+Inlet
+With profile
+Profile arm
+Threaded coupling set incl. packing
+Soldered coupling set incl. packing
+Compression coupling set incl. packing
+PJE coupling set
+Threaded flange set, complete
+Fitting piece, complete
+Narrowing fitting piece, complete
+Welding neck flange, complete
+Direction of rotation button
+Submersible pump connecting bend
+Submersible pump hose
+Submersible pump hose clip
+Capillary connection set for sensor
+Pump pit cover with window
+Shut-off valve, complete
+Non-return valve, complete
+15
+35
+In button
+In motor
+Pump switch
+RPM switch
+Motor protection
+Operation-breakdown report
+Wall console for electronics
+Control system
+Operating system
+Control and operating system
+Pressure difference sensor, complete
+Level controller, complete
+Plug on pump
+Condenser, complete
+0 - 0.4 bar
+Improved double size
+Parallel / parallel
+130 / 130 mm
+130 / 200 mm
+MFA = Perfluor Alcoxy Polymere
+Bar
+Quadratic
+"3/4"" Euro conus"
+Towards floor/wall
+"1/2"" inside"
+Clamp 26
+Clamp 34
+Click 22
+Radiator button
+Fill and drain valve lower block
+Bahama beige
+Suspension hooks
+Plug bolts
+M28 x 1.5
+M 38
+26 mm
+Brand-dependent
+Pulse-pause
+PWM
+Sealed ring
+Separable ring
+Slide over pipe
+Clamp around pipe
+Blades
+EPS
+Viton
+S-coupling
+Sleeve coupling
+Ametal-C
+Tailpiece/Inner thread
+Outer thread/outer thread
+M28 x 1.5
+M30 x 1.5
+M30 x 1.0
+Allen 22
+Tailpiece/Outer thread
+With valve guard
+Without valve guard
+Liquid
+Construction
+Reverse square
+Hand button
+Adjustment key
+Covering cap/ornamental cap
+Interior
+Gland
+Screw for hand wheel
+Linking tube
+Connecting cone
+Connecting nipple
+Ornamental cap
+Disassembly key
+Blocking pin
+Anti-theft ring
+Anti-vandalism cap
+Adjustment key
+Coil for capillary pipe
+Fill/drain valve
+Spindle extension
+Tilting non-return valve
+Membrane non-return valve
+Telescopic
+2-jet
+Rectified
+Two-way valve
+Three-way valve
+Loose housing
+Pull chain
+Interruptible
+Two quantities
+Mains
+With pull cord
+M38 x 1.5
+Adapter from different manufacturer
+Limiting clip
+Tailpiece
+Extended tailpiece
+Supporting case
+Thermostatic expansion module
+Disinfection module
+Lockable coupling
+H support block
+M22 x 1.5
+Spare set
+Vinyl
+Polyester/cotton
+Pipe length
+Connecting piece
+Rosette
+Soap tray
+Stabilisation
+Towel holder
+Other parts
+Silver-look
+Two-part slide
+Three-part slide
+Four-part slide
+Fixed one-piece
+One-piece double-acting
+Two-piece double-acting
+Three-piece double-acting
+One-piece double-acting with fixed panel
+Two-piece double-acting with fixed panel
+Sliding two-piece
+Sliding three-piece
+Sliding four-piece
+Handles/buttons
+OpenTherm
+PID
+Three-wire
+Three-four-wire
+Ground plate
+Operate-switch
+Zone control
+Weather-dependent boiler control
+District heating control set
+Floor heating control set
+Self-controlling
+Thermal drive module
+Drain adapter
+Fixed probe
+Probe and remote control
+Thermomotor
+CTR
+Spring/cartridge
+Nipples
+0 - 5V/5 - 10V
+Binary
+230 V AC/DC
+Reversible
+Operating software
+Supply unit
+Programming/service magnet
+Spacer yoke
+Feedback potentiometer
+Transformer set
+24 V
+Weather-dependent control set
+Protective cover
+Automatic time setting (ATS)
+Supply switch unit
+Zone expansion unit
+Bush cable
+Switch supply unit
+Radiator controller
+Cleaner's sink
+Bath/shower mixing tap
+Blade mounting
+Left, right and centre
+Stainless steel 318 (1.4583)
+Deep
+Cascade
+Straight wall
+Cold/premixed
+Central/middle
+Radiator valve/foot valve
+With adapter
+Logical
+Impulse pipe
+Packing set
+O-ring set
+Cartridge
+Filling/drainage set
+Measuring nipple
+Insulation tray
+Capillary tube
+Extension set for capillary tube
+Adapter for capillary tube
+Sealing nipple for capillary tube
+Measuring hose
+Measuring hose with filter and cut-off valve
+Measuring needle
+Measuring adapter set
+Expansion set
+Charger
+Beech-look
+Oak-look
+Ash-look
+Flask
+Bottle
+Jerrycan
+Click sleeve
+PEHD-Xc
+PE-MD
+EVOH
+Dirt
+Air/dirt
+Insert key
+Locking ring
+Built-in section
+Finishing section
+Built-in section + finishing section
+Top section, ceramic
+Top section, non-ceramic
+Cartouche, ceramic
+Cartouche, ball
+Hose (gland nut)
+1-hole
+2-hole
+3-hole
+Pipe
+Hose (compression)
+Extendible with aerator
+Extendible with hand shower
+Waste unit
+Chain eye
+Fixed chain
+Sinkable chain
+Mocca
+Rotating, bottom
+Rotating, top
+Fixed, bottom
+Fixed, top
+Flexible with rinsing shower
+Aerator, fixed
+Anti-splash spout, fixed
+Aerator with ball joint
+Anti-splash spout with ball joint
+Bath edge / tile edge
+Front part
+Covered (rear)
+Self-bearing supporting legs
+Non-self-bearing supporting legs
+Attachment plate
+Outflow mechanism
+Breaker set
+Volume limiter
+Float valve membrane
+Bottom valve membrane
+Float valve filter
+Connecting set middle rear
+Frame spacer
+Flushing system conversion set
+Combination tile
+Skirting
+Stair tread
+Splinter
+Corner strip
+Floor piece
+Uni
+Porcellanato
+Red splinter
+White splinter
+Relief
+Cut-out
+13
+Barrel-polished
+Brushed/barrel-polished
+Patinati
+Smoothed
+Satin gloss
+Mat
+Travertine
+French
+Half-brick
+Norwegian
+Header
+Herringbone
+Flemish
+Free
+Sandstone
+Belgian bluestone
+Unistone
+Corner stone
+End stone
+1000
+End piece external thread with drain and de-aeration
+End piece internal thread with drain and de-aeration
+End plug
+Mounting bracket, steel
+Mounting bracket, plastic
+Housing
+Single-grip
+Argon
+Forming gas
+Helium
+Carbon dioxide
+Nitrogen
+Package
+LU1
+Ri2
+RU1
+RU3
+RU4
+RU6
+R-22
+R-23
+R-134a
+R-401A
+R-402A
+R-404A
+R-407C
+R-410A
+R-413A
+R-417A
+R-507
+CGA660
+Mixing gas, other
+7/32 inch
+Package tank
+Insert
+Plastic jacket, yellow
+Plastic jacket, grey
+Plastic jacket, white
+On tap spout
+1/2 inch + M22
+Red/chrome
+Red/black
+Red/chrome/stainless steel
+Click bracket
+Wall cover
+Inside bend
+Outside bend
+Flat bend
+Gold/yellow
+2 settings integrated
+3 settings integrated
+Separate
+50 / 50 mm
+70 / 70 mm
+Flat roof
+35 - 35 gr.
+RBB quick roofing
+Single-sided with hook
+Single-sided with loops
+Roof boarding
+Top
+Ceramic
+363
+Standard response
+147/161
+242
+Allen key
+With hose connection
+43
+Special response
+Standing/hanging (conventional)
+Special
+Storage cabinet for spare sprinklers
+Heat collection plate
+Single-part
+Deluge
+Preaction
+Chrome look (matt)
+Chrome look (glossy)
+For T-piece
+Thermo-element
+Tap
+Red/blue
+Degrees
+Bamboo
+Walnut
+Pear
+Steel-look
+Natural stone-look
+Floor/wall
+Natural stone, solid
+Granules (natural stone)
+Reed
+Fabric (textile)
+Steel wire, plasticised
+With front mirror
+With inside mirror
+With front and inside mirrors
+Without mirror
+Top/tap hole
+Handle/bracket grip
+Formed
+Sealed top
+With washbasin opening(s)
+With integrated washbasin(s)
+With built-in washbasin(s)
+50 / 80 mm
+60 / 90 mm
+Two-way
+Three-way
+Vent trim
+Pressure relief trim
+Water-motor alarm
+Pilot light
+Gas block
+Ignition
+60 * 80
+70 * 80
+80 * 100
+60 * 100
+Bottom-centre
+Bottom-side
+Stainless steel 306L (1.4404)
+Stainless steel 306 Ti (1.4571)
+Gland
+Servomotor chair
+Auxiliary contact
+Spindle heating
+3-wire
+4-wire
+Compression/soldered end
+Built-in tap
+Bell ear
+With packing
+Direct current
+Pressure gauge
+Immersion tube
+Charging pump
+Control equipment
+Element
+Coat
+Exchanger
+Spindle coupling
+Bottom plate extension
+Shaft extension
+Reversible clamp trestle
+Valve lever
+Ball joint
+Drive lever
+Rod mounting set
+Setting indicator
+Rotation angle limiter
+VAV controller
+Installation set for E box
+Installation set for partition
+Feed-through piece
+Measuring hose set
+Venturi tube
+Watertight housing
+Console mounting
+Test spray
+Pot
+Screw-in clamp
+EN 14420-3
+2.0
+4.0
+5.0
+6.0
+0-10V / 4-20mA
+Set of couplings
+24 V AC
+18-30 V DC
+With loop end
+With stud end
+With toggle end
+With snap hook end
+With eyelet end
+With 90° eyelet
+With end stop
+With barrel end
+Double ended hanger (Y)
+Threaded adapter
+Wire anchor
+Spring clip
+Beam and purlin clip
+Pigtail anchor bolt
+Drop-in anchor
+Eyebolt
+Link hook
+Ceiling fixing kit
+Carabine hook
+Corner saddle
+Trapeze fastener
+Ceiling clip
+Tensioning tool
+Setting punch
+Protective sleeve tubing
+Wire rope cutter
+Ni 1000
+Changeover construction set
+Cable locking spring
+Sensor holder
+Terminal housing
+Reducing nipple
+Water seal
+Feed-through pipe
+Measuring probe
+Cooling only
+Cooling and heating
+Ceiling suspended
+Ceiling installation (duct)
+R-290
+Wall (high)
+Wall (low)
+Single-split
+Multi-split
+Single-split/multi-split
+3 * 400 V AC +N
+"3/4"" face-sealing"
+Shower curtain ring
+Ceiling support for shower curtain rod
+Supply
+Supply and drainage
+Polychloroprene
+External sensor
+315 mm
+Controller for 230 V
+Controller for 400 V
+Room temperature sensor
+Duct temperature sensor
+Control valve
+Controller
+1/2 inch- 3/4 inch
+"1/4""- 1/2"""
+"1/4"" - 3/8"""
+"1/4"" - 5/8"""
+"3/8"" - 3/4"""
+"3/8"" - 5/8"""
+"3/8"" - 1/2"""
+Couplings supplied separately
+Couplings preassembled on 1 side
+Couplings preassembled on 2 sides
+2 x single
+Control panel/controller
+Outside unit grille
+Timer
+Interface adapter
+Protective grille
+Setting transformer
+Service module
+Insulation angle for duct
+Locking clip
+Bathtub
+(Foot) hip bath
+Bath/shower combination
+Combination type (asymmetrical)
+Foot end
+Air and water
+Bath tub
+Shower base
+Front panel
+Side panel
+Complete set
+Front skirting
+Side skirting
+Frame
+Legs (set)
+Mounted on bath tap
+Suspension hook
+Transformer
+Tie rod (pull handle)
+Push bar (push handle)
+4-hole
+Symbol
+Operating cable
+Signal light
+Shut-off valve
+Plastic/glass
+Aluminium/glass
+Wall and corner
+Touch control/push button
+IP59K
+With outlet
+With outlet and washing-up shower connection
+With washing-up shower and outlet
+With washing-up shower
+Wall and top
+Revision set
+Non-return valve
+Floor support control unit
+Hog's bristle
+Bakelite
+Bonnet
+DN 16
+5/8 inch (16)
+115 V AC
+12-48 V DC / 15-48 V AC
+80-240 V AC/DC
+Pump
+Pump pot
+Perrot clamp coupling
+Bauer clamp coupling
+Factory default
+ISO 5211
+Sealing ring
+Cap
+Ohasil
+Sigma flange
+Clamp scale coupling flange
+150 lbs
+300 lbs
+600 lbs
+800 lbs
+Stainless steel 316 (1.4408)
+ASTM A105N
+ASTM A216 WCB
+Para rubber
+ASTM A351 CF8M
+PDCPD
+PN 6/10/16
+Shaft
+1000 PSI WOG
+1500 PSI WOG
+2000 PSI WOG
+DN 220
+JIS 10K
+Vulkollan
+CuZn36Pb2As (CW602N)
+JIS 5K
+PVC-HI
+ASTM A126 Grade B
+ASTM A182 F5
+ASTM A182 F11
+ASTM A350 LF2
+ASTM B61
+ASTM B62
+ASTM A182 F51
+2 3/8 inch
+Paddle wheel
+Turbine
+Stainless steel duplex (1.4462)
+Incoloy 800 (1.4876)
+Incoloy 825 (2.4858)
+Stainless steel 304 L (1.4304)
+Titanium G1 (3.7025)
+Titanium G2 (3.7035)
+Mica
+Inner cone 12 degrees
+Internal thread NSFHT
+Internal thread UNI - 45
+Internal thread UNI - 70
+Internal thread food products
+Outside thread food products
+Lever
+Build-on flange
+10000 PSI WOG
+200 lbs
+1500 lbs
+3000 PSI WOG
+5000 PSI WOG
+JIS 16K
+Steel GP240GH N (1.0619)
+Steel P250GH (1.0460)
+Soft iron non galvanized
+Stainless steel 316 (1.4409)
+Weight
+200 PSI WOG
+Displacer
+PN 420
+0 - 600 mbar
+-100 - 150 mbar
+-20 - 20 mbar
+PVDF-EL
+PTFE-EL
+PN 125
+UHMPE
+Lug type
+ASTM A216 WCC
+ASTM A352 LCB
+ASTM A352 LCC
+Tri-clamp
+DN 14
+Pull mechanism
+125 lbs
+JIS 20K
+JIS 40K
+PN 200
+PN 50
+PN 500
+PN 630
+15Mo3 (1.5415)
+Stainless steel 309 (1.4828)
+Cast iron GGG 40 (GJS-400-15)
+Stainless steel 410 (1.4006)
+CuNiFe
+Triclover flange
+Chemraz
+3%
+0.5 - 2.5 V
+Hostaflon
+0 - 0.025 bar
+0 - 0.04 bar
+0 - 0.06 bar
+0 - 0.1 bar
+0 - 0.12 bar
+0 - 0.16 bar
+0 - 0.2 bar
+0 - 0.25 bar
+0 - 12 bar
+0 - 2 bar
+0 - 7 bar
+-0.01 - 0 bar
+-1 - 12 bar
+-1 - 25 bar
+-1 - 30 bar
+2 %
+Thimble with lip ring
+60 / 80
+Broom
+Spade
+Shovel
+Spray can
+Inconel
+Half sphere-shape
+Kalrez
+Powder
+Impeller
+DIN 16282
+No energy
+BA
+CA
+EA
+DIN 11851
+DIN 11861
+DIN 11864
+DIN 8542
+ISO 2853
+Pressure seal
+Lights
+Slides and spring rings
+Valve and spindle
+Spindle-bellow
+Sieve
+Connection block
+Fall pipe
+Motor
+Sledge
+Heating
+Sift basket
+Bucket filter, single
+Bucket filter, double
+Y-filter
+Self-cleaning filter
+Interclamp filter (temporarily)
+Strainer (maritime)
+Suction strainer
+DN 15 - DN 20
+DN 20 - DN 25
+DN 32 - DN 40 - DN 50
+Cu/Ni
+Sight flow glass
+Pedal
+Steering head cover
+Sealing cup
+Sealing ball
+Ring gag
+One point
+Four point
+EEx d IIC T6
+EEx ia IIB T4
+EEx ia IIB T5
+EEx ia IIB T6
+EEx ia IIC T4
+EEx ia IIC T5
+EEx ia IIC T6
+Stop plate
+Friction ring
+Rectifier
+Silencer
+Lift magnet
+Kern course
+Magnetic core
+Throttle valve
+Top part
+Build-in cabinet
+Cone
+Extension pipe
+Magnetic holder
+Conduction pin
+Connection nut
+Connection pipe
+Piston
+Level plug
+Level pipe cap
+Level pipe cap - deck plug
+Valve
+Lantern
+Driveshaft
+Emergency manual operation
+Lining
+Valve and seat
+Guiding plate
+Setting button
+Set-screw
+Valve disc
+Float ball
+Inner ring
+Outer ring
+Centre ring
+Bordel
+Lay on
+Steam valve
+Spring set
+Lighting
+Borosilicate
+Soda lime
+Cover packing
+Collet
+Adjusting set pin
+Water separator
+BS 5156
+EN 558-1, 1
+PPG
+Plug EN 175301-803 type A
+Plug EN 175301-803 type B
+Plug EN 175301-803 type C
+UR
+70%, max. 13 min. on, 30% rest
+Drip tube
+Rotor
+Vane
+EN 558-1, 16
+EN 558-1, 49
+EN 558-1, 52
+Split range
+Al 99.9 (3.0305)
+G 1/4 inch
+G 1/8 inch
+Cable box with screw clamps
+Cable box with screw clamps, moulded
+Moulded cable
+10 %, max. 5 min. on, 90 % rest
+20 %, max. 30 min. on, 80 % rest
+Conductive
+Paddle
+Vibrating fork
+Direct load
+IS NAMUR
+PNP/PLC
+PPC
+100 mm
+Braiding wire
+Strapping tool
+One-part slide
+Men
+Women
+Disabled persons
+Paste
+DN 32, square
+Sharp
+110 V
+ANSI 125
+ANSI 150
+ANSI 1500
+ANSI 300
+ANSI 600
+ANSI 900
+With sensor
+ANSI 800
+ANSI 2000
+Synthetic
+Screw-down non return disc
+Balanced valve
+Control valve
+Fixed disc
+100 / 170
+G 1.6
+G 4
+G 6
+G 16
+G 25
+Flint
+TH
+SA
+Quadrant
+Slot
+Before pump
+After pump
+110 / 150 mm
+Gas street
+Pilot flame
+Double right-angled
+Crosscut knife
+Modified bitumen
+Volume control
+Stench-trap
+Zinc band
+Zinc sheet
+Lead sheet
+Cutting Lead
+150x200 mm
+150x150 mm
+Polyester concrete
+A-15
+B-125
+C-250
+D-400
+E-600
+F-900
+Line
+Back to back
+Copper - nickel - iron
+Pyramid
+Front loading
+Time control
+30 mm
+29 mm
+48 mm
+Inside unit grille
+Flushing agent
+Leak sealer
+Vaseline
+Protector substance
+Silencer
+Multispray
+Lubricant
+Mineral oil
+Synthetic oil
+Plant oil
+Toilet
+Vegetable
+2 x 230 V
+Clock thermostat
+Room thermostat
+3 settings
+M26 x 1.5
+35 mm
+With pin
+With lug
+Gauge torx
+Handle torque screwdriver
+Plug in blade slot
+Plug in blade cross
+Plug in blade torx
+Demagnetizer
+Crosswise divider
+Lengthwise divider
+Tray
+Distance module
+Machine holder
+Tool panel
+Anti-slip mat
+Tool clamp
+Writing support
+Tool holder
+Retaining clip for nuts
+Driving handle
+High-speed swivel disc
+Safety ring
+Safety splint
+Reaction foot
+Weld on fitting
+Cutting wheel
+Plastic holder
+Wooden holder
+Ring end fitting
+Open end fitting
+Open ring end fitting
+Square fitting
+Ratchet fitting
+Internal hexagon fitting
+Bit holder fitting
+Mushroom head
+Copper hammer
+Lead hammer
+Paving hammer
+Glaziers hammer
+Geologist's hammer
+Carpenters hammer
+Wheel-hub puller
+Ball joint puller
+Oil filter hook
+Cartridge hook
+Drive shaft puller
+Steering-wheel puller
+Cross-beam
+Pulling leg
+Head
+Spindle pressure pad
+Thread insert
+Flange separator
+Nut splitter
+Cylinder tip
+Extension rod
+Pulling chuck
+Hydraulic cylinder/press
+Spindle hydraulic
+Dismantling/assembly fork
+Electrical unblocker
+Flexible pipe cleaning shaft
+Extension flexible pipe cleaning shaft
+Clamping plate
+Caliper face spanner
+Panel
+Reservoir
+Halon
+Software
+Tissue wet
+Tissue dry
+Rounding cutter
+Chamfering cutter
+Groove cutter
+Hollow edge forming cutter
+Laminate trim cutter
+Panel cutter
+Edge forming cutter
+Hinge cutter
+Disc cutter
+Slot cutter
+Spiral milling cutter
+Rebating cutter
+V-groove cutter
+Joining cutter
+Straight cutter
+Switch blade cutter
+Dovetail cutter
+Holder
+Eye
+PN 315
+PN 800
+CuZn39Pb3 (CW614N)
+Equal sided
+Unequal sided
+C45 (1.0503)
+C35 (1.0501)
+Stainless steel 303 (1.4305)
+42CrMo4 (1.7225)
+Stage circulation
+Lead (dry cell, AGM)
+PA 6
+PA 6.6
+EN AW-5083 (AlMg4.5Mn)
+PVA
+Cocos
+Flax
+Wool
+Bentonite
+Jute
+EN AC-47000 (AlSi12(Cu))
+DN 1100
+DN 1300
+DN 1500
+PN 5
+PN 210
+Single bulkhead flange
+Double bulkhead flange
+Counter flange
+Spectacle flange
+PN 640
+Hot rolled
+Cold rolled
+Hot drawn
+Cold drawn
+Machined
+7 inch (175)
+3.1/2 inch (95)
+DN 95
+Grade A
+Grade B
+AH/DH32
+AH/DH36
+AH/DH40
+St 37.4 (1.0255)
+DN 1050
+DN 1150
+DN 19
+DN 550
+DN 650
+DN 750
+DN 850
+DN 950
+St 37.2 (1.0039)
+EN AW-5056 (AlMg5Cr)
+EN AW-5754 (AlMg3)
+EN AW-6005 A (AlMgSi)
+WTSt 52.3 (1.8963)
+St 37.8 (1.0345)
+Cutting ring
+PN 2
+C22 (steel)
+Unblocker
+Grinding paste
+Silicone grease
+Silicon carbid grains
+Silicone oil
+Coated granules
+Spray
+Hard silver solder
+Hard copper solder
+Cushion
+St 35.4 (1.0309)
+M8 x 1
+M10 x 1.25
+M12 x 1.25
+M14 x 1.5
+M18 x 1.5
+M24 x 1.5
+M24 x 2
+M27 x 2
+M30 x 2
+M36 x 3
+M45 x 2
+NBR soft ring
+EPDM soft ring
+FPM (FKM) soft ring
+CuNi10Fe1.6Mn
+16/20 mm
+EN-GJMW-400-5 (EN-JM1030)
+40S
+80S
+CuNi10Fe1Mn
+Hydraulic/cone grease nipples
+Button head grease nipple
+Hexagonal head grease nipple
+Ball grease nipple
+Concave grease nipple
+Recessed grease nipple
+Bayonet grease nipple
+Oil nipple
+Outer thread BSW
+Outer thread BSF
+DIN 71412
+DIN 3404
+DIN 3402
+DIN 3405
+Bronze (Rg 7)
+S8
+S10
+Steel/CuNiFe
+Shave plane
+Groove plane
+Hand plane
+Nose plane
+Squeeze lever
+Tilting lever
+Control lever
+1-piece impulse unit
+2-piece impulse unit
+3-piece impulse unit
+Siliconcarbide
+One size
+Cork
+Coarse
+Fine
+Keyway cutter
+Copy cutter
+Roughing cutter
+Radius cutter
+T-slot cutter
+Woodruff cutter
+DN 28
+DN 33
+Sponge
+DN 320
+0000
+Fire fighting
+Dirty oil/bilge water discharge
+Sanitary discharge
+Fuel oil
+Clutch alignment tool
+Universal alignment tool for automobile doors
+Special ring spanner
+Spark plug connector pliers
+Heater plug socket pliers
+Valve seating-ring pliers
+Fuel hose clamp
+Plastic lever bar
+Extractor pliers
+Pull hook for rubber exhaust mountings
+Perforated panel
+Spout
+Workshop module
+Separator plastic
+Separator steel
+Wing
+C45K
+Horizontal acting toggle clamp
+Vertical acting toggle clamp
+Hook type toggle clamp horizontal
+Hook type toggle clamp vertical
+Push-pull type toggle clamp
+Counter catch
+Weld spring plate
+Slide spring plate
+Spring bracket
+Rivet spring plate
+Leather welding hood
+Welding cap
+Welding wimple
+Valve spring compressor
+Jointer plane
+Bench plane
+Shoulder plane
+Combination plane
+Plane chisel
+Gasket scraper
+14 inch (350)
+16 inch (400)
+Tile spacer
+Valve grinding tool
+Stainless steel 431 (1.4057)
+For hexagon socket head cap screw
+For outside hexagon bolt and nut
+Saw-horse
+Roll carrier
+Ball-bearing carrier
+Tool
+Etui
+Clip-on glasses
+Side- and upper flap
+Nose bridge
+Glasses strap
+EI30
+EI60
+EI90
+EI120
+Shield
+Sweatband
+Outdoor unit
+Indoor unit
+Plastic belt
+Stainless steel cable
+Galvanized cable
+Grip anchor
+Beam anchor
+Anchor loop sling
+Tripod
+Davit system
+Cap
+Chin strap
+Hygiene set
+Dispenser
+Metal welded end
+HEA
+HEB
+HEM
+O
+HEAA
+INP
+IPE
+270
+330
+Radial
+Hook
+Stoneware
+Fuel filter
+Linen
+Allyl diglycol carbonate (ADC)
+Distance plate
+Disinfectant
+Gas filter
+Air filter
+Air filter unit
+Visor
+Hood
+Spray nozzle
+Chin protector
+Combustion engine (diesel)
+Combustion engine (petrol)
+Activator
+Alert unit
+Red/white
+IPX6
+Bearing housing
+A516-Gr55 (1.0463)
+EN AW-5086 (AlMg4)
+Synthetic leather
+(Broom)stick
+HDPE
+Connection piece
+Reel
+A15
+Cast iron/bronze
+3 x 460 V
+Square flange
+Grade 80
+Grade 100
+Copper plate
+Band copper
+Melamine
+Acrylate
+HPL (High pressured laminate)
+PN 350
+Weighing scale
+Tensioner
+Spatula
+CuSn5Zn5Pb2
+LDPE
+s1
+s2
+s3
+d0
+d1
+d2
+Triple
+S355JR (1.0045)
+St 52-3 N (1.0576)
+CuSn5Zn5Pb5-C
+GPS
+Platinum-look
+Motor bearing set
+Pump bearing set
+Pump head
+Float switch
+Pressure switch
+M28
+44
+Cone plug
+Cylindrical with radius end
+Peak hook
+Claw hook
+D-ring
+Groove hole fitting
+Round hole fitting
+Loop
+Clasp
