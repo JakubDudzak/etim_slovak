@@ -1,0 +1,9 @@
+{
+    "databasePath": "../ETIM.mdb",
+    "translatedFile": "translated.txt",
+    "originalFile": "original.txt",
+    "inputFile": "both.txt",
+    "propertyName": "ETIMFEATURE",
+    "tableName": "FEATUREDESC"
+  }
+  
